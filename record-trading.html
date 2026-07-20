@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora systematic trading record — three uncorrelated books, live on demo.">
+<title>Trading Record — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel2:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--orange:#f5822b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.55}
+  .wrap{max-width:880px;margin:0 auto;padding:0 20px 60px}
+  header{padding:44px 0 10px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.06em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:14px;margin-top:8px}
+  a.back{color:var(--orange);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
+  .books{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:28px 0}
+  .book{background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:20px;text-align:center}
+  .book .bi{font-size:26px}
+  .book b{display:block;color:var(--white);font-size:15px;letter-spacing:.06em;margin:8px 0 4px}
+  .book span{font-size:12.5px;color:var(--muted)}
+  .note{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:32px 30px;text-align:center}
+  .tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+       padding:4px 12px;border-radius:20px;background:rgba(91,200,141,.16);color:var(--green);
+       border:1px solid rgba(91,200,141,.4);margin-bottom:14px}
+  .note h2{color:var(--white);font-size:17px;margin-bottom:12px}
+  .note p{max-width:60ch;margin:0 auto 10px;color:var(--steel);font-size:15px}
+  footer{margin-top:48px;border-top:1px solid var(--line);padding-top:22px;
+         text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
+  @media(max-width:640px){.books{grid-template-columns:1fr}}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Trading</p>
+    <h1>📈 TRADING RECORD</h1>
+    <p class="sub">Three systematic books across uncorrelated markets — live on demo, building the out-of-sample record.</p>
+    <p style="margin-top:10px"><a class="back" href="record.html">← all divisions</a></p>
+  </header>
+  <div class="books">
+    <div class="book"><div class="bi">💱</div><b>FX</b><span>mean-reversion · 4h</span></div>
+    <div class="book"><div class="bi">📊</div><b>Indices</b><span>trend · daily</span></div>
+    <div class="book"><div class="bi">🛢️</div><b>Commodities</b><span>trend · daily</span></div>
+  </div>
+  <div class="note">
+    <span class="tag">● Live demo · building</span>
+    <h2>The forward record is accruing now</h2>
+    <p>Three fully-automated books run live on demo accounts, each on its own capital, sized to a
+      fixed volatility target. The backtests are validated across two decades and near-uncorrelated
+      with each other — but the number that counts is the <b>live, out-of-sample</b> one, and that
+      only comes with time.</p>
+    <p style="color:var(--muted);font-size:13.5px;margin-top:16px">Systematic model output, not financial advice.
+      Demo performance shown for transparency; it is not a promise of future results.</p>
+  </div>
+  <footer>Model output, not financial advice. © 2026 Altora Analytics</footer>
+</div></body></html>

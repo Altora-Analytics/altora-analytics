@@ -1,0 +1,15 @@
+date,market_group,market,league,home_team,away_team,selection,model_prob,odds,close_odds,bet_type,model_pass,ev_pass,prob_pass,ev_fail,prob_fail,won,stake,pnl,clv,settled,game_id
+2026-07-13,match-result,Match Result,NBA W,Atlanta Dream W,Los Angeles Sparks W,AWAY,0.3577,4.62,4.62,EV,False,False,,True,,0,10.0,-10.0,0.0,1,494948
+2026-07-13,match-result,Match Result,NBA W,Atlanta Dream W,Los Angeles Sparks W,HOME,0.6423,1.35,1.35,PROB,False,,False,,True,1,10.0,3.5,0.0,1,494948
+2026-07-14,match-result,Match Result,NBA W,Minnesota Lynx W,Phoenix Mercury W,AWAY,0.4163,7.7,7.7,EV,False,False,,True,,0,10.0,-10.0,0.0,1,494949
+2026-07-14,match-result,Match Result,NBA W,Minnesota Lynx W,Phoenix Mercury W,HOME,0.5837,1.16,1.16,PROB,False,,False,,True,1,10.0,1.6,0.0,1,494949
+2026-07-21,match-result,Match Result,NBA W,Dallas Wings W,New York Liberty W,HOME,0.6061,1.96,2.59,EV,True,True,,False,,,10.0,,-0.2432,0,494956
+2026-07-21,match-result,Match Result,NBA W,Dallas Wings W,New York Liberty W,HOME,0.6061,1.96,2.59,PROB,True,,True,,False,,10.0,,-0.2432,0,494956
+2026-07-21,match-result,Match Result,NBA W,Golden State Valkyries W,Washington Mystics W,AWAY,0.2357,4.62,4.62,EV,False,False,,True,,,10.0,,0.0,0,494968
+2026-07-21,match-result,Match Result,NBA W,Golden State Valkyries W,Washington Mystics W,HOME,0.7643,1.3,1.3,PROB,False,,False,,True,,10.0,,0.0,0,494968
+2026-07-21,match-result,Match Result,NBA W,Seattle Storm W,Minnesota Lynx W,HOME,0.4093,5.5,5.5,EV,False,False,,True,,,10.0,,0.0,0,494969
+2026-07-21,match-result,Match Result,NBA W,Seattle Storm W,Minnesota Lynx W,AWAY,0.5907,1.29,1.29,PROB,False,,False,,True,,10.0,,0.0,0,494969
+2026-07-21,match-result,Match Result,Governors Cup,Meralco Bolts,Blackwater Bossing,HOME,0.7944,1.68,1.68,EV,True,True,,False,,,10.0,,0.0,0,502590
+2026-07-21,match-result,Match Result,Governors Cup,Meralco Bolts,Blackwater Bossing,HOME,0.7944,1.68,1.68,PROB,True,,True,,False,,10.0,,0.0,0,502590
+2026-07-21,match-result,Match Result,Governors Cup,Phoenix Fuelmasters,Rain or Shine Elasto Painters,AWAY,0.5594,2.57,2.57,EV,False,False,,True,,,10.0,,0.0,0,502591
+2026-07-21,match-result,Match Result,Governors Cup,Phoenix Fuelmasters,Rain or Shine Elasto Painters,AWAY,0.5594,2.57,2.57,PROB,True,,True,,False,,10.0,,0.0,0,502591

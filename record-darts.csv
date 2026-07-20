@@ -1,0 +1,48 @@
+date,favourite,opponent,model_prob,market_prob,result
+2026-07-18,Josh Rock,Luke Woodhouse,0.559,0.544,W
+2026-07-18,Stephen Bunting,Niels Zonneveld,0.637,0.610,W
+2026-07-18,Luke Littler,Niko Springer,0.937,0.901,W
+2026-07-18,Nathan Aspinall,Joe Cullen,0.805,0.618,W
+2026-07-18,Chris Dobey,Dirk van Duijvenbode,0.646,0.625,L
+2026-07-18,Gary Anderson,Ryan Joyce,0.679,0.789,W
+2026-07-18,Michael van Gerwen,Andrew Gilding,0.670,0.676,W
+2026-07-18,Jonny Clayton,Damon Heta,0.683,0.614,W
+2026-07-18,Ryan Searle,William O'Connor,0.722,0.601,W
+2026-07-18,James Wade,Jermaine Wattimena,0.582,0.607,W
+2026-07-18,Gian van Veen,Krzysztof Ratajski,0.587,0.557,W
+2026-07-18,Wessel Nijman,Dave Chisnall,0.827,0.847,W
+2026-07-12,Luke Woodhouse,Jermaine Wattimena,0.530,0.412,L
+2026-07-12,Damon Heta,Dirk van Duijvenbode,0.501,0.519,W
+2026-07-12,James Wade,Sebastian Bialecki,0.701,0.436,L
+2026-07-12,Nathan Aspinall,Krzysztof Ratajski,0.598,0.586,L
+2026-07-11,Danny Noppert,Sebastian Bialecki,0.690,0.573,L
+2026-07-11,Jermaine Wattimena,Kim Huybrechts,0.570,0.526,W
+2026-07-11,Krzysztof Ratajski,Max Hopp,0.698,0.610,W
+2026-07-11,James Wade,Maik Kuivenhoven,0.801,0.699,W
+2026-07-11,Michael van Gerwen,Joe Cullen,0.704,0.620,W
+2026-07-11,Gian van Veen,Niko Springer,0.656,0.683,W
+2026-07-11,Kevin Doets,Martin Schindler,0.603,0.365,W
+2026-07-11,Ross Smith,Niels Zonneveld,0.606,0.377,W
+2026-07-11,Jermaine Wattimena,Ryan Joyce,0.513,0.626,W
+2026-07-11,Jonny Clayton,Luke Woodhouse,0.615,0.571,L
+2026-07-11,Wessel Nijman,Dirk van Duijvenbode,0.659,0.330,L
+2026-07-11,Michael van Gerwen,Damon Heta,0.623,0.712,L
+2026-07-11,Kevin Doets,Sebastian Bialecki,0.702,0.353,L
+2026-07-11,James Wade,Jan Schmidt,0.881,0.815,W
+2026-07-11,Nathan Aspinall,Ross Smith,0.546,0.524,W
+2026-07-11,Gian van Veen,Krzysztof Ratajski,0.587,0.631,L
+2026-07-10,Daryl Gurney,Maik Kuivenhoven,0.564,0.583,L
+2026-07-10,William O'Connor,Sebastian Bialecki,0.575,0.475,L
+2026-07-10,Rob Cross,Max Hopp,0.618,0.699,L
+2026-07-10,Joe Cullen,Charlie Manby,0.565,0.576,W
+2026-07-10,Kevin Doets,Dominik Gruellich,0.768,0.830,W
+2026-07-10,Niko Springer,Darius Labanauskas,0.579,0.579,W
+2026-07-10,Niels Zonneveld,Daniel Klose,0.686,0.719,W
+2026-07-10,Mike De Decker,Jan Schmidt,0.820,0.500,L
+2026-07-10,Luke Woodhouse,Dragutin Horvat,0.785,0.832,W
+2026-07-10,Chris Dobey,Dirk van Duijvenbode,0.551,0.500,L
+2026-07-10,Wessel Nijman,Bradley Brooks,0.673,0.500,W
+2026-07-10,Stephen Bunting,Ryan Joyce,0.668,0.731,L
+2026-07-10,Jonny Clayton,Karel Sedláček,0.620,0.768,W
+2026-07-10,Nathan Aspinall,Mickey Mansell,0.633,0.500,W
+2026-07-10,Damon Heta,Robert Owen,0.584,0.583,W

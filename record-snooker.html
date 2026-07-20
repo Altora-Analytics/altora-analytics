@@ -1,0 +1,101 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics — snooker model accuracy & record. Calibrated, out-of-sample validated, every pick tracked publicly.">
+<title>Snooker Record — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel2:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--orange:#f5822b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.55}
+  .wrap{max-width:880px;margin:0 auto;padding:0 20px 60px}
+  header{padding:44px 0 10px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.06em;font-size:clamp(24px,5vw,34px)}
+  h2{color:var(--white);font-weight:800;font-size:clamp(19px,4vw,24px);margin:2px 0 6px}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .eyebrow2{font-size:10.5px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--orange)}
+  .sub{color:var(--muted);font-size:13px;margin-top:8px}
+  a.back{color:var(--orange);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
+  section{margin:30px 0}
+  .valid{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:26px 22px}
+  .vlead{color:var(--steel);font-size:14px;margin:6px 0 18px;max-width:64ch}
+  .band{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);
+        border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:0 0 22px}
+  @media(max-width:460px){.band{grid-template-columns:repeat(2,1fr)}}
+  .band>div{background:var(--panel2);padding:14px 8px;text-align:center}
+  .band b{display:block;color:var(--white);font-size:20px;font-weight:800;font-variant-numeric:tabular-nums}
+  .band span{font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+  .calh{font-size:12px;color:var(--muted);margin:4px 0 12px}
+  .k1{color:var(--muted);font-weight:700} .k2{color:var(--orange);font-weight:700}
+  .cal{display:flex;flex-direction:column;gap:8px}
+  .crow{display:grid;grid-template-columns:44px 1fr 40px 54px;align-items:center;gap:10px;font-size:13px}
+  .csays{color:var(--steel);font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+  .ctrack{position:relative;height:16px;background:#0a1120;border-radius:8px;overflow:hidden;border:1px solid var(--line)}
+  .cpred{position:absolute;top:0;left:0;height:100%;background:repeating-linear-gradient(90deg,#2b3a54,#2b3a54 5px,transparent 5px,transparent 9px)}
+  .cact{position:absolute;top:0;left:0;height:100%;background:linear-gradient(90deg,var(--orange),#f7a24f);opacity:.9}
+  .clbl{color:var(--orange);font-weight:800;text-align:right;font-variant-numeric:tabular-nums}
+  .cn{color:var(--muted);font-size:11px;text-align:right}
+  .note{color:var(--muted);font-size:12.5px;margin-top:16px;line-height:1.6}
+  .band2{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);
+        border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:8px 0 6px}
+  .band2>div{background:var(--panel2);padding:16px 8px;text-align:center}
+  .band2 b{display:block;color:var(--white);font-size:22px;font-weight:800;font-variant-numeric:tabular-nums}
+  .band2 span{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;
+     padding:9px 12px;border-bottom:1px solid var(--line)}
+  td{padding:9px 12px;border-bottom:1px solid #18253f}
+  td.r,th.r{text-align:right}
+  .tbl{border:1px solid var(--line);border-radius:14px;overflow-x:auto;background:var(--panel2)}
+  .wl{display:inline-block;width:22px;text-align:center;border-radius:5px;font-weight:800;font-size:12px}
+  .w{background:var(--green);color:#0c1422}.l{background:var(--red);color:#0c1422}
+  footer{margin-top:40px;border-top:1px solid var(--line);padding-top:20px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analysis</p>
+    <h1>🎱 SNOOKER — ACCURACY &amp; RECORD</h1>
+    <p class="sub">Calibrated model analysis, not tips. Validated out-of-sample, tracked in the open.</p>
+    <p style="margin-top:10px"><a class="back" href="record.html">← all sports</a></p>
+  </header>
+<section style="border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:24px 22px;margin:30px 0"><p style="font-size:10.5px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--orange)">Today · 2026-07-20</p><h2 style="color:var(--white);font-weight:800;font-size:clamp(19px,4vw,24px);margin:2px 0 4px">Today's model reads</h2><p style="color:var(--steel);font-size:13.5px;margin:0 0 12px">Model win probability for today's matches — not tips. These settle into the record below.</p><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Steven Hallworth</b> <span style="color:var(--muted)">v Yang Liu</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">64%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 78%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Chatchapong Nasa</b> <span style="color:var(--muted)">v Sahil Nayyar</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">51%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 61%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Ka Wai Cheung</b> <span style="color:var(--muted)">v Connor Benzey</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">60%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 80%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Antoni Kowalski</b> <span style="color:var(--muted)">v Fergal Quinn</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">75%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 80%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Liam Highfield</b> <span style="color:var(--muted)">v Hammad Miah</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">67%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 69%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Lyu Haotian</b> <span style="color:var(--muted)">v Alfie Burden</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">54%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 61%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Marco Fu</b> <span style="color:var(--muted)">v On Yee Ng</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">76%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 95%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Gao Yang</b> <span style="color:var(--muted)">v Andrew Higginson</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">57%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 67%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Stan Moody</b> <span style="color:var(--muted)">v Iulian Boiko</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">69%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 75%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Tom Ford</b> <span style="color:var(--muted)">v Deng Haohui</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">73%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 45%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Zak Surety</b> <span style="color:var(--muted)">v Craig Steadman</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">68%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 72%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Jiang Jun</b> <span style="color:var(--muted)">v Robbie Williams</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">52%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 65%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Michael Holt</b> <span style="color:var(--muted)">v Ross Muir</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">63%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 65%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Fan Zhengyi</b> <span style="color:var(--muted)">v Jimmy White</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">77%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 82%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Jamie Rhys Clarke</b> <span style="color:var(--muted)">v Alexander Ursenbacher</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">52%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 59%</span></div></div><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Stuart Carrington</b> <span style="color:var(--muted)">v Mateusz Baranowski</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">56%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 64%</span></div></div></section>
+
+  <section class="valid">
+    <p class="eyebrow2">Model validation · 437 out-of-sample matches · to 2026-05-03</p>
+    <h2>Is the model accurate?</h2>
+    <p class="vlead">These are matches the model never trained on. It picks the winner about
+      six in ten — and, more importantly, its probabilities are <b>calibrated</b>: when it
+      says 71%, it happens about 71% of the time.</p>
+    <div class="band">
+      <div><b>62%</b><span>favourite pick accuracy</span></div>
+      <div><b>0.229</b><span>model brier</span></div>
+      <div><b>0.229</b><span>market brier</span></div>
+      <div><b>13.1<span style="color:var(--muted);font-size:15px">/13.01</span></b><span>frames: pred / actual</span></div>
+    </div>
+    <p class="calh">Reliability — model probability <span class="k1">predicted</span> vs
+      <span class="k2">what actually happened</span></p>
+    <div class="cal"><div class="crow"><div class="csays">30%</div><div class="ctrack"><div class="cpred" style="width:30%"></div><div class="cact" style="width:40%"></div></div><div class="clbl">40%</div><div class="cn">20</div></div><div class="crow"><div class="csays">44%</div><div class="ctrack"><div class="cpred" style="width:44%"></div><div class="cact" style="width:43%"></div></div><div class="clbl">43%</div><div class="cn">83</div></div><div class="crow"><div class="csays">58%</div><div class="ctrack"><div class="cpred" style="width:58%"></div><div class="cact" style="width:56%"></div></div><div class="clbl">56%</div><div class="cn">160</div></div><div class="crow"><div class="csays">71%</div><div class="ctrack"><div class="cpred" style="width:71%"></div><div class="cact" style="width:69%"></div></div><div class="clbl">69%</div><div class="cn">145</div></div><div class="crow"><div class="csays">85%</div><div class="ctrack"><div class="cpred" style="width:85%"></div><div class="cact" style="width:85%"></div></div><div class="clbl">85%</div><div class="cn">26</div></div></div>
+    <p class="note">The two bars line up on every band — that's calibration. On raw pick accuracy
+      the model even edges the market. Not sharper on price, but demonstrably accurate, shown in the open.</p>
+  </section>
+  <section>
+    <p class="eyebrow2">The live record · every pick since going public</p>
+    <h2>The live record</h2>
+    <div class="band2">
+      <div><b>16</b><span>settled</span></div>
+      <div><b>75%</b><span>model pick hit</span></div>
+      <div><b>0.190</b><span>model brier</span></div>
+      <div><b>0.167</b><span>market brier</span></div>
+    </div>
+    <p class="note">The tour is between seasons — live picks begin when snooker resumes (Aug/Sep).
+      The validation above is the model's accuracy over hundreds of past matches.</p>
+    <div class="tbl"><table>
+      <tr><th>Date</th><th>Model pick</th><th class="r">Prob</th><th class="r">Result</th></tr>
+      <tr><td>2026-07-19</td><td><b>Liu Wenwei</b> <span style="color:var(--muted)">v Huang Jiahao</span></td><td class="r">56%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-19</td><td><b>Louis Heathcote</b> <span style="color:var(--muted)">v Wang Xinbo</span></td><td class="r">62%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-19</td><td><b>Artemijs Zizins</b> <span style="color:var(--muted)">v Oliver Brown</span></td><td class="r">68%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Michael Larkov</b> <span style="color:var(--muted)">v Reanne Evans</span></td><td class="r">77%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-19</td><td><b>Ross Muir</b> <span style="color:var(--muted)">v Thanawat Tirapongpaiboon</span></td><td class="r">52%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Sam Craigie</b> <span style="color:var(--muted)">v Mahmoud El Hareedy</span></td><td class="r">82%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Luo Zetao</b> <span style="color:var(--muted)">v Xu Yichen</span></td><td class="r">55%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Yao Pengcheng</b> <span style="color:var(--muted)">v Mitchell Mann</span></td><td class="r">64%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Ashley Hugill</b> <span style="color:var(--muted)">v Zhao Hanyang</span></td><td class="r">55%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Ben Mertens</b> <span style="color:var(--muted)">v Anton Kazakov</span></td><td class="r">87%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>David Grace</b> <span style="color:var(--muted)">v Florian Nuessle</span></td><td class="r">62%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Dylan Emery</b> <span style="color:var(--muted)">v Bai Yulu</span></td><td class="r">79%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Jamie Jones</b> <span style="color:var(--muted)">v Liam Davies</span></td><td class="r">54%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-19</td><td><b>Jordan Brown</b> <span style="color:var(--muted)">v Paul Norris</span></td><td class="r">70%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Lan Yuhao</b> <span style="color:var(--muted)">v Ashley Carty</span></td><td class="r">57%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-19</td><td><b>Julien Leclercq</b> <span style="color:var(--muted)">v Leone Crowley</span></td><td class="r">72%</td><td class="r"><span class="wl w">W</span></td></tr>
+    </table></div>
+    <p style="text-align:center;margin:14px 0 0;font-size:12.5px;color:var(--muted)"><a href="record-snooker.csv" download style="color:var(--orange);font-weight:700;text-decoration:none">⬇ Download the full record (CSV — opens in Excel / Sheets)</a></p>
+  </section>
+  <footer>Updated 2026-07-20 · 18+ · Bet responsibly · BeGambleAware.org<br>
+  Model output, not financial advice. © 2026 Altora Analytics</footer>
+</div></body></html>

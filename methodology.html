@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="How Altora Analytics builds, validates and scores its models — the data, the methods, the thresholds, and how to verify our record yourself.">
+<title>Methodology — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#101d33;--panel2:#0e1626;--line:#22314a;--line2:#2c3e5c;
+        --white:#f4f7fb;--steel:#c3cdd9;--muted:#8493a8;--gold:#e8b84b;--gold2:#f2cf78;
+        --sky:#57a9df;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 640px at 50% -220px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:860px;margin:0 auto;padding:0 20px 70px}
+  header{padding:46px 0 6px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.05em;font-size:clamp(26px,5vw,36px)}
+  .eyebrow{font-size:11px;font-weight:800;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:14px;margin:10px auto 0;max-width:62ch}
+  a.back{color:var(--gold);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
+  h2{color:var(--white);font-weight:800;font-size:clamp(17px,3.4vw,21px);margin:0 0 4px}
+  .sec{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:26px 24px;margin-top:16px}
+  .tag{font-size:10.5px;font-weight:800;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:10px}
+  p{font-size:14.5px;margin:10px 0} p.lead{color:var(--steel)}
+  b,strong{color:var(--white)}
+  ul{list-style:none;display:grid;gap:8px;margin:12px 0}
+  li{padding-left:20px;position:relative;font-size:14px}
+  li::before{content:"→";position:absolute;left:0;color:var(--gold);font-weight:800}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
+  @media(max-width:640px){.grid2{grid-template-columns:1fr}}
+  .card{border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:18px 16px}
+  .card h3{color:var(--white);font-size:15px;font-weight:800;margin-bottom:2px}
+  .card .meta{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px}
+  .card p{font-size:13px;margin:6px 0}
+  .chip{display:inline-block;font-size:10.5px;font-weight:700;padding:3px 9px;border-radius:20px;margin:3px 3px 0 0;
+        border:1px solid var(--line2);background:#0c1728;color:var(--steel)}
+  .stat{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);
+        border-radius:12px;overflow:hidden;margin:12px 0 4px}
+  @media(max-width:480px){.stat{grid-template-columns:1fr}}
+  .stat>div{background:var(--panel2);padding:12px 8px;text-align:center}
+  .stat b{display:block;color:var(--white);font-size:18px;font-weight:800;font-variant-numeric:tabular-nums}
+  .stat span{font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:10px}
+  th{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+  td{padding:9px 10px;border-bottom:1px solid #18253f}
+  .tbl{border:1px solid var(--line);border-radius:12px;overflow-x:auto;background:var(--panel)}
+  .honest{border-left:3px solid var(--gold);padding-left:14px;margin:12px 0;color:var(--steel);font-size:14px}
+  .no{border-left:3px solid var(--red)} .yes{border-left:3px solid var(--green)}
+  code{background:#0c1728;border:1px solid var(--line2);border-radius:5px;padding:1px 6px;font-size:12.5px;color:var(--gold2)}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:22px;text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
+  footer a{color:var(--muted);font-weight:700;text-decoration:none}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>METHODOLOGY</h1>
+    <p class="sub">How we build, validate and score our models — the data, the methods, the thresholds, and how to check our record yourself. Everything except the secret sauce.</p>
+    <p style="margin-top:12px"><a class="back" href="record.html">← the record</a> &nbsp;·&nbsp; <a class="back" href="index.html">altora home</a></p>
+  </header>
+
+  <!-- ============ DISCIPLINE ============ -->
+  <section class="sec">
+    <p class="tag">The discipline</p>
+    <h2>How every model has to earn its place</h2>
+    <p class="lead">The same process applies to every sport. A model doesn't go live because it looks clever — it goes live because it survives being tested on data it has never seen.</p>
+    <ul>
+      <li><b>Out-of-sample by time.</b> We train on the past and test on a later period the model never saw. No shuffling, no peeking forward.</li>
+      <li><b>Features added one at a time.</b> Each candidate feature is kept only if it improves out-of-sample log-loss. Ones that don't earn their keep get dropped — we've thrown plenty away.</li>
+      <li><b>Calibration, not just accuracy.</b> When the model says 70%, it has to happen about 70% of the time. We check this band by band and publish the chart.</li>
+      <li><b>Compared against the market.</b> Every model is scored against bookmaker/exchange prices — the toughest benchmark there is.</li>
+      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed.</li>
+      <li><b>Automated retraining.</b> Models refresh on a schedule (weekly) so ratings never go stale.</li>
+    </ul>
+  </section>
+
+  <!-- ============ THE MODELS ============ -->
+  <section class="sec">
+    <p class="tag">The models</p>
+    <h2>What's actually under the bonnet</h2>
+    <p class="lead">Different sports need different machinery. Here's what each one runs on — the methods and the feature families, if not the weights.</p>
+
+    <div class="grid2">
+      <div class="card">
+        <h3>⚽ Football</h3>
+        <div class="meta">Gradient boosting + Poisson</div>
+        <p><b>CatBoost</b> (classification and regression) for match outcomes, plus a <b>Poisson goal model</b> driving Over/Under and Correct Score. Probabilities are <b>Platt-calibrated</b>.</p>
+        <p>Around <b>90 engineered features across 24 modules</b>, including:</p>
+        <span class="chip">rolling xG</span><span class="chip">opponent-adjusted strength</span><span class="chip">Elo ratings</span><span class="chip">schedule difficulty</span><span class="chip">market-implied strength</span><span class="chip">home-advantage index</span><span class="chip">rest days</span><span class="chip">shot tempo</span><span class="chip">venue-specific form</span><span class="chip">volatility</span><span class="chip">match importance</span><span class="chip">league environment</span>
+        <p style="margin-top:10px">Markets: 1X2 · Over/Under 2.5 · BTTS · Correct Score · Accumulators · Misc.</p>
+      </div>
+
+      <div class="card">
+        <h3>🏀 Basketball</h3>
+        <div class="meta">MOV-Elo + CatBoost</div>
+        <p>A <b>margin-of-victory Elo</b> with adaptive K and idle-decay (a team's rating settles as it plays, and drifts back toward average when idle), fed into <b>CatBoost</b> with league and country context.</p>
+        <span class="chip">rating difference</span><span class="chip">rolling scoring margin</span><span class="chip">opponent-adjusted form</span><span class="chip">home/away split</span><span class="chip">rest &amp; back-to-backs</span>
+        <div class="stat">
+          <div><b>170,243</b><span>games modelled</span></div>
+          <div><b>93,225</b><span>out-of-sample tests</span></div>
+          <div><b>70.1%</b><span>OOS accuracy</span></div>
+        </div>
+        <p style="font-size:12px;color:var(--muted)">Trained pre-2024, tested 2024 onward. Calibrated at every band.</p>
+      </div>
+
+      <div class="card">
+        <h3>🤾 Handball</h3>
+        <div class="meta">Two-stage 3-way</div>
+        <p>Handball draws (5.7% of games), so a 2-way model would be wrong. We run a <b>two-stage model</b>: a decisive-winner model multiplied by a separate <b>draw-probability model</b>, giving a true home/draw/away distribution.</p>
+        <p>MOV-Elo tuned specifically for handball, plus CatBoost with league, country and gender context. Men's and women's teams are kept strictly separate.</p>
+        <div class="stat">
+          <div><b>126,968</b><span>games modelled</span></div>
+          <div><b>76.5%</b><span>winner accuracy</span></div>
+          <div><b>5.7%</b><span>draw rate handled</span></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>🎯 Match picks</h3>
+        <div class="meta">Darts · Snooker · Rugby · Esports</div>
+        <p>A shared <b>adaptive-K Elo engine</b> with idle-decay and, where it validates, margin-of-victory scaling — so a convincing win moves a rating more than a narrow one.</p>
+        <p>Rugby covers Union and League with competition-aware ratings (70.7% Union / 65.1% League out-of-sample).</p>
+        <p style="font-size:12px;color:var(--muted)">These are our free sports. Same discipline, simpler machinery — because the data supports one market: the winner.</p>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:14px">
+      <h3>📈 Systematic trading</h3>
+      <div class="meta">FX · Indices · Commodities — rule-based, no discretion</div>
+      <p>Three independent systematic books (FX on 4h, Indices and Commodities on daily), each built from engineered market features and blended into one cross-asset portfolio. Fully rule-based — no human overrides.</p>
+      <p>Validation is deliberately brutal: <b>walk-forward testing</b>, performance required to hold across <b>separate market eras</b> (not just one lucky regime), and <b>stress-tested at double the real trading costs</b>. Strategies that only work in one era, or die under cost stress, get cut.</p>
+      <p>The books are blended because they're near-uncorrelated with each other — that's where the portfolio's stability comes from, not from any single strategy.</p>
+    </div>
+  </section>
+
+  <!-- ============ SELECTION ============ -->
+  <section class="sec">
+    <p class="tag">From prediction to bet</p>
+    <h2>How a pick is chosen — and our exact thresholds</h2>
+    <p class="lead">A probability isn't a bet. We run two avenues, and each has a published bar it must clear. These aren't secret — the thresholds aren't the edge, the model is.</p>
+    <div class="tbl"><table>
+      <tr><th>Avenue</th><th>What it looks for</th><th>Must clear</th></tr>
+      <tr><td><b>🔥 Value (EV)</b></td><td>Model probability implies a bigger edge than the odds are pricing</td><td><code>EV ≥ 5%</code> <b>and</b> <code>model probability ≥ 60%</code></td></tr>
+      <tr><td><b>🎯 Probability</b></td><td>The model's highest-confidence read of the match</td><td><code>probability ≥ 60%</code> <b>and</b> <code>odds ≥ 1.40</code></td></tr>
+    </table></div>
+    <div class="honest">
+      <b>Why the 60% probability floor on value bets?</b> Without it, an "edge" on a 12%-probability longshot at odds of 11.00 passes the EV test — and that's almost always model noise, not value. We won't back it, however good the maths looks. A 60% pick's fair odds are around 1.67, so you'll never see us call an 11.00 shot a value bet.
+    </div>
+    <div class="honest yes">
+      <b>We publish the bets we skip.</b> Selections clearing the bar are marked <b>PASS</b> — those are the ones we back. Selections the model flagged but that failed a threshold are marked <b>FAIL</b> and are <b>still published, with their own P&amp;L</b>. You can see the whole funnel, and judge for yourself whether our filter earns its place. Most services only show you what they backed.
+    </div>
+  </section>
+
+  <!-- ============ SCORING ============ -->
+  <section class="sec">
+    <p class="tag">How we score ourselves</p>
+    <h2>The rules of our own record</h2>
+    <ul>
+      <li><b>£10 level stakes.</b> Every bet, same size. No hindsight-flattering staking plans, no doubling up.</li>
+      <li><b>Priced at the opener.</b> P&amp;L is struck at the odds we flagged <i>when the pick was published</i> — not a better price we found later.</li>
+      <li><b>Every bet counts.</b> Wins, losses, and markets that are in the red. Nothing is quietly dropped.</li>
+      <li><b>Calibration published.</b> Predicted probability vs what actually happened, band by band.</li>
+      <li><b>Brier score vs the market.</b> We show our score next to the market's, even when the market wins.</li>
+      <li><b>Closing-line value (CLV).</b> We record the opening price and the closing price on every pick. If our picks consistently beat the closing line, that's real evidence — and if they don't, that shows too.</li>
+      <li><b>Voids &amp; postponements.</b> Settled only on a real result; void/abandoned events are removed rather than counted as wins or losses.</li>
+      <li><b>Data:</b> API-Sports for fixtures, results and odds; Betfair Exchange for market prices.</li>
+    </ul>
+  </section>
+
+  <!-- ============ VERIFY ============ -->
+  <section class="sec">
+    <p class="tag">Check us, don't trust us</p>
+    <h2>How to verify our record yourself</h2>
+    <p class="lead">A record you can't audit is just a screenshot. Ours is designed to be checked by someone trying to catch us out.</p>
+    <ul>
+      <li><b>Picks are timestamped by a third party — not by us.</b> Every pick is committed to a <b>public GitHub repository before the event starts</b>. Git's commit history is timestamped by GitHub and can't be quietly rewritten. You can look back through the history and see exactly what we said, and when we said it.</li>
+      <li><b>Full record as CSV.</b> Every record page has a download of the complete history — date, selection, odds, stake, result, P&amp;L — not just the last few.</li>
+      <li><b>Losing markets stay visible.</b> If a market is in the red, it stays on the page in red.</li>
+    </ul>
+  </section>
+
+  <!-- ============ HONESTY ============ -->
+  <section class="sec">
+    <p class="tag">The part nobody else prints</p>
+    <h2>What we don't claim</h2>
+    <div class="honest no">
+      <b>We don't beat the closing line.</b> On basketball our model correlates <b>0.84</b> with the sharp closing price but the market is still sharper by roughly 0.016 Brier. Same story in rugby and football. The closing line sees things a results-based model can't — late team news, injuries, rotation. We mirror it well; we don't beat it. Anyone telling you their model beats the close is selling something.
+    </div>
+    <div class="honest no">
+      <b>Esports is our weakest model, and we'll say so.</b> Betfair's esports data carries no game label, so multi-game organisations (a club with CS2, Dota and LoL rosters) share a single rating. We've proven that limitation is unfixable with this data, so we gate out any pick that disagrees sharply with the market rather than publish something we don't stand behind.
+    </div>
+    <div class="honest no">
+      <b>A tracked record is not a promise.</b> Past calibration doesn't guarantee future profit. Margins, market efficiency, model drift and sample size all bite. Never stake money you can't afford to lose.
+    </div>
+  </section>
+
+  <!-- ============ PRIVATE ============ -->
+  <section class="sec">
+    <p class="tag">Where we draw the line</p>
+    <h2>What stays private — and why</h2>
+    <p class="lead">We've told you the model families, the feature categories, the data sources, the thresholds, the staking and the scoring rules. What we keep back is the part that would let someone simply copy the work:</p>
+    <ul>
+      <li>Trained model weights and artefacts</li>
+      <li>Hyperparameters and tuning</li>
+      <li>The exact feature engineering recipe and transformations</li>
+      <li>The training and data pipelines</li>
+    </ul>
+    <p style="font-size:13px;color:var(--muted)">That's the difference between showing our workings and handing over the answer sheet. Everything you need to judge whether the models are any good is published — the record, the calibration, the thresholds and the funnel.</p>
+  </section>
+
+  <footer>
+    <a href="record.html">The record</a> · <a href="index.html">Home</a> · <a href="terms.html">Terms</a> · <a href="privacy.html">Privacy</a><br>
+    18+ · Bet responsibly · BeGambleAware.org · National Gambling Helpline 0808&nbsp;8020&nbsp;133<br>
+    Model output, not financial advice. Trading content is educational. © 2026 Altora Analytics
+  </footer>
+</div></body></html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics — rugby model accuracy & record (Union + League). Calibrated, out-of-sample validated, tracked in the open.">
+<title>Rugby Record — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel2:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--orange:#f5822b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.55}
+  .wrap{max-width:880px;margin:0 auto;padding:0 20px 60px}
+  header{padding:44px 0 10px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.06em;font-size:clamp(24px,5vw,34px)}
+  h2{color:var(--white);font-weight:800;font-size:clamp(19px,4vw,24px);margin:2px 0 6px}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .eyebrow2{font-size:10.5px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--orange)}
+  .sub{color:var(--muted);font-size:13px;margin-top:8px}
+  a.back{color:var(--orange);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
+  section{margin:30px 0}
+  .valid{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:26px 22px}
+  .vcode{border:1px solid var(--line);border-radius:12px;padding:18px 16px;margin:14px 0}
+  .vcode h3{color:var(--white);font-size:15px;letter-spacing:.04em;margin-bottom:6px}
+  .vmeth{font-size:12.5px;color:var(--muted);margin-bottom:12px}
+  .vmeth b{color:var(--steel)}
+  .vsub{font-size:11.5px;color:var(--muted);margin:10px 0 8px}
+  .vlead{color:var(--steel);font-size:14px;margin:6px 0 18px;max-width:64ch}
+  .band{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);
+        border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:0 0 22px}
+  @media(max-width:460px){.band{grid-template-columns:repeat(2,1fr)}}
+  .band>div{background:var(--panel2);padding:14px 8px;text-align:center}
+  .band b{display:block;color:var(--white);font-size:20px;font-weight:800;font-variant-numeric:tabular-nums}
+  .band span{font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+  .calh{font-size:12px;color:var(--muted);margin:4px 0 12px}
+  .k1{color:var(--muted);font-weight:700} .k2{color:var(--orange);font-weight:700}
+  .cal{display:flex;flex-direction:column;gap:8px}
+  .crow{display:grid;grid-template-columns:44px 1fr 40px 54px;align-items:center;gap:10px;font-size:13px}
+  .csays{color:var(--steel);font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+  .ctrack{position:relative;height:16px;background:#0a1120;border-radius:8px;overflow:hidden;border:1px solid var(--line)}
+  .cpred{position:absolute;top:0;left:0;height:100%;background:repeating-linear-gradient(90deg,#2b3a54,#2b3a54 5px,transparent 5px,transparent 9px)}
+  .cact{position:absolute;top:0;left:0;height:100%;background:linear-gradient(90deg,var(--orange),#f7a24f);opacity:.9}
+  .clbl{color:var(--orange);font-weight:800;text-align:right;font-variant-numeric:tabular-nums}
+  .cn{color:var(--muted);font-size:11px;text-align:right}
+  .note{color:var(--muted);font-size:12.5px;margin-top:16px;line-height:1.6}
+  .band2{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);
+        border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:8px 0 6px}
+  .band2>div{background:var(--panel2);padding:16px 8px;text-align:center}
+  .band2 b{display:block;color:var(--white);font-size:22px;font-weight:800;font-variant-numeric:tabular-nums}
+  .band2 span{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;
+     padding:9px 12px;border-bottom:1px solid var(--line)}
+  td{padding:9px 12px;border-bottom:1px solid #18253f}
+  td.r,th.r{text-align:right}
+  .tbl{border:1px solid var(--line);border-radius:14px;overflow-x:auto;background:var(--panel2)}
+  .wl{display:inline-block;width:22px;text-align:center;border-radius:5px;font-weight:800;font-size:12px}
+  .w{background:var(--green);color:#0c1422}.l{background:var(--red);color:#0c1422}
+  footer{margin-top:40px;border-top:1px solid var(--line);padding-top:20px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analysis</p>
+    <h1>🏉 RUGBY — ACCURACY &amp; RECORD</h1>
+    <p class="sub">Union &amp; League · calibrated model analysis, not tips. Tracked in the open.</p>
+    <p style="margin-top:10px"><a class="back" href="record.html">← all sports</a></p>
+  </header>
+
+
+  <section class="valid">
+    <p class="eyebrow2">Model validation &middot; out-of-sample &middot; to 2026-07-19</p>
+    <h2>Two codes, two different models</h2>
+    <p class="vlead">Union and league are validated and published <b>separately</b>, because they
+      are built differently. <b>Union</b> uses full match scores and stable team identifiers from
+      a sports-data API, so its ratings incorporate winning margins and recent scoring form.
+      <b>League</b> (NRL, Super League) has no such feed — its ratings are built from exchange
+      results, which record only who won. That is why the two accuracies differ, and we would
+      rather show you two honest numbers than one blended one. On both codes the market is
+      sharper than the model — it sees team news we can't — and we say so openly.</p>
+    
+    <div class="vcode">
+      <h3>Rugby Union</h3>
+      <p class="vmeth"><b>Data:</b> API-Sports (full scores, stable team ids) &middot; <b>Method:</b> Margin-of-victory Elo + score-derived form, logistic head</p>
+      <div class="band">
+        <div><b>74%</b><span>model pick accuracy</span></div>
+        <div><b>78%</b><span>market pick accuracy</span></div>
+        <div><b>0.180</b><span>model brier</span></div>
+        <div><b>0.161</b><span>market brier</span></div>
+      </div>
+      <p class="vsub">2,325 out-of-sample matches to 2026-07-19 &middot; market comparison on 1,302 matched liquid games (model 72.9% there) — api_market_compare.py, 2026-07-18</p>
+      <div class="cal"><div class="crow"><div class="csays">28%</div><div class="ctrack"><div class="cpred" style="width:28%"></div><div class="cact" style="width:34%"></div></div><div class="clbl">34%</div><div class="cn">95</div></div><div class="crow"><div class="csays">43%</div><div class="ctrack"><div class="cpred" style="width:43%"></div><div class="cact" style="width:43%"></div></div><div class="clbl">43%</div><div class="cn">196</div></div><div class="crow"><div class="csays">59%</div><div class="ctrack"><div class="cpred" style="width:59%"></div><div class="cact" style="width:62%"></div></div><div class="clbl">62%</div><div class="cn">445</div></div><div class="crow"><div class="csays">73%</div><div class="ctrack"><div class="cpred" style="width:73%"></div><div class="cact" style="width:73%"></div></div><div class="clbl">73%</div><div class="cn">779</div></div><div class="crow"><div class="csays">87%</div><div class="ctrack"><div class="cpred" style="width:87%"></div><div class="cact" style="width:87%"></div></div><div class="clbl">87%</div><div class="cn">788</div></div></div>
+    </div>
+    
+    <div class="vcode">
+      <h3>Rugby League</h3>
+      <p class="vmeth"><b>Data:</b> Betfair exchange history &middot; <b>Method:</b> Winner-only Elo (Betfair results carry no scores)</p>
+      <div class="band">
+        <div><b>65%</b><span>model pick accuracy</span></div>
+        <div><b>69%</b><span>market pick accuracy</span></div>
+        <div><b>0.219</b><span>model brier</span></div>
+        <div><b>0.198</b><span>market brier</span></div>
+      </div>
+      <p class="vsub">1,318 out-of-sample matches to 2026-07-17</p>
+      <div class="cal"><div class="crow"><div class="csays">29%</div><div class="ctrack"><div class="cpred" style="width:29%"></div><div class="cact" style="width:28%"></div></div><div class="clbl">28%</div><div class="cn">133</div></div><div class="crow"><div class="csays">43%</div><div class="ctrack"><div class="cpred" style="width:43%"></div><div class="cact" style="width:40%"></div></div><div class="clbl">40%</div><div class="cn">269</div></div><div class="crow"><div class="csays">58%</div><div class="ctrack"><div class="cpred" style="width:58%"></div><div class="cact" style="width:55%"></div></div><div class="clbl">55%</div><div class="cn">404</div></div><div class="crow"><div class="csays">72%</div><div class="ctrack"><div class="cpred" style="width:72%"></div><div class="cact" style="width:71%"></div></div><div class="clbl">71%</div><div class="cn">371</div></div><div class="crow"><div class="csays">84%</div><div class="ctrack"><div class="cpred" style="width:84%"></div><div class="cact" style="width:80%"></div></div><div class="clbl">80%</div><div class="cn">123</div></div></div>
+    </div>
+    <p class="calh">Reliability bars — model probability <span class="k1">predicted</span> vs
+      <span class="k2">what actually happened</span></p>
+    <p class="note">The bars line up on every band for both codes — honestly calibrated, not as
+      sharp as the market, and we say so. Analysis in the open, not tips.</p>
+  </section>
+  <section>
+    <p class="eyebrow2">The live record · every pick since going public</p>
+    <h2>The live record</h2>
+    <div class="band2">
+      <div><b>24</b><span>settled</span></div>
+      <div><b>67%</b><span>model pick hit</span></div>
+      <div><b>0.236</b><span>model brier</span></div>
+      <div><b>0.245</b><span>market brier</span></div>
+    </div>
+    <p class="note">In season now (NRL, Super League, internationals). Nothing deleted — wins and
+      losses, every one. The validation above is the model's accuracy over thousands of past matches.</p>
+    <div class="tbl"><table>
+      <tr><th>Date</th><th>Model pick</th><th class="r">Prob</th><th class="r">Result</th></tr>
+      <tr><td>2026-07-19</td><td><b>Bulls</b> <span style="color:var(--muted)">v Boland Cavaliers</span> <span style="color:var(--muted);font-size:11px">UNION</span></td><td class="r">67%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-19</td><td><b>Lions</b> <span style="color:var(--muted)">v Cheetahs</span> <span style="color:var(--muted);font-size:11px">UNION</span></td><td class="r">58%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-17</td><td><b>Leeds Rhinos</b> <span style="color:var(--muted)">v Castleford Tigers</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">74%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-16</td><td><b>NZ Warriors</b> <span style="color:var(--muted)">v St George</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">55%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-16</td><td><b>Canterbury</b> <span style="color:var(--muted)">v Wests Tigers</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">63%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-16</td><td><b>Hull Kingston Rovers</b> <span style="color:var(--muted)">v Warrington Wolves</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">55%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-16</td><td><b>Leigh Leopards</b> <span style="color:var(--muted)">v Hull FC</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">67%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-16</td><td><b>Toulouse Olympique XIII</b> <span style="color:var(--muted)">v York Knights</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">56%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-16</td><td><b>Gold Coast</b> <span style="color:var(--muted)">v Manly</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">54%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-16</td><td><b>Dolphins</b> <span style="color:var(--muted)">v North Queensland</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">63%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-15</td><td><b>Cronulla</b> <span style="color:var(--muted)">v Newcastle</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">65%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-15</td><td><b>Sydney</b> <span style="color:var(--muted)">v Melbourne</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">57%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-15</td><td><b>Wigan Warriors</b> <span style="color:var(--muted)">v Huddersfield Giants</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">85%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-15</td><td><b>St Helens</b> <span style="color:var(--muted)">v Catalans Dragons</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">73%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-15</td><td><b>Canberra</b> <span style="color:var(--muted)">v South Sydney</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">55%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-14</td><td><b>Penrith</b> <span style="color:var(--muted)">v Brisbane</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">60%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-14</td><td><b>Wakefield Trinity</b> <span style="color:var(--muted)">v Bradford Bulls</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">67%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-11</td><td><b>Leigh Leopards</b> <span style="color:var(--muted)">v Castleford Tigers</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">82%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-11</td><td><b>Hull Kingston Rovers</b> <span style="color:var(--muted)">v Wakefield Trinity</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">76%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-11</td><td><b>Leeds Rhinos</b> <span style="color:var(--muted)">v Catalans Dragons</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">60%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-11</td><td><b>South Sydney</b> <span style="color:var(--muted)">v Newcastle</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">63%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-11</td><td><b>Manly</b> <span style="color:var(--muted)">v North Queensland</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">51%</td><td class="r"><span class="wl l">L</span></td></tr><tr><td>2026-07-11</td><td><b>Melbourne</b> <span style="color:var(--muted)">v Gold Coast</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">73%</td><td class="r"><span class="wl w">W</span></td></tr><tr><td>2026-07-11</td><td><b>St Helens</b> <span style="color:var(--muted)">v Toulouse Olympique XIII</span> <span style="color:var(--muted);font-size:11px">LEAGUE</span></td><td class="r">84%</td><td class="r"><span class="wl l">L</span></td></tr>
+    </table></div>
+    <p style="text-align:center;margin:14px 0 0;font-size:12.5px;color:var(--muted)"><a href="record-rugby.csv" download style="color:var(--orange);font-weight:700;text-decoration:none">⬇ Download the full record (CSV — opens in Excel / Sheets)</a></p>
+  </section>
+  <footer>Updated 2026-07-20 · 18+ · Bet responsibly · BeGambleAware.org<br>
+  Model output, not financial advice. © 2026 Altora Analytics</footer>
+</div></body></html>

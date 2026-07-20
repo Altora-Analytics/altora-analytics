@@ -1,0 +1,25 @@
+date,favourite,opponent,model_prob,market_prob,result
+2026-07-19,Bulls,Boland Cavaliers,0.672,0.571,L
+2026-07-19,Lions,Cheetahs,0.583,0.706,L
+2026-07-17,Leeds Rhinos,Castleford Tigers,0.738,0.524,L
+2026-07-16,NZ Warriors,St George,0.552,0.819,W
+2026-07-16,Canterbury,Wests Tigers,0.633,0.629,W
+2026-07-16,Hull Kingston Rovers,Warrington Wolves,0.550,0.603,L
+2026-07-16,Leigh Leopards,Hull FC,0.666,0.553,W
+2026-07-16,Toulouse Olympique XIII,York Knights,0.556,0.453,W
+2026-07-16,Gold Coast,Manly,0.543,0.367,W
+2026-07-16,Dolphins,North Queensland,0.630,0.595,W
+2026-07-15,Cronulla,Newcastle,0.645,0.694,W
+2026-07-15,Sydney,Melbourne,0.575,0.725,W
+2026-07-15,Wigan Warriors,Huddersfield Giants,0.845,0.524,W
+2026-07-15,St Helens,Catalans Dragons,0.727,0.419,W
+2026-07-15,Canberra,South Sydney,0.550,0.502,W
+2026-07-14,Penrith,Brisbane,0.603,0.796,L
+2026-07-14,Wakefield Trinity,Bradford Bulls,0.671,0.559,W
+2026-07-11,Leigh Leopards,Castleford Tigers,0.825,0.907,W
+2026-07-11,Hull Kingston Rovers,Wakefield Trinity,0.762,0.769,L
+2026-07-11,Leeds Rhinos,Catalans Dragons,0.597,0.182,W
+2026-07-11,South Sydney,Newcastle,0.629,0.477,W
+2026-07-11,Manly,North Queensland,0.514,0.642,L
+2026-07-11,Melbourne,Gold Coast,0.728,0.746,W
+2026-07-11,St Helens,Toulouse Olympique XIII,0.845,0.721,L

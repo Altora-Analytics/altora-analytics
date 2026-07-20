@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics verified record — calibrated model analysis across sports and markets, tracked in the open. Every pick, win and loss.">
+<title>The Record — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#101d33;--panel2:#0e1626;--line:#22314a;--line2:#2c3e5c;
+        --white:#f4f7fb;--steel:#c3cdd9;--muted:#8493a8;--orange:#f5822b;--amber:#f7a24f;
+        --gold:#e8b84b;--green:#5bc88d;--red:#e25e54;--blue:#4f9bd8}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 640px at 50% -220px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:960px;margin:0 auto;padding:0 20px 64px}
+  header{padding:46px 0 6px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.06em;font-size:clamp(26px,5vw,38px)}
+  .eyebrow{font-size:11px;font-weight:800;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:14px;margin-top:8px;max-width:58ch;margin:8px auto 0}
+  .sub b{color:var(--amber);font-weight:700}
+  a.back{color:var(--orange);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
+  .seclabel{display:flex;align-items:baseline;gap:12px;margin:40px 0 15px}
+  .seclabel h2{color:var(--white);font-weight:800;font-size:clamp(16px,3.2vw,20px);white-space:nowrap}
+  .seclabel .hint{font-size:12px;color:var(--muted)}
+  .seclabel .rule{flex:1;height:1px;background:linear-gradient(90deg,var(--line2),transparent)}
+  .grid{display:grid;gap:14px}
+  .g3{grid-template-columns:repeat(3,1fr)} .g4{grid-template-columns:repeat(4,1fr)}
+  @media(max-width:760px){.g3,.g4{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:440px){.g3,.g4{grid-template-columns:1fr}}
+  .card{position:relative;display:block;text-decoration:none;color:inherit;
+        border:1px solid var(--line);border-radius:16px;background:linear-gradient(180deg,var(--panel),var(--panel2));
+        padding:18px 16px 15px;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease}
+  a.card:hover{transform:translateY(-3px);border-color:var(--line2);box-shadow:0 14px 30px -18px #000}
+  .card.dim{opacity:.5}
+  .emoji{font-size:26px;line-height:1;display:block;margin-bottom:9px}
+  .cname{color:var(--white);font-weight:800;font-size:17px;letter-spacing:.01em}
+  .cmeta{font-size:12.5px;color:var(--muted);margin-top:3px}
+  .mkts{display:flex;flex-wrap:wrap;gap:5px;margin-top:11px}
+  .chip{font-size:10.5px;font-weight:700;letter-spacing:.03em;padding:3px 8px;border-radius:20px;
+        border:1px solid var(--line2);color:var(--steel);background:#0c1728}
+  .chip.soon{color:var(--muted);border-style:dashed}
+  .badge{position:absolute;top:14px;right:14px;font-size:9.5px;font-weight:800;letter-spacing:.08em;
+         text-transform:uppercase;padding:3px 8px;border-radius:20px}
+  .b-live{background:rgba(91,200,141,.15);color:var(--green);border:1px solid rgba(91,200,141,.4)}
+  .b-soon{background:rgba(132,147,168,.12);color:var(--muted);border:1px solid var(--line2)}
+  .arrow{margin-top:12px;font-size:12px;font-weight:700;color:var(--orange);display:flex;align-items:center;gap:6px}
+  .card.dim .arrow{color:var(--muted)}
+  .trade{display:flex;align-items:center;gap:18px;padding:20px}
+  .trade .emoji{margin:0;font-size:30px}
+  .trade .body{flex:1}
+  @media(max-width:440px){.trade{flex-direction:column;text-align:center}}
+  footer{margin-top:46px;border-top:1px solid var(--line);padding-top:22px;text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>THE RECORD</h1>
+    <p class="sub">Calibrated model analysis across sports and markets — <b>tracked in the open</b>, never deleted. Analysis, not tips.</p>
+    <p style="margin-top:12px"><a class="back" href="index.html">← altora home</a> &nbsp;·&nbsp; <a class="back" href="methodology.html">methodology →</a></p>
+  </header>
+
+  <div class="seclabel"><h2>Full-market models</h2><span class="hint">team sports · multiple betting markets</span><span class="rule"></span></div>
+  <div class="grid g3">
+    <a class="card" href="record-football.html">
+      <span class="badge b-live">● live</span>
+      <span class="emoji">⚽</span><span class="cname">Football</span>
+      <span class="cmeta">Value &amp; probability bets · PASS/FAIL</span>
+      <span class="mkts"><span class="chip">Match result</span><span class="chip">Over/Under</span><span class="chip">BTTS</span><span class="chip soon">Correct score</span></span>
+      <span class="arrow">Open →</span>
+    </a>
+    <a class="card" href="record-basketball.html">
+      <span class="badge b-soon">↺ Oct</span>
+      <span class="emoji">🏀</span><span class="cname">Basketball</span>
+      <span class="cmeta">70% out-of-sample · resumes October</span>
+      <span class="mkts"><span class="chip">Match result</span><span class="chip soon">Totals</span><span class="chip soon">Handicap</span></span>
+      <span class="arrow">Open →</span>
+    </a>
+    <a class="card" href="record-handball.html">
+      <span class="badge b-soon">↺ Sep</span>
+      <span class="emoji">🤾</span><span class="cname">Handball</span>
+      <span class="cmeta">72% out-of-sample (3-way) · resumes September</span>
+      <span class="mkts"><span class="chip">Match result (3-way)</span><span class="chip soon">Totals</span><span class="chip soon">Handicap</span></span>
+      <span class="arrow">Open →</span>
+    </a>
+  </div>
+
+  <div class="seclabel"><h2>Match picks</h2><span class="hint">win probability · one market</span><span class="rule"></span></div>
+  <div class="grid g4">
+    <a class="card" href="record-darts.html">
+      <span class="badge b-live">● live</span>
+      <span class="emoji">🎯</span><span class="cname">Darts</span><span class="cmeta">Match winner · PDC</span>
+      <span class="arrow">Open →</span>
+    </a>
+    <a class="card" href="record-snooker.html">
+      <span class="badge b-soon">↺ Aug</span>
+      <span class="emoji">🎱</span><span class="cname">Snooker</span><span class="cmeta">Match winner · resumes Aug/Sep</span>
+      <span class="arrow">Open →</span>
+    </a>
+    <a class="card" href="record-rugby.html">
+      <span class="badge b-live">● live</span>
+      <span class="emoji">🏉</span><span class="cname">Rugby</span><span class="cmeta">Match winner · Union &amp; League</span>
+      <span class="arrow">Open →</span>
+    </a>
+    <a class="card" href="record-esports.html">
+      <span class="badge b-live">● live</span>
+      <span class="emoji">🎮</span><span class="cname">Esports</span><span class="cmeta">Match winner · CS2 · LoL · Dota</span>
+      <span class="arrow">Open →</span>
+    </a>
+  </div>
+
+  <div class="seclabel"><h2>Systematic trading</h2><span class="hint">live on OANDA</span><span class="rule"></span></div>
+  <a class="card trade" href="record-trading.html">
+    <span class="emoji">📈</span>
+    <span class="body"><span class="cname">Cross-asset trading books</span>
+      <span class="cmeta" style="display:block">FX · Indices · Commodities — three systematic strategies, blended</span></span>
+    <span class="arrow">View the books →</span>
+  </a>
+
+  <div class="seclabel"><h2>Coming soon</h2><span class="hint">on the roadmap</span><span class="rule"></span></div>
+  <div class="grid g4">
+    <div class="card dim"><span class="badge b-soon">soon</span><span class="emoji">⛳</span><span class="cname">Golf</span><span class="cmeta">on the roadmap</span><span class="arrow">Coming soon</span></div>
+    <div class="card dim"><span class="badge b-soon">soon</span><span class="emoji">🐎</span><span class="cname">Horse Racing</span><span class="cmeta">on the roadmap</span><span class="arrow">Coming soon</span></div>
+  </div>
+
+  <footer>18+ · Bet responsibly · BeGambleAware.org · National Gambling Helpline 0808 8020 133<br>
+  Model output, not financial advice. © 2026 Altora Analytics</footer>
+</div></body></html>

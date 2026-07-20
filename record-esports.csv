@@ -1,0 +1,33 @@
+date,favourite,opponent,model_prob,market_prob,result
+2026-07-19,33,basement boys,0.694,0.707,W
+2026-07-19,geng,t1,0.539,,W
+2026-07-19,karmine corp,dplus kia,0.666,0.555,L
+2026-07-19,bb team,parivision,0.626,,L
+2026-07-18,t1,karmine corp,0.596,,L
+2026-07-18,bb team,vici gaming,0.732,0.707,W
+2026-07-17,1w team,genone,0.604,0.601,W
+2026-07-17,hanwha life esports,t1,0.513,,L
+2026-07-17,game hunters,alka gaming,0.580,0.569,W
+2026-07-17,bilibili gaming,dplus kia,0.703,0.553,L
+2026-07-17,anyones legend,karmine corp,0.563,,L
+2026-07-17,bb team,nigma galaxy,0.683,0.259,W
+2026-07-17,bestia academy,magicos,0.631,,W
+2026-07-16,Just_Players,WW Team,0.519,0.553,W
+2026-07-16,Bilibili Gaming,T1,0.510,0.405,W
+2026-07-16,Anyones Legend,G2 esports,0.509,,W
+2026-07-16,Hanwha Life Esports,Jd Gaming,0.654,0.577,W
+2026-07-15,Lavked,Just_Players,0.541,0.409,L
+2026-07-15,Sentinels,Secret Whales,0.529,0.376,W
+2026-07-15,Bilibili Gaming,Movistar KOI,0.631,0.463,W
+2026-07-15,The Last Resort,Enjoy,0.587,0.447,W
+2026-07-15,Dplus KIA,Anyones Legend,0.670,0.362,L
+2026-07-15,LYON,Jd Gaming,0.512,0.438,L
+2026-07-14,Honved,GenOne,0.514,0.568,L
+2026-07-14,Patins da Ferrari,METANOIA WOLVES,0.631,0.181,W
+2026-07-14,Oddik,paiN Academy,0.524,0.306,W
+2026-07-14,Vasco eSports,MAGICOS,0.660,0.798,L
+2026-07-14,BESTIA Academy,Guara eSports,0.620,,W
+2026-07-13,Mouz,Lgd Gaming,0.808,0.739,L
+2026-07-13,Xtreme Gaming,Team Liquid,0.652,0.657,L
+2026-07-13,VirtusPro,Rune Eaters,0.540,0.327,L
+2026-07-13,T1,GAM Esports,0.652,0.481,W
