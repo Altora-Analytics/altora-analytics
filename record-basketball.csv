@@ -13,15 +13,16 @@ date,market_group,market,league,home_team,away_team,selection,model_prob,odds,cl
 2026-07-21,match-result,Match Result,Governors Cup,Meralco Bolts,Blackwater Bossing,HOME,0.7944,1.68,1.75,PROB,True,,True,,False,,10.0,,-0.04,0,502590
 2026-07-21,match-result,Match Result,Governors Cup,Phoenix Fuelmasters,Rain or Shine Elasto Painters,AWAY,0.5594,2.57,2.42,EV,False,False,,True,,,10.0,,0.062,0,502591
 2026-07-21,match-result,Match Result,Governors Cup,Phoenix Fuelmasters,Rain or Shine Elasto Painters,AWAY,0.5594,2.57,2.42,PROB,False,,False,,True,,10.0,,0.062,0,502591
-2026-07-22,match-result,Match Result,NBL,Tauranga Whai,Otago Nuggets,AWAY,0.5915,2.12,2.12,EV,False,False,,True,,,10.0,,0.0,0,485372
-2026-07-22,match-result,Match Result,NBL,Tauranga Whai,Otago Nuggets,AWAY,0.5915,2.12,2.12,PROB,False,,False,,True,,10.0,,0.0,0,485372
-2026-07-22,match-result,Match Result,NBA W,Los Angeles Sparks W,Phoenix Mercury W,AWAY,0.5096,2.07,2.07,EV,False,False,,True,,,10.0,,0.0,0,494970
-2026-07-22,match-result,Match Result,NBA W,Los Angeles Sparks W,Phoenix Mercury W,AWAY,0.5096,2.07,2.07,PROB,False,,False,,True,,10.0,,0.0,0,494970
-2026-07-22,match-result,Match Result,NBA W,Seattle Storm W,Minnesota Lynx W,HOME,0.3536,4.39,4.39,EV,False,False,,True,,,10.0,,0.0,0,494971
-2026-07-22,match-result,Match Result,NBA W,Seattle Storm W,Minnesota Lynx W,AWAY,0.6464,1.26,1.26,PROB,False,,False,,True,,10.0,,0.0,0,494971
+2026-07-22,match-result,Match Result,NBL,Tauranga Whai,Otago Nuggets,AWAY,0.5915,2.12,3.08,EV,False,False,,True,,,10.0,,-0.3117,0,485372
+2026-07-22,match-result,Match Result,NBL,Tauranga Whai,Otago Nuggets,AWAY,0.5915,2.12,3.08,PROB,False,,False,,True,,10.0,,-0.3117,0,485372
+2026-07-22,match-result,Match Result,Governors Cup,San Miguel Beermen,Converge FiberXers,HOME,0.6141,1.67,1.67,PROB,True,,True,,False,,10.0,,0.0,0,502593
+2026-07-22,match-result,Match Result,NBA W,Los Angeles Sparks W,Phoenix Mercury W,AWAY,0.5096,2.07,2.04,EV,False,False,,True,,,10.0,,0.0147,0,494970
+2026-07-22,match-result,Match Result,NBA W,Los Angeles Sparks W,Phoenix Mercury W,AWAY,0.5096,2.07,2.04,PROB,False,,False,,True,,10.0,,0.0147,0,494970
+2026-07-22,match-result,Match Result,NBA W,Seattle Storm W,Minnesota Lynx W,HOME,0.3536,4.39,4.25,EV,False,False,,True,,,10.0,,0.0329,0,494971
+2026-07-22,match-result,Match Result,NBA W,Seattle Storm W,Minnesota Lynx W,AWAY,0.6464,1.26,1.25,PROB,False,,False,,True,,10.0,,0.008,0,494971
 2026-07-22,match-result,Match Result,NBA W,New York Liberty W,Chicago Sky W,AWAY,0.358,5.0,5.0,EV,False,False,,True,,,10.0,,0.0,0,494972
 2026-07-22,match-result,Match Result,NBA W,New York Liberty W,Chicago Sky W,HOME,0.642,1.24,1.24,PROB,False,,False,,True,,10.0,,0.0,0,494972
-2026-07-22,match-result,Match Result,NBA W,Washington Mystics W,Las Vegas Aces W,HOME,0.4191,3.2,3.2,EV,False,False,,True,,,10.0,,0.0,0,494973
-2026-07-22,match-result,Match Result,NBA W,Washington Mystics W,Las Vegas Aces W,AWAY,0.5809,1.44,1.44,PROB,False,,False,,True,,10.0,,0.0,0,494973
+2026-07-22,match-result,Match Result,NBA W,Washington Mystics W,Las Vegas Aces W,HOME,0.4191,3.2,3.24,EV,False,False,,True,,,10.0,,-0.0123,0,494973
+2026-07-22,match-result,Match Result,NBA W,Washington Mystics W,Las Vegas Aces W,AWAY,0.5809,1.44,1.41,PROB,False,,False,,True,,10.0,,0.0213,0,494973
 2026-07-23,match-result,Match Result,NBA W,Indiana Fever W,Connecticut Sun W,AWAY,0.2102,5.0,5.0,EV,False,False,,True,,,10.0,,0.0,0,494974
 2026-07-23,match-result,Match Result,NBA W,Indiana Fever W,Connecticut Sun W,HOME,0.7898,1.22,1.22,PROB,False,,False,,True,,10.0,,0.0,0,494974
