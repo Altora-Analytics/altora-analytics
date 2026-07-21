@@ -1,0 +1,48 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tennis — the record · Altora Analytics</title>
+<style>
+:root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--muted:#8493a8;--acc:#ec4899;
+--green:#2fbf71;--red:#e5484d}
+body{background:var(--ink);color:var(--white);font:16px/1.6 system-ui,Segoe UI,Roboto,sans-serif;margin:0;padding:32px 16px}
+.wrap{max-width:860px;margin:0 auto} h1{font-size:30px;margin:6px 0} h2{font-size:21px;margin:26px 0 8px}
+.eyebrow{color:var(--acc);font-weight:700;letter-spacing:2px;font-size:12px;text-transform:uppercase}
+.panel{border:1px solid var(--line);border-radius:16px;background:var(--panel);padding:24px 20px;margin:18px 0}
+.band{display:grid;grid-template-columns:repeat(4,1fr);gap:2px;border-radius:12px;overflow:hidden;margin:14px 0}
+.band>div{background:#101a2e;padding:14px 8px;text-align:center} .band b{display:block;font-size:22px;color:var(--acc)}
+.band span{color:var(--muted);font-size:12px}
+table{width:100%;border-collapse:collapse} td{padding:9px 8px;border-top:1px solid var(--line);font-size:15px}
+td.r{text-align:right} .wl{display:inline-block;width:22px;text-align:center;border-radius:5px;font-weight:800;font-size:12px}
+.wl.w{background:var(--green);color:#0c1422} .wl.l{background:var(--red);color:#0c1422}
+.note{color:var(--muted);font-size:13px} a{color:var(--acc)}
+.sig{margin-top:26px;color:var(--muted);font-size:14px}
+</style>
+<div class="wrap">
+<p class="eyebrow">🎾 Tennis · Altora Analytics</p>
+<h1>Tennis — the record</h1>
+<p>Calibrated win probabilities for professional tennis, published before play. Analysis, not tips.</p>
+
+<section class="panel">
+<p class="eyebrow">Model validation · out-of-sample backtest</p>
+<h2>Validated on 52,476 matches (2005–2025)</h2>
+<p>On the final 3,000 matches — data the model never trained on — its probabilities scored a log-loss of
+<b>0.591</b> against the sharpest bookmaker's closing price at <b>0.590</b>: statistically level with the
+best market in the world. We publish that comparison because it is the honest ceiling — and the live
+record below is where we prove it holds in real time, starting 21 July 2026.</p>
+<p class="note">We also tested whether surface-specific ratings, world rankings, or betting the model's
+edges would have added value. None survived out-of-sample testing, and we say so rather than pretend
+otherwise. The model blends a 20-year Elo rating with the market's opening price.</p>
+
+</section>
+
+<section class="panel">
+<h2>Live record</h2>
+<table><tbody><tr><td colspan="4" style="text-align:center;color:var(--muted);padding:30px">First results appear here after settlement — predictions began 21 July 2026.</td></tr></tbody></table>
+<p class="note">Model favourite, its probability, and the result. Every prediction kept — wins and losses.</p>
+</section>
+
+<p class="sig">Every prediction tracked publicly. Nothing deleted.<br>
+Historical results and odds data: <a href="http://www.tennis-data.co.uk">tennis-data.co.uk</a> ·
+Live prices: Betfair Exchange<br>
+<a href="index.html">← Altora Analytics</a></p>
+</div>
+<script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
