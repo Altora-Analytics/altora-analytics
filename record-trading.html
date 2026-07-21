@@ -28,6 +28,18 @@
   .note p{max-width:60ch;margin:0 auto 10px;color:var(--steel);font-size:15px}
   footer{margin-top:48px;border-top:1px solid var(--line);padding-top:22px;
          text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
+  .guide{margin-top:18px;border:1px solid rgba(232,184,75,.45);border-radius:16px;
+         background:linear-gradient(180deg,rgba(232,184,75,.07),transparent 60%),var(--panel2);
+         padding:32px 30px;text-align:center}
+  .guide .gtag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+         padding:4px 12px;border-radius:20px;background:rgba(232,184,75,.14);color:var(--orange);
+         border:1px solid rgba(232,184,75,.4);margin-bottom:14px}
+  .guide h2{color:var(--white);font-size:17px;margin-bottom:12px}
+  .guide p{max-width:60ch;margin:0 auto 10px;color:var(--steel);font-size:15px}
+  .gbtn{display:inline-block;margin-top:14px;background:var(--orange);color:#0b1220;font-weight:800;
+        font-size:14.5px;padding:12px 26px;border-radius:10px;text-decoration:none;letter-spacing:.02em}
+  .gbtn:hover{filter:brightness(1.08)}
+  .gprice{color:var(--muted);font-size:13px;margin-top:10px}
   @media(max-width:640px){.books{grid-template-columns:1fr}}
 </style></head><body>
 <div class="wrap">
@@ -52,6 +64,20 @@
     <p style="color:var(--muted);font-size:13.5px;margin-top:16px">Systematic model output, not financial advice.
       Demo performance shown for transparency; it is not a promise of future results.</p>
   </div>
+  <section class="guide">
+    <span class="gtag">📘 New · The Handbook</span>
+    <h2>Want to build one of these yourself?</h2>
+    <p>We wrote up the exact six-layer system behind these books — data, features, signal engines,
+      backtesting, honest validation and a working broker-connected bot — as a complete handbook
+      for beginners. Full Python code at every step, including the validation discipline most
+      guides skip.</p>
+    <p style="color:var(--muted);font-size:13.5px">Educational guide, not financial advice — it teaches
+      the engineering and the testing, and promises no profits.</p>
+    <a class="gbtn" href="https://whop.com/altora-analytics/build-your-own-automated-fx-trading-bot-the-complete-handbook"
+       onclick="window.goatcounter&&goatcounter.count({path:'guide-click',title:'Guide CTA',event:true})">
+       Get the handbook →</a>
+    <p class="gprice">£29.99 one-off · instant PDF download · secure checkout via Whop</p>
+  </section>
   <footer>Model output, not financial advice. © 2026 Altora Analytics</footer>
 </div><script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body></html>
