@@ -1,1 +1,10 @@
-date,market_group,market,home_team,away_team,selection,odds,odds_source,bet_type,won,stake,pnl,clv
+date,market_group,market,home_team,away_team,selection,odds,bet_type,won,stake,pnl,clv
+2026-07-20,1X2,1X2,Orgryte IS,Djurgardens IF,HOME,7.5,EV,0,10.0,-10.0,0.0
+2026-07-20,1X2,1X2,Orgryte IS,Djurgardens IF,AWAY,1.38,PROB,0,10.0,-10.0,0.0147058823529411
+2026-07-20,ACCA,RESULT+BTTS,,,,2.2356,,0,5.0,-5.0,
+2026-07-20,ACCA,RESULT+OU25,,,,1.9872,,0,5.0,-5.0,
+2026-07-20,ACCA,SAFE,,,,1.38,,0,10.0,-10.0,
+2026-07-20,BTTS,BTTS,Orgryte IS,Djurgardens IF,YES,1.62,EV,0,10.0,-10.0,-0.0299401197604789
+2026-07-20,BTTS,BTTS,Orgryte IS,Djurgardens IF,YES,1.62,PROB,0,10.0,-10.0,-0.0299401197604789
+2026-07-20,OU,OU2.5,Orgryte IS,Djurgardens IF,OVER 2.5,1.44,EV,0,10.0,-10.0,0.0
+2026-07-20,OU,OU2.5,Orgryte IS,Djurgardens IF,OVER 2.5,1.44,PROB,0,10.0,-10.0,0.0
