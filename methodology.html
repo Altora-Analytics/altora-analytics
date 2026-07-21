@@ -66,7 +66,7 @@
       <li><b>Features added one at a time.</b> Each candidate feature is kept only if it improves out-of-sample log-loss. Ones that don't earn their keep get dropped — we've thrown plenty away.</li>
       <li><b>Calibration, not just accuracy.</b> When the model says 70%, it has to happen about 70% of the time. We check this band by band and publish the chart.</li>
       <li><b>Compared against the market.</b> Every model is scored against bookmaker/exchange prices — the toughest benchmark there is.</li>
-      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed.</li>
+      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed. Thresholds are set by out-of-sample sweeps (choose on one half of held-out history, confirm on the other), re-run after major model changes — last swept 21 July 2026. Current football gates: Over/Under 2.5 value bets need a 12%+ modelled edge at odds 1.70+; probability bets need a 60%+ modelled chance at odds 1.70+ (BTTS probability likewise). Match-result (1X2) thresholds are unchanged — the sweep found no robustly profitable 1X2 gate, and we say so rather than pretend otherwise.</li>
       <li><b>Automated retraining.</b> Models refresh on a schedule (weekly) so ratings never go stale.</li>
     </ul>
   </section>
