@@ -1,7 +1,34 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-20,Steven Hallworth,Yang Liu,0.642,0.777,W
+2026-07-20,Chatchapong Nasa,Sahil Nayyar,0.512,0.606,W
+2026-07-20,Ka Wai Cheung,Connor Benzey,0.600,0.203,W
+2026-07-20,Antoni Kowalski,Fergal Quinn,0.752,0.199,W
+2026-07-20,Liam Highfield,Hammad Miah,0.667,0.694,W
+2026-07-20,Lyu Haotian,Alfie Burden,0.540,0.612,W
+2026-07-20,Marco Fu,On Yee Ng,0.756,0.953,W
+2026-07-20,Gao Yang,Andrew Higginson,0.573,0.667,L
+2026-07-20,Stan Moody,Iulian Boiko,0.694,0.751,L
+2026-07-20,Tom Ford,Deng Haohui,0.731,0.453,L
+2026-07-20,Zak Surety,Craig Steadman,0.682,0.719,W
+2026-07-20,Jiang Jun,Robbie Williams,0.520,0.350,W
+2026-07-20,Michael Holt,Ross Muir,0.631,0.650,W
+2026-07-20,Fan Zhengyi,Jimmy White,0.772,0.818,W
+2026-07-20,Jamie Rhys Clarke,Alexander Ursenbacher,0.523,0.407,W
+2026-07-20,Stuart Carrington,Mateusz Baranowski,0.558,0.355,L
+2026-07-20,Aaron Hill,Yao Pengcheng,0.584,0.661,W
+2026-07-20,Ryan Day,Ashley Hugill,0.690,0.707,L
+2026-07-20,Scott Donaldson,Wang Xinbo,0.630,0.407,W
+2026-07-20,Matthew Stevens,Ben Mertens,0.532,0.560,L
+2026-07-20,Luca Brecel,Julien Leclercq,0.665,0.634,W
+2026-07-20,Ishpreet Singh Chadha,Liam Davies,0.537,0.544,L
+2026-07-20,Jimmy Robertson,Gong Chenzhi,0.707,0.716,W
+2026-07-20,Liu Hongyu,Artemijs Zizins,0.590,0.593,W
+2026-07-19,Craig Steadman,Liam Graham,0.551,0.350,W
+2026-07-19,Liam Pullen,Deng Haohui,0.651,0.835,L
 2026-07-19,Liu Wenwei,Huang Jiahao,0.563,0.581,L
 2026-07-19,Louis Heathcote,Wang Xinbo,0.618,0.539,L
 2026-07-19,Artemijs Zizins,Oliver Brown,0.679,0.234,W
+2026-07-19,Andrew Higginson,Oliver Sykes,0.538,0.539,W
 2026-07-19,Michael Larkov,Reanne Evans,0.768,0.327,L
 2026-07-19,Ross Muir,Thanawat Tirapongpaiboon,0.519,0.665,W
 2026-07-19,Sam Craigie,Mahmoud El Hareedy,0.823,0.932,W
@@ -11,7 +38,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-19,Ben Mertens,Anton Kazakov,0.867,0.723,W
 2026-07-19,David Grace,Florian Nuessle,0.625,0.593,W
 2026-07-19,Dylan Emery,Bai Yulu,0.793,0.852,W
+2026-07-19,Iulian Boiko,Phil O'Kane,0.679,0.818,W
 2026-07-19,Jamie Jones,Liam Davies,0.539,0.614,L
+2026-07-19,Jamie Rhys Clarke,Sean OSullivan,0.728,0.745,W
+2026-07-19,Jiang Jun,Panchaya Channoi,0.814,,W
 2026-07-19,Jordan Brown,Paul Norris,0.698,0.966,W
 2026-07-19,Lan Yuhao,Ashley Carty,0.568,0.593,W
 2026-07-19,Julien Leclercq,Leone Crowley,0.718,0.185,W
