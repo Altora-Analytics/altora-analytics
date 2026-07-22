@@ -15,6 +15,17 @@ td.r{text-align:right} .wl{display:inline-block;width:22px;text-align:center;bor
 .wl.w{background:var(--green);color:#0c1422} .wl.l{background:var(--red);color:#0c1422}
 .note{color:var(--muted);font-size:13px} a{color:var(--acc)}
 .sig{margin-top:26px;color:var(--muted);font-size:14px}
+.vlead{font-size:14px;margin:6px 0 14px}
+.calh{font-size:12px;color:var(--muted);margin:16px 0 10px}
+.k1{color:var(--muted);font-weight:700} .k2{color:var(--acc);font-weight:700}
+.cal{display:flex;flex-direction:column;gap:8px}
+.crow{display:grid;grid-template-columns:44px 1fr 40px 54px;align-items:center;gap:10px;font-size:13px}
+.csays{color:#c3cdd9;font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.ctrack{position:relative;height:16px;background:#0a1120;border-radius:8px;overflow:hidden;border:1px solid var(--line)}
+.cpred{position:absolute;top:0;left:0;height:100%;background:repeating-linear-gradient(90deg,#2b3a54,#2b3a54 5px,transparent 5px,transparent 9px)}
+.cact{position:absolute;top:0;left:0;height:100%;background:linear-gradient(90deg,var(--acc),#f9a8d4);opacity:.9}
+.clbl{color:var(--acc);font-weight:800;text-align:right;font-variant-numeric:tabular-nums}
+.cn{color:var(--muted);font-size:11px;text-align:right}
 </style>
 <div class="wrap">
 <p class="eyebrow">🎾 Tennis · Altora Analytics</p>
@@ -31,6 +42,22 @@ record below is where we prove it holds in real time, starting 21 July 2026.</p>
 <p class="note">We also tested surface-specific ratings and world rankings: neither improved the model
 reliably, so we don't use them, and we say so rather than pretend otherwise. The model blends a 20-year
 Elo rating (men's and women's tours rated separately) with the market's opening price.</p>
+
+<h2 style="margin-top:22px">Is the model accurate?</h2>
+<p class="vlead">On the same 3,000 held-out matches: two things prove accuracy — the model
+picks the winner about seven times in ten, and its probabilities are <b>calibrated</b>: when it
+says 78%, it happens 78% of the time.</p>
+<div class="band">
+  <div><b>70%</b><span>model pick accuracy</span></div>
+  <div><b>69%</b><span>market pick accuracy</span></div>
+  <div><b>0.197</b><span>model brier</span></div>
+  <div><b>0.197</b><span>market brier</span></div>
+</div>
+<p class="calh">Reliability — model probability <span class="k1">predicted</span> vs
+<span class="k2">what actually happened</span></p>
+<div class="cal"><div class="crow"><div class="csays">52%</div><div class="ctrack"><div class="cpred" style="width:52%"></div><div class="cact" style="width:54%"></div></div><div class="clbl">54%</div><div class="cn">467</div></div><div class="crow"><div class="csays">58%</div><div class="ctrack"><div class="cpred" style="width:58%"></div><div class="cact" style="width:58%"></div></div><div class="clbl">58%</div><div class="cn">459</div></div><div class="crow"><div class="csays">62%</div><div class="ctrack"><div class="cpred" style="width:62%"></div><div class="cact" style="width:68%"></div></div><div class="clbl">68%</div><div class="cn">467</div></div><div class="crow"><div class="csays">68%</div><div class="ctrack"><div class="cpred" style="width:68%"></div><div class="cact" style="width:65%"></div></div><div class="clbl">65%</div><div class="cn">336</div></div><div class="crow"><div class="csays">73%</div><div class="ctrack"><div class="cpred" style="width:73%"></div><div class="cact" style="width:70%"></div></div><div class="clbl">70%</div><div class="cn">351</div></div><div class="crow"><div class="csays">78%</div><div class="ctrack"><div class="cpred" style="width:78%"></div><div class="cact" style="width:80%"></div></div><div class="clbl">80%</div><div class="cn">357</div></div><div class="crow"><div class="csays">84%</div><div class="ctrack"><div class="cpred" style="width:84%"></div><div class="cact" style="width:88%"></div></div><div class="clbl">88%</div><div class="cn">373</div></div><div class="crow"><div class="csays">94%</div><div class="ctrack"><div class="cpred" style="width:94%"></div><div class="cact" style="width:93%"></div></div><div class="clbl">93%</div><div class="cn">190</div></div></div>
+<p class="note">The bars line up on every band — that's calibration, shown in the open.
+Out-of-sample to 2026-07-19.</p>
 <div class="band"><div><b>4</b><span>settled picks</span></div><div><b>50%</b><span>winner accuracy</span></div><div><b>0.312</b><span>model brier</span></div><div><b>0.316</b><span>market brier</span></div></div><p class="note">Lower Brier is better. Early sample — we let it build before drawing conclusions.</p>
 </section>
 
