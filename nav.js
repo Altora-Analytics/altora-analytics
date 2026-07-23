@@ -32,6 +32,8 @@
     ".alt-nav .links{display:flex;gap:14px;flex-wrap:wrap}" +
     ".alt-nav .links a{color:#8493a8;text-decoration:none;font-size:12.5px;font-weight:700}" +
     ".alt-nav .links a:hover,.alt-nav .links a.on{color:#f4f7fb}" +
+    ".alt-nav .links a.guides{background:#e8b84b;color:#0b1220;padding:4px 12px;border-radius:999px}" +
+    ".alt-nav .links a.guides:hover{color:#0b1220;filter:brightness(1.08)}" +
     ".alt-nav .chips{display:flex;gap:8px;overflow-x:auto;max-width:1080px;margin:0 auto;" +
     "padding:0 16px 9px;scrollbar-width:none}" +
     ".alt-nav .chips::-webkit-scrollbar{display:none}" +
@@ -45,8 +47,11 @@
   var nav = document.createElement("nav");
   nav.className = "alt-nav";
   var links = LINKS.map(function (l) {
-    var on = here === l[0] ? " class='on'" : "";
-    return "<a href='" + l[0] + "'" + on + ">" + l[1] + "</a>";
+    var cls = [];
+    if (here === l[0]) cls.push("on");
+    if (l[1].indexOf("Guides") !== -1) cls.push("guides");
+    var attr = cls.length ? " class='" + cls.join(" ") + "'" : "";
+    return "<a href='" + l[0] + "'" + attr + ">" + l[1] + "</a>";
   }).join("");
   var chips = SPORTS.map(function (s) {
     var on = here === s[0] ? " class='on'" : "";
