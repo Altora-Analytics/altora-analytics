@@ -57,4 +57,13 @@
     "<div class='links'>" + links + "</div></div>" +
     "<div class='chips'>" + chips + "</div>";
   document.body.insertBefore(nav, document.body.firstChild);
+
+  // site-wide signature (skip pages whose own footer already carries it)
+  if (document.body.innerText.indexOf("Nothing deleted") === -1) {
+    var sig = document.createElement("p");
+    sig.style.cssText = "text-align:center;color:#8493a8;font-size:12.5px;" +
+      "margin:34px 16px 22px;font-family:'Segoe UI',system-ui,Arial,sans-serif";
+    sig.textContent = "Every prediction tracked publicly. Nothing deleted.";
+    document.body.appendChild(sig);
+  }
 })();
