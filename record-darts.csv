@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-22,Wessel Nijman,Gian van Veen,0.501,0.386,L
+2026-07-22,Gerwyn Price,Rob Cross,0.693,0.374,W
+2026-07-22,James Wade,Ryan Searle,0.573,0.529,W
 2026-07-21,Jonny Clayton,Gary Anderson,0.519,0.448,L
 2026-07-21,Michael van Gerwen,Dirk van Duijvenbode,0.675,0.623,L
 2026-07-21,Luke Littler,Nathan Aspinall,0.841,0.804,W

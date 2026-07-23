@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-22,g2 esports,nemiga,0.695,,W
+2026-07-22,gamerlegion,hotu,0.597,,L
+2026-07-22,falcons,100 thieves,0.786,,L
+2026-07-22,faze clan,eyeballers,0.776,0.792,W
+2026-07-22,just_players,1w team,0.622,,L
+2026-07-22,endless journey,inox division,0.525,,L
 2026-07-21,m80,ninjas in pyjamas,0.567,,L
 2026-07-21,astralis,team nemesis,0.642,,W
 2026-07-21,alliance,wildcard gaming,0.540,,L
