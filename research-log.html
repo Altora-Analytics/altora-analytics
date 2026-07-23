@@ -1,0 +1,131 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics research log — what we tested, what worked, and what we refuted. Negative results published on equal footing.">
+<title>Research Log — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:860px;margin:0 auto;padding:0 20px 60px}
+  header{padding:40px 0 8px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.05em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:13.5px;margin-top:8px;max-width:60ch;margin-left:auto;margin-right:auto}
+  .entry{border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:16px 18px;margin:12px 0}
+  .entry .dt{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .entry h3{color:var(--white);font-size:15.5px;margin:4px 0 6px}
+  .entry p{font-size:14px;margin:4px 0}
+  .tag{display:inline-block;padding:2px 10px;border-radius:999px;font-size:11px;font-weight:800;
+       letter-spacing:.06em;margin-left:8px;vertical-align:middle}
+  .tag.ship{background:rgba(91,200,141,.15);color:var(--green);border:1px solid rgba(91,200,141,.4)}
+  .tag.ref{background:rgba(226,94,84,.13);color:var(--red);border:1px solid rgba(226,94,84,.4)}
+  .tag.run{background:rgba(232,184,75,.13);color:var(--gold);border:1px solid rgba(232,184,75,.4)}
+  .note{color:var(--muted);font-size:12.5px;margin-top:16px}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:18px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+  footer a{color:var(--gold)}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>Research log</h1>
+    <p class="sub">What we tested, what shipped, and what we refuted. Negative results are
+    published here on equal footing with positive ones — an idea that fails an honest test and
+    gets removed is the system working, not failing.</p>
+  </header>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ref">Refuted</span>
+    <h3>Snooker: 45 years of historical ratings as a warm start</h3>
+    <p>We licensed access to snooker.org's full match archive (1980→) and tested whether warming
+    the rating engine with four decades of history improves the live model. Under the exact
+    configuration we serve, it didn't — better on one test half, worse on the other, twice.
+    The current model stays. The archive is retained for future, pre-registered experiments.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Shipped</span>
+    <h3>Football: accumulator construction chosen by backtest</h3>
+    <p>Our daily accumulators were originally built by sensible-but-arbitrary rules. We replayed
+    four seasons of walk-forward model predictions through dozens of candidate construction rules
+    (leg counts, odds bands, market pools, selection scores) with a choose-half/confirm-half
+    split. The winning rules now build the daily accas — including shrinking the combo doubles,
+    because the longer versions almost never landed.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ref">Refuted</span>
+    <h3>Tennis: surface ratings and world rankings</h3>
+    <p>Surface-specific Elo and official rankings are the features every tennis guide recommends.
+    In ablation on 100k+ ATP and WTA matches, neither reliably improved a model that already
+    blends a 20-year rating with the market's opening price. We don't serve them, and we say so
+    on the tennis page.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag run">Running</span>
+    <h3>All sports: opening-vs-closing price study</h3>
+    <p>Every market we model now has its opening price and near-off closing price recorded.
+    In a few weeks this answers a question we refuse to guess at: does the market move
+    <i>toward</i> our published probabilities? Results will be published here either way.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Shipped</span>
+    <h3>Five sports: the rating + market blend</h3>
+    <p>A gradient-boosted calibration of two inputs — our rating difference and the market's own
+    price — was validated sport by sport against held-out data, and now serves darts, snooker,
+    rugby league, esports and tennis. In every sport it beat our older, more complicated models.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ref">Refuted</span>
+    <h3>Darts: rolling-form features from per-match scoring data</h3>
+    <p>We harvested five years of per-match scoring averages for 350 players and built rolling
+    form features. The full model looked better — until ablation showed the gain came entirely
+    from better calibration, not the features. Rating + market alone won on both test halves.
+    The features were dropped; the harvest is kept for future format studies.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ref">Refuted</span>
+    <h3>Football: correct-score ensemble as a blend</h3>
+    <p>Blending our correct-score model's implied probabilities into the match-result, totals and
+    BTTS models looked like it improved everything — until we traced the gain to a contaminated
+    refit. With clean holdout artifacts, the blend was worse on all three markets. It now serves
+    as an agreement <i>filter</i> only, where the value survived honest testing.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Shipped</span>
+    <h3>Handball: 1,326 games relabelled for overtime</h3>
+    <p>Our harvested handball scores silently included overtime in some finals, inflating totals.
+    We re-harvested history with half-by-half scores, relabelled exactly the affected games to
+    regulation scores, and retrained. Small, unglamorous, and exactly the kind of data bug that
+    quietly poisons models when nobody audits.</p>
+  </div>
+
+  <div class="entry"><span class="dt">June–July 2026</span><span class="tag run">Running</span>
+    <h3>Basketball &amp; handball: opener-capture seasons</h3>
+    <p>Both models are validated offline but their betting layers are deliberately <b>not</b>
+    public yet: thresholds will be pre-registered from forward-captured opening odds before the
+    seasons resume — rules first, record second, never the reverse.</p>
+  </div>
+
+  <div class="entry"><span class="dt">June 2026</span><span class="tag ref">Refuted</span>
+    <h3>Trading: performance-picked strategy portfolios</h3>
+    <p>250 strategy cells that won era A were re-tested on era B: the portfolio went from
+    excellent to sharply negative. Performance selection does not transfer. Our live book is
+    chosen by mechanism, validated per-cell, and new candidates must earn slots with forward
+    trades only — a register with frozen verdict dates, evaluated in October.</p>
+  </div>
+
+  <p class="note">This log summarises completed studies at a level that keeps the records
+  verifiable without publishing exploitable specifics. Methods are on the
+  <a href="methodology.html" style="color:var(--gold)">methodology page</a>; the complete
+  build approach is in <a href="https://whop.com/altora-analytics" style="color:var(--gold)">the
+  handbooks</a>.</p>
+
+  <footer>
+    <a href="index.html">Home</a> · <a href="record.html">All records</a> ·
+    <a href="faq.html">FAQ</a> · <a href="methodology.html">Methodology</a><br>
+    Analysis, not tips · 18+ · BeGambleAware.org · © 2026 Altora Analytics
+  </footer>
+</div>
+<script src="nav.js" defer></script>
+<script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>

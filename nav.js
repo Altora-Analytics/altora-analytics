@@ -14,6 +14,7 @@
   ];
   var LINKS = [
     ["record.html", "Records"],
+    ["research-log.html", "Research"],
     ["faq.html", "FAQ"],
     ["methodology.html", "Methodology"],
     ["reviews.html", "Reviews"],
