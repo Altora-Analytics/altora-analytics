@@ -1,0 +1,127 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics FAQ — how the models work, why we publish losses, what the records prove, and what we sell.">
+<title>FAQ — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:860px;margin:0 auto;padding:0 20px 60px}
+  header{padding:40px 0 8px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.05em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:13.5px;margin-top:8px}
+  details{border:1px solid var(--line);border-radius:14px;background:var(--panel);margin:12px 0;overflow:hidden}
+  summary{cursor:pointer;padding:16px 18px;color:var(--white);font-weight:700;font-size:15.5px;list-style:none}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";float:right;color:var(--gold);font-weight:800;font-size:18px}
+  details[open] summary::after{content:"–"}
+  .a{padding:0 18px 16px;font-size:14.5px}
+  .a a{color:var(--gold)}
+  .a b{color:var(--white)}
+  h2{color:var(--gold);font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin:30px 0 4px}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:18px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+  footer a{color:var(--gold)}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>Frequently asked questions</h1>
+    <p class="sub">Straight answers — the same honesty as the record pages.</p>
+  </header>
+
+  <h2>The basics</h2>
+  <details open>
+    <summary>What is Altora Analytics?</summary>
+    <div class="a">A set of statistical models that publish calibrated win probabilities for
+    football, tennis, darts, snooker, rugby, esports, basketball and handball — plus systematic
+    trading systems — with <b>every prediction published before the event and settled publicly</b>.
+    The records are the product: nothing is deleted, ever.</div>
+  </details>
+  <details>
+    <summary>Are these betting tips?</summary>
+    <div class="a">No. We publish <b>analysis — model probabilities</b> — not instructions to bet.
+    Some of our tracked records simulate fixed-stake betting so you can judge the models honestly,
+    but nothing here is financial advice. If you bet, that's your decision and your responsibility.
+    18+ only, and please read <a href="https://www.begambleaware.org">BeGambleAware.org</a>.</div>
+  </details>
+  <details>
+    <summary>How do the models actually work?</summary>
+    <div class="a">The core is a player/team rating system (an adaptive Elo) blended with the
+    market's own opening price through a gradient-boosted calibration layer, validated on tens of
+    thousands of historical matches it never trained on. Football uses a larger feature set
+    including expected-goals signals. The full write-up is on the
+    <a href="methodology.html">methodology page</a> — and the complete build method is in
+    <a href="https://whop.com/altora-analytics">our handbooks</a>.</div>
+  </details>
+
+  <h2>The honesty questions</h2>
+  <details>
+    <summary>Do you ever delete losing picks?</summary>
+    <div class="a"><b>Never.</b> Every record page shows wins and losses, and offers the complete
+    history as a CSV download — date, selection, odds, result. A deleted loser would leave a hole
+    in the CSV and a mismatch with the posts we've already published. That verifiability is the
+    whole point of the site.</div>
+  </details>
+  <details>
+    <summary>Why do you show the bookmaker beating your model sometimes?</summary>
+    <div class="a">Because it's true. Betting markets at closing are extraordinarily efficient —
+    matching them is genuinely hard, and claiming to smash them is the oldest lie in this industry.
+    Our models are <b>calibrated</b> (when we say 70%, it happens about 70% of the time) and
+    statistically level with the market on most sports. We show the comparison either way.</div>
+  </details>
+  <details>
+    <summary>Will I make money following the models?</summary>
+    <div class="a">We make no such promise, and you should distrust anyone who does. Bookmaker
+    margins mean most bettors lose over time. What we offer is honest, calibrated information and
+    fully transparent records — what you do with it is up to you.</div>
+  </details>
+
+  <h2>Products</h2>
+  <details>
+    <summary>What are the handbooks?</summary>
+    <div class="a">Two one-off PDF guides that teach the <b>complete method</b> behind this site:
+    one for <a href="https://whop.com/altora-analytics">building a sports prediction model</a>,
+    one for <a href="https://whop.com/altora-analytics">building an automated FX trading bot</a>.
+    Full Python code at every step, no experience assumed, £29.99 each, instant download.
+    They're educational — they promise knowledge, not profits.</div>
+  </details>
+  <details>
+    <summary>Is there a premium tier?</summary>
+    <div class="a">Coming with the football season: earlier delivery of the daily picks and extra
+    markets, once the public record has proven the season's model. The free records stay free —
+    that's permanent.</div>
+  </details>
+  <details>
+    <summary>I bought a guide and have a problem — what do I do?</summary>
+    <div class="a">Email <a href="mailto:altoraanalytics@gmail.com">altoraanalytics@gmail.com</a>
+    and we'll sort it out. Delivery is instant via Whop; if something's wrong with your copy,
+    that's on us to fix.</div>
+  </details>
+
+  <h2>Data &amp; sources</h2>
+  <details>
+    <summary>Where does the data come from?</summary>
+    <div class="a">API-Sports (football, rugby union, basketball, handball), Betfair Exchange
+    (live market prices and results), football-data.co.uk (historical football odds),
+    tennis-data.co.uk (historical tennis results and odds) and OpenDota (Dota 2). Each sport's
+    record page credits its own sources.</div>
+  </details>
+  <details>
+    <summary>Can I buy your data?</summary>
+    <div class="a">The raw feeds aren't ours to sell — they belong to the sources above. Our own
+    model outputs and published records are freely downloadable from every record page as CSV.</div>
+  </details>
+
+  <footer>
+    <a href="index.html">Home</a> · <a href="record.html">All records</a> ·
+    <a href="methodology.html">Methodology</a> · <a href="reviews.html">Reviews</a><br>
+    Analysis, not tips · 18+ · BeGambleAware.org · © 2026 Altora Analytics
+  </footer>
+</div>
+<script src="nav.js" defer></script>
+<script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>
