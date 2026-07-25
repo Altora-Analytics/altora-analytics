@@ -77,6 +77,15 @@
       <li><b>The market is respected.</b> We publish our probability next to the market's price.
       When our model disagrees wildly with a sharp market, we withhold the pick rather than
       pretend we've found magic — that gap is usually a data problem, not an edge.</li>
+      <li><b>We measure ourselves against the sharpest price in the business — the close.</b>
+      Every pick is logged at the earlier, softer opening price and then compared against where
+      the market finished. The aim is to be early enough to beat the open; the closing line is
+      the referee that tells us whether we did. Both prices go in the record, so you don't have
+      to take our word for it.</li>
+      <li><b>The models are never finished.</b> They retrain on schedule as new results arrive,
+      and new ideas are constantly tested against the incumbents — an upgrade only ships when it
+      proves itself on data it hasn't seen, and the ones that fail are logged too. What you see
+      today should be measurably better in six months, and the record will show whether it is.</li>
       <li><b>Machines do the routine, honestly.</b> The pipelines run automatically every day —
       fetching, predicting, settling, publishing — with health checks that alert us when
       anything silently breaks, including a check that verifies no settled row has ever been
