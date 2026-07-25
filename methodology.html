@@ -161,7 +161,7 @@
       <li><b>Brier score vs the market.</b> We show our score next to the market's, even when the market wins.</li>
       <li><b>Closing-line value (CLV).</b> We record the opening price and the closing price on every pick. If our picks consistently beat the closing line, that's real evidence — and if they don't, that shows too.</li>
       <li><b>Voids &amp; postponements.</b> Settled only on a real result; void/abandoned events are removed rather than counted as wins or losses.</li>
-      <li><b>Data:</b> API-Sports (football, rugby union, basketball &amp; handball fixtures, results and odds) · Betfair Exchange (live market prices and results across all sports) · football-data.co.uk (historical football odds) · tennis-data.co.uk (historical tennis results and odds) · OpenDota (Dota 2 match data). Each sport&#39;s record page credits its own sources.</li>
+      <li><b>Data:</b> API-Sports (football, rugby union, basketball &amp; handball fixtures, results and odds) · Betfair Exchange (live market prices and results across all sports) · football-data.co.uk (historical football odds) · tennis-data.co.uk (historical tennis results and odds) · OpenDota (Dota 2 match data) · PandaScore free tier (CS2, LoL, Dota&nbsp;2 &amp; Valorant match histories and schedules). Each sport&#39;s record page credits its own sources.</li>
     </ul>
   </section>
 
@@ -185,7 +185,7 @@
       <b>We don't beat the closing line.</b> On basketball our model correlates <b>0.84</b> with the sharp closing price but the market is still sharper by roughly 0.016 Brier. Same story in rugby and football. The closing line sees things a results-based model can't — late team news, injuries, rotation. We mirror it well; we don't beat it. Anyone telling you their model beats the close is selling something.
     </div>
     <div class="honest no">
-      <b>Esports is our weakest model, and we'll say so.</b> Betfair's esports data carries no game label, so multi-game organisations (a club with CS2, Dota and LoL rosters) share a single rating. We've proven that limitation is unfixable with this data, so we gate out any pick that disagrees sharply with the market rather than publish something we don't stand behind.
+      <b>Esports: two titles fixed, and we'll say which.</b> Betfair's esports history carries no game label, so multi-game organisations (a club with CS2, Dota and LoL rosters) shared a single rating — a limitation we called unfixable <i>with that data</i>. It was: the fix was new data. <b>Dota&nbsp;2</b> (OpenDota pro-match data) and <b>CS2</b> (PandaScore, 89,000 series with map margins) now run dedicated per-title rating models, each validated against the shared pool on held-out data before going live — both roughly halve our gap to the market on their title. We tested the same upgrade for <b>LoL</b> and it failed our validation gate, so LoL and everything else stay on the shared pool with the safety gate: any pick that disagrees sharply with the market is withheld rather than published.
     </div>
     <div class="honest no">
       <b>A tracked record is not a promise.</b> Past calibration doesn't guarantee future profit. Margins, market efficiency, model drift and sample size all bite. Never stake money you can't afford to lose.
