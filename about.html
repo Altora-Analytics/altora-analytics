@@ -20,6 +20,13 @@
   a{color:var(--gold)}
   .promise{border-left:3px solid var(--gold)}
   .promise p:first-of-type{color:var(--white);font-size:16px;font-weight:700}
+  .pull{margin:16px 0 10px;padding:14px 18px;border-left:3px solid var(--gold);
+        background:rgba(232,184,75,.06);border-radius:0 10px 10px 0;
+        color:var(--white);font-size:17px;font-weight:800;line-height:1.45}
+  .statgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:14px 0 4px;text-align:center}
+  .statgrid b{display:block;color:var(--gold);font-size:20px;font-weight:800}
+  .statgrid span{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  @media(max-width:640px){.statgrid{grid-template-columns:repeat(2,1fr)}.statgrid div:last-child{grid-column:span 2}}
   ul{margin:8px 0 4px 18px}
   li{font-size:14.5px;padding:3px 0}
   li b{color:var(--white)}
@@ -41,9 +48,15 @@
     basketball and handball — and run systematic trading models across FX, equity indices and
     commodities. There's no tipster network behind this, no marketing agency, and no team of
     "senior traders". There are models, a public ledger, and the discipline connecting them.</p>
-    <p>The models are built on a database of more than 800,000 matches across 500+ competitions
-    (the <a href="index.html">live counts are on the front page</a> — they're generated from the
-    actual data files on every deploy, so they can't drift from the truth).</p>
+    <div class="statgrid">
+      <div><b>800,000+</b><span>historical matches</span></div>
+      <div><b>500+</b><span>competitions</span></div>
+      <div><b>8</b><span>sports modelled</span></div>
+      <div><b>Daily</b><span>automated publishing</span></div>
+      <div><b>100%</b><span>public records</span></div>
+    </div>
+    <p>The <a href="index.html">exact counts live on the front page</a> — generated from the
+    actual data files on every deploy, so they can't drift from the truth.</p>
   </section>
 
   <section class="promise">
@@ -57,11 +70,12 @@
     it more than I expected, and once it was running honestly — every pick logged, every loss
     kept — the obvious question was whether the same discipline could carry across a whole suite
     of sports, and into systematic trading. That's Altora.</p>
-    <p><b>I'm not here to sell you an edge. I'm here to try and prove one, out in the open.</b>
-    Every prediction is logged at the odds available when it was published, settled against the
+    <div class="pull">I'm not here to sell you an edge.<br>I'm here to try and prove one, out in the open.</div>
+    <p>Every prediction is logged at the odds available when it was published, settled against the
     real result, and kept forever — wins, losses, and the bets my own filters said not to back.
-    If the models are good, the record will show it. If they're not, you'll see that too.
-    That's the point.</p>
+    And no model keeps its place because it used to work: when one stops performing, it has to
+    earn its way back through fresh validation, exactly like a new idea would. If the models are
+    good, the record will show it. If they're not, you'll see that too. That's the point.</p>
   </section>
 
   <section>
@@ -86,7 +100,7 @@
       and new ideas are constantly tested against the incumbents — an upgrade only ships when it
       proves itself on data it hasn't seen, and the ones that fail are logged too. What you see
       today should be measurably better in six months, and the record will show whether it is.</li>
-      <li><b>Machines do the routine, honestly.</b> The pipelines run automatically every day —
+      <li><b>Automation handles the routine.</b> The pipelines run automatically every day —
       fetching, predicting, settling, publishing — with health checks that alert us when
       anything silently breaks, including a check that verifies no settled row has ever been
       altered.</li>
