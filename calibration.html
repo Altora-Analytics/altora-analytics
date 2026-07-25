@@ -1,0 +1,149 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics calibration: when our models say 70%, how often does it actually happen? Measured on every settled prediction, published in full.">
+<title>Calibration | Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:860px;margin:0 auto;padding:0 20px 60px}
+  header{padding:40px 0 8px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.05em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:13.5px;margin:8px auto 0;max-width:60ch}
+  section{border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:22px 24px;margin:14px 0}
+  h2{color:var(--gold);font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:10px}
+  p{font-size:14.5px;margin:8px 0} p b,td b{color:var(--white)}
+  a{color:var(--gold)}
+  .chartwrap{overflow-x:auto}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:10px}
+  th{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+     text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+  td{padding:9px 10px;border-bottom:1px solid #18253f}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  .kpi{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0 4px;text-align:center}
+  .kpi b{display:block;color:var(--gold);font-size:20px;font-weight:800}
+  .kpi span{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  @media(max-width:560px){.kpi{grid-template-columns:repeat(2,1fr)}}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:18px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+  footer a{color:var(--gold)}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>Calibration</h1>
+    <p class="sub">When the model says 70%, does it happen about 70% of the time? This page
+    is the answer, measured on every settled prediction we have published.</p>
+  </header>
+
+  <section>
+    <h2>Every settled prediction, by stated probability</h2>
+    <div class="kpi">
+      <div><b>383</b><span>settled predictions</span></div>
+      <div><b>64.0%</b><span>average stated</span></div>
+      <div><b>63.7%</b><span>actually won</span></div>
+      <div><b>0.2226</b><span>Brier score</span></div>
+    </div>
+    <div class="chartwrap"><svg viewBox="0 0 700 430" width="100%" role="img" aria-label="Reliability chart: model probability against observed win rate">
+<rect x="66" y="22" width="610" height="356" fill="#0c1728" stroke="#22314a" rx="8"/>
+<line x1="121.5" y1="22" x2="121.5" y2="378" stroke="#182740"/>
+<line x1="66" y1="345.6" x2="676" y2="345.6" stroke="#182740"/>
+<text x="121.5" y="398" fill="#8493a8" font-size="12" text-anchor="middle">50%</text>
+<text x="56" y="349.6" fill="#8493a8" font-size="12" text-anchor="end">50%</text>
+<line x1="232.4" y1="22" x2="232.4" y2="378" stroke="#182740"/>
+<line x1="66" y1="280.9" x2="676" y2="280.9" stroke="#182740"/>
+<text x="232.4" y="398" fill="#8493a8" font-size="12" text-anchor="middle">60%</text>
+<text x="56" y="284.9" fill="#8493a8" font-size="12" text-anchor="end">60%</text>
+<line x1="343.3" y1="22" x2="343.3" y2="378" stroke="#182740"/>
+<line x1="66" y1="216.2" x2="676" y2="216.2" stroke="#182740"/>
+<text x="343.3" y="398" fill="#8493a8" font-size="12" text-anchor="middle">70%</text>
+<text x="56" y="220.2" fill="#8493a8" font-size="12" text-anchor="end">70%</text>
+<line x1="454.2" y1="22" x2="454.2" y2="378" stroke="#182740"/>
+<line x1="66" y1="151.5" x2="676" y2="151.5" stroke="#182740"/>
+<text x="454.2" y="398" fill="#8493a8" font-size="12" text-anchor="middle">80%</text>
+<text x="56" y="155.5" fill="#8493a8" font-size="12" text-anchor="end">80%</text>
+<line x1="565.1" y1="22" x2="565.1" y2="378" stroke="#182740"/>
+<line x1="66" y1="86.7" x2="676" y2="86.7" stroke="#182740"/>
+<text x="565.1" y="398" fill="#8493a8" font-size="12" text-anchor="middle">90%</text>
+<text x="56" y="90.7" fill="#8493a8" font-size="12" text-anchor="end">90%</text>
+<line x1="676.0" y1="22" x2="676.0" y2="378" stroke="#182740"/>
+<line x1="66" y1="22.0" x2="676" y2="22.0" stroke="#182740"/>
+<text x="676.0" y="398" fill="#8493a8" font-size="12" text-anchor="middle">100%</text>
+<text x="56" y="26.0" fill="#8493a8" font-size="12" text-anchor="end">100%</text>
+<line x1="66.0" y1="378.0" x2="676.0" y2="22.0" stroke="#5bc88d" stroke-width="2" stroke-dasharray="6 5" opacity=".75"/>
+<text x="598.4" y="44.7" fill="#5bc88d" font-size="11.5" text-anchor="end">perfect calibration</text>
+<line x1="165.4" y1="350.4" x2="165.4" y2="254.8" stroke="#e8b84b" stroke-width="2" opacity=".55"/>
+<circle cx="165.4" cy="301.6" r="6" fill="#e8b84b" stroke="#0b1220" stroke-width="1.5"/>
+<text x="165.4" y="287.6" fill="#c3cdd9" font-size="11" text-anchor="middle">n=169</text>
+<line x1="286.3" y1="327.9" x2="286.3" y2="213.8" stroke="#e8b84b" stroke-width="2" opacity=".55"/>
+<circle cx="286.3" cy="268.3" r="6" fill="#e8b84b" stroke="#0b1220" stroke-width="1.5"/>
+<text x="286.3" y="254.3" fill="#c3cdd9" font-size="11" text-anchor="middle">n=113</text>
+<line x1="393.2" y1="270.4" x2="393.2" y2="127.8" stroke="#e8b84b" stroke-width="2" opacity=".55"/>
+<circle cx="393.2" cy="189.4" r="6" fill="#e8b84b" stroke="#0b1220" stroke-width="1.5"/>
+<text x="393.2" y="175.4" fill="#c3cdd9" font-size="11" text-anchor="middle">n=58</text>
+<line x1="497.9" y1="270.5" x2="497.9" y2="85.7" stroke="#e8b84b" stroke-width="2" opacity=".55"/>
+<circle cx="497.9" cy="155.9" r="6" fill="#e8b84b" stroke="#0b1220" stroke-width="1.5"/>
+<text x="497.9" y="141.9" fill="#c3cdd9" font-size="11" text-anchor="middle">n=29</text>
+<line x1="603.8" y1="280.5" x2="603.8" y2="48.0" stroke="#e8b84b" stroke-width="2" opacity=".55"/>
+<circle cx="603.8" cy="114.5" r="6" fill="#e8b84b" stroke="#0b1220" stroke-width="1.5"/>
+<text x="603.8" y="100.5" fill="#c3cdd9" font-size="11" text-anchor="middle">n=14</text>
+<polyline points="165.4,301.6 286.3,268.3 393.2,189.4 497.9,155.9 603.8,114.5" fill="none" stroke="#e8b84b" stroke-width="2" opacity=".8"/>
+<text x="371" y="418" fill="#8493a8" font-size="12.5" text-anchor="middle">What the model said</text>
+<text x="16" y="200" fill="#8493a8" font-size="12.5" text-anchor="middle" transform="rotate(-90 16 200)">How often it actually happened</text>
+</svg></div>
+    <p style="font-size:13px;color:var(--muted)">Each point is a band of predictions. The
+    vertical bars are 95% confidence intervals, so a short bar means plenty of data and a long
+    bar means the band is still thin. Points sitting on the dashed line are perfectly
+    calibrated. Sitting above it means the model is too cautious; below it means too confident.</p>
+    <table>
+      <tr><th>Model said</th><th class="num">Predictions</th><th class="num">Average stated</th>
+          <th class="num">Actually won</th><th class="num">Difference</th></tr>
+      <tr><td>50 to 60%</td><td class="num">169</td><td class="num">54.0%</td><td class="num">56.8%</td><td class="num" style="color:#5bc88d">+2.8 pts</td></tr><tr><td>60 to 70%</td><td class="num">113</td><td class="num">64.9%</td><td class="num">61.9%</td><td class="num" style="color:#5bc88d">-2.9 pts</td></tr><tr><td>70 to 80%</td><td class="num">58</td><td class="num">74.5%</td><td class="num">74.1%</td><td class="num" style="color:#5bc88d">-0.4 pts</td></tr><tr><td>80 to 90%</td><td class="num">29</td><td class="num">83.9%</td><td class="num">79.3%</td><td class="num" style="color:#5bc88d">-4.6 pts</td></tr><tr><td>90 to 100%</td><td class="num">14</td><td class="num">93.5%</td><td class="num">85.7%</td><td class="num" style="color:#e8b84b">-7.8 pts</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>By sport</h2>
+    <table>
+      <tr><th>Sport</th><th class="num">Settled</th><th class="num">Average stated</th>
+          <th class="num">Actually won</th><th class="num">Brier</th></tr>
+      <tr><td>Darts</td><td class="num">62</td><td class="num">65.6%</td><td class="num">64.5%</td><td class="num">0.2255</td></tr><tr><td>Snooker</td><td class="num">82</td><td class="num">66.4%</td><td class="num">70.7%</td><td class="num">0.1953</td></tr><tr><td>Rugby</td><td class="num">37</td><td class="num">64.7%</td><td class="num">64.9%</td><td class="num">0.2191</td></tr><tr><td>Esports</td><td class="num">61</td><td class="num">62.6%</td><td class="num">59.0%</td><td class="num">0.2432</td></tr><tr><td>Tennis</td><td class="num">141</td><td class="num">62.3%</td><td class="num">61.0%</td><td class="num">0.2293</td></tr>
+    </table>
+    <p style="font-size:13px;color:var(--muted)">Brier score measures both accuracy and honesty
+    at once, and lower is better. Predicting 50% on everything scores 0.25, so anything below
+    that is doing real work. It punishes confident wrong answers much harder than cautious ones.</p>
+  </section>
+
+  <section><h2>Football, reported separately</h2><p>Football's ledger records the bets that cleared a published threshold rather than every prediction it makes, so its calibration is conditional on those filters and is not comparable with the chart above. For completeness: <b>37</b> settled bets, average stated probability <b>50.7%</b>, actual strike rate <b>43.2%</b>, Brier score <b>0.2334</b>. The sample is far too small to conclude anything, and we would say so even if it flattered us.</p></section>
+
+  <section>
+    <h2>What this does and does not prove</h2>
+    <p>Calibration is the claim we care most about, because it is the one that makes a
+    probability useful rather than decorative. It is also the one most easily faked by people
+    who quietly drop their losers, which is why every settled prediction we have ever published
+    is in the numbers above, and why the raw data behind them is downloadable as CSV from every
+    <a href="record.html">record page</a>.</p>
+    <p>What it does not prove is profit. A perfectly calibrated model can still lose money if
+    the prices are not there, and a badly calibrated one can get lucky for months. Those are
+    separate questions, tracked separately on the record pages. The honest summary today is
+    that the sample is young: bands with fewer than about fifty predictions should be read as
+    indicative rather than settled, and the confidence bars in the chart show you exactly which
+    ones those are.</p>
+    <p style="font-size:13px;color:var(--muted)">Generated automatically from the live ledgers
+    on 25 July 2026, so this page cannot drift from the record it describes.
+    Voided and postponed events are excluded; nothing else is.
+    Method: <a href="methodology.html">how the models are built and tested</a>.</p>
+  </section>
+
+  <footer>
+    <a href="index.html">Home</a> &middot; <a href="record.html">All records</a> &middot;
+    <a href="methodology.html">Methodology</a> &middot; <a href="research-log.html">Research log</a><br>
+    Analysis, not tips &middot; 18+ &middot; BeGambleAware.org &middot; &copy; 2026 Altora Analytics
+  </footer>
+</div>
+<script src="nav.js" defer></script>
+<script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>
