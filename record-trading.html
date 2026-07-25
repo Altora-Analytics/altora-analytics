@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Altora systematic trading record — three uncorrelated books, live on demo.">
+<meta name="description" content="Altora systematic trading record — three uncorrelated books, combined backtest Sharpe 1.5 (2011–2026), live on demo.">
 <title>Trading Record — Altora Analytics</title>
 <style>
   :root{--ink:#0b1220;--panel2:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
@@ -15,11 +15,29 @@
   .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
   .sub{color:var(--muted);font-size:14px;margin-top:8px}
   a.back{color:var(--orange);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
-  .books{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:28px 0}
-  .book{background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:20px;text-align:center}
-  .book .bi{font-size:26px}
-  .book b{display:block;color:var(--white);font-size:15px;letter-spacing:.06em;margin:8px 0 4px}
-  .book span{font-size:12.5px;color:var(--muted)}
+  .books{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:28px 0 14px}
+  .book{background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:20px}
+  .book .bi{font-size:26px;text-align:center;display:block}
+  .book b{display:block;color:var(--white);font-size:15px;letter-spacing:.06em;margin:8px 0 4px;text-align:center}
+  .book .style{display:block;font-size:12.5px;color:var(--muted);text-align:center;margin-bottom:12px}
+  .book .sharpe{display:block;text-align:center;font-size:26px;font-weight:800;color:var(--orange);margin:2px 0 0}
+  .book .slab{display:block;text-align:center;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+  .book p{font-size:12.5px;color:var(--steel);line-height:1.5;margin-top:8px}
+  .book p.mut{color:var(--muted)}
+  .combined{background:linear-gradient(180deg,rgba(232,184,75,.06),transparent 55%),var(--panel2);
+            border:1px solid rgba(232,184,75,.4);border-radius:16px;padding:26px 28px;margin-bottom:14px}
+  .combined h2{color:var(--white);font-size:16px;text-align:center;margin-bottom:16px;letter-spacing:.04em}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;text-align:center}
+  .stat b{display:block;color:var(--orange);font-size:22px;font-weight:800}
+  .stat span{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .combined p{font-size:13px;color:var(--steel);text-align:center;max-width:64ch;margin:16px auto 0}
+  .method{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:26px 28px;margin-bottom:14px}
+  .method h2{color:var(--white);font-size:16px;margin-bottom:12px;letter-spacing:.04em}
+  .method ul{list-style:none}
+  .method li{font-size:13.5px;color:var(--steel);padding:7px 0 7px 26px;position:relative;border-top:1px solid rgba(34,49,74,.5)}
+  .method li:first-child{border-top:0}
+  .method li::before{content:"✓";position:absolute;left:2px;color:var(--green);font-weight:800}
+  @media(max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}}
   .note{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:32px 30px;text-align:center}
   .tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
        padding:4px 12px;border-radius:20px;background:rgba(91,200,141,.16);color:var(--green);
@@ -49,18 +67,58 @@
     <p class="sub">Three systematic books across uncorrelated markets — live on demo, building the out-of-sample record.</p>
     <p style="margin-top:10px"><a class="back" href="record.html">← all divisions</a></p>
   </header>
+  <div class="combined">
+    <h2>The combined book — what the three sleeves add up to</h2>
+    <div class="stats">
+      <div class="stat"><b>1.52</b><span>backtest Sharpe<br>2011–2026</span></div>
+      <div class="stat"><b>2.10</b><span>Sharpe, held-out<br>era 2023–26</span></div>
+      <div class="stat"><b>14 / 16</b><span>positive years</span></div>
+      <div class="stat"><b>~0</b><span>cross-book<br>correlation</span></div>
+    </div>
+    <p>Risk-parity blend of the three sleeves, net of estimated spread costs. The sleeves are
+      genuinely orthogonal — monthly correlations of −0.05 to +0.19 between them — which is why
+      the combined book beats every sleeve on its own, at a smaller drawdown than any of them.</p>
+  </div>
   <div class="books">
-    <div class="book"><div class="bi">💱</div><b>FX</b><span>mean-reversion · 4h</span></div>
-    <div class="book"><div class="bi">📊</div><b>Indices</b><span>trend · daily</span></div>
-    <div class="book"><div class="bi">🛢️</div><b>Commodities</b><span>trend · daily</span></div>
+    <div class="book"><span class="bi">💱</span><b>FX</b><span class="style">mean-reversion + momentum · 4h</span>
+      <span class="sharpe">0.85</span><span class="slab">backtest Sharpe 2011–26</span>
+      <p>11 major pairs (EUR/USD, GBP/USD, USD/JPY, the yen &amp; euro crosses…). Seven rule-locked
+        edges: RSI exhaustion, currency-strength divergence, price-action reversal, pullback
+        quality, volatility breakout, plus weekly CFTC positioning and cross-sectional rotation.</p>
+      <p class="mut">Two-sided · rebalances every 4 hours · volatility-targeted sizing</p></div>
+    <div class="book"><span class="bi">📊</span><b>Indices &amp; metals</b><span class="style">trend · daily</span>
+      <span class="sharpe">1.19</span><span class="slab">backtest Sharpe 2011–26</span>
+      <p>S&amp;P 500, Nasdaq 100, DAX, Nikkei 225, gold and silver. Seven trend/dip engines
+        (Donchian breakout, momentum burst, RSI trend-dip, turn-of-month…) plus two event
+        overlays: pre-FOMC drift and an equity positioning (COT) tilt.</p>
+      <p class="mut">Long-only · rebalances daily · volatility-targeted sizing</p></div>
+    <div class="book"><span class="bi">🛢️</span><b>Commodities</b><span class="style">trend · daily</span>
+      <span class="sharpe">0.66</span><span class="slab">backtest Sharpe 2011–26</span>
+      <p>Brent, WTI, natural gas, corn, soybeans, wheat, sugar, copper, platinum, palladium.
+        Six trend engines (volatility expansion, trend continuation, breakout, range compression…)
+        with a fixed trailing-stop exit.</p>
+      <p class="mut">Two-sided · rebalances daily · volatility-targeted sizing</p></div>
+  </div>
+  <div class="method">
+    <h2>How the backtests were validated (and what they can't tell you)</h2>
+    <ul>
+      <li>15 years of data (2011–2026), every strategy tested net of estimated spread costs.</li>
+      <li>Every edge must be profitable in <b>both halves</b> of the sample independently — an edge
+        that only worked in one era is discarded, not averaged in.</li>
+      <li>Cost stress test: the FX book stays profitable with spreads doubled.</li>
+      <li>We rebuilt the indices book from scratch after finding inflated features in an early
+        version — the numbers above are from the clean rebuild, which cost us ~0.1 Sharpe and is
+        exactly why you can trust the rest.</li>
+      <li>What backtests can't prove: the future. That's what the live demo record below is for.</li>
+    </ul>
   </div>
   <div class="note">
     <span class="tag">● Live demo · building</span>
     <h2>The forward record is accruing now</h2>
-    <p>Three fully-automated books run live on demo accounts, each on its own capital, sized to a
-      fixed volatility target. The backtests are validated across two decades and near-uncorrelated
-      with each other — but the number that counts is the <b>live, out-of-sample</b> one, and that
-      only comes with time.</p>
+    <p>All three books run fully automated on demo accounts (live since July 2026), each on its
+      own capital, sized to a fixed volatility target. The backtest numbers above are real and
+      honestly built — but the number that counts is the <b>live, out-of-sample</b> one, and that
+      only comes with time. We'll publish it here as it accrues, wins and losses alike.</p>
     <p style="color:var(--muted);font-size:13.5px;margin-top:16px">Systematic model output, not financial advice.
       Demo performance shown for transparency; it is not a promise of future results.</p>
   </div>
