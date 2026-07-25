@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="How Altora Analytics builds, validates and scores its models — the data, the methods, the thresholds, and how to verify our record yourself.">
+<meta name="description" content="How Altora Analytics builds, validates and scores its models: the data, the methods, the thresholds, and how to verify our record yourself.">
 <title>Methodology — Altora Analytics</title>
 <style>
   :root{--ink:#0b1220;--panel:#101d33;--panel2:#0e1626;--line:#22314a;--line2:#2c3e5c;
@@ -52,7 +52,7 @@
   <header>
     <p class="eyebrow">Altora Analytics</p>
     <h1>METHODOLOGY</h1>
-    <p class="sub">How we build, validate and score our models — the data, the methods, the thresholds, and how to check our record yourself. Everything except the secret sauce.</p>
+    <p class="sub">How we build, validate and score our models: the data, the methods, the thresholds, and how to check our record yourself. Everything except the secret sauce.</p>
     <p style="margin-top:12px"><a class="back" href="record.html">← the record</a> &nbsp;·&nbsp; <a class="back" href="index.html">altora home</a></p>
   </header>
 
@@ -60,13 +60,13 @@
   <section class="sec">
     <p class="tag">The discipline</p>
     <h2>How every model has to earn its place</h2>
-    <p class="lead">The same process applies to every sport. A model doesn't go live because it looks clever — it goes live because it survives being tested on data it has never seen.</p>
+    <p class="lead">The same process applies to every sport. A model doesn't go live because it looks clever. It goes live because it survives being tested on data it has never seen.</p>
     <ul>
       <li><b>Out-of-sample by time.</b> We train on the past and test on a later period the model never saw. No shuffling, no peeking forward.</li>
-      <li><b>Features added one at a time.</b> Each candidate feature is kept only if it improves out-of-sample log-loss. Ones that don't earn their keep get dropped — we've thrown plenty away.</li>
+      <li><b>Features added one at a time.</b> Each candidate feature is kept only if it improves out-of-sample log-loss. Ones that don't earn their keep get dropped, and we've thrown plenty away.</li>
       <li><b>Calibration, not just accuracy.</b> When the model says 70%, it has to happen about 70% of the time. We check this band by band and publish the chart.</li>
-      <li><b>Compared against the market.</b> Every model is scored against bookmaker/exchange prices — the toughest benchmark there is.</li>
-      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed. Thresholds are set by out-of-sample sweeps (choose on one half of held-out history, confirm on the other), re-run after major model changes — last swept 21 July 2026. Current football gates: Over/Under 2.5 value bets need a 12%+ modelled edge at odds 1.70+; probability bets need a 60%+ modelled chance at odds 1.70+ (BTTS probability likewise). Match-result (1X2) thresholds are unchanged — the sweep found no robustly profitable 1X2 gate, and we say so rather than pretend otherwise.</li>
+      <li><b>Compared against the market.</b> Every model is scored against bookmaker/exchange prices: the toughest benchmark there is.</li>
+      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed. Thresholds are set by out-of-sample sweeps (choose on one half of held-out history, confirm on the other), re-run after major model changes. Last swept 21 July 2026. Current football gates: Over/Under 2.5 value bets need a 12%+ modelled edge at odds 1.70+; probability bets need a 60%+ modelled chance at odds 1.70+ (BTTS probability likewise). Match-result (1X2) thresholds are unchanged. The sweep found no robustly profitable 1X2 gate, and we say so rather than pretend otherwise.</li>
       <li><b>Automated retraining.</b> Models refresh on a schedule (weekly) so ratings never go stale.</li>
     </ul>
   </section>
@@ -75,7 +75,7 @@
   <section class="sec">
     <p class="tag">The models</p>
     <h2>What's actually under the bonnet</h2>
-    <p class="lead">Different sports need different machinery. Here's what each one runs on — the methods and the feature families, if not the weights.</p>
+    <p class="lead">Different sports need different machinery. Here's what each one runs on: the methods and the feature families, if not the weights.</p>
 
     <div class="grid2">
       <div class="card">
@@ -115,37 +115,37 @@
       <div class="card">
         <h3>🎯 Match picks</h3>
         <div class="meta">Darts · Snooker · Rugby · Esports</div>
-        <p>A shared <b>adaptive-K Elo engine</b> with idle-decay and, where it validates, margin-of-victory scaling — so a convincing win moves a rating more than a narrow one.</p>
-        <p>Since 22 July 2026, published probabilities <b>blend the Elo rating with the market's opening price</b> through a gradient-boosted calibration layer — validated out-of-sample per sport before switching, and only kept where it beat the Elo-only model on held-out data. Rugby Union remains on its own API-based ratings model.</p>
+        <p>A shared <b>adaptive-K Elo engine</b> with idle-decay and, where it validates, margin-of-victory scaling, so a convincing win moves a rating more than a narrow one.</p>
+        <p>Since 22 July 2026, published probabilities <b>blend the Elo rating with the market's opening price</b> through a gradient-boosted calibration layer, validated out-of-sample per sport before switching, and only kept where it beat the Elo-only model on held-out data. Rugby Union remains on its own API-based ratings model.</p>
         <p>Rugby covers Union and League with competition-aware ratings (70.7% Union / 65.1% League out-of-sample).</p>
-        <p style="font-size:12px;color:var(--muted)">These are our free sports. Same discipline, simpler machinery — because the data supports one market: the winner.</p>
+        <p style="font-size:12px;color:var(--muted)">These are our free sports. Same discipline, simpler machinery, because the data supports one market: the winner.</p>
       </div>
     </div>
 
     <div class="card" style="margin-top:14px">
       <h3>📈 Systematic trading</h3>
-      <div class="meta">FX · Indices · Commodities — rule-based, no discretion</div>
-      <p>Three independent systematic books (FX on 4h, Indices and Commodities on daily), each built from engineered market features and blended into one cross-asset portfolio. Fully rule-based — no human overrides.</p>
+      <div class="meta">FX · Indices · Commodities · rule-based, no discretion</div>
+      <p>Three independent systematic books (FX on 4h, Indices and Commodities on daily), each built from engineered market features and blended into one cross-asset portfolio. Fully rule-based, with no human overrides.</p>
       <p>Validation is deliberately brutal: <b>walk-forward testing</b>, performance required to hold across <b>separate market eras</b> (not just one lucky regime), and <b>stress-tested at double the real trading costs</b>. Strategies that only work in one era, or die under cost stress, get cut.</p>
-      <p>The books are blended because they're near-uncorrelated with each other — that's where the portfolio's stability comes from, not from any single strategy.</p>
+      <p>The books are blended because they're near-uncorrelated with each other. That's where the portfolio's stability comes from, not from any single strategy.</p>
     </div>
   </section>
 
   <!-- ============ SELECTION ============ -->
   <section class="sec">
     <p class="tag">From prediction to bet</p>
-    <h2>How a pick is chosen — and our exact thresholds</h2>
-    <p class="lead">A probability isn't a bet. We run two avenues, and each has a published bar it must clear. These aren't secret — the thresholds aren't the edge, the model is.</p>
+    <h2>How a pick is chosen, and our exact thresholds</h2>
+    <p class="lead">A probability isn't a bet. We run two avenues, and each has a published bar it must clear. These aren't secret. The thresholds aren't the edge, the model is.</p>
     <div class="tbl"><table>
       <tr><th>Avenue</th><th>What it looks for</th><th>Must clear</th></tr>
       <tr><td><b>🔥 Value (EV)</b></td><td>Model probability implies a bigger edge than the odds are pricing</td><td><code>EV ≥ 5%</code> <b>and</b> <code>model probability ≥ 60%</code></td></tr>
       <tr><td><b>🎯 Probability</b></td><td>The model's highest-confidence read of the match</td><td><code>probability ≥ 60%</code> <b>and</b> <code>odds ≥ 1.40</code></td></tr>
     </table></div>
     <div class="honest">
-      <b>Why the 60% probability floor on value bets?</b> Without it, an "edge" on a 12%-probability longshot at odds of 11.00 passes the EV test — and that's almost always model noise, not value. We won't back it, however good the maths looks. A 60% pick's fair odds are around 1.67, so you'll never see us call an 11.00 shot a value bet.
+      <b>Why the 60% probability floor on value bets?</b> Without it, an "edge" on a 12%-probability longshot at odds of 11.00 passes the EV test, and that's almost always model noise, not value. We won't back it, however good the maths looks. A 60% pick's fair odds are around 1.67, so you'll never see us call an 11.00 shot a value bet.
     </div>
     <div class="honest yes">
-      <b>We publish the bets we skip.</b> Selections clearing the bar are marked <b>PASS</b> — those are the ones we back. Selections the model flagged but that failed a threshold are marked <b>FAIL</b> and are <b>still published, with their own P&amp;L</b>. You can see the whole funnel, and judge for yourself whether our filter earns its place. Most services only show you what they backed.
+      <b>We publish the bets we skip.</b> Selections clearing the bar are marked <b>PASS</b>, and those are the ones we back. Selections the model flagged but that failed a threshold are marked <b>FAIL</b> and are <b>still published, with their own P&amp;L</b>. You can see the whole funnel, and judge for yourself whether our filter earns its place. Most services only show you what they backed.
     </div>
   </section>
 
@@ -154,12 +154,12 @@
     <p class="tag">How we score ourselves</p>
     <h2>The rules of our own record</h2>
     <ul>
-      <li><b>Fixed, published stakes.</b> Singles are £10 level; accumulators are tiered by design (Short Odds 3-fold £10, Mid Odds 3-fold £5, Big Odds 4-fold £3, Match Doubles £5) and every stake is recorded per bet in the ledger. The acca construction rules themselves — leg counts, odds bands, which markets feed each acca — were chosen by a walk-forward backtest over four seasons and are fixed in advance, not tuned to look good afterwards. No hindsight-flattering staking plans, no doubling up.</li>
-      <li><b>Priced at the opener.</b> P&amp;L is struck at the odds we flagged <i>when the pick was published</i> — not a better price we found later.</li>
+      <li><b>Fixed, published stakes.</b> Singles are £10 level; accumulators are tiered by design (Short Odds 3-fold £10, Mid Odds 3-fold £5, Big Odds 4-fold £3, Match Doubles £5) and every stake is recorded per bet in the ledger. The acca construction rules themselves (leg counts, odds bands, which markets feed each acca) were chosen by a walk-forward backtest over four seasons and are fixed in advance, not tuned to look good afterwards. No hindsight-flattering staking plans, no doubling up.</li>
+      <li><b>Priced at the opener.</b> P&amp;L is struck at the odds we flagged <i>when the pick was published</i>, not a better price we found later.</li>
       <li><b>Every bet counts.</b> Wins, losses, and markets that are in the red. Nothing is quietly dropped.</li>
       <li><b>Calibration published.</b> Predicted probability vs what actually happened, band by band.</li>
       <li><b>Brier score vs the market.</b> We show our score next to the market's, even when the market wins.</li>
-      <li><b>Closing-line value (CLV).</b> We record the opening price and the closing price on every pick. If our picks consistently beat the closing line, that's real evidence — and if they don't, that shows too.</li>
+      <li><b>Closing-line value (CLV).</b> We record the opening price and the closing price on every pick. If our picks consistently beat the closing line, that's real evidence, and if they don't, that shows too.</li>
       <li><b>Voids &amp; postponements.</b> Settled only on a real result; void/abandoned events are removed rather than counted as wins or losses.</li>
       <li><b>Data:</b> API-Sports (football, rugby union, basketball &amp; handball fixtures, results and odds) · Betfair Exchange (live market prices and results across all sports) · football-data.co.uk (historical football odds) · tennis-data.co.uk (historical tennis results and odds) · OpenDota (Dota 2 match data) · PandaScore free tier (CS2, LoL, Dota&nbsp;2 &amp; Valorant match histories and schedules). Each sport&#39;s record page credits its own sources.</li>
     </ul>
@@ -171,8 +171,8 @@
     <h2>How to verify our record yourself</h2>
     <p class="lead">A record you can't audit is just a screenshot. Ours is designed to be checked by someone trying to catch us out.</p>
     <ul>
-      <li><b>Picks are timestamped by a third party — not by us.</b> Every pick is committed to a <b>public GitHub repository before the event starts</b>. Git's commit history is timestamped by GitHub and can't be quietly rewritten. You can look back through the history and see exactly what we said, and when we said it.</li>
-      <li><b>Full record as CSV.</b> Every record page has a download of the complete history — date, selection, odds, stake, result, P&amp;L — not just the last few.</li>
+      <li><b>Picks are timestamped by a third party, not by us.</b> Every pick is committed to a <b>public GitHub repository before the event starts</b>. Git's commit history is timestamped by GitHub and can't be quietly rewritten. You can look back through the history and see exactly what we said, and when we said it.</li>
+      <li><b>Full record as CSV.</b> Every record page has a download of the complete history (date, selection, odds, stake, result, P&amp;L), not just the last few.</li>
       <li><b>Losing markets stay visible.</b> If a market is in the red, it stays on the page in red.</li>
     </ul>
   </section>
@@ -182,10 +182,10 @@
     <p class="tag">The part nobody else prints</p>
     <h2>What we don't claim</h2>
     <div class="honest no">
-      <b>We don't beat the closing line.</b> On basketball our model correlates <b>0.84</b> with the sharp closing price but the market is still sharper by roughly 0.016 Brier. Same story in rugby and football. The closing line sees things a results-based model can't — late team news, injuries, rotation. We mirror it well; we don't beat it. Anyone telling you their model beats the close is selling something.
+      <b>We don't beat the closing line.</b> On basketball our model correlates <b>0.84</b> with the sharp closing price but the market is still sharper by roughly 0.016 Brier. Same story in rugby and football. The closing line sees things a results-based model can't: late team news, injuries, rotation. We mirror it well; we don't beat it. Anyone telling you their model beats the close is selling something.
     </div>
     <div class="honest no">
-      <b>Esports: two titles fixed, and we'll say which.</b> Betfair's esports history carries no game label, so multi-game organisations (a club with CS2, Dota and LoL rosters) shared a single rating — a limitation we called unfixable <i>with that data</i>. It was: the fix was new data. <b>Dota&nbsp;2</b> (OpenDota pro-match data) and <b>CS2</b> (PandaScore, 89,000 series with map margins) now run dedicated per-title rating models, each validated against the shared pool on held-out data before going live — both roughly halve our gap to the market on their title. We tested the same upgrade for <b>LoL</b> and it failed our validation gate, so LoL and everything else stay on the shared pool with the safety gate: any pick that disagrees sharply with the market is withheld rather than published.
+      <b>Esports: two titles fixed, and we'll say which.</b> Betfair's esports history carries no game label, so multi-game organisations (a club with CS2, Dota and LoL rosters) shared a single rating, a limitation we called unfixable <i>with that data</i>. It was: the fix was new data. <b>Dota&nbsp;2</b> (OpenDota pro-match data) and <b>CS2</b> (PandaScore, 89,000 series with map margins) now run dedicated per-title rating models, each validated against the shared pool on held-out data before going live. Both roughly halve our gap to the market on their title. We tested the same upgrade for <b>LoL</b> and it failed our validation gate, so LoL and everything else stay on the shared pool with the safety gate: any pick that disagrees sharply with the market is withheld rather than published.
     </div>
     <div class="honest no">
       <b>A tracked record is not a promise.</b> Past calibration doesn't guarantee future profit. Margins, market efficiency, model drift and sample size all bite. Never stake money you can't afford to lose.
@@ -195,7 +195,7 @@
   <!-- ============ PRIVATE ============ -->
   <section class="sec">
     <p class="tag">Where we draw the line</p>
-    <h2>What stays private — and why</h2>
+    <h2>What stays private, and why</h2>
     <p class="lead">We've told you the model families, the feature categories, the data sources, the thresholds, the staking and the scoring rules. What we keep back is the part that would let someone simply copy the work:</p>
     <ul>
       <li>Trained model weights and artefacts</li>
@@ -203,7 +203,7 @@
       <li>The exact feature engineering recipe and transformations</li>
       <li>The training and data pipelines</li>
     </ul>
-    <p style="font-size:13px;color:var(--muted)">That's the difference between showing our workings and handing over the answer sheet. Everything you need to judge whether the models are any good is published — the record, the calibration, the thresholds and the funnel.</p>
+    <p style="font-size:13px;color:var(--muted)">That's the difference between showing our workings and handing over the answer sheet. Everything you need to judge whether the models are any good is published: the record, the calibration, the thresholds and the funnel.</p>
   </section>
 
   <footer>

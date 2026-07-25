@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Altora systematic trading record — three uncorrelated books, combined backtest Sharpe 1.5 (2011–2026), live on demo.">
+<meta name="description" content="Altora systematic trading record: three uncorrelated books, combined backtest Sharpe 1.5 (2011–2026), live on demo.">
 <title>Trading Record — Altora Analytics</title>
 <style>
   :root{--ink:#0b1220;--panel2:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
@@ -64,11 +64,11 @@
   <header>
     <p class="eyebrow">Altora Trading</p>
     <h1>📈 TRADING RECORD</h1>
-    <p class="sub">Three systematic books across uncorrelated markets — live on demo, building the out-of-sample record.</p>
+    <p class="sub">Three systematic books across uncorrelated markets, live on demo, building the out-of-sample record.</p>
     <p style="margin-top:10px"><a class="back" href="record.html">← all divisions</a></p>
   </header>
   <div class="combined">
-    <h2>The combined book — what the three sleeves add up to</h2>
+    <h2>The combined book: what the three sleeves add up to</h2>
     <div class="stats">
       <div class="stat"><b>1.52</b><span>backtest Sharpe<br>2011–2026</span></div>
       <div class="stat"><b>2.10</b><span>Sharpe, held-out<br>era 2023–26</span></div>
@@ -76,7 +76,7 @@
       <div class="stat"><b>~0</b><span>cross-book<br>correlation</span></div>
     </div>
     <p>Risk-parity blend of the three sleeves, net of estimated spread costs. The sleeves are
-      genuinely orthogonal — monthly correlations of −0.05 to +0.19 between them — which is why
+      genuinely orthogonal (monthly correlations of −0.05 to +0.19 between them), which is why
       the combined book beats every sleeve on its own, at a smaller drawdown than any of them.</p>
   </div>
   <div class="books">
@@ -103,11 +103,11 @@
     <h2>How the backtests were validated (and what they can't tell you)</h2>
     <ul>
       <li>15 years of data (2011–2026), every strategy tested net of estimated spread costs.</li>
-      <li>Every edge must be profitable in <b>both halves</b> of the sample independently — an edge
+      <li>Every edge must be profitable in <b>both halves</b> of the sample independently. An edge
         that only worked in one era is discarded, not averaged in.</li>
       <li>Cost stress test: the FX book stays profitable with spreads doubled.</li>
       <li>We rebuilt the indices book from scratch after finding inflated features in an early
-        version — the numbers above are from the clean rebuild, which cost us ~0.1 Sharpe and is
+        version. The numbers above are from the clean rebuild, which cost us ~0.1 Sharpe and is
         exactly why you can trust the rest.</li>
       <li>What backtests can't prove: the future. That's what the live demo record below is for.</li>
     </ul>
@@ -117,7 +117,7 @@
     <h2>The forward record is accruing now</h2>
     <p>All three books run fully automated on demo accounts (live since July 2026), each on its
       own capital, sized to a fixed volatility target. The backtest numbers above are real and
-      honestly built — but the number that counts is the <b>live, out-of-sample</b> one, and that
+      honestly built, but the number that counts is the <b>live, out-of-sample</b> one, and that
       only comes with time. We'll publish it here as it accrues, wins and losses alike.</p>
     <p style="color:var(--muted);font-size:13.5px;margin-top:16px">Systematic model output, not financial advice.
       Demo performance shown for transparency; it is not a promise of future results.</p>
@@ -125,11 +125,11 @@
   <section class="guide">
     <span class="gtag">📘 New · The Handbook</span>
     <h2>Want to build one of these yourself?</h2>
-    <p>We wrote up the exact six-layer system behind these books — data, features, signal engines,
-      backtesting, honest validation and a working broker-connected bot — as a complete handbook
+    <p>We wrote up the exact six-layer system behind these books (data, features, signal engines,
+      backtesting, honest validation and a working broker-connected bot) as a complete handbook
       for beginners. Full Python code at every step, including the validation discipline most
       guides skip.</p>
-    <p style="color:var(--muted);font-size:13.5px">Educational guide, not financial advice — it teaches
+    <p style="color:var(--muted);font-size:13.5px">Educational guide, not financial advice. It teaches
       the engineering and the testing, and promises no profits.</p>
     <a class="gbtn" href="https://whop.com/altora-analytics/build-your-own-automated-fx-trading-bot-the-complete-handbook"
        onclick="window.goatcounter&&goatcounter.count({path:'guide-click',title:'Guide CTA',event:true})">
