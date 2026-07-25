@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-24,Sharks,Cheetahs,0.597,0.635,L
+2026-07-24,Melbourne Storm,South Sydney Rabbitohs,0.530,0.472,L
+2026-07-24,Wigan Warriors,St Helens,0.804,0.806,W
+2026-07-24,Wakefield Trinity,Castleford Tigers,0.567,0.522,W
 2026-07-23,Penrith Panthers,Parramatta Eels,0.648,0.187,W
 2026-07-23,Hull Kingston Rovers,Hull FC,0.748,0.605,W
 2026-07-19,Bulls,Boland Cavaliers,0.672,0.571,L
