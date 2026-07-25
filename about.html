@@ -1,0 +1,105 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="About Altora Analytics — an independent, honesty-first sports and trading analytics project. Every prediction tracked publicly. Nothing deleted.">
+<title>About — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:860px;margin:0 auto;padding:0 20px 60px}
+  header{padding:40px 0 8px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.05em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:13.5px;margin-top:8px}
+  section{border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:22px 24px;margin:14px 0}
+  h2{color:var(--gold);font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:10px}
+  p{font-size:14.5px;margin:8px 0}
+  p b{color:var(--white)}
+  a{color:var(--gold)}
+  .promise{border-left:3px solid var(--gold)}
+  .promise p:first-of-type{color:var(--white);font-size:16px;font-weight:700}
+  ul{margin:8px 0 4px 18px}
+  li{font-size:14.5px;padding:3px 0}
+  li b{color:var(--white)}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:18px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+  footer a{color:var(--gold)}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>About us</h1>
+    <p class="sub">Where data meets the edge — and why we publish everything, including the failures.</p>
+  </header>
+
+  <section class="promise">
+    <h2>The promise</h2>
+    <p>Every prediction tracked publicly. Nothing deleted.</p>
+    <p>Every pick we publish is logged at the odds available when we published it, settled
+    against the real result, and kept forever — wins, losses, and the bets our own filters told
+    us not to back. If you ever catch a number on this site that doesn't match the downloadable
+    record, that's a bug we want to hear about, not a difference of opinion.</p>
+  </section>
+
+  <section>
+    <h2>What Altora is</h2>
+    <p>Altora Analytics is an <b>independent, self-funded analytics project</b>, founded in 2026.
+    We build statistical models for sports — football, tennis, darts, snooker, rugby, esports,
+    basketball and handball — and run systematic trading models across FX, equity indices and
+    commodities. There's no tipster network behind this, no marketing agency, and no team of
+    "senior traders". There are models, a public ledger, and the discipline connecting them.</p>
+    <p>The models are built on a database of more than 800,000 matches across 500+ competitions
+    (the <a href="index.html">live counts are on the front page</a> — they're generated from the
+    actual data files on every deploy, so they can't drift from the truth).</p>
+  </section>
+
+  <section>
+    <h2>How we work</h2>
+    <ul>
+      <li><b>Models earn their place.</b> Nothing goes live until it beats the incumbent on
+      held-out data — both halves of the sample, under the exact configuration we serve. Ideas
+      that fail are published in the <a href="research-log.html">research log</a> alongside the
+      ones that shipped.</li>
+      <li><b>The record is frozen.</b> Once a pick is logged it cannot be quietly edited. If we
+      ever correct something before a match starts, the old row is voided visibly and the
+      correction is logged as a new entry.</li>
+      <li><b>The market is respected.</b> We publish our probability next to the market's price.
+      When our model disagrees wildly with a sharp market, we withhold the pick rather than
+      pretend we've found magic — that gap is usually a data problem, not an edge.</li>
+      <li><b>Machines do the routine, honestly.</b> The pipelines run automatically every day —
+      fetching, predicting, settling, publishing — with health checks that alert us when
+      anything silently breaks, including a check that verifies no settled row has ever been
+      altered.</li>
+    </ul>
+    <p>The full detail — data sources, model families, validation gates, known weaknesses — is
+    on the <a href="methodology.html">methodology page</a>, including the parts that don't
+    flatter us.</p>
+  </section>
+
+  <section>
+    <h2>What we're not</h2>
+    <p>We're not tipsters, and nothing here is betting advice or financial advice. We publish
+    <b>calibrated model output with a verifiable track record</b> — what you do with it is your
+    decision and your responsibility. Past performance proves the process is honest; it doesn't
+    promise future profit. If someone tells you their model guarantees profits, they're selling
+    something. We'd rather show you the ledger.</p>
+  </section>
+
+  <section>
+    <h2>Get in touch</h2>
+    <p>Questions, corrections, or something on the site that doesn't add up? Use the
+    <a href="index.html#contact">contact form</a> — corrections genuinely welcome. The fastest
+    way to make this project better is to catch us being wrong.</p>
+  </section>
+
+  <footer>
+    <a href="index.html">Home</a> · <a href="record.html">All records</a> ·
+    <a href="methodology.html">Methodology</a> · <a href="research-log.html">Research log</a><br>
+    Analysis, not tips · 18+ · BeGambleAware.org · © 2026 Altora Analytics
+  </footer>
+</div>
+<script src="nav.js" defer></script>
+<script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>
