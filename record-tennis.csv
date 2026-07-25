@@ -7,25 +7,25 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-24,Tiago Torres,Hugo Gaston,0.511,0.500,L
 2026-07-24,Tamara Korpatsch,Anhelina Kalinina,0.508,0.500,W
 2026-07-24,Marie Bouzkova,Tereza Valentova,0.566,0.573,L
-2026-07-24,Thiago Seyboth Wild,Philip Henning,0.733,0.279,W
+2026-07-24,Thiago Seyboth Wild,Philip Henning,0.733,0.721,W
 2026-07-24,Kirkov/Stevens,Borges/Cabral,0.511,0.500,L
-2026-07-24,Alexander Blockx,Roman Andres Burruchaga,0.591,0.396,W
+2026-07-24,Alexander Blockx,Roman Andres Burruchaga,0.591,0.604,W
 2026-07-24,Anna Bondar,Alina Charaeva,0.690,0.670,W
 2026-07-24,Michael Zheng,Adam Walton,0.511,0.500,W
 2026-07-24,Rio Noguchi,Charles Broom,0.511,0.500,L
 2026-07-24,Yu Hsiou Hsu,Toby Samuel,0.511,0.500,L
 2026-07-24,Niklas-Salmine/Vrbensky,Jans/Visker,0.503,0.500,L
 2026-07-24,Herbert/Krawietz,Schnaitter/Wallner,0.727,0.706,L
-2026-07-24,Daria Snigur,Lanlana Tararudee,0.617,0.376,W
+2026-07-24,Daria Snigur,Lanlana Tararudee,0.617,0.624,W
 2026-07-24,Igor Marcondes,Diego Dedura-Palomero,0.580,0.570,L
 2026-07-24,Yannick Hanfmann,Quentin Halys,0.631,0.621,L
-2026-07-24,Paula Badosa,Mayar Sherif,0.608,0.379,L
-2026-07-24,Yanki Erel,Matteo Martineau,0.564,0.425,L
+2026-07-24,Paula Badosa,Mayar Sherif,0.608,0.621,L
+2026-07-24,Yanki Erel,Matteo Martineau,0.564,0.575,L
 2026-07-24,Ponchet/Poulsen,Opitz/Wessels,0.501,0.500,W
 2026-07-24,Fiona Ferro,Mina Hodzic,0.783,0.742,W
 2026-07-24,Alexander Bublik,Tomas Martin Etcheverry,0.591,0.580,W
 2026-07-24,Alevtina Ibragimova,Clara Burel,0.508,0.500,W
-2026-07-24,Sara Bejlek,Lilli Tagger,0.605,0.385,L
+2026-07-24,Sara Bejlek,Lilli Tagger,0.605,0.615,L
 2026-07-24,Andrey Rublev,Luca Van Assche,0.854,0.814,L
 2026-07-24,Harold Mayot,Dylan Dietrich,0.511,0.500,L
 2026-07-24,Loof/Uesugi,Cornea/Cukierman,0.503,0.500,W
@@ -38,12 +38,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-24,Marc-Andrea Huesler,Dominic Stricker,0.511,0.500,W
 2026-07-24,Lea Nilsson,Francesca Parcelli,0.819,0.778,W
 2026-07-24,Angela Fita Boluda,Alicia Herrero Linana,0.522,0.515,L
-2026-07-24,Dayeon Back,Loes Ebeling Koning,0.589,0.393,W
+2026-07-24,Dayeon Back,Loes Ebeling Koning,0.589,0.607,W
 2026-07-24,Julia Grabher,Vivian Wolff,0.852,0.812,L
 2026-07-24,Denislava Glushkova,Lola Giza,0.542,0.551,W
-2026-07-24,Pujol Navar/Vega Hernan,Sanchez Qui/Winter Lope,0.544,0.452,L
-2026-07-24,Teodora Kostovic,Julie Pastikova,0.868,0.141,W
-2026-07-24,Lucciana Perez Alarcon,Pietra Rivoli,0.928,0.107,W
+2026-07-24,Pujol Navar/Vega Hernan,Sanchez Qui/Winter Lope,0.544,0.548,L
+2026-07-24,Teodora Kostovic,Julie Pastikova,0.868,0.859,W
+2026-07-24,Lucciana Perez Alarcon,Pietra Rivoli,0.928,0.893,W
 2026-07-24,Daria Egorova,Martina Capurro Taborda,0.557,0.558,W
 2026-07-24,Mia Ristic,Viola Turini,0.910,0.853,W
 2026-07-24,Renata Zarazua,Yuki Naito,0.510,0.498,W
@@ -52,9 +52,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-24,Laura Pigossi,Fernanda Labrana,0.938,0.883,W
 2026-07-24,Sheehy/Zink,Pearson/Trotter,0.618,0.600,W
 2026-07-24,Milavsky/Shick,Fancutt/Rai,0.511,0.500,W
-2026-07-24,Mananchaya Sawangkaew,Lucrezia Stefanini,0.588,0.404,L
+2026-07-24,Mananchaya Sawangkaew,Lucrezia Stefanini,0.588,0.596,L
 2026-07-24,Jacob Fearnley,Jeffrey John Wolf,0.655,0.642,W
-2026-07-24,Martina Trevisan,Nuria Brancaccio,0.502,0.491,L
+2026-07-24,Martina Trevisan,Nuria Brancaccio,0.502,0.508,L
 2026-07-24,Julia Riera,Nauhany Vitoria Leme Da Silva,0.703,0.663,W
 2026-07-24,Suresh Dhakshineswar,Andres Martin,0.596,0.589,W
 2026-07-24,Hilderbrand/Tracy,Maginley/Poling,0.509,0.500,W
@@ -63,11 +63,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-24,Liam Draxl,Clement Chidekh,0.514,0.532,W
 2026-07-23,Matteo Martineau,Gonzalo Villanueva,0.593,0.579,W
 2026-07-23,Dimitar Kuzmanov,Otto Virtanen,0.510,0.502,L
-2026-07-23,Yulia Putintseva,Elina Avanesyan,0.624,0.364,L
+2026-07-23,Yulia Putintseva,Elina Avanesyan,0.624,0.636,L
 2026-07-23,Nikola Bartunkova,Lanlana Tararudee,0.641,0.639,L
-2026-07-23,Barbora Krejcikova,Lucie Havlickova,0.857,0.158,W
-2026-07-23,Sara Bejlek,Maria Timofeeva,0.619,0.373,W
-2026-07-23,Lilli Tagger,Mai Hontama,0.727,0.293,W
+2026-07-23,Barbora Krejcikova,Lucie Havlickova,0.857,0.842,W
+2026-07-23,Sara Bejlek,Maria Timofeeva,0.619,0.627,W
+2026-07-23,Lilli Tagger,Mai Hontama,0.727,0.707,W
 2026-07-23,Dalila Spiteri,Lucia Bronzetti,0.510,0.502,L
 2026-07-23,Shintaro Mochizuki,Duncan Chan,0.511,0.500,W
 2026-07-23,Clement Chidekh,Hayato Matsuoka,0.509,0.500,W
@@ -77,66 +77,66 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-23,Mariano Navone,Quentin Halys,0.723,0.699,L
 2026-07-23,Yannick Hanfmann,Sebastian Baez,0.546,0.541,W
 2026-07-23,Kalyanpur/Nedunchezhiya,Bittoun Kouzmine/Ouakaa,0.511,0.500,W
-2026-07-23,Ignacio Buse,Tomas Martin Etcheverry,0.507,0.477,L
+2026-07-23,Ignacio Buse,Tomas Martin Etcheverry,0.507,0.523,L
 2026-07-23,Paula Badosa,Panna Udvardy,0.665,0.651,W
 2026-07-23,Alexander Bublik,Alex Molcan,0.687,0.651,W
 2026-07-23,Puttergill/Sweeny,Reynolds/Watt,0.511,0.500,L
-2026-07-23,Lloyd Harris,Alex Michelsen,0.506,0.498,L
+2026-07-23,Lloyd Harris,Alex Michelsen,0.506,0.502,L
 2026-07-23,Azkara/Erel,Fomin/Marrero Curbelo,0.511,0.500,W
 2026-07-23,Sheehy/Zink,Ayeni/Bianchi,0.511,0.500,W
 2026-07-23,Charo Esquiva Banuls,Neus Torner Sensano,0.586,0.577,W
 2026-07-23,Margaux Maquet,Francesca Parcelli,0.800,0.768,L
 2026-07-23,Anouck Vrancken Peeters,Denislava Glushkova,0.620,0.606,L
-2026-07-23,Lea Nilsson,Margaux Rouvroy,0.502,0.490,W
-2026-07-23,Dayeon Back,Madelief Hageman,0.937,0.099,W
-2026-07-23,Beatrise Zeltina,Viola Turini,0.528,0.455,L
-2026-07-23,Mia Ristic,Gabriela Ce,0.674,0.324,W
+2026-07-23,Lea Nilsson,Margaux Rouvroy,0.502,0.510,W
+2026-07-23,Dayeon Back,Madelief Hageman,0.937,0.901,W
+2026-07-23,Beatrise Zeltina,Viola Turini,0.528,0.545,L
+2026-07-23,Mia Ristic,Gabriela Ce,0.674,0.676,W
 2026-07-23,Nuria Brancaccio,Carlota Martinez Cirez,0.821,0.769,W
 2026-07-23,Domingues/Torres,Luz/Matos,0.511,0.500,L
-2026-07-23,Martina Capurro Taborda,Berta Bonardi,0.949,0.079,W
+2026-07-23,Martina Capurro Taborda,Berta Bonardi,0.949,0.921,W
 2026-07-23,Victoria Bosio,Pietra Rivoli,0.957,0.907,L
 2026-07-23,Julia Konishi Camargo Silva,Fernanda Labrana,0.511,0.500,L
 2026-07-23,Laura Pigossi,Maria Florencia Urrutia,0.765,0.735,W
 2026-07-23,Julia Riera,Carolina Bohrer Martins,0.987,0.954,W
-2026-07-23,Lucciana Perez Alarcon,Francesca Mattioli,0.928,0.107,W
-2026-07-23,Darja Vidmanova,Yeonwoo Ku,0.659,0.337,L
-2026-07-23,Caroline Dolehide,Savannah Broadus,0.597,0.387,W
-2026-07-23,Elvina Kalieva,Kayla Cross,0.599,0.385,W
+2026-07-23,Lucciana Perez Alarcon,Francesca Mattioli,0.928,0.893,W
+2026-07-23,Darja Vidmanova,Yeonwoo Ku,0.659,0.663,L
+2026-07-23,Caroline Dolehide,Savannah Broadus,0.597,0.613,W
+2026-07-23,Elvina Kalieva,Kayla Cross,0.599,0.615,W
 2026-07-23,Mary Stoiana,Julieta Pareja,0.658,0.639,W
 2026-07-23,Ayana Akli,Lucrezia Stefanini,0.551,0.546,L
-2026-07-23,Mananchaya Sawangkaew,Hong Yi Cody Wong,0.883,0.133,W
-2026-07-23,Martina Trevisan,Francesca Curmi,0.674,0.325,W
-2026-07-23,Fiona Crawley,Yuki Naito,0.686,0.317,L
+2026-07-23,Mananchaya Sawangkaew,Hong Yi Cody Wong,0.883,0.867,W
+2026-07-23,Martina Trevisan,Francesca Curmi,0.674,0.675,W
+2026-07-23,Fiona Crawley,Yuki Naito,0.686,0.683,L
 2026-07-23,Renata Zarazua,Sloane Stephens,0.557,0.561,W
 2026-07-23,Nauhany Vitoria Leme Da Silva,Carolina Alves,0.525,0.534,W
 2026-07-23,Daria Egorova,Ana Candiotto,0.941,0.889,W
 2026-07-23,Pearson/Trotter,Cook/Oliveira,0.511,0.500,W
 2026-07-23,Behar/Chandrasekar,Maginley/Poling,0.511,0.500,L
 2026-07-22,Yi Zhou,Luka Pavlovic,0.699,0.689,L
-2026-07-22,Yannick Hanfmann,Marco Trungelliti,0.658,0.350,W
-2026-07-22,Titouan Droguet,Hugo Gaston,0.612,0.377,L
-2026-07-22,Luciano Darderi,Pedro Martinez,0.777,0.241,W
+2026-07-22,Yannick Hanfmann,Marco Trungelliti,0.658,0.650,W
+2026-07-22,Titouan Droguet,Hugo Gaston,0.612,0.623,L
+2026-07-22,Luciano Darderi,Pedro Martinez,0.777,0.759,W
 2026-07-22,Tomas Martin Etcheverry,Jurij Rodionov,0.616,0.622,W
 2026-07-22,Alex Molcan,Daniel Altmaier,0.511,0.500,W
 2026-07-22,Nuno Borges,Roman Andres Burruchaga,0.516,0.500,L
-2026-07-22,Anhelina Kalinina,Maria Lourdes Carle,0.844,0.178,W
-2026-07-22,Mayar Sherif,Simona Waltert,0.547,0.451,W
-2026-07-22,Daria Snigur,Ayla Aksu,0.908,0.120,W
-2026-07-22,Sinja Kraus,Alina Charaeva,0.623,0.390,L
+2026-07-22,Anhelina Kalinina,Maria Lourdes Carle,0.844,0.822,W
+2026-07-22,Mayar Sherif,Simona Waltert,0.547,0.549,W
+2026-07-22,Daria Snigur,Ayla Aksu,0.908,0.880,W
+2026-07-22,Sinja Kraus,Alina Charaeva,0.623,0.610,L
 2026-07-22,Tamara Korpatsch,Julia Stusek,0.887,0.831,W
 2026-07-22,Fiona Ferro,Erika Andreeva,0.540,0.564,W
-2026-07-22,Tereza Valentova,Maya Joint,0.752,0.257,W
+2026-07-22,Tereza Valentova,Maya Joint,0.752,0.743,W
 2026-07-22,Mina Hodzic,Noemi Basiletti,0.508,0.500,W
 2026-07-22,Sara Saito,Mananchaya Sawangkaew,0.543,0.540,L
-2026-07-22,Kayla Cross,Whitney Osuigwe,0.550,0.445,W
-2026-07-22,Himeno Sakatsume,Fiona Crawley,0.519,0.461,L
+2026-07-22,Kayla Cross,Whitney Osuigwe,0.550,0.555,W
+2026-07-22,Himeno Sakatsume,Fiona Crawley,0.519,0.539,L
 2026-07-22,Mees Rottgering,Yu Hsiou Hsu,0.507,0.500,L
 2026-07-22,Thanasi Kokkinakis,Adam Walton,0.507,0.516,L
 2026-07-22,Mary Stoiana,Anna Rogers,0.510,0.498,W
 2026-07-22,Madison Brengle,Yuki Naito,0.504,0.500,L
 2026-07-22,Darja Vidmanova,Sakura Hosogi,0.509,0.500,W
-2026-07-22,Toby Samuel,Yosuke Watanuki,0.508,0.502,W
+2026-07-22,Toby Samuel,Yosuke Watanuki,0.508,0.498,W
 2026-07-21,Mark Lajal,Darwin Blanch,0.514,0.496,W
-2026-07-21,Liam Broady,Yuta Shimizu,0.719,0.295,L
+2026-07-21,Liam Broady,Yuta Shimizu,0.719,0.705,L
 2026-07-21,Shintaro Mochizuki,Philip Sekulic,0.738,0.710,W
-2026-07-21,Caijsa Hennemann,Miriam Bulgaru,0.654,0.347,L
+2026-07-21,Caijsa Hennemann,Miriam Bulgaru,0.654,0.653,L

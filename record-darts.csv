@@ -1,19 +1,19 @@
 date,favourite,opponent,model_prob,market_prob,result
-2026-07-24,Gerwyn Price,Ross Smith,0.658,0.384,W
+2026-07-24,Gerwyn Price,Ross Smith,0.658,0.616,W
 2026-07-24,Gian van Veen,James Wade,0.551,0.535,W
-2026-07-23,Gary Anderson,Dirk van Duijvenbode,0.683,0.336,L
+2026-07-23,Gary Anderson,Dirk van Duijvenbode,0.683,0.664,L
 2026-07-23,Luke Littler,Josh Rock,0.890,0.885,W
-2026-07-22,Wessel Nijman,Gian van Veen,0.501,0.386,L
+2026-07-22,Wessel Nijman,Gian van Veen,0.501,0.614,L
 2026-07-22,Gerwyn Price,Rob Cross,0.693,0.374,W
 2026-07-22,James Wade,Ryan Searle,0.573,0.529,W
 2026-07-21,Jonny Clayton,Gary Anderson,0.519,0.448,L
 2026-07-21,Michael van Gerwen,Dirk van Duijvenbode,0.675,0.623,L
 2026-07-21,Luke Littler,Nathan Aspinall,0.841,0.804,W
-2026-07-21,Stephen Bunting,Josh Rock,0.518,0.460,L
+2026-07-21,Stephen Bunting,Josh Rock,0.518,0.540,L
 2026-07-20,Ross Smith,Kevin Doets,0.520,0.486,W
 2026-07-20,Gerwyn Price,Martin Schindler,0.799,0.772,W
 2026-07-20,Luke Humphries,Cameron Menzies,0.903,0.841,L
-2026-07-20,Rob Cross,Danny Noppert,0.514,0.413,W
+2026-07-20,Rob Cross,Danny Noppert,0.514,0.587,W
 2026-07-18,Josh Rock,Luke Woodhouse,0.559,0.544,W
 2026-07-18,Stephen Bunting,Niels Zonneveld,0.637,0.610,W
 2026-07-18,Luke Littler,Niko Springer,0.937,0.901,W
@@ -26,9 +26,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-18,James Wade,Jermaine Wattimena,0.582,0.607,W
 2026-07-18,Gian van Veen,Krzysztof Ratajski,0.587,0.557,W
 2026-07-18,Wessel Nijman,Dave Chisnall,0.827,0.847,W
-2026-07-12,Luke Woodhouse,Jermaine Wattimena,0.530,0.412,L
-2026-07-12,Damon Heta,Dirk van Duijvenbode,0.501,0.519,W
-2026-07-12,James Wade,Sebastian Bialecki,0.701,0.436,L
+2026-07-12,Luke Woodhouse,Jermaine Wattimena,0.530,0.588,L
+2026-07-12,Damon Heta,Dirk van Duijvenbode,0.501,0.481,W
+2026-07-12,James Wade,Sebastian Bialecki,0.701,0.564,L
 2026-07-12,Nathan Aspinall,Krzysztof Ratajski,0.598,0.586,L
 2026-07-11,Danny Noppert,Sebastian Bialecki,0.690,0.573,L
 2026-07-11,Jermaine Wattimena,Kim Huybrechts,0.570,0.526,W
@@ -36,13 +36,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-11,James Wade,Maik Kuivenhoven,0.801,0.699,W
 2026-07-11,Michael van Gerwen,Joe Cullen,0.704,0.620,W
 2026-07-11,Gian van Veen,Niko Springer,0.656,0.683,W
-2026-07-11,Kevin Doets,Martin Schindler,0.603,0.365,W
+2026-07-11,Kevin Doets,Martin Schindler,0.603,0.635,W
 2026-07-11,Ross Smith,Niels Zonneveld,0.606,0.377,W
-2026-07-11,Jermaine Wattimena,Ryan Joyce,0.513,0.626,W
+2026-07-11,Jermaine Wattimena,Ryan Joyce,0.513,0.374,W
 2026-07-11,Jonny Clayton,Luke Woodhouse,0.615,0.571,L
-2026-07-11,Wessel Nijman,Dirk van Duijvenbode,0.659,0.330,L
+2026-07-11,Wessel Nijman,Dirk van Duijvenbode,0.659,0.670,L
 2026-07-11,Michael van Gerwen,Damon Heta,0.623,0.712,L
-2026-07-11,Kevin Doets,Sebastian Bialecki,0.702,0.353,L
+2026-07-11,Kevin Doets,Sebastian Bialecki,0.702,0.647,L
 2026-07-11,James Wade,Jan Schmidt,0.881,0.815,W
 2026-07-11,Nathan Aspinall,Ross Smith,0.546,0.524,W
 2026-07-11,Gian van Veen,Krzysztof Ratajski,0.587,0.631,L
