@@ -1,5 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-07-26,Beau Greaves,Kirsi Viinikainen,0.920,0.928,W
+2026-07-26,Gemma Hayter,Vicky Pruim,0.645,0.620,W
+2026-07-26,Lisa Ashton,Rhian O'Sullivan,0.577,0.583,W
+2026-07-26,Fallon Sherrock,Deta Hedman,0.543,0.570,W
 2026-07-26,Beau Greaves,Kirsi Viinikainen,0.920,0.928,VOID
 2026-07-26,Gemma Hayter,Vicky Pruim,0.645,0.620,VOID
 2026-07-26,Lisa Ashton,Rhian O'Sullivan,0.577,0.583,VOID
