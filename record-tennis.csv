@@ -1,4 +1,45 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-26,Alan Magadan,Garrett Johns,0.511,0.500,W
+2026-07-25,Jans/Visker,Ponchet/Poulsen,0.749,0.724,W
+2026-07-25,Miedler/Polmans,Schnaitter/Wallner,0.590,0.597,W
+2026-07-25,Sanchez Qui/Winter Lope,Azkara/Erel,0.501,0.500,W
+2026-07-25,Diego Dedura-Palomero,Gauthier Onclin,0.618,0.601,W
+2026-07-25,Alexander Bublik,Quentin Halys,0.672,0.645,L
+2026-07-25,Paulson/Poljak,Loof/Uesugi,0.509,0.500,L
+2026-07-25,Otto Virtanen,Maks Kasnikowski,0.595,0.586,W
+2026-07-25,Tereza Valentova,Daria Snigur,0.545,0.543,L
+2026-07-25,Anna Bondar,Elina Avanesyan,0.621,0.619,W
+2026-07-25,Dylan Dietrich,Thiago Seyboth Wild,0.585,0.590,L
+2026-07-25,Barbora Krejcikova,Lilli Tagger,0.822,0.806,L
+2026-07-25,Mayar Sherif,Tamara Korpatsch,0.583,0.576,L
+2026-07-25,Borges/Cabral,Droguet/Jacquet,0.697,0.687,L
+2026-07-25,Keegan Smith,Luka Pavlovic,0.507,0.529,L
+2026-07-25,Max Hans Rehberg,Marc-Andrea Huesler,0.511,0.500,L
+2026-07-25,Milavsky/Shick,Sheehy/Zink,0.510,0.500,W
+2026-07-25,Luca Van Assche,Hugo Gaston,0.615,0.596,W
+2026-07-25,Oliver Crawford,Matteo Martineau,0.665,0.670,L
+2026-07-25,Teodora Kostovic,Anna Siskova,0.608,0.622,W
+2026-07-25,Dayeon Back,Denislava Glushkova,0.758,0.754,W
+2026-07-25,Vivian Wolff,Alicia Herrero Linana,0.615,0.596,W
+2026-07-25,Lea Nilsson,Charo Esquiva Banuls,0.551,0.568,W
+2026-07-25,Lucciana Perez Alarcon,Daria Egorova,0.517,0.509,W
+2026-07-25,James McCabe,Alex Bolt,0.512,0.500,L
+2026-07-25,Julia Riera,Laura Pigossi,0.734,0.708,W
+2026-07-25,Aoi Ito,Astra Sharma,0.589,0.598,W
+2026-07-25,Hilderbrand/Tracy,Isaro/Kaliyanda Poonach,0.511,0.500,W
+2026-07-25,Abdullah Shelbayh,Billy Harris,0.509,0.500,W
+2026-07-25,Renata Zarazua,Caroline Dolehide,0.517,0.507,L
+2026-07-25,Clervie Ngounoue,Varvara Lepchenko,0.508,0.500,L
+2026-07-25,Polina Kudermetova,Mei Yamaguchi,0.509,0.498,W
+2026-07-25,Nuria Brancaccio,Mia Ristic,0.528,0.536,L
+2026-07-25,Yeonwoo Ku,Lucrezia Stefanini,0.591,0.604,W
+2026-07-25,Michael Zheng,Jacob Fearnley,0.577,0.583,L
+2026-07-25,Mariam Bolkvadze,Daria Kasatkina,0.506,0.500,L
+2026-07-25,Toby Samuel,Charles Broom,0.778,0.776,W
+2026-07-25,Luciano Darderi,Alexander Blockx,0.610,0.628,L
+2026-07-25,Alex Michelsen,Suresh Dhakshineswar,0.914,0.855,W
+2026-07-25,Fiona Ferro,Lucia Bronzetti,0.580,0.569,W
+2026-07-25,Shintaro Mochizuki,Liam Draxl,0.521,0.520,L
 2026-07-24,Max Hans Rehberg,Anton Matusevich,0.748,0.718,W
 2026-07-24,Paul Inchauspe,Keegan Smith,0.511,0.500,L
 2026-07-24,Luka Pavlovic,Mert Alkaya,0.511,0.500,W
