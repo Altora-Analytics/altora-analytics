@@ -59,27 +59,29 @@
     <p class="sub">Calibrated model analysis, not tips. Validated out-of-sample, tracked in the open.</p>
     <p style="margin-top:10px"><a class="back" href="record.html">← all sports</a></p>
   </header>
-<section style="border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:24px 22px;margin:30px 0"><p style="font-size:10.5px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--orange)">Today · 2026-07-26</p><h2 style="color:var(--white);font-weight:800;font-size:clamp(19px,4vw,24px);margin:2px 0 4px">Today's model reads</h2><p style="color:var(--steel);font-size:13.5px;margin:0 0 12px">Model win probability for today's matches — not tips. These settle into the record below.</p><div style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid #18253f"><div style="font-size:14px"><b style="color:var(--white)">Luke Littler</b> <span style="color:var(--muted)">v Gerwyn Price</span></div><div style="white-space:nowrap;color:var(--orange);font-weight:800;font-size:17px">88%<span style="color:var(--muted);font-weight:400;font-size:12px">&nbsp;·&nbsp;mkt 88%</span></div></div></section>
+
 
   <p class="note"><b>Model updated 22 July 2026:</b> published probabilities now blend the Elo rating with the market opening price through a gradient-boosted calibration layer, validated out-of-sample before switching. The record below spans both model versions.</p>
   <section class="valid">
-    <p class="eyebrow2">Model validation · 1,995 out-of-sample matches · to 2026-06-27</p>
-    <p style="font-size:11px;color:var(--muted);margin:2px 0 0">Validation snapshot predates the
-    22 July 2026 model update; the live record below reflects the current model. A refreshed
-    validation run is queued.</p>
+    <p class="eyebrow2">Model validation · 3,373 out-of-sample matches · to 2026-07-26</p>
+    <p style="font-size:11px;color:var(--muted);margin:2px 0 0">Refreshed 26 July 2026 under a
+    documented, reproducible protocol: the serving form + rating blend, priced with each
+    competition's real match format, tested on 2024-onward matches. It replaces an earlier
+    snapshot whose producing script was lost — we rebuilt the harness rather than carry
+    numbers we could no longer verify.</p>
     <h2>Is the model accurate?</h2>
     <p class="vlead">These are matches the model never trained on. Two things prove accuracy: it
       picks the winner about two in three, and — more importantly — its probabilities are
       <b>calibrated</b>: when it says 71%, it happens 71% of the time.</p>
     <div class="band">
-      <div><b>65%</b><span>favourite pick accuracy</span></div>
-      <div><b>0.213</b><span>model brier</span></div>
-      <div><b>0.210</b><span>market brier</span></div>
-      <div><b>9.41<span style="color:var(--muted);font-size:15px">/9.31</span></b><span>legs: pred / actual</span></div>
+      <div><b>62%</b><span>favourite pick accuracy</span></div>
+      <div><b>0.227</b><span>model brier</span></div>
+      <div><b>0.223</b><span>market brier</span></div>
+      
     </div>
     <p class="calh">Reliability — model probability <span class="k1">predicted</span> vs
       <span class="k2">what actually happened</span></p>
-    <div class="cal"><div class="crow"><div class="csays">15%</div><div class="ctrack"><div class="cpred" style="width:15%"></div><div class="cact" style="width:18%"></div></div><div class="clbl">18%</div><div class="cn">34</div></div><div class="crow"><div class="csays">29%</div><div class="ctrack"><div class="cpred" style="width:29%"></div><div class="cact" style="width:30%"></div></div><div class="clbl">30%</div><div class="cn">161</div></div><div class="crow"><div class="csays">44%</div><div class="ctrack"><div class="cpred" style="width:44%"></div><div class="cact" style="width:44%"></div></div><div class="clbl">44%</div><div class="cn">425</div></div><div class="crow"><div class="csays">58%</div><div class="ctrack"><div class="cpred" style="width:58%"></div><div class="cact" style="width:56%"></div></div><div class="clbl">56%</div><div class="cn">757</div></div><div class="crow"><div class="csays">71%</div><div class="ctrack"><div class="cpred" style="width:71%"></div><div class="cact" style="width:74%"></div></div><div class="clbl">74%</div><div class="cn">431</div></div><div class="crow"><div class="csays">87%</div><div class="ctrack"><div class="cpred" style="width:87%"></div><div class="cact" style="width:91%"></div></div><div class="clbl">91%</div><div class="cn">187</div></div></div>
+    <div class="cal"><div class="crow"><div class="csays">30%</div><div class="ctrack"><div class="cpred" style="width:30%"></div><div class="cact" style="width:28%"></div></div><div class="clbl">28%</div><div class="cn">242</div></div><div class="crow"><div class="csays">44%</div><div class="ctrack"><div class="cpred" style="width:44%"></div><div class="cact" style="width:44%"></div></div><div class="clbl">44%</div><div class="cn">915</div></div><div class="crow"><div class="csays">57%</div><div class="ctrack"><div class="cpred" style="width:57%"></div><div class="cact" style="width:57%"></div></div><div class="clbl">57%</div><div class="cn">1,404</div></div><div class="crow"><div class="csays">71%</div><div class="ctrack"><div class="cpred" style="width:71%"></div><div class="cact" style="width:70%"></div></div><div class="clbl">70%</div><div class="cn">720</div></div><div class="crow"><div class="csays">84%</div><div class="ctrack"><div class="cpred" style="width:84%"></div><div class="cact" style="width:96%"></div></div><div class="clbl">96%</div><div class="cn">84</div></div></div>
     <p class="note">The two bars line up on every band — that's calibration. Not sharper than the
       market (that's near-impossible), but demonstrably accurate, and shown in the open.</p>
   </section>
