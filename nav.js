@@ -75,3 +75,24 @@
     document.body.appendChild(sig);
   }
 })();
+
+  // ---- PWA plumbing (2026-07-26): manifest + icons + service worker on every page ----
+  (function () {
+    if (!document.querySelector('link[rel="manifest"]')) {
+      var m = document.createElement("link"); m.rel = "manifest"; m.href = "/manifest.webmanifest";
+      document.head.appendChild(m);
+    }
+    if (!document.querySelector('meta[name="theme-color"]')) {
+      var t = document.createElement("meta"); t.name = "theme-color"; t.content = "#0b1220";
+      document.head.appendChild(t);
+    }
+    if (!document.querySelector('link[rel="apple-touch-icon"]')) {
+      var a = document.createElement("link"); a.rel = "apple-touch-icon"; a.href = "/assets/apple-touch-icon.png";
+      document.head.appendChild(a);
+    }
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/sw.js").catch(function () {});
+      });
+    }
+  })();
