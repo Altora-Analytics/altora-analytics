@@ -115,7 +115,7 @@
       <div class="card">
         <h3>🎯 Match picks</h3>
         <div class="meta">Darts · Snooker · Rugby · Esports</div>
-        <p>A shared <b>adaptive-K Elo engine</b> with idle-decay and, where it validates, margin-of-victory scaling, so a convincing win moves a rating more than a narrow one.</p>
+        <p>A shared <b>adaptive-K Elo engine</b> with idle-decay and, where it validates, margin-of-victory scaling, so a convincing win moves a rating more than a narrow one. Esports additionally runs dedicated per-title rating models for Dota&nbsp;2 (OpenDota pro-match data) and CS2 (PandaScore map-level data) where they beat the shared pool on held-out data — detail in the honesty section below.</p>
         <p>Since 22 July 2026, published probabilities <b>blend the Elo rating with the market's opening price</b> through a gradient-boosted calibration layer, validated out-of-sample per sport before switching, and only kept where it beat the Elo-only model on held-out data. Rugby Union remains on its own API-based ratings model.</p>
         <p>Rugby covers Union and League with competition-aware ratings (70.7% Union / 65.1% League out-of-sample).</p>
         <p style="font-size:12px;color:var(--muted)">These are our free sports. Same discipline, simpler machinery, because the data supports one market: the winner.</p>
@@ -160,7 +160,7 @@
       <li><b>Calibration published.</b> Predicted probability vs what actually happened, band by band.</li>
       <li><b>Brier score vs the market.</b> We show our score next to the market's, even when the market wins.</li>
       <li><b>Closing-line value (CLV).</b> We record the opening price on every pick, and the closing price wherever the exchange gives us one before the off. Coverage is honest rather than complete: as of July 2026 it runs from 99% of snooker picks down to 45% of darts and none at all in tennis, because our capture windows do not yet line up with every start time. We are widening them. If our picks consistently beat the closing line that is real evidence, and if they don't that shows too, but we will not quote a closing-line figure on a sport where we have not actually captured the closes.</li>
-      <li><b>Voids &amp; postponements.</b> Settled only on a real result; void/abandoned events are removed rather than counted as wins or losses.</li>
+      <li><b>Voids &amp; postponements.</b> Settled only on a real result. A voided or abandoned match stays on the record page and in the downloadable CSV, marked VOID, and is excluded from the accuracy figures because there is no result to score. Nothing is removed.</li>
       <li><b>Data:</b> API-Sports (football, rugby union, basketball &amp; handball fixtures, results and odds) · Betfair Exchange (live market prices and results across all sports) · football-data.co.uk (historical football odds) · tennis-data.co.uk (historical tennis results and odds) · OpenDota (Dota 2 match data) · PandaScore free tier (CS2, LoL, Dota&nbsp;2 &amp; Valorant match histories and schedules). Each sport&#39;s record page credits its own sources.</li>
     </ul>
   </section>
