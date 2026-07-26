@@ -1,6 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-26,Beau Greaves,Kirsi Viinikainen,0.920,0.928,W
+2026-07-26,Beau Greaves,Kirsi Viinikainen,0.920,0.928,VOID
+2026-07-26,Gemma Hayter,Vicky Pruim,0.645,0.620,VOID
+2026-07-26,Lisa Ashton,Rhian O'Sullivan,0.577,0.583,VOID
+2026-07-26,Fallon Sherrock,Deta Hedman,0.543,0.570,VOID
 2026-07-25,Gerwyn Price,Gian van Veen,0.650,0.630,W
 2026-07-25,Luke Littler,Dirk van Duijvenbode,0.941,0.943,W
+2026-07-25,Luke Littler,Dirk van Duijvenbode,0.666,0.488,VOID
 2026-07-24,Gerwyn Price,Ross Smith,0.658,0.616,W
 2026-07-24,Gian van Veen,James Wade,0.551,0.535,W
 2026-07-23,Gary Anderson,Dirk van Duijvenbode,0.683,0.664,L
@@ -8,6 +14,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-22,Wessel Nijman,Gian van Veen,0.501,0.614,L
 2026-07-22,Gerwyn Price,Rob Cross,0.693,0.374,W
 2026-07-22,James Wade,Ryan Searle,0.573,0.529,W
+2026-07-22,Ross Smith,Cameron Menzies,0.682,0.633,VOID
 2026-07-21,Jonny Clayton,Gary Anderson,0.519,0.448,L
 2026-07-21,Michael van Gerwen,Dirk van Duijvenbode,0.675,0.623,L
 2026-07-21,Luke Littler,Nathan Aspinall,0.841,0.804,W

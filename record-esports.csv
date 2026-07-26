@@ -43,6 +43,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-17,anyones legend,karmine corp,0.563,,L
 2026-07-17,bb team,nigma galaxy,0.683,0.741,W
 2026-07-17,bestia academy,magicos,0.631,,W
+2026-07-17,arcred,the last resort,0.522,0.432,VOID
 2026-07-16,Just_Players,WW Team,0.519,0.447,W
 2026-07-16,Bilibili Gaming,T1,0.510,0.405,W
 2026-07-16,Anyones Legend,G2 esports,0.509,,W
@@ -58,7 +59,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-14,Oddik,paiN Academy,0.524,0.694,W
 2026-07-14,Vasco eSports,MAGICOS,0.660,0.798,L
 2026-07-14,BESTIA Academy,Guara eSports,0.620,,W
+2026-07-14,ex-KRU Esports,Alzon,0.575,,VOID
 2026-07-13,Mouz,Lgd Gaming,0.808,0.261,L
 2026-07-13,Xtreme Gaming,Team Liquid,0.652,0.343,L
 2026-07-13,VirtusPro,Rune Eaters,0.540,0.673,L
 2026-07-13,T1,GAM Esports,0.652,0.481,W
+2026-07-13,Vici Gaming,PlayTime,0.679,0.541,VOID
+2026-07-12,Honved,BRUTE,0.609,0.260,VOID
