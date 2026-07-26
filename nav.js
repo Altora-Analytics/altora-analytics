@@ -18,6 +18,7 @@
     ["faq.html", "FAQ"],
     ["methodology.html", "Methodology"],
     ["about.html", "About"],
+    ["corrections.html", "Corrections"],
     ["reviews.html", "Reviews"],
     ["https://whop.com/altora-analytics", "📘 Guides"]
   ];

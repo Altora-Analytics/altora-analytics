@@ -1,0 +1,116 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
+<title>Corrections | Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:860px;margin:0 auto;padding:0 20px 60px}
+  header{padding:40px 0 8px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.05em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:13.5px;margin:8px auto 0;max-width:62ch}
+  section,article{border:1px solid var(--line);border-radius:14px;background:var(--panel);
+           padding:22px 24px;margin:14px 0}
+  section.policy{border-left:3px solid var(--gold)}
+  h2{color:var(--gold);font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:10px}
+  article h3{color:var(--white);font-size:16px;margin:6px 0 2px}
+  p{font-size:14.5px;margin:8px 0} p b{color:var(--white)}
+  a{color:var(--gold)}
+  .top{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .dt{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .tag{display:inline-block;padding:2px 10px;border-radius:999px;font-size:11px;font-weight:800}
+  .tag.ann{background:rgba(91,200,141,.15);color:var(--green);border:1px solid rgba(91,200,141,.4)}
+  .tag.excl{background:rgba(232,184,75,.14);color:var(--gold);border:1px solid rgba(232,184,75,.4)}
+  .sp{font-size:12px;color:var(--muted);letter-spacing:.04em}
+  .fix{font-size:13.5px;color:var(--muted)}
+  ul{margin:8px 0 4px 18px} li{font-size:14.5px;padding:3px 0} li b{color:var(--white)}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:18px;text-align:center;
+         font-size:12px;color:var(--muted);line-height:1.7}
+  footer a{color:var(--gold)}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>Corrections</h1>
+    <p class="sub">We do not delete predictions. When one was produced from data we can prove
+    was faulty, it stays on the record and we explain it here.</p>
+  </header>
+
+  <section class="policy">
+    <h2>The policy</h2>
+    <p>Every model has bad days, and every system has bugs. The question that matters is what
+    happens next. Deleting the affected picks would make the record look better and mean
+    nothing. So we do the opposite.</p>
+    <ul>
+      <li><b>Nothing is deleted, ever.</b> A published prediction stays in the ledger, on the
+      record page and in the downloadable CSV, whatever it turns out to be worth.</li>
+      <li><b>Faults are written up here.</b> What broke, what it affected, how many records, and
+      what we changed so it cannot happen again.</li>
+      <li><b>Exclusions are disclosed and counted.</b> If a fault was severe enough that leaving
+      the affected rows in the headline accuracy would mislead, we may exclude them, and this
+      page says exactly how many and why. An exclusion you cannot see is a deletion with better
+      manners.</li>
+      <li><b>The default is to count them anyway.</b> No correction has been excluded from our published statistics. Every affected record is still counted against us.</li>
+      <li><b>A settled row can never change.</b> An automated check compares every settled
+      prediction against a stored fingerprint each night and alerts if one is altered or
+      disappears.</li>
+    </ul>
+    <p style="font-size:13px;color:var(--muted)">Corrections found by readers are welcome and
+    will be credited. Use the <a href="index.html#contact">contact form</a>. The fastest way to
+    make this project better is to catch us being wrong.</p>
+  </section>
+
+  <section>
+    <h2>Record</h2>
+    <p><b>3</b> corrections published ·
+    <b>0</b> resulting in any exclusion from headline statistics ·
+    <b>0</b> predictions deleted, since day one.</p>
+  </section>
+
+  <article>
+    <div class="top"><span class="dt">2026-07-26</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Placeholder exchange prices recorded as real market prices</h3>
+    <p class="sp">Tennis · Darts · Esports · Rugby</p>
+    <p><b>What happened.</b> When a betting market has no money in it yet, the exchange shows its minimum price on both sides. Our capture treated that as a real market view. It normalises to a flawless 50/50, so every sanity check we had passed it.</p>
+    <p><b>Why it matters.</b> On tennis the fabricated price was not just a benchmark, it was an input to the model, so on those fixtures the model largely echoed a number that meant nothing. 53 of 185 tennis records carry a market price of exactly 50%.</p>
+    <p><b>What we did.</b> Annotated. Those rows stay in the record and in the published accuracy figures.</p>
+    <p class="fix"><b>Fixed.</b> Capture now requires a plausible two-sided book AND actual traded volume before storing a price. A daily data-quality check watches for recurrence. <a href="research-log.html">Read the detail</a></p>
+  </article>
+  <article>
+    <div class="top"><span class="dt">2026-07-26</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Market price published for the wrong player</h3>
+    <p class="sp">Tennis · Darts · Snooker · Rugby · Esports</p>
+    <p><b>What happened.</b> On the record pages and downloadable CSVs, the model column showed our favourite&#x27;s probability while the market column showed the first-named player&#x27;s. Where the model favoured the second-named player, the two columns described different people.</p>
+    <p><b>Why it matters.</b> It made the model look contrarian on matches where it actually agreed with the market. 93 of 325 published rows were affected, the worst by 84 percentage points. The cards were always correct, so cards and pages disagreed.</p>
+    <p><b>What we did.</b> Corrected at source and every page regenerated. No prediction changed; only the market figure shown beside it.</p>
+    <p class="fix"><b>Fixed.</b> The publisher now flips the market price to the favourite&#x27;s side, matching the cards. Verified row by row against the ledgers. <a href="methodology.html">Read the detail</a></p>
+  </article>
+  <article>
+    <div class="top"><span class="dt">2026-07-26</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Closing-line figures reported as zero when no closing price existed</h3>
+    <p class="sp">Snooker · Esports · Rugby · Darts</p>
+    <p><b>What happened.</b> If a closing price was never captured, the code copied the opening price into the closing field. Closing-line value then computed as exactly 0.00% and read as a real measurement rather than a missing one.</p>
+    <p><b>Why it matters.</b> Every snooker record was affected. &#x27;Our picks show zero closing-line value&#x27; is a meaningful claim about edge; &#x27;we never captured the close&#x27; is not, and the two were indistinguishable.</p>
+    <p><b>What we did.</b> No prediction affected. The published closing-line coverage figures on the methodology page now state the real per-sport percentages.</p>
+    <p class="fix"><b>Fixed.</b> A missing closing price now stays missing. Coverage is published rather than implied. <a href="methodology.html">Read the detail</a></p>
+  </article>
+
+  <footer>
+    Generated automatically from the corrections registry on 26 July 2026.<br>
+    <a href="index.html">Home</a> &middot; <a href="record.html">All records</a> &middot;
+    <a href="methodology.html">Methodology</a> &middot;
+    <a href="research-log.html">Research log</a> &middot;
+    <a href="calibration.html">Calibration</a><br>
+    Analysis, not tips &middot; 18+ &middot; BeGambleAware.org &middot; &copy; 2026 Altora Analytics
+  </footer>
+</div>
+<script src="nav.js" defer></script>
+<script data-goatcounter="https://altoraanalytics.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>
