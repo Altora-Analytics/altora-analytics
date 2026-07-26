@@ -12,6 +12,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-25,Phil O'Kane,Fergal Quinn,0.550,0.578,W
 2026-07-25,Ka Wai Cheung,Jimmy White,0.717,0.741,W
 2026-07-25,Iulian Boiko,Gong Chenzhi,0.610,0.593,L
+2026-07-25,Liam Highfield,Michael Larkov,0.909,0.915,W
 2026-07-25,Ross Muir,Panchaya Channoi,0.879,0.881,W
 2026-07-25,Oliver Sykes,Sahil Nayyar,0.764,0.811,W
 2026-07-25,Jamie Rhys Clarke,On Yee Ng,0.861,0.902,W
@@ -19,6 +20,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-25,Artemijs Zizins,Alfie Burden,0.602,0.606,W
 2026-07-25,Lan Yuhao,Antoni Kowalski,0.556,0.560,L
 2026-07-25,Ashley Carty,Liu Wenwei,0.625,0.635,W
+2026-07-25,Wang Xinbo,Oliver Brown,0.769,0.818,W
+2026-07-25,Yao Pengcheng,Stuart Carrington,0.620,0.624,L
+2026-07-25,Thanawat Tirapongpaiboon,Zhao Hanyang,0.531,0.539,W
+2026-07-25,Liam Davies,Steven Hallworth,0.555,0.560,W
+2026-07-25,Alexander Ursenbacher,Anton Kazakov,0.554,0.578,L
+2026-07-25,Gao Yang,Joshua Thomond,0.816,0.818,W
+2026-07-25,Liam Graham,Kaylan Patel,0.675,0.678,W
 2026-07-22,Zhou Yuelong,Jimmy Robertson,0.625,0.654,L
 2026-07-22,Luca Brecel,Pang Junxu,0.564,0.558,L
 2026-07-22,Matthew Selt,Lei Peifan,0.520,0.500,L

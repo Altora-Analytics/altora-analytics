@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-26,St George,Gold Coast Tit,0.516,0.509,L
 2026-07-25,Griquas,Bulls,0.623,0.766,W
 2026-07-25,Lions,Pumas,0.721,0.675,W
 2026-07-25,Canberra Raiders,Wests Tigers,0.791,0.808,W
@@ -6,6 +7,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-25,Brisbane Bronc,North Queensland Cowboys,0.564,0.571,L
 2026-07-25,Huddersfield Giants,York Knights,0.580,0.580,W
 2026-07-25,Warrington Wolves,Leigh Leopards,0.520,0.500,L
+2026-07-25,Catalans Dragons,Toulouse Olympique,0.618,0.621,W
 2026-07-24,Sharks,Cheetahs,0.597,0.365,L
 2026-07-24,Melbourne Storm,South Sydney Rabbitohs,0.530,0.528,L
 2026-07-24,Wigan Warriors,St Helens,0.804,0.806,W
