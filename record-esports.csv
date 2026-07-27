@@ -1,4 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-26,team vitality,movistar koi,0.627,,W
+2026-07-26,karmine corp,g2 esports,0.527,,W
+2026-07-26,cloud9,team liquid,0.529,,L
+2026-07-26,shopify rebellion,disguised,0.611,,W
+2026-07-26,pain gaming,ninjas in pyjamas,0.555,,W
+2026-07-26,fut esports,3dmax,0.735,0.745,L
+2026-07-26,inox division,g2 ares,0.694,0.741,W
+2026-07-26,largadosypelados,oddik,0.536,,L
+2026-07-26,themongolz,wildcard,0.769,0.649,W
+2026-07-26,spirit,100 thieves,0.898,,W
+2026-07-26,fluxo w7m,isurus,0.574,0.746,L
 2026-07-25,team vitality,g2 esports,0.568,,L
 2026-07-25,karmine corp,movistar koi,0.588,,W
 2026-07-25,sentinels,team dignitas,0.825,0.816,W

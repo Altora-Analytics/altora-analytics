@@ -7,6 +7,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-26,Noppon Saengkham,Florian Nuessle,0.713,0.749,L
 2026-07-26,Michael Holt,Dylan Emery,0.526,0.539,W
 2026-07-26,Matthew Stevens,Ashley Hugill,0.598,0.578,L
+2026-07-26,Liam Highfield,Robbie Williams,0.660,0.635,L
 2026-07-26,Marco Fu,Ricky Walden,0.518,0.500,L
 2026-07-26,Stan Moody,David Grace,0.716,0.734,W
 2026-07-26,Scott Donaldson,Luo Zetao,0.626,0.637,L
@@ -22,6 +23,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-26,Artemijs Zizins,Martin O'Donnell,0.546,0.539,W
 2026-07-26,Anthony McGill,Julien Leclercq,0.657,0.670,W
 2026-07-26,Ben Woollaston,Ashley Carty,0.598,0.578,L
+2026-07-26,Jiang Jun,Gao Yang,0.645,0.670,L
+2026-07-26,Lyu Haotian,Stuart Carrington,0.617,0.634,W
+2026-07-26,Wang Xinbo,Long Zehuang,0.585,0.560,W
+2026-07-26,Liu Hongyu,Liam Davies,0.610,0.593,L
+2026-07-26,Matthew Selt,Duane Jones,0.670,0.719,W
+2026-07-26,Aaron Hill,Anton Kazakov,0.818,0.818,W
+2026-07-26,Daniel Wells,Liam Graham,0.764,0.811,W
+2026-07-26,Ben Mertens,Thanawat Tirapongpaiboon,0.662,0.670,L
 2026-07-25,Mateusz Baranowski,Bai Yulu,0.622,0.635,W
 2026-07-25,Mitchell Mann,Connor Benzey,0.775,0.811,L
 2026-07-25,Florian Nuessle,Yang Liu,0.623,0.650,W
