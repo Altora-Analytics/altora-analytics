@@ -46,6 +46,20 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Dropped</span>
+    <h3>Basketball: box-score pace features for totals, killed by the serving gate</h3>
+    <p>The idea was sound: pace and shooting efficiency should predict total points, and an
+    exploratory study agreed, beating a simple baseline by 1.3% with the improvement holding
+    in every resample. Then it faced the real test: added to our full production totals model
+    and judged on both chronological halves of 2024&ndash;26 held-out data.</p>
+    <p>It failed both halves. The production model's existing features (rolling scoring rates,
+    league context, ratings) already contain what pace was adding, so the extra features made
+    predictions slightly worse, not better. The same thing happened when box scores were tried
+    for match-winner in July. Conclusion twice over: box-score features are redundant with our
+    feature set, and the daily harvesting they would have required is cancelled. A promising
+    idea that dies at the gate is the system working. Published here so it stays dead.</p>
+  </div>
+
   <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Registered</span>
     <h3>All sports: can the model beat the opening price? (rules fixed before the data)</h3>
     <p>Registered 27 July 2026, before results exist. Since today our exchange recorders
