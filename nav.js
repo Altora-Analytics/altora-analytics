@@ -13,6 +13,7 @@
     ["record-trading.html",    "📈", "Trading",    "#e8b84b"]
   ];
   var LINKS = [
+    ["start-here.html", "Start here"],
     ["record.html", "Records"],
     ["research-log.html", "Research"],
     ["faq.html", "FAQ"],

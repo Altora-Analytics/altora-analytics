@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="New to Altora? How to read our prediction cards, what the gates mean, why voids are shown, and how to check the record yourself.">
+<title>Start Here — Altora Analytics</title>
+<style>
+  :root{--ink:#0b1220;--panel2:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
+        --muted:#8493a8;--blue:#57a9df;--green:#5bc88d;--red:#e25e54}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -200px,#16233c 0%,transparent 60%),var(--ink);
+       color:var(--steel);font-family:"Segoe UI",system-ui,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:820px;margin:0 auto;padding:0 20px 60px}
+  header{padding:44px 0 10px;text-align:center}
+  h1{color:var(--white);font-weight:800;letter-spacing:.06em;font-size:clamp(24px,5vw,34px)}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+  .sub{color:var(--muted);font-size:14.5px;margin-top:8px;max-width:56ch;margin-left:auto;margin-right:auto}
+  a.back{color:var(--blue);text-decoration:none;font-weight:700;font-size:13px;letter-spacing:.08em}
+  .card{border:1px solid var(--line);border-radius:16px;background:var(--panel2);padding:26px 28px;margin:16px 0}
+  .card h2{color:var(--white);font-size:16.5px;margin-bottom:10px;letter-spacing:.04em}
+  .card p{font-size:14.5px;margin-bottom:10px}
+  .card p:last-child{margin-bottom:0}
+  .k{color:var(--white);font-weight:700}
+  .g{color:var(--green);font-weight:700}
+  .r{color:var(--red);font-weight:700}
+  .b{color:var(--blue);font-weight:700}
+  .cta{display:inline-block;margin-top:6px;background:var(--blue);color:#0b1220;font-weight:800;
+       font-size:14px;padding:11px 24px;border-radius:10px;text-decoration:none}
+  footer{margin-top:44px;border-top:1px solid var(--line);padding-top:22px;
+         text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
+</style></head><body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Altora Analytics</p>
+    <h1>🧭 START HERE</h1>
+    <p class="sub">Five minutes on how this site works, so you can judge the record for yourself
+      rather than take our word for anything.</p>
+    <p style="margin-top:10px"><a class="back" href="index.html">← home</a></p>
+  </header>
+
+  <div class="card">
+    <h2>What this is, in one sentence</h2>
+    <p>We build statistical models for sports and markets, publish what they predict <span class="k">before
+      the event</span>, and keep every result on the record afterwards, wins and losses alike.
+      We are not here to sell you an edge. We are here to try and prove one, out in the open.</p>
+  </div>
+
+  <div class="card">
+    <h2>How to read a prediction card</h2>
+    <p>Each row on a card shows the fixture, the kick-off time and league, the model's pick, the
+      bookmaker odds at the time we logged it, and the model's probability. <span class="k">The
+      probability is the product.</span> "Model 64%" means: in the model's view this outcome
+      happens 64 times in 100. It does not mean "this will win". A well-built model is wrong
+      about a 64% pick more than a third of the time, on purpose.</p>
+    <p>These are model outputs, not tips. Whether a probability is worth acting on depends on the
+      price, and most days the answer is no.</p>
+  </div>
+
+  <div class="card">
+    <h2>What "PASS" and the gates mean</h2>
+    <p>A prediction only becomes a <span class="g">tracked bet</span> when it clears rules that were
+      written down <span class="k">before the season</span>: minimum probability or value thresholds
+      per market, frozen in public. Those rules earned their place by passing an honest test: the
+      strategy had to be profitable on <span class="k">both halves</span> of the historical data
+      independently, with at least thirty bets in each half. One lucky stretch is not evidence.</p>
+    <p>Everything that fails the gates is still published and still settled. We show the misses
+      because a record with the misses removed is not a record.</p>
+  </div>
+
+  <div class="card">
+    <h2>Why some rows say VOID</h2>
+    <p>When a match is cancelled, a player withdraws, or a prediction was published under a wrong
+      setting on our side, the row is marked <span class="r">VOID</span> and excluded from the
+      accuracy numbers, but it stays visible. Corrections are listed on their own page with
+      reasons. Nothing is deleted. An exclusion you cannot see is a deletion with better manners,
+      so every exclusion is disclosed.</p>
+  </div>
+
+  <div class="card">
+    <h2>The number we care about most: CLV</h2>
+    <p><span class="b">Closing-line value</span> asks: after we published at the early price, did
+      the market move towards our number by kick-off? Beating the closing line consistently is
+      the strongest early evidence a model sees something real, long before profit curves mean
+      anything. We record opening and closing prices for every tracked market and publish the
+      comparison, including when it is against us.</p>
+  </div>
+
+  <div class="card">
+    <h2>The money numbers</h2>
+    <p>Tracked bets are settled at a flat £10 stake so the arithmetic is checkable by anyone.
+      Sports records are model tracking, not our bankroll. The trading side is different: three
+      systematic books run live on demo accounts, verified against the broker's own history, and
+      the weekly profit and loss is published every Monday whether it is green or red.</p>
+  </div>
+
+  <div class="card">
+    <h2>Check us, don't trust us</h2>
+    <p>Every sport's page links a CSV of the complete history. The methodology page explains each
+      model. The research log records what we tried, including the ideas that failed and were
+      dropped. If you spot an error, we would genuinely like to know.</p>
+    <p><a class="cta" href="record.html">See the records →</a></p>
+  </div>
+
+  <div class="card">
+    <h2>The small print that is not small</h2>
+    <p>18+ only. This is analysis, not financial advice, and no outcome is guaranteed. If you bet,
+      bet what you can afford to lose, and if it stops being fun, stop:
+      <a class="back" href="https://www.begambleaware.org">BeGambleAware.org</a>.</p>
+  </div>
+
+  <footer>Altora Analytics · model probabilities, not tips · 18+ | BeGambleAware.org</footer>
+</div>
+<script src="nav.js"></script>
+</body></html>
