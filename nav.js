@@ -14,11 +14,11 @@
   ];
   var LINKS = [
     ["start-here.html", "Start here"],
-    ["record.html", "Records"],
-    ["research-log.html", "Research"],
-    ["faq.html", "FAQ"],
-    ["methodology.html", "Methodology"],
     ["about.html", "About"],
+    ["record.html", "Records"],
+    ["methodology.html", "Methodology"],
+    ["faq.html", "FAQ"],
+    ["research-log.html", "Research"],
     ["corrections.html", "Corrections"],
     ["reviews.html", "Reviews"],
     ["https://whop.com/altora-analytics", "📘 Guides"]
