@@ -37,6 +37,22 @@
   </header>
 
   <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Shipped</span>
+    <h3>Basketball &amp; handball: totals and handicap models gated, now recording</h3>
+    <p>Pre-registered study (features, model parameters and split fixed before any results were
+    seen): predict each game's total points and winning margin, gate on both chronological
+    out-of-sample halves of 2024&ndash;26. All eight cells passed. The margin models beat a
+    rolling-league baseline by 19% (basketball, 79k held-out games) and 28% (handball, 32k) on
+    mean error; totals by 6&ndash;8%; and 1&sigma; coverage sat at 0.66&ndash;0.69 in every
+    half, so the probabilities derived from these predictions are honest about their own
+    uncertainty.</p>
+    <p>The usual caveat, stated up front: beating a naive baseline is not beating the market.
+    Both models now record bookmaker opening and closing Over/Under and handicap lines
+    silently, captured from the same odds calls the winner models already make. The market
+    verdict &mdash; closing-line value &mdash; accrues from the autumn restarts, and nothing
+    joins the public record before the betting rules are pre-registered.</p>
+  </div>
+
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Shipped</span>
     <h3>Football: pre-season threshold freeze, swept and confirmed on both halves</h3>
     <p>Before the 2026-27 season we rebuilt the gate-sweep harness (verified by reproducing the
     July study near byte-for-byte), re-swept every market on data through July, and froze the
