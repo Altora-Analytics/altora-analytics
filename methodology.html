@@ -107,6 +107,7 @@
           <div><b>93,225</b><span>out-of-sample tests</span></div>
           <div><b>70.1%</b><span>OOS accuracy</span></div>
         </div>
+        <p><b>Totals &amp; handicap</b> (validated 27 Jul 2026): a separate regression CatBoost predicts each game's total points and winning margin from the same Elo and rolling-scoring features plus the league's scoring environment. Uncertainty (&sigma;) is estimated from held-out residuals — per league where the sample allows — and converted to over/under and handicap-cover probabilities via the normal distribution. It beat a rolling-league-average baseline in both out-of-sample halves (margin error &minus;19%, totals &minus;6&ndash;7%). Currently recording bookmaker opening lines silently; no public record until the rules are pre-registered.</p>
         <p style="font-size:12px;color:var(--muted)">Trained pre-2024, tested 2024 onward. Calibrated at every band.</p>
       </div>
 
@@ -115,6 +116,7 @@
         <div class="meta">Two-stage 3-way</div>
         <p>Handball draws (5.7% of games), so a 2-way model would be wrong. We run a <b>two-stage model</b>: a decisive-winner model multiplied by a separate <b>draw-probability model</b>, giving a true home/draw/away distribution.</p>
         <p>MOV-Elo tuned specifically for handball, plus CatBoost with league, country and gender context. Men's and women's teams are kept strictly separate.</p>
+        <p><b>Totals &amp; handicap</b> (validated 27 Jul 2026): the same regression approach as basketball — CatBoost predicts each game's total goals and winning margin, with uncertainty (&sigma;) estimated from held-out residuals and converted to over/under and handicap-cover probabilities via the normal distribution. It beat a rolling-league-average baseline in both out-of-sample halves (margin error &minus;28&ndash;29%, totals &minus;6.5&ndash;8%). Recording bookmaker opening lines silently; no public record until the rules are pre-registered.</p>
         <div class="stat">
           <div><b>126,968</b><span>games modelled</span></div>
           <div><b>76.5%</b><span>winner accuracy</span></div>
