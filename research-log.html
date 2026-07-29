@@ -46,6 +46,25 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">July 2026</span><span class="tag ref">Refuted</span>
+    <h3>Rugby union: half-by-half scores do not improve the match model</h3>
+    <p>Our rugby data source publishes each game's first and second half scores separately,
+    and we had been discarding them. The reasoning for collecting them was sound: a full time
+    margin is distorted by game state, since blowouts pile up against tiring or fourteen-man
+    sides, while a first half margin is a closer to even contest and a second half margin
+    should carry fitness and bench depth. We backfilled 30,904 games, reaching 96.5% coverage
+    of the competitions the model actually rates.</p>
+    <p>Then we tested it properly: rolling half-margin features added to the production model,
+    trained and judged on the identical set of 13,777 qualifying games, with the 2024 onward
+    out-of-sample period cut into two chronological halves. Both versions came out slightly
+    WORSE on both halves, by 0.0003 and 0.0020 of log-loss, with accuracy a shade lower too.
+    The reason is arithmetic once you see it: the two half margins add up to the full time
+    margin the model already tracks, so the split carries no new information and only spends
+    parameters. This is the second time this month a promising decomposition has died at the
+    gate, after basketball pace features. The data stays collected, because it opens half-time
+    markets we do not currently model, but it changes nothing about who we think wins.</p>
+  </div>
+
   <div class="entry"><span class="dt">July 2026</span><span class="tag ship">Dropped</span>
     <h3>Football: the 1X2 value avenue is switched off</h3>
     <p>Our July sweep tested every sensible value threshold on the match-result market.
