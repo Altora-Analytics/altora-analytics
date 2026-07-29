@@ -76,11 +76,31 @@
 
   <section>
     <h2>Record</h2>
-    <p><b>5</b> corrections published ·
+    <p><b>7</b> corrections published ·
     <b>0</b> resulting in any exclusion from headline statistics ·
     <b>0</b> predictions deleted, since day one.</p>
   </section>
 
+  <article>
+    <div class="top"><span class="dt">2026-07-29</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Match-result value bets could still be backed under a threshold our own test had refuted</h3>
+    <p class="sp">Football</p>
+    <p><b>What happened.</b> The July sweep found no match-result (1X2) value threshold that was profitable on both halves of the held-out data, and we published that on 26 July. The old bar was left active in the code until 29 July, so the system could still have marked such a selection as backed.</p>
+    <p><b>Why it matters.</b> Backing a bet under a rule we had already shown does not hold is exactly what our own discipline is meant to prevent, whether or not it costs anything. No match-result value selection cleared that bar between 26 and 29 July, so no published bet or figure is affected.</p>
+    <p><b>What we did.</b> Avenue switched off. Those selections stay in the record as tracked, not backed, with their profit and loss still shown.</p>
+    <p class="fix"><b>Fixed.</b> The value avenue is disabled in code with the sweep evidence recorded beside it. The match-result probability avenue (65% at 1.55+), which did pass on both halves, is unchanged. All three unvalidated avenues are re-swept on 1 November. <a href="research-log.html">Read the detail</a></p>
+  </article>
+  <article>
+    <div class="top"><span class="dt">2026-07-29</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Accumulator legs now ranked on probability alone</h3>
+    <p class="sp">Football</p>
+    <p><b>What happened.</b> The big-odds fold applied a small expected-value floor as well as the probability ranking every other tier used. That floor has been removed.</p>
+    <p><b>Why it matters.</b> Our accumulator construction rules are published as fixed in advance, so any change to them is recorded here even though it changes no settled bet.</p>
+    <p><b>What we did.</b> Recorded. No settled accumulator is altered or removed.</p>
+    <p class="fix"><b>Fixed.</b> Every accumulator tier now selects on model probability inside its fixed odds band, one visible rule per tier. <a href="methodology.html">Read the detail</a></p>
+  </article>
   <article>
     <div class="top"><span class="dt">2026-07-26</span>
       <span class="tag ann">Annotated, still counted</span></div>
