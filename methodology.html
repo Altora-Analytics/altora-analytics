@@ -53,6 +53,8 @@
   td{padding:9px 10px;border-bottom:1px solid #18253f}
   .tbl{border:1px solid var(--line);border-radius:12px;overflow-x:auto;background:var(--panel)}
   .honest{border-left:3px solid var(--gold);padding-left:14px;margin:12px 0;color:var(--steel);font-size:14px}
+  .lgc{display:inline-block;margin-left:6px;font-size:11px;letter-spacing:.04em;text-transform:uppercase;
+       color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:1px 8px;white-space:nowrap}
   .no{border-left:3px solid var(--red)} .yes{border-left:3px solid var(--green)}
   code{background:#0c1728;border:1px solid var(--line2);border-radius:5px;padding:1px 6px;font-size:12.5px;color:var(--gold2)}
   footer{margin-top:44px;border-top:1px solid var(--line);padding-top:22px;text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
@@ -76,7 +78,7 @@
       <li><b>Features added one at a time.</b> Each candidate feature is kept only if it improves out-of-sample log-loss. Ones that don't earn their keep get dropped, and we've thrown plenty away.</li>
       <li><b>Calibration, not just accuracy.</b> When the model says 70%, it has to happen about 70% of the time. We check this band by band and <a href="calibration.html" style="color:var(--gold)">publish the chart</a>.</li>
       <li><b>Compared against the market.</b> Every model is scored against bookmaker/exchange prices: the toughest benchmark there is.</li>
-      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed. Thresholds come from out-of-sample sweeps: choose on one half of held-out history, confirm on the other, adopt nothing that isn't positive on both halves with at least 30 bets in each. <b>Frozen for the 2026-27 season on 26 July 2026</b>, before round one, with a single pre-committed revision date of 1 November 2026. The frozen gates: <b>1X2</b> probability picks need 65%+ at odds 1.55+ (no robustly profitable 1X2 value gate exists, and we say so); <b>Over/Under 2.5</b> value picks need a 12%+ modelled edge at 1.70+, probability picks 65%+ at 1.55+; <b>BTTS</b> value picks need an 8%+ edge at 1.70+ (55%+ chance), probability picks 55%+ at 1.70+; <b>Over/Under 3.5</b> value picks a 2%+ edge at 1.40+; <b>Double Chance</b> has no profitable gate on the data so far and is tracked, not backed; <b>Over/Under 1.5</b> gates are held at their old values because a batch of mis-lined historical quotes contaminated that market's sweep data — it gets re-swept on clean captures on 1 November rather than tuned on numbers we do not trust.</li>
+      <li><b>Threshold gating.</b> A prediction is not a bet. Only selections clearing our published thresholds get backed. Thresholds come from out-of-sample sweeps: choose on one half of held-out history, confirm on the other, adopt nothing that isn't positive on both halves with at least 30 bets in each. <b>Frozen for the 2026-27 season on 26 July 2026</b>, before round one, with a single pre-committed revision date of 1 November 2026. The frozen gates: <b>1X2</b> probability picks need 65%+ at odds 1.55+ (no 1X2 value threshold we tested was profitable on both halves, so that avenue keeps its pre-sweep bar of a 5%+ edge at 60%+ and 1.55+, carries no validation, and is labelled that way); <b>Over/Under 2.5</b> value picks need a 12%+ modelled edge at 1.70+, probability picks 65%+ at 1.55+; <b>BTTS</b> value picks need an 8%+ edge at 1.70+ (55%+ chance), probability picks 55%+ at 1.70+; <b>Over/Under 3.5</b> value picks a 2%+ edge at 1.40+; <b>Double Chance</b> has no profitable value gate on the data so far, so its value avenue is switched off and it is picked on probability alone (80%+), flagged as unvalidated until the November re-sweep; <b>Over/Under 1.5</b> gates are held at their old values because a batch of mis-lined historical quotes contaminated that market's sweep data — it gets re-swept on clean captures on 1 November rather than tuned on numbers we do not trust.</li>
       <li><b>Automated retraining.</b> Models refresh on a schedule (weekly) so ratings never go stale.</li>
     </ul>
   </section>
@@ -147,14 +149,24 @@
   <section class="sec">
     <p class="tag">From prediction to bet</p>
     <h2>How a pick is chosen, and our exact thresholds</h2>
-    <p class="lead">A probability isn't a bet. We run two avenues, and each has a published bar it must clear. These aren't secret. The thresholds aren't the edge, the model is.</p>
+    <p class="lead">A probability isn't a bet. A market can be entered by two avenues, value or probability, and each has a published bar it must clear. The bars are not secret, and they are not the edge: the model is. Every gate below was chosen on one half of held-out history, confirmed on the other, and <b>frozen on 26 July 2026</b> for the whole 2026-27 season, with one pre-committed revision date of 1 November 2026. Markets where no gate cleared both halves are not backed at all, and we say which.</p>
     <div class="tbl"><table>
-      <tr><th>Avenue</th><th>What it looks for</th><th>Must clear</th></tr>
-      <tr><td><b>🔥 Value (EV)</b></td><td>Model probability implies a bigger edge than the odds are pricing</td><td><code>EV ≥ 5%</code> <b>and</b> <code>model probability ≥ 60%</code></td></tr>
-      <tr><td><b>🎯 Probability</b></td><td>The model's highest-confidence read of the match</td><td><code>probability ≥ 60%</code> <b>and</b> <code>odds ≥ 1.40</code></td></tr>
+      <tr><th>Market</th><th>🔥 Value (EV) gate</th><th>🎯 Probability gate</th></tr>
+      <tr><td><b>Match result (1X2)</b></td><td><code>EV ≥ 5%</code>, <code>prob ≥ 60%</code>, <code>odds ≥ 1.55</code> <span class="lgc">legacy bar, not sweep-validated</span></td><td><code>prob ≥ 65%</code> <b>and</b> <code>odds ≥ 1.55</code></td></tr>
+      <tr><td><b>Over/Under 2.5</b></td><td><code>EV ≥ 12%</code>, <code>prob ≥ 60%</code>, <code>odds ≥ 1.70</code></td><td><code>prob ≥ 65%</code> <b>and</b> <code>odds ≥ 1.55</code></td></tr>
+      <tr><td><b>Both teams to score</b></td><td><code>EV ≥ 8%</code>, <code>prob ≥ 55%</code>, <code>odds ≥ 1.70</code></td><td><code>prob ≥ 55%</code> <b>and</b> <code>odds ≥ 1.70</code></td></tr>
+      <tr><td><b>Over/Under 3.5</b></td><td colspan="2">one combined gate: <code>EV ≥ 2%</code>, <code>prob ≥ 60%</code>, <code>odds ≥ 1.40</code></td></tr>
+      <tr><td><b>Over/Under 1.5</b></td><td colspan="2">held at its pre-sweep gate (<code>EV ≥ 3%</code>, <code>prob ≥ 78%</code>, <code>odds ≥ 1.20</code>) <span class="lgc">not sweep-validated, see below</span></td></tr>
+      <tr><td><b>Double Chance</b></td><td colspan="2">picked by probability alone: <code>prob ≥ 80%</code>, <code>odds ≥ 1.10</code> <span class="lgc">value avenue switched off, see below</span></td></tr>
     </table></div>
     <div class="honest">
-      <b>Why the 60% probability floor on value bets?</b> Without it, an "edge" on a 12%-probability longshot at odds of 11.00 passes the EV test, and that's almost always model noise, not value. We won't back it, however good the maths looks. A 60% pick's fair odds are around 1.67, so you'll never see us call an 11.00 shot a value bet.
+      <b>Which of these gates are sweep-validated, and which are not.</b> Four cleared the both-halves test in the July 2026 sweep: 1X2 by probability, Over/Under 2.5 both ways, both teams to score both ways, and Over/Under 3.5. Three did not, and are marked above: the <b>1X2 value</b> bar is the pre-sweep number, kept because no 1X2 value threshold we tested was profitable on both halves, so it carries no validation and we do not claim any; <b>Over/Under 1.5</b> is held for the data reason below; and <b>Double Chance</b> selects on probability because choosing those bets on modelled edge simulated at a 6% loss, so that avenue is switched off rather than dressed up. All three still publish every selection and its profit and loss, and all three are re-swept on clean data on 1 November.
+    </div>
+    <div class="honest">
+      <b>Why every value gate also carries a probability floor.</b> Without one, an "edge" on a 12%-probability longshot at odds of 11.00 passes the EV test, and that is almost always model noise rather than value. So each market's value avenue requires a minimum chance as well as a minimum edge (55% to 60% depending on the market). You will never see us call an 11.00 shot a value bet.
+    </div>
+    <div class="honest">
+      <b>Why Over/Under 1.5 was not re-swept.</b> A batch of historical quotes for that market turned out to be mis-lined, with higher-line prices stored in the 1.5 column. Roughly half the priced history was affected, so any threshold swept on it would be tuned to bad data. The bad prices have been voided and flagged, the capture path now rejects them, and the market keeps its old gate until there is enough clean history to sweep on 1 November. Tuning on numbers we do not trust would look more scientific and be worth less.
     </div>
     <div class="honest yes">
       <b>We publish the bets we skip.</b> Selections clearing the bar are marked <b>PASS</b>, and those are the ones we back. Selections the model flagged but that failed a threshold are marked <b>FAIL</b> and are <b>still published, with their own P&amp;L</b>. You can see the whole funnel, and judge for yourself whether our filter earns its place. Most services only show you what they backed.
