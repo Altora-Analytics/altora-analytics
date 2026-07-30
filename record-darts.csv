@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-28,Neil Duff,Richie Burnett,0.594,0.569,W
+2026-07-28,Steve West,Andreas Harrysson,0.544,0.564,L
+2026-07-28,Scott Mitchell,Richie Burnett,0.655,0.644,W
+2026-07-28,Neil Duff,Robert Thornton,0.761,,W
+2026-07-28,Steve West,Richie Burnett,0.668,0.625,L
+2026-07-28,Andreas Harrysson,Robert Thornton,0.811,,W
+2026-07-28,Neil Duff,Scott Mitchell,0.622,,L
 2026-07-26,Luke Littler,Gerwyn Price,0.882,0.879,W
 2026-07-26,Beau Greaves,Kirsi Viinikainen,0.920,0.928,W
 2026-07-26,Gemma Hayter,Vicky Pruim,0.645,0.620,W
