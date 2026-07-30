@@ -1,8 +1,40 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-30,Francisco Cerundolo,Tristan Boyer,0.739,0.729,W
+2026-07-30,Karen Khachanov,Bernard Tomic,0.769,0.759,L
 2026-07-29,James Duckworth,Aidan Mayo,0.610,0.597,W
+2026-07-29,Kaitlin Quevedo,Irene Burillo,0.817,0.790,W
+2026-07-29,Emma Navarro,Elisabetta Cocciaretto,0.689,0.671,L
+2026-07-29,Katie Volynets,Iryna Shymanovich,0.783,0.765,W
+2026-07-29,Lorenzo Musetti,Aleksandar Vukic,0.737,0.704,W
+2026-07-29,Naomi Osaka,Ashlyn Krueger,0.749,0.750,W
+2026-07-29,Jiri Lehecka,Coleman Wong,0.783,0.759,L
+2026-07-29,Gabriel Debru,Florent Bax,0.567,0.566,W
+2026-07-29,Dimitar Kuzmanov,Paul Inchauspe,0.509,0.497,L
+2026-07-29,Frederico Ferreira Silva,Nicolas Kicker,0.520,0.541,W
+2026-07-29,Elmer Moller,Jamie Mackenzie,0.715,0.681,L
+2026-07-29,Petr Brunclik,Sumit Nagal,0.524,0.534,L
+2026-07-29,Thiago Seyboth Wild,Jan Kumstat,0.616,0.624,L
+2026-07-29,Jan Choinski,Alex Barrena,0.845,0.797,W
+2026-07-29,Hugo Dellien,Juan Carlos Prado Angel,0.626,0.645,L
+2026-07-29,Nikoloz Basilashvili,Mili Poljicak,0.609,0.605,L
+2026-07-29,Jurij Rodionov,Niels Mcdonald,0.700,0.684,W
+2026-07-29,Koki Matsuda,Colin Sinclair,0.528,0.544,W
+2026-07-29,Roberto Carballes Baena,Olle Wallin,0.681,0.668,L
+2026-07-29,Joel Schwaerzler,Martin Krumich,0.586,0.578,L
+2026-07-29,Facundo Diaz Acosta,Francesco Forti,0.904,0.842,W
+2026-07-29,Carole Monnet,Elena Ruxandra Bertea,0.596,0.589,W
+2026-07-29,Fiona Ferro,Sapfo Sakellaridi,0.950,0.919,W
+2026-07-29,Zeynep Sonmez,Elvina Kalieva,0.669,0.661,L
+2026-07-29,Taylor Fritz,Kamil Majchrzak,0.818,0.765,W
+2026-07-29,Rafael Jodar,Kei Nishikori,0.863,0.821,W
+2026-07-29,Alex Michelsen,Adrian Mannarino,0.700,0.696,W
 2026-07-28,Coleman Wong,Darwin Blanch,0.509,0.505,W
+2026-07-28,Denis Shapovalov,Rinky Hijikata,0.565,0.573,W
+2026-07-28,Adam Walton,Dalibor Svrcina,0.596,0.614,L
+2026-07-28,Michael Zheng,Martin Landaluce,0.551,0.556,W
 2026-07-28,Darja Semenistaja,Mia Ristic,0.518,0.528,L
 2026-07-28,Carole Monnet,Miriam Bulgaru,0.555,0.564,W
+2026-07-28,Zhizhen Zhang,Jeffrey John Wolf,0.544,0.544,L
 2026-07-28,Ben Shelton,Martin Damm Jr,0.715,0.699,W
 2026-07-28,Ugo Humbert,Andres Martin,0.798,0.780,W
 2026-07-28,Marcos Giron,Cruz Hewitt,0.943,0.901,L
@@ -73,6 +105,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-27,Max Dahlin,Matteo Martineau,0.615,0.591,W
 2026-07-27,Shintaro Mochizuki,Charles Broom,0.634,0.631,W
 2026-07-27,Dane Sweeny,Duncan Chan,0.609,0.591,W
+2026-07-27,Pablo Llamas Ruiz,Keegan Rice,0.604,0.621,L
+2026-07-27,Reymond/Sanchez,Martos Gornes/Walkow,0.628,0.615,W
 2026-07-27,Laslo Djere,Nikoloz Basilashvili,0.676,0.659,VOID
 2026-07-27,Jack Draper,Alex Michelsen,0.557,0.585,VOID
 2026-07-26,Alan Magadan,Garrett Johns,0.511,0.500,W
@@ -92,6 +126,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-26,Toby Samuel,Liam Draxl,0.651,0.646,W
 2026-07-26,Alexander Blockx,Luca Van Assche,0.597,0.614,L
 2026-07-26,Mananchaya Sawangkaew,En-Shuo Liang,0.752,0.741,W
+2026-07-26,Sofia Costoulas,Lizette Cabrera,0.737,0.714,W
 2026-07-25,Jans/Visker,Ponchet/Poulsen,0.749,0.724,W
 2026-07-25,Miedler/Polmans,Schnaitter/Wallner,0.590,0.597,W
 2026-07-25,Sanchez Qui/Winter Lope,Azkara/Erel,0.501,0.500,W
