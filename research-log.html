@@ -46,6 +46,24 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
+    <h3>FX: the first filter to survive the full gauntlet</h3>
+    <p>We spent a week stress-testing our own research with tools designed to kill ideas:
+    shuffled-signal controls, chronological half-splits, and walk-forwards that only let a rule
+    use information available at the time. Three plausible ideas died that way, including two
+    of our own favourites. One survived: requiring our volatility-breakout entries on FX to
+    trade with the 200-bar trend rather than against it.</p>
+    <p>The evidence, in the order it was gathered: better results in both halves of eight years
+    of data while the same filter on time-scrambled signals showed nothing; better in seven of
+    nine individual years; and when we replayed history year by year, only ever allowing the
+    decision to use prior data, the filter would have been adopted almost immediately and kept
+    every year but one, roughly doubling the edge per trade on fewer, better trades. A sibling
+    variant using momentum alignment looked equally good in the pooled numbers and failed the
+    year-by-year test, which is exactly the kind of look-alike this process exists to catch. The
+    trend gate went live on the FX book today; its effect will show up in the live record, or it
+    will not, and either way we will report it.</p>
+  </div>
+
   <div class="entry"><span class="dt">July 2026</span><span class="tag ref">Refuted</span>
     <h3>Rugby union: half-by-half scores do not improve the match model</h3>
     <p>Our rugby data source publishes each game's first and second half scores separately,
