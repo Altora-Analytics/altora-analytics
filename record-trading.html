@@ -88,6 +88,12 @@
     <p>Risk-parity blend of the three sleeves, net of estimated spread costs. The sleeves are
       genuinely orthogonal (monthly correlations of −0.05 to +0.19 between them), which is why
       the combined book beats every sleeve on its own, at a smaller drawdown than any of them.</p>
+    <p style="font-size:12.5px;color:var(--orange);max-width:64ch;margin:12px auto 0;text-align:center">
+      Under revision, 31 July 2026. These combined figures were computed before we found that
+      the indices sleeve had been backtested with almost no trading cost, and that sleeve is
+      one of the three inputs here. The indices number below has been corrected downwards; this
+      blend has not been re-derived yet, so treat these four figures as overstated until it is.
+      We are leaving them visible rather than quietly deleting them.</p>
   </div>
   <div class="books">
     <div class="book"><span class="bi">💱</span><b>FX</b><span class="style">mean-reversion + momentum · 4h</span>
@@ -97,10 +103,18 @@
         quality, volatility breakout, plus weekly CFTC positioning and cross-sectional rotation.</p>
       <p class="mut">Two-sided · rebalances every 4 hours · volatility-targeted sizing</p></div>
     <div class="book"><span class="bi">📊</span><b>Indices &amp; metals</b><span class="style">trend · daily</span>
-      <span class="sharpe">1.19</span><span class="slab">backtest Sharpe 2011–26</span>
+      <span class="sharpe">0.77</span><span class="slab">backtest Sharpe 2011–26<br>net of real spreads</span>
       <p>S&amp;P 500, Nasdaq 100, DAX, Nikkei 225, gold and silver. Seven trend/dip engines
         (Donchian breakout, momentum burst, RSI trend-dip, turn-of-month…) plus two event
         overlays: pre-FOMC drift and an equity positioning (COT) tilt.</p>
+      <p class="mut" style="color:var(--orange)">Corrected 31 July 2026, downwards. This book
+        previously showed 1.19. That figure came from a script we can no longer find, and the
+        surviving code it was built on charged index CFDs a foreign-exchange spread of 0.0001
+        of price, which is thousands of times too small. We rebuilt the backtest to mirror what
+        the live bot actually does and charged real measured spreads. Rebuilt: 0.77 over
+        2011–26 and 1.80 over the held-out era from 2023, at a 29% maximum drawdown. Costs
+        explain only part of the gap; the rest we cannot account for against a script that no
+        longer exists, so we publish the number we can defend rather than the one we liked.</p>
       <p class="mut">Long-only · rebalances daily · volatility-targeted sizing</p></div>
     <div class="book"><span class="bi">🛢️</span><b>Commodities</b><span class="style">trend · daily</span>
       <span class="sharpe">0.66</span><span class="slab">backtest Sharpe 2011–26</span>

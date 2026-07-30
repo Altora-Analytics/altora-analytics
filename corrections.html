@@ -76,11 +76,21 @@
 
   <section>
     <h2>Record</h2>
-    <p><b>7</b> corrections published ·
+    <p><b>8</b> corrections published ·
     <b>0</b> resulting in any exclusion from headline statistics ·
     <b>0</b> predictions deleted, since day one.</p>
   </section>
 
+  <article>
+    <div class="top"><span class="dt">2026-07-31</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Our indices backtest charged almost no trading cost, so its published Sharpe was overstated</h3>
+    <p class="sp">Trading</p>
+    <p><b>What happened.</b> The simulator behind the indices and metals book looks the dealing spread up in a table that contains only foreign-exchange pairs. Every index and metal fell through to a default of one FX pip, which is 0.0001 of price. Against real spreads of 0.40 points on the S&amp;P and 22 points on the Nikkei, that is between four thousand and two hundred and twenty thousand times too small, so the backtest paid almost nothing to trade. We had published a Sharpe of 1.19 from it. Going to re-derive it properly, we also found the script that produced that number no longer exists in either repository, so it cannot be reproduced at all.</p>
+    <p><b>Why it matters.</b> A backtest that does not pay to trade flatters any strategy that trades often, which is precisely the error that makes a system look better than it is. It also means a number we asked people to judge us on was not supported by anything we could re-run.</p>
+    <p><b>What we did.</b> We rebuilt the backtest to mirror what the live bot actually does, charged the real spreads measured from the broker, and published the result even though it is worse: 0.77 across 2011 to 2026, and 1.80 across the held-out era since 2023, at a 29 percent maximum drawdown. Trading costs explain only a small part of the fall from 1.19; the remainder we cannot account for against a script that no longer exists, so we publish the figure we can defend rather than the one we would prefer. The combined three-book figures on the same page still use the old indices input and are labelled as overstated until that blend is re-derived.</p>
+    <p class="fix"><b>Fixed.</b> Indices costs now come from a dedicated model holding real per-instrument spreads, with a double-spread stress column reported alongside, following the pattern the commodities book already used. Overnight financing is still not modelled and is stated as such. The live trading bot is unaffected: it uses the simulator only to decide whether it is currently holding a position, and cost never changes that. <a href="record-trading.html">Read the detail</a></p>
+  </article>
   <article>
     <div class="top"><span class="dt">2026-07-29</span>
       <span class="tag ann">Annotated, still counted</span></div>
