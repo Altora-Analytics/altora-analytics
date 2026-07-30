@@ -80,20 +80,23 @@
   <div class="combined">
     <h2>The combined book: what the three sleeves add up to</h2>
     <div class="stats">
-      <div class="stat"><b>1.52</b><span>backtest Sharpe<br>2011–2026</span></div>
-      <div class="stat"><b>2.10</b><span>Sharpe, held-out<br>era 2023–26</span></div>
-      <div class="stat"><b>14 / 16</b><span>positive years</span></div>
+      <div class="stat"><b>0.92</b><span>backtest Sharpe<br>2011–26, net</span></div>
+      <div class="stat"><b>1.69</b><span>Sharpe, held-out<br>era 2023–26</span></div>
+      <div class="stat"><b>12 / 16</b><span>positive years</span></div>
       <div class="stat"><b>~0</b><span>cross-book<br>correlation</span></div>
     </div>
     <p>Risk-parity blend of the three sleeves, net of estimated spread costs. The sleeves are
       genuinely orthogonal (monthly correlations of −0.05 to +0.19 between them), which is why
       the combined book beats every sleeve on its own, at a smaller drawdown than any of them.</p>
     <p style="font-size:12.5px;color:var(--orange);max-width:64ch;margin:12px auto 0;text-align:center">
-      Under revision, 31 July 2026. These combined figures were computed before we found that
-      the indices sleeve had been backtested with almost no trading cost, and that sleeve is
-      one of the three inputs here. The indices number below has been corrected downwards; this
-      blend has not been re-derived yet, so treat these four figures as overstated until it is.
-      We are leaving them visible rather than quietly deleting them.</p>
+      Corrected 1 August 2026, downwards. The previous figures here (1.52 and 2.10) came from
+      a script that no longer exists and used an indices input backtested with almost no
+      trading cost. We rebuilt the whole blend to mirror what the three live bots actually do:
+      their real engine rosters, their own rebalance rules, real measured spreads, and
+      commodity carry. The rebuilt figures are what you see above, with twelve of sixteen
+      years positive and a 21% maximum drawdown at the blend level. Overnight financing on FX
+      and indices is still not modelled, so even these numbers are slightly flattered, and we
+      say so. Full detail on the corrections page.</p>
   </div>
   <div class="books">
     <div class="book"><span class="bi">💱</span><b>FX</b><span class="style">mean-reversion + momentum · 4h</span>
