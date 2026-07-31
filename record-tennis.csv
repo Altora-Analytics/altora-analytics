@@ -1,11 +1,39 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-07-30,Francisco Cerundolo,Tristan Boyer,0.739,0.729,W
 2026-07-30,Karen Khachanov,Bernard Tomic,0.769,0.759,L
+2026-07-30,Matheus Pucinelli De Al,Henri Squire,0.508,0.531,W
+2026-07-30,Kilian Feldbausch,Duje Ajdukovic,0.870,0.842,W
+2026-07-30,Federico Agustin Gomez,Samuele Pieri,0.734,0.699,W
+2026-07-30,Max Hans Rehberg,Daniel Elahi Galan,0.564,0.562,L
+2026-07-30,Vilius Gaubas,Genaro Alberto Olivieri,0.747,0.717,W
+2026-07-30,Francesco Maestrelli,Juan Pablo Varillas,0.567,0.565,L
+2026-07-30,Hynek Barton,Gonzalo Bueno,0.621,0.609,L
+2026-07-30,Franco Roncadelli,Norbert Gombos,0.520,0.510,L
+2026-07-30,Tom Gentzsch,Max Dahlin,0.790,0.748,L
+2026-07-30,Max Basing,Constantin Bittoun Kouz,0.840,0.793,L
+2026-07-30,Kenta   Miyoshi,Dan Added,0.555,0.564,W
+2026-07-30,Otto Virtanen,Timofey Skatov,0.604,0.617,L
+2026-07-30,Andrea Pellegrino,Thiago Monteiro,0.631,0.632,L
+2026-07-30,Cameron Norrie,James Duckworth,0.941,0.887,W
+2026-07-30,Darja Vidmanova,Sloane Stephens,0.621,0.610,W
+2026-07-30,Peyton Stearns,Tatiana Prozorova,0.581,0.591,W
+2026-07-30,Ben Shelton,Ugo Humbert,0.605,0.621,W
+2026-07-30,Jakub Mensik,Brandon Nakashima,0.556,0.570,L
+2026-07-30,Berfu Cengiz,Maria Garcia Cid,0.659,0.664,W
+2026-07-30,Francesca Curmi,Carmen Gallardo Guevara,0.826,0.816,W
+2026-07-30,Vendula Valdmannova,Isis Louise Van Den Broek,0.881,0.827,W
+2026-07-30,Fiona Ferro,Noemi Basiletti,0.784,0.773,W
+2026-07-30,Irina Balus,Tilwith Di Girolami,0.722,0.699,W
+2026-07-30,Viktoria Morvayova,Esther Adeshina,0.669,0.643,L
+2026-07-30,Emma Lene,Laura Hietaranta,0.592,0.607,W
+2026-07-30,Alex De Minaur,Cruz Hewitt,0.946,0.901,W
+2026-07-30,Loes Ebeling Koning,Margaux Maquet,0.613,0.602,L
 2026-07-29,James Duckworth,Aidan Mayo,0.610,0.597,W
 2026-07-29,Kaitlin Quevedo,Irene Burillo,0.817,0.790,W
 2026-07-29,Emma Navarro,Elisabetta Cocciaretto,0.689,0.671,L
 2026-07-29,Katie Volynets,Iryna Shymanovich,0.783,0.765,W
 2026-07-29,Lorenzo Musetti,Aleksandar Vukic,0.737,0.704,W
+2026-07-29,Alejandro Tabilo,Terence Atmane,0.501,0.500,W
 2026-07-29,Naomi Osaka,Ashlyn Krueger,0.749,0.750,W
 2026-07-29,Jiri Lehecka,Coleman Wong,0.783,0.759,L
 2026-07-29,Gabriel Debru,Florent Bax,0.567,0.566,W
@@ -14,6 +42,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-29,Elmer Moller,Jamie Mackenzie,0.715,0.681,L
 2026-07-29,Petr Brunclik,Sumit Nagal,0.524,0.534,L
 2026-07-29,Thiago Seyboth Wild,Jan Kumstat,0.616,0.624,L
+2026-07-29,Guido Ivan Justo,Juan Bautista Torres,0.714,0.674,L
 2026-07-29,Jan Choinski,Alex Barrena,0.845,0.797,W
 2026-07-29,Hugo Dellien,Juan Carlos Prado Angel,0.626,0.645,L
 2026-07-29,Nikoloz Basilashvili,Mili Poljicak,0.609,0.605,L
@@ -26,8 +55,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-29,Fiona Ferro,Sapfo Sakellaridi,0.950,0.919,W
 2026-07-29,Zeynep Sonmez,Elvina Kalieva,0.669,0.661,L
 2026-07-29,Taylor Fritz,Kamil Majchrzak,0.818,0.765,W
+2026-07-29,Elina Svitolina,Polina Kudermetova,0.841,0.820,W
 2026-07-29,Rafael Jodar,Kei Nishikori,0.863,0.821,W
 2026-07-29,Alex Michelsen,Adrian Mannarino,0.700,0.696,W
+2026-07-29,Denis Yevseyev,Vadym Ursu,0.606,0.587,L
+2026-07-29,Manas Dhamne,Semen Pankin,0.600,0.616,W
+2026-07-29,Lucia Bronzetti,Alevtina Ibragimova,0.623,0.635,W
 2026-07-28,Coleman Wong,Darwin Blanch,0.509,0.505,W
 2026-07-28,Denis Shapovalov,Rinky Hijikata,0.565,0.573,W
 2026-07-28,Adam Walton,Dalibor Svrcina,0.596,0.614,L
@@ -55,6 +88,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-28,Gonzalo Bueno,Pablo Martinez Gomez,0.750,0.707,W
 2026-07-28,Duje Ajdukovic,Khumoyun Sultanov,0.528,0.536,W
 2026-07-28,Lisa Zaar,Anna-Lena Friedsam,0.591,0.582,L
+2026-07-28,Luz/Matos,Gonzalez/Pacheco Mendez,0.666,0.665,W
 2026-07-28,Grigor Dimitrov,Moise Kouame,0.659,0.661,VOID
 2026-07-27,Maya Joint,Whitney Osuigwe,0.799,0.779,W
 2026-07-27,Peyton Stearns,Mary Stoiana,0.592,0.598,W
