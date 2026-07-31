@@ -21,6 +21,7 @@
     ["research-log.html", "Research"],
     ["corrections.html", "Corrections"],
     ["reviews.html", "Reviews"],
+    ["premium.html", "⭐ Premium"],
     ["https://whop.com/altora-analytics", "📘 Guides"]
   ];
   var here = (location.pathname.split("/").pop() || "index.html");
