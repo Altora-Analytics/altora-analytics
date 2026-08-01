@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-07-31,Griquas,Cheetahs,0.852,0.524,W
+2026-07-31,Dolphins,St George,0.769,0.793,W
+2026-07-31,Canterbury Bulldogs Wom,Melbourne Storm,0.658,0.670,W
+2026-07-31,Leeds Rhinos,Toulouse Olympique,0.894,0.903,W
+2026-07-31,Wigan Warriors,Leigh Leopards,0.569,,W
+2026-07-31,Hull Kingston Rovers,Bradford Bulls,0.944,0.963,W
 2026-07-30,Sydney Rooster,North Queensland Cowboys,0.648,0.623,W
 2026-07-30,Huddersfield Giants,Hull FC,0.503,0.505,W
 2026-07-26,St George,Gold Coast Tit,0.516,0.509,L
