@@ -1,4 +1,35 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-01,Ben Shelton,Alejandro Tabilo,0.752,0.738,L
+2026-07-31,Kaitlin Quevedo,Carole Monnet,0.800,0.769,W
+2026-07-31,Jurij Rodionov,Jamie Mackenzie,0.763,0.737,L
+2026-07-31,Yanki Erel,Paul Inchauspe,0.505,0.518,L
+2026-07-31,Alexandre Muller,Mili Poljicak,0.697,0.668,L
+2026-07-31,Facundo Diaz Acosta,Juan Carlos Prado Angel,0.765,0.729,W
+2026-07-31,Anastasia Zakharova,Renata Zarazua,0.582,0.585,L
+2026-07-31,Rafael Jodar,Lorenzo Musetti,0.677,0.647,W
+2026-07-31,Taylor Fritz,Alex Michelsen,0.704,0.665,W
+2026-07-31,Naomi Osaka,Elisabetta Cocciaretto,0.858,0.845,W
+2026-07-31,Cameron Norrie,Bernard Tomic,0.713,0.685,W
+2026-07-31,Cervantes/Molchanov,Recek/Siniakov,0.624,0.619,W
+2026-07-31,Laura Samson,Mia Ristic,0.537,0.554,W
+2026-07-31,Kenta   Miyoshi,Vadym Ursu,0.715,0.705,W
+2026-07-31,Matheus Pucinelli De Al,Federico Agustin Gomez,0.538,0.543,L
+2026-07-31,Manas Dhamne,Constantin Bittoun Kouz,0.768,0.758,L
+2026-07-31,Kilian Feldbausch,Norbert Gombos,0.814,0.783,L
+2026-07-31,Dominika Salkova,Arantxa Rus,0.627,0.644,W
+2026-07-31,Britt Du Pree,Amelia Rajecki,0.620,0.602,L
+2026-07-31,Andrea Lazaro Garcia,Laura Pigossi,0.735,0.703,L
+2026-07-31,Francesca Curmi,Emma Lene,0.747,0.743,W
+2026-07-31,Sarah Van Emst,Margaux Maquet,0.521,0.513,W
+2026-07-31,Valentina Ryser,Chloe Noel,0.845,0.799,W
+2026-07-31,Barbora Palicova,Katerina Tsygourova,0.576,0.584,W
+2026-07-31,Daniel Elahi Galan,Max Dahlin,0.746,0.726,L
+2026-07-31,Timofey Skatov,Juan Pablo Varillas,0.680,0.657,L
+2026-07-31,Alex De Minaur,Brandon Nakashima,0.631,0.623,L
+2026-07-31,Peyton Stearns,Elvina Kalieva,0.728,0.726,L
+2026-07-31,Vilius Gaubas,Thiago Monteiro,0.590,0.581,W
+2026-07-31,Mananchaya Sawangkaew,Taylah Preston,0.624,0.637,L
+2026-07-31,Gonzalo Bueno,Juan Bautista Torres,0.572,0.582,VOID
 2026-07-30,Francisco Cerundolo,Tristan Boyer,0.739,0.729,W
 2026-07-30,Karen Khachanov,Bernard Tomic,0.769,0.759,L
 2026-07-30,Matheus Pucinelli De Al,Henri Squire,0.508,0.531,W
@@ -28,6 +59,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-07-30,Emma Lene,Laura Hietaranta,0.592,0.607,W
 2026-07-30,Alex De Minaur,Cruz Hewitt,0.946,0.901,W
 2026-07-30,Loes Ebeling Koning,Margaux Maquet,0.613,0.602,L
+2026-07-30,Jan Kumstat,Frederico Ferreira Silva,0.619,0.606,W
+2026-07-30,Jan Choinski,Olle Wallin,0.841,0.793,W
+2026-07-30,Gabriel Debru,Koki Matsuda,0.733,0.693,W
+2026-07-30,Martin Krumich,Sumit Nagal,0.524,0.531,L
 2026-07-29,James Duckworth,Aidan Mayo,0.610,0.597,W
 2026-07-29,Kaitlin Quevedo,Irene Burillo,0.817,0.790,W
 2026-07-29,Emma Navarro,Elisabetta Cocciaretto,0.689,0.671,L
