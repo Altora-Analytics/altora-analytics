@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-01,Lions,Bulls,0.681,0.874,W
+2026-08-01,Penrith Panthers,Canberra Raiders,0.756,0.738,W
+2026-08-01,Warrington Wolves,Castleford Tigers,0.672,0.695,W
+2026-08-01,St Helens,York Knights,0.732,,L
+2026-08-01,Wakefield Trinity,Catalans Dragons,0.525,,W
 2026-07-31,Griquas,Cheetahs,0.852,0.524,W
 2026-07-31,Dolphins,St George,0.769,0.793,W
 2026-07-31,Canterbury Bulldogs Wom,Melbourne Storm,0.658,0.670,W
