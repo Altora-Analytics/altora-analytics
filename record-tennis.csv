@@ -1,5 +1,22 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-08-01,Ben Shelton,Alejandro Tabilo,0.752,0.738,L
+2026-08-01,Denis Shapovalov,Cameron Norrie,0.577,0.583,W
+2026-08-01,Kenta   Miyoshi,Constantin Bittoun Kouz,0.821,0.778,L
+2026-08-01,Jan Kumstat,Sumit Nagal,0.521,0.521,W
+2026-08-01,Jan Choinski,Federico Agustin Gomez,0.734,0.711,W
+2026-08-01,Gonzalo Bueno,Norbert Gombos,0.615,0.609,W
+2026-08-01,Paul Inchauspe,Gabriel Debru,0.534,0.554,L
+2026-08-01,Jamie Mackenzie,Max Dahlin,0.513,0.500,W
+2026-08-01,Mili Poljicak,Juan Pablo Varillas,0.568,0.564,W
+2026-08-01,Lucia Bronzetti,Laura Samson,0.520,0.525,L
+2026-08-01,Viktoria Hruncakova,Amelia Rajecki,0.743,0.713,L
+2026-08-01,Dominika Salkova,Laura Pigossi,0.743,0.716,L
+2026-08-01,Francesca Curmi,Berfu Cengiz,0.522,0.540,L
+2026-08-01,Nuria Brancaccio,Barbora Palicova,0.645,0.635,L
+2026-08-01,Fiona Ferro,Eva Bennemann,0.876,0.864,W
+2026-08-01,Facundo Diaz Acosta,Vilius Gaubas,0.681,0.654,W
+2026-08-01,Taylor Fritz,Brandon Nakashima,0.608,0.629,W
+2026-08-01,Rafael Jodar,Alejandro Tabilo,0.715,0.699,W
 2026-07-31,Kaitlin Quevedo,Carole Monnet,0.800,0.769,W
 2026-07-31,Jurij Rodionov,Jamie Mackenzie,0.763,0.737,L
 2026-07-31,Yanki Erel,Paul Inchauspe,0.505,0.518,L
