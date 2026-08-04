@@ -1,7 +1,37 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-03,Antoine Ghibaudo,Tuncay Duran,0.559,0.549,W
+2026-08-03,Timofey Skatov,Alex Barrena,0.658,0.664,L
+2026-08-03,Guy Den Ouden,Alexandre Muller,0.520,0.517,W
+2026-08-03,Sloane Stephens,Solana Sierra,0.524,0.518,W
+2026-08-03,Yuliia Starodubtseva,Maya Joint,0.579,0.571,L
+2026-08-03,Alina Korneeva,Polina Kudermetova,0.659,0.654,W
+2026-08-03,Oskari Paldanius,Ergi Kirkin,0.535,0.546,L
+2026-08-03,Rudolf Molleker,Tim Handel,0.757,0.741,W
+2026-08-03,Marko Topo,Dominik Recek,0.798,0.784,L
+2026-08-03,Thiago Monteiro,Tommaso Compagnucci,0.758,0.741,W
+2026-08-03,Colin Sinclair,Digvijay Pratap Singh,0.586,0.577,L
+2026-08-03,Matej Dodig,Oleksii Krutykh,0.666,0.645,W
+2026-08-03,Juan Bautista Torres,Nikolai Barsukov,0.841,0.815,W
+2026-08-03,Aziz Dougaz,Dimitris Sakellaridis,0.801,0.776,W
+2026-08-03,Daniil Ostapenkov,Koki Matsuda,0.523,0.531,L
+2026-08-03,Gerard Campana Lee,Stefan Horia Haita,0.567,0.564,W
+2026-08-03,Rodrigo Pacheco Mendez,Aidan Mayo,0.557,0.557,L
+2026-08-03,Dragos Nicolae Cazacu,Franco Ribero,0.507,0.523,L
+2026-08-02,Eva Lys,Panna Udvardy,0.630,0.637,L
+2026-08-02,Nikola Bartunkova,Bianca Andreescu,0.602,0.594,W
 2026-08-02,Kamilla Rakhimova,Venus Williams,0.756,0.750,W
+2026-08-02,Anhelina Kalinina,Anna Bondar,0.639,0.635,L
+2026-08-02,Elisabetta Cocciaretto,Talia Gibson,0.569,0.579,L
+2026-08-02,Karolina Pliskova,Oleksandra Oliynykova,0.791,0.755,W
+2026-08-02,Renata Zarazua,Tamara Korpatsch,0.603,0.590,W
 2026-08-02,Sara Bejlek,Xiyu Wang,0.565,0.576,W
+2026-08-02,Kamil Majchrzak,Gael Monfils,0.762,0.729,L
 2026-08-02,Jaume Munar,Rinky Hijikata,0.537,0.547,W
+2026-08-02,Alex Michelsen,Jan-Lennard Struff,0.718,0.713,W
+2026-08-02,Nuno Borges,Aleksandar Kovacevic,0.651,0.656,W
+2026-08-02,Corentin Moutet,Marton Fucsovics,0.525,0.518,W
+2026-08-02,Alexis Galarneau,Vit Kopriva,0.507,0.514,L
+2026-08-02,Matteo Berrettini,Mariano Navone,0.631,0.621,L
 2026-08-02,Gabriel Debru,Constantin Bittoun Kouz,0.816,0.775,W
 2026-08-02,Jan Kumstat,Gonzalo Bueno,0.532,0.540,W
 2026-08-02,Dimitris Sakellaridis,Younes Lalami,0.746,0.740,W
@@ -14,6 +44,18 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-02,Oleksii Krutykh,Luciano Emanuel Ambrogi,0.551,0.554,W
 2026-08-02,Facundo Diaz Acosta,Mili Poljicak,0.795,0.752,W
 2026-08-02,Vendula Valdmannova,Amelia Rajecki,0.765,0.725,W
+2026-08-02,Luca Van Assche,Titouan Droguet,0.527,0.543,L
+2026-08-02,Taylor Fritz,Rafael Jodar,0.552,0.549,W
+2026-08-02,Katie Boulter,Kayla Cross,0.746,0.743,L
+2026-08-02,Yulia Putintseva,Shuai Zhang,0.668,0.654,L
+2026-08-02,Michael Zheng,Miomir Kecmanovic,0.615,0.592,L
+2026-08-02,Christopher O'Connell,James Duckworth,0.565,0.576,L
+2026-08-02,Aleksandar Vukic,Daniel Altmaier,0.598,0.601,L
+2026-08-02,Martin Landaluce,Nicolas Mejia,0.708,0.690,L
+2026-08-02,Anna Blinkova,Rebecca Sramkova,0.582,0.576,L
+2026-08-02,Marin Cilic,Sho Shimabukuro,0.552,0.559,W
+2026-08-02,Gabriel Diallo,Kyrian Jacquet,0.523,0.531,W
+2026-08-02,Yannick Hanfmann,Benjamin Bonzi,0.539,0.544,W
 2026-08-01,Ben Shelton,Alejandro Tabilo,0.752,0.738,L
 2026-08-01,Denis Shapovalov,Cameron Norrie,0.577,0.583,W
 2026-08-01,Kenta   Miyoshi,Constantin Bittoun Kouz,0.821,0.778,L
