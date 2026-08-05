@@ -1,7 +1,37 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-04,Andrey Rublev,Juncheng Shang,0.758,0.752,L
+2026-08-04,Alexander Donski,Takuya Kumasaka,0.604,0.607,W
+2026-08-04,Ilya Ivashka,Ergi Kirkin,0.836,0.821,W
+2026-08-04,Joel Schwaerzler,Jiri Cizek,0.936,0.887,W
+2026-08-04,Diego Dedura-Palomero,Dominik Recek,0.938,0.899,W
+2026-08-04,Maxim Mrva,Rudolf Molleker,0.610,0.628,W
+2026-08-04,Thiago Monteiro,Tom Gentzsch,0.505,0.514,L
+2026-08-04,Akira Santillan,Digvijay Pratap Singh,0.714,0.679,W
+2026-08-04,Daniil Ostapenkov,Constantin Bittoun Kouz,0.644,0.635,W
+2026-08-04,Alexander Binda,Mert Naci Turker,0.686,0.656,W
+2026-08-04,Daniel Elahi Galan,Georgi Georgiev,0.953,0.907,W
+2026-08-04,Kenta   Miyoshi,Arda Azkara,0.745,0.744,W
+2026-08-04,Martina Trevisan,Elena Ruxandra Bertea,0.760,0.742,L
+2026-08-04,Loes Ebeling Koning,Anouck Vrancken Peeters,0.502,0.510,W
+2026-08-04,Arantxa Rus,Oceane Dodin,0.503,0.507,L
+2026-08-04,Stephanie Judith Visscher,Chloe Noel,0.609,0.601,W
+2026-08-04,Jiri Lehecka,Vit Kopriva,0.840,0.793,W
 2026-08-03,Antoine Ghibaudo,Tuncay Duran,0.559,0.549,W
+2026-08-03,Manas Dhamne,Gijs Brouwer,0.798,0.793,L
+2026-08-03,Ella Seidel,Dalma Galfi,0.565,0.576,W
+2026-08-03,Maks Kasnikowski,Philip Henning,0.593,0.605,W
 2026-08-03,Timofey Skatov,Alex Barrena,0.658,0.664,L
 2026-08-03,Guy Den Ouden,Alexandre Muller,0.520,0.517,W
+2026-08-03,Alex Molcan,Chun Hsin Tseng,0.694,0.685,L
+2026-08-03,Pedro Boscardin Dias,Samuele Pieri,0.585,0.576,L
+2026-08-03,Dusan Lajovic,James McCabe,0.519,0.534,W
+2026-08-03,Jenson Brooksby,Adam Walton,0.550,0.552,W
+2026-08-03,Fabian Marozsan,Shintaro Mochizuki,0.617,0.627,W
+2026-08-03,Hubert Hurkacz,Marcos Giron,0.628,0.632,W
+2026-08-03,Stefanos Tsitsipas,Martin Damm Jr,0.662,0.650,W
+2026-08-03,Alexei Popyrin,Roman Andres Burruchaga,0.607,0.587,W
+2026-08-03,Jacob Fearnley,Adrian Mannarino,0.604,0.607,W
+2026-08-03,Thiago Agustin Tirante,Duncan Chan,0.747,0.729,W
 2026-08-03,Sloane Stephens,Solana Sierra,0.524,0.518,W
 2026-08-03,Yuliia Starodubtseva,Maya Joint,0.579,0.571,L
 2026-08-03,Alina Korneeva,Polina Kudermetova,0.659,0.654,W
@@ -17,6 +47,20 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-03,Gerard Campana Lee,Stefan Horia Haita,0.567,0.564,W
 2026-08-03,Rodrigo Pacheco Mendez,Aidan Mayo,0.557,0.557,L
 2026-08-03,Dragos Nicolae Cazacu,Franco Ribero,0.507,0.523,L
+2026-08-03,Yanki Erel,Denis Yevseyev,0.757,0.749,W
+2026-08-03,Dan Added,Lucas Poullain,0.595,0.589,L
+2026-08-03,Laura Samson,Mona Barthel,0.692,0.676,L
+2026-08-03,Viktoria Hruncakova,Susan Bandecchi,0.509,0.504,L
+2026-08-03,Damir Dzumhur,Geoffrey Blancaneaux,0.723,0.723,W
+2026-08-03,Zdenek Kolar,Raul Brancaccio,0.577,0.570,L
+2026-08-03,Federico Agustin Gomez,Henri Squire,0.509,0.510,L
+2026-08-03,Zsombor Piros,Daniel Rincon,0.678,0.658,W
+2026-08-03,Jerome Kym,Niels Mcdonald,0.687,0.676,W
+2026-08-03,Elmer Moller,Jamie Mackenzie,0.645,0.630,W
+2026-08-03,Vilius Gaubas,Max Houkes,0.617,0.632,L
+2026-08-03,Carlo Alberto Caniato,Gabriele Piraino,0.610,0.625,L
+2026-08-03,Tristan Boyer,Edas Butvilas,0.566,0.577,L
+2026-08-03,Alexander Blockx,Jaume Munar,0.584,0.586,VOID
 2026-08-02,Eva Lys,Panna Udvardy,0.630,0.637,L
 2026-08-02,Nikola Bartunkova,Bianca Andreescu,0.602,0.594,W
 2026-08-02,Kamilla Rakhimova,Venus Williams,0.756,0.750,W
@@ -26,12 +70,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-02,Renata Zarazua,Tamara Korpatsch,0.603,0.590,W
 2026-08-02,Sara Bejlek,Xiyu Wang,0.565,0.576,W
 2026-08-02,Kamil Majchrzak,Gael Monfils,0.762,0.729,L
+2026-08-02,Sebastian Baez,Mattia Bellucci,0.520,0.519,W
 2026-08-02,Jaume Munar,Rinky Hijikata,0.537,0.547,W
+2026-08-02,Jack Draper,Terence Atmane,0.704,0.674,L
 2026-08-02,Alex Michelsen,Jan-Lennard Struff,0.718,0.713,W
 2026-08-02,Nuno Borges,Aleksandar Kovacevic,0.651,0.656,W
+2026-08-02,Denis Shapovalov,Zachary Svajda,0.555,0.559,L
 2026-08-02,Corentin Moutet,Marton Fucsovics,0.525,0.518,W
 2026-08-02,Alexis Galarneau,Vit Kopriva,0.507,0.514,L
 2026-08-02,Matteo Berrettini,Mariano Navone,0.631,0.621,L
+2026-08-02,Daniel Merida,Liam Draxl,0.533,0.551,W
 2026-08-02,Gabriel Debru,Constantin Bittoun Kouz,0.816,0.775,W
 2026-08-02,Jan Kumstat,Gonzalo Bueno,0.532,0.540,W
 2026-08-02,Dimitris Sakellaridis,Younes Lalami,0.746,0.740,W
