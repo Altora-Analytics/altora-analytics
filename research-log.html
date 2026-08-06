@@ -46,6 +46,25 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Fixed</span>
+    <h3>Trading: live entries lagged the backtested fill by 30 minutes to 18 hours</h3>
+    <p>Our simulations fill at the next bar's open, seconds after the signal candle closes. An
+    execution audit on 7 August 2026 found every live bot filling later than that: about 30
+    minutes late on the FX book, 55 on the explorer book, 90 on indices, and up to 18 hours on
+    commodities. The schedules had been chosen for operational convenience when each bot went
+    live and were never checked against the simulated fill assumption. That is our failure,
+    found by our own audit.</p>
+    <p>Measured damage across the live history: the average entry was only about 1.5 basis
+    points of price worse than assumed on the 4-hour books, but the dispersion was large,
+    with individual entries up to 70 basis points adrift there and up to 500 on daily
+    commodities. In plain terms, the live bots were trading a noisier version of the strategy
+    than the one we validated. Direct profit impact at current scale: small. Edge dilution:
+    real.</p>
+    <p>All bots now fill within roughly two minutes of the signal candle closing, with a
+    freshness guard that retries when the broker has not yet published the candle. Live
+    trading results before 7 August 2026 carry the old execution drag. Nothing was restarted
+    and nothing deleted; the drag is disclosed here instead.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
     <h3>FX: the first filter to survive the full gauntlet</h3>
     <p>We spent a week stress-testing our own research with tools designed to kill ideas:
