@@ -1,15 +1,49 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-06,Jerome Kym,Max Houkes,0.688,0.657,W
+2026-08-06,Matej Dodig,Lorenzo Giustino,0.668,0.658,L
+2026-08-06,Lucas Poullain,Alexander Binda,0.625,0.622,W
+2026-08-06,Marko Topo,Carlos Taberner,0.566,0.577,L
+2026-08-06,Kenta   Miyoshi,Mert Alkaya,0.603,0.601,W
+2026-08-06,Paul Inchauspe,Koki Matsuda,0.762,0.726,L
+2026-08-06,Samuele Pieri,Gerard Campana Lee,0.521,0.518,L
+2026-08-06,Joel Schwaerzler,Aziz Dougaz,0.521,0.515,W
+2026-08-06,Radu Mihai Papoe,Franco Agamenone,0.678,0.658,W
+2026-08-06,Ognjen Milic,Gabriele Piraino,0.576,0.583,L
+2026-08-06,Juncheng Shang,Luciano Darderi,0.515,0.513,L
+2026-08-06,Jiri Lehecka,Alexander Blockx,0.625,0.614,W
+2026-08-06,Nuno Borges,Yannick Hanfmann,0.602,0.589,W
+2026-08-06,Mina Hodzic,Isabella Shinikova,0.660,0.667,L
+2026-08-06,Xinyu Gao,Britt Du Pree,0.586,0.585,L
+2026-08-06,Yasmine Kabbaj,Sonja Zhiyenbayeva,0.542,0.551,L
+2026-08-06,Caijsa Wilda Hennemann,Lidia Encheva,0.716,0.687,W
+2026-08-06,Brooke Black,Monika Ekstrand,0.522,0.515,W
+2026-08-06,Alice Tubello,Emily Appleton,0.557,0.563,L
+2026-08-06,Ella McDonald,Eliz Maloney,0.605,0.622,W
+2026-08-06,Greet Minnen,Carmen Gallardo Guevara,0.919,0.875,W
+2026-08-06,Oceane Dodin,Daria Khomutsianskaya,0.561,0.564,L
+2026-08-06,Vendula Valdmannova,Susan Bandecchi,0.582,0.575,W
+2026-08-06,Tilwith Di Girolami,Briana Szabo,0.621,0.604,W
+2026-08-06,Alex De Minaur,Cameron Norrie,0.688,0.674,L
+2026-08-06,Arthur Fils,Mariano Navone,0.750,0.714,W
+2026-08-06,Yanki Erel,Gijs Brouwer,0.744,0.728,VOID
 2026-08-05,Michele Ribecai,Tomasz Berkieta,0.626,0.624,W
 2026-08-05,Mirra Andreeva,Karolina Pliskova,0.797,0.766,W
 2026-08-05,Emma Navarro,Alina Korneeva,0.531,0.540,L
 2026-08-05,Ilia Simakin,Fajing Sun,0.628,0.614,W
+2026-08-05,Elise Mertens,Anna Bondar,0.702,0.705,W
 2026-08-05,Valentin Vacherot,Mariano Navone,0.654,0.642,L
+2026-08-05,Rafael Jodar,Corentin Moutet,0.744,0.735,W
 2026-08-05,Cameron Norrie,Ignacio Buse,0.652,0.655,W
+2026-08-05,Alex Michelsen,Francisco Cerundolo,0.607,0.610,W
 2026-08-05,Arthur Rinderknech,Miomir Kecmanovic,0.509,0.502,W
 2026-08-05,Nuno Borges,Tomas Martin Etcheverry,0.637,0.629,W
 2026-08-05,Lorenzo Musetti,Nicolas Mejia,0.892,0.873,W
+2026-08-05,Learner Tien,Gael Monfils,0.738,0.717,W
 2026-08-05,Marie Bouzkova,Taylor Townsend,0.562,0.569,L
 2026-08-05,Elena Rybakina,Daria Kasatkina,0.882,0.867,W
+2026-08-05,Maria Sakkari,Zeynep Sonmez,0.610,0.621,W
+2026-08-05,Barbora Krejcikova,Liudmila Samsonova,0.594,0.606,L
+2026-08-05,Sorana Cirstea ,Maya Joint,0.770,0.752,L
 2026-08-05,Iva Jovic,Magda Linette,0.788,0.765,W
 2026-08-05,Zsombor Piros,Diego Dedura-Palomero,0.594,0.580,W
 2026-08-05,Henri Squire,Alex Barrena,0.621,0.624,W
@@ -22,6 +56,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-05,Florent Bax,Daniil Ostapenkov,0.610,0.612,W
 2026-08-05,Antoine Ghibaudo,Akira Santillan,0.545,0.550,W
 2026-08-05,Alejandro Moro Canas,Alexander Donski,0.802,0.759,L
+2026-08-05,Damir Dzumhur,Mathys Erhard,0.846,0.803,L
 2026-08-05,Zizou Bergs,Sebastian Baez,0.625,0.614,W
 2026-08-05,Joao Fonseca,Stefanos Tsitsipas,0.556,0.566,W
 2026-08-05,Ben Shelton,Jenson Brooksby,0.751,0.737,W
@@ -34,14 +69,27 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-05,Greet Minnen,Sahaja Yamalapalli,0.907,0.862,W
 2026-08-05,Sofya Lansere,Margaux Rouvroy,0.507,0.530,W
 2026-08-05,Ida Wobker,Xinxin Yao,0.520,0.509,W
+2026-08-05,Jakub Mensik,Jacob Fearnley,0.763,0.713,W
 2026-08-05,Arthur Fils,Zachary Svajda,0.772,0.748,W
 2026-08-05,Hubert Hurkacz,Alejandro Tabilo,0.593,0.580,W
 2026-08-05,Taylor Fritz,Thiago Agustin Tirante,0.846,0.831,L
 2026-08-05,Pyotr Nesterov,Sebastian Sorger,0.580,0.574,W
+2026-08-05,Raphael Collignon,Alexei Popyrin,0.615,0.622,L
+2026-08-05,Ugo Humbert,Daniel Merida,0.712,0.691,L
+2026-08-05,Soonwoo Kwon,Andre Ilagan,0.806,0.784,L
 2026-08-05,Elena Ruxandra Bertea,Margaux Maquet,0.624,0.643,W
 2026-08-05,Caroline Dolehide,Savannah Broadus,0.726,0.718,W
 2026-08-05,Reese Brantmeier,Lea Ma,0.627,0.619,W
 2026-08-05,Priscilla Hon,Ayana Akli,0.554,0.550,L
+2026-08-05,Clervie Ngounoue,Yexin Ma,0.611,0.613,L
+2026-08-05,Yeonwoo Ku,Anna Rogers,0.821,0.794,W
+2026-08-05,Kylie Collins,Carolyn Ansari,0.507,0.530,L
+2026-08-05,Fabian Marozsan,Matteo Arnaldi,0.579,0.585,L
+2026-08-05,Karen Khachanov,Terence Atmane,0.625,0.623,L
+2026-08-05,Daniil Medvedev,Botic Van de Zandschulp,0.827,0.767,L
+2026-08-05,Petr Brunclik,Yannick Theodor Alexand,0.747,0.738,L
+2026-08-05,Edas Butvilas,Ozan Baris,0.614,0.622,W
+2026-08-05,Maks Kasnikowski,Iván Marrero Curbelo,0.836,0.823,L
 2026-08-04,Andrey Rublev,Juncheng Shang,0.758,0.752,L
 2026-08-04,Alexander Donski,Takuya Kumasaka,0.604,0.607,W
 2026-08-04,Ilya Ivashka,Ergi Kirkin,0.836,0.821,W
