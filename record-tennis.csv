@@ -1,4 +1,40 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-07,Tom Gentzsch,Henri Squire,0.579,0.569,W
+2026-08-07,Pyotr Nesterov,Adrian Andreev,0.561,0.565,W
+2026-08-07,Carlos Sanchez Jover,George Lazarov,0.680,0.657,W
+2026-08-07,Iva Jovic,Alina Korneeva,0.666,0.651,L
+2026-08-07,Dusan Lajovic,Abdullah Shelbayh,0.525,0.532,W
+2026-08-07,Andre Ilagan,Sebastian Gorzny,0.584,0.577,W
+2026-08-07,Tallon Griekspoor,Matteo Arnaldi,0.614,0.604,W
+2026-08-07,Alexei Popyrin,Thiago Agustin Tirante,0.555,0.552,L
+2026-08-07,Jakub Mensik,Terence Atmane,0.675,0.676,W
+2026-08-07,Alex Michelsen,Daniel Merida,0.725,0.708,L
+2026-08-07,Tommy Paul,Learner Tien,0.611,0.632,L
+2026-08-07,Hubert Hurkacz,Botic Van de Zandschulp,0.672,0.676,L
+2026-08-07,Mirra Andreeva,Leylah Fernandez,0.726,0.723,L
+2026-08-07,Coco Gauff,Maria Sakkari,0.742,0.739,W
+2026-08-07,Naomi Osaka,Elise Mertens,0.675,0.668,W
+2026-08-07,Liudmila Samsonova,Maya Joint,0.674,0.670,W
+2026-08-07,Paulson/Vliegen,Bass/Jans,0.629,0.624,L
+2026-08-07,Jerome Kym,Lorenzo Giustino,0.761,0.761,W
+2026-08-07,Ilya Ivashka,Joel Schwaerzler,0.576,0.583,L
+2026-08-07,Koki Matsuda,Gijs Brouwer,0.595,0.597,L
+2026-08-07,Gabriele Piraino,Gerard Campana Lee,0.529,0.533,W
+2026-08-07,Radu Mihai Papoe,Yannick Theodor Alexand,0.726,0.716,W
+2026-08-07,Kenta   Miyoshi,Lucas Poullain,0.725,0.704,L
+2026-08-07,Elmer Moller,Carlos Taberner,0.611,0.605,W
+2026-08-07,Noemi Basiletti,Martha Matoula,0.591,0.599,W
+2026-08-07,Greet Minnen,Isabella Shinikova,0.970,0.911,L
+2026-08-07,Ane Mintegi Del Olmo,Elena Ruxandra Bertea,0.641,0.630,L
+2026-08-07,Jodie Burrage,Hiromi Abe,0.605,0.597,W
+2026-08-07,Alicia Dudeney,Sonja Zhiyenbayeva,0.719,0.703,L
+2026-08-07,Daria Khomutsianskaya,Rina Saigo,0.586,0.594,L
+2026-08-07,Loes Ebeling Koning,Tilwith Di Girolami,0.697,0.663,W
+2026-08-07,Barbora Palicova,Tatiana Pieri,0.799,0.782,W
+2026-08-07,Caijsa Wilda Hennemann,Valentina Steiner,0.686,0.657,W
+2026-08-07,Rei Sakamoto,Edas Butvilas,0.542,0.554,L
+2026-08-07,Mathys Erhard,Iván Marrero Curbelo,0.681,0.659,W
+2026-08-07,Spencer Johnson,Andres Martin,0.597,0.595,W
 2026-08-06,Jerome Kym,Max Houkes,0.688,0.657,W
 2026-08-06,Matej Dodig,Lorenzo Giustino,0.668,0.658,L
 2026-08-06,Lucas Poullain,Alexander Binda,0.625,0.622,W
@@ -7,10 +43,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-06,Paul Inchauspe,Koki Matsuda,0.762,0.726,L
 2026-08-06,Samuele Pieri,Gerard Campana Lee,0.521,0.518,L
 2026-08-06,Joel Schwaerzler,Aziz Dougaz,0.521,0.515,W
+2026-08-06,Harrison/Skupski,Bhambri/Venus,0.699,0.672,L
 2026-08-06,Radu Mihai Papoe,Franco Agamenone,0.678,0.658,W
 2026-08-06,Ognjen Milic,Gabriele Piraino,0.576,0.583,L
 2026-08-06,Juncheng Shang,Luciano Darderi,0.515,0.513,L
 2026-08-06,Jiri Lehecka,Alexander Blockx,0.625,0.614,W
+2026-08-06,Daniil Glinka,Alexander Donski,0.656,0.651,W
+2026-08-06,Max Basing,Antoine Ghibaudo,0.572,0.580,L
+2026-08-06,Ilia Simakin,Florent Bax,0.644,0.634,W
 2026-08-06,Nuno Borges,Yannick Hanfmann,0.602,0.589,W
 2026-08-06,Mina Hodzic,Isabella Shinikova,0.660,0.667,L
 2026-08-06,Xinyu Gao,Britt Du Pree,0.586,0.585,L
@@ -22,9 +62,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-06,Greet Minnen,Carmen Gallardo Guevara,0.919,0.875,W
 2026-08-06,Oceane Dodin,Daria Khomutsianskaya,0.561,0.564,L
 2026-08-06,Vendula Valdmannova,Susan Bandecchi,0.582,0.575,W
+2026-08-06,Joao Fonseca,Casper Ruud,0.505,0.526,W
 2026-08-06,Tilwith Di Girolami,Briana Szabo,0.621,0.604,W
 2026-08-06,Alex De Minaur,Cameron Norrie,0.688,0.674,L
+2026-08-06,Ben Shelton,Zizou Bergs,0.753,0.741,W
 2026-08-06,Arthur Fils,Mariano Navone,0.750,0.714,W
+2026-08-06,Zsombor Piros,Guy Den Ouden,0.625,0.609,W
+2026-08-06,Andrea Guerrieri,Michele Ribecai,0.601,0.612,W
+2026-08-06,Ekaterine Gorgodze,Ekaterina Ovcharenko,0.743,0.731,W
+2026-08-06,Ayana Akli,Carolyn Ansari,0.743,0.743,W
+2026-08-06,Anastasia Zakharova,Fiona Crawley,0.756,0.750,W
+2026-08-06,Caroline Dolehide,Polina Iatcenko,0.608,0.615,W
 2026-08-06,Yanki Erel,Gijs Brouwer,0.744,0.728,VOID
 2026-08-05,Michele Ribecai,Tomasz Berkieta,0.626,0.624,W
 2026-08-05,Mirra Andreeva,Karolina Pliskova,0.797,0.766,W
