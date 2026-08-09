@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-08,Ding Junhui,David Gilbert,0.631,0.622,L
+2026-08-08,Mark Williams,Zhou Yuelong,0.583,0.565,L
+2026-08-08,Barry Hawkins,Liu Hongyu,0.738,0.771,L
+2026-08-08,Wu Yize,Yao Pengcheng,0.841,0.855,W
 2026-08-02,Judd Trump,Kyren Wilson,0.628,0.647,W
 2026-08-01,Zhao Xintong,Kyren Wilson,0.680,0.691,L
 2026-07-31,Judd Trump,Wu Yize,0.609,0.588,W
