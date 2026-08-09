@@ -46,6 +46,24 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ref">Refuted</span>
+    <h3>Two snooker and tennis model upgrades tested — both failed their gates</h3>
+    <p><b>Snooker margin-of-victory Elo.</b> We tested whether scaling rating updates by
+    frame margin (a 9&ndash;1 win moves ratings more than a 9&ndash;8) improves the snooker
+    model, on 20,977 scored matches with the same parameters the live model uses. Probability
+    quality improved by a sliver in both test halves (Brier 0.2239 vs 0.2246 and 0.2056 vs
+    0.2067) but pick accuracy got marginally worse in both, and our pre-registered gate
+    required both directions to improve. Not shipped.</p>
+    <p><b>Tennis sparse-rating damper.</b> After seeing a match where two nearly-unrated
+    players drew a 97% model probability against a 91% market, we proposed capping stated
+    probabilities at the market's own when either player has fewer than five rated matches.
+    Validation on our settled record refuted the premise: the sparse-rating class (207 picks)
+    is well calibrated &mdash; stated 65.7%, actual 66.2% &mdash; and outperforms the market's
+    64.4%. The overconfidence actually lives in the <i>well-rated</i> class (+4.8pts), which
+    is a calibration question, not a data-poverty one. Not shipped. Finding one alarming
+    example and fixing the class it belongs to would have destroyed real edge; the check that
+    stopped us is the same one we run before every change.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
     <h3>Football: season-opener shrinkage extended to the totals and BTTS models</h3>
     <p>With a new season starting, teams have empty form windows and the models flatten toward
