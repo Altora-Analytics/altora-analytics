@@ -46,6 +46,23 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
+    <h3>Football: season-opener shrinkage extended to the totals and BTTS models</h3>
+    <p>With a new season starting, teams have empty form windows and the models flatten toward
+    their priors — flat probabilities against a confident market print absurd value that is
+    really the model saying &ldquo;I don't know.&rdquo; Since 1 August the match-result model
+    has handled this by blending 25% toward the de-margined market whenever either team has
+    played fewer than three matches this season (a mechanism we validated on held-out data
+    before shipping). On 9 August we extended the same mechanism, unchanged, to the over/under
+    1.5, 2.5, 3.5 and both-teams-to-score models, which were still going into opening weekends
+    unprotected — and which our own settled record shows run 7&ndash;9 points overconfident.
+    The correct-score model is deliberately unchanged: it already anchors half its weight to
+    the market at all times.</p>
+    <p>What this changes publicly: stated probabilities on early-season fixtures will sit
+    closer to the market's view until teams have three matches of form. Every affected
+    prediction carries an <code>opener_shrunk</code> flag in our data. The betting thresholds
+    themselves are frozen until 1 November 2026 and are not touched by this change.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Fixed</span>
     <h3>Trading: live entries lagged the backtested fill by 30 minutes to 18 hours</h3>
     <p>Our simulations fill at the next bar's open, seconds after the signal candle closes. An
