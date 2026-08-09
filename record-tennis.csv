@@ -1,4 +1,20 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-08,Nuno Borges,Luciano Darderi,0.615,0.599,L
+2026-08-08,Brandon Nakashima,Arthur Rinderknech,0.672,0.670,W
+2026-08-08,Arthur Fils,Cameron Norrie,0.719,0.699,W
+2026-08-08,Rafael Jodar,Jiri Lehecka,0.508,0.526,W
+2026-08-08,Andrea Guerrieri,Daniil Glinka,0.593,0.578,W
+2026-08-08,Carlos Sanchez Jover,Gabriele Piraino,0.531,0.544,L
+2026-08-08,Ilia Simakin,Antoine Ghibaudo,0.608,0.623,W
+2026-08-08,Joel Schwaerzler,Mathys Erhard,0.589,0.605,W
+2026-08-08,Jerome Kym,Elmer Moller,0.641,0.634,W
+2026-08-08,Lucas Poullain,Gijs Brouwer,0.627,0.617,W
+2026-08-08,Zsombor Piros,Tom Gentzsch,0.639,0.642,L
+2026-08-08,Radu Mihai Papoe,Pyotr Nesterov,0.582,0.586,L
+2026-08-08,Britt Du Pree,Isabella Shinikova,0.776,0.771,L
+2026-08-08,Ida Wobker,Aneta Laboutkova,0.707,0.673,W
+2026-08-08,Edas Butvilas,Dusan Lajovic,0.524,0.529,W
+2026-08-08,Caroline Dolehide,Ekaterine Gorgodze,0.787,0.765,L
 2026-08-07,Tom Gentzsch,Henri Squire,0.579,0.569,W
 2026-08-07,Pyotr Nesterov,Adrian Andreev,0.561,0.565,W
 2026-08-07,Carlos Sanchez Jover,George Lazarov,0.680,0.657,W
@@ -70,10 +86,15 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-06,Zsombor Piros,Guy Den Ouden,0.625,0.609,W
 2026-08-06,Andrea Guerrieri,Michele Ribecai,0.601,0.612,W
 2026-08-06,Ekaterine Gorgodze,Ekaterina Ovcharenko,0.743,0.731,W
+2026-08-06,Yeonwoo Ku,Mai Hontama,0.515,0.517,L
+2026-08-06,Yexin Ma,Katrina Scott,0.524,0.525,L
 2026-08-06,Ayana Akli,Carolyn Ansari,0.743,0.743,W
+2026-08-06,Reese Brantmeier,Elizabeth Mandlik,0.555,0.554,W
 2026-08-06,Anastasia Zakharova,Fiona Crawley,0.756,0.750,W
+2026-08-06,Hanne Vandewinkel,Madison Sieg,0.861,0.815,W
 2026-08-06,Caroline Dolehide,Polina Iatcenko,0.608,0.615,W
 2026-08-06,Yanki Erel,Gijs Brouwer,0.744,0.728,VOID
+2026-08-06,Pavlasek/Rikl,Doumbia/Reboul,0.508,0.499,VOID
 2026-08-05,Michele Ribecai,Tomasz Berkieta,0.626,0.624,W
 2026-08-05,Mirra Andreeva,Karolina Pliskova,0.797,0.766,W
 2026-08-05,Emma Navarro,Alina Korneeva,0.531,0.540,L
