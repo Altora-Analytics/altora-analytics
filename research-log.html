@@ -46,6 +46,40 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Registered</span>
+    <h3>Tennis probability recalibration: deferred to 1 November, and here is why</h3>
+    <p>Our settled tennis picks with well-established ratings run about 5 points overconfident
+    (stated 64%, actual 59%). We tested the obvious fix — Platt-scaling the stated
+    probabilities, fitted on the first half of the record and judged on the second. It passed
+    that test narrowly. But the mirror test failed: fitted on the second half and judged on
+    the first, the same correction made things <i>worse</i>, and the fitted coefficients
+    swung by a factor of three between halves. The reason is simple: those 449 picks span
+    nineteen days. A correction whose size depends on which three-week window you fit it on
+    is not a correction yet — it is variance wearing a number.</p>
+    <p>So nothing changes today. The question is registered for <b>1 November 2026</b> with
+    the rest of that day's pre-committed reviews, when the sample will be several times
+    larger, under a stricter gate declared now: the recalibration ships only if it improves
+    Brier and log-loss on <b>both</b> chronological splits. The overconfidence itself is
+    real and persists out-of-sample; what we lack is a stable estimate of the fix.</p>
+  </div>
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ref">Refuted</span>
+    <h3>Two snooker and tennis model upgrades tested — both failed their gates</h3>
+    <p><b>Snooker margin-of-victory Elo.</b> We tested whether scaling rating updates by
+    frame margin (a 9&ndash;1 win moves ratings more than a 9&ndash;8) improves the snooker
+    model, on 20,977 scored matches with the same parameters the live model uses. Probability
+    quality improved by a sliver in both test halves (Brier 0.2239 vs 0.2246 and 0.2056 vs
+    0.2067) but pick accuracy got marginally worse in both, and our pre-registered gate
+    required both directions to improve. Not shipped.</p>
+    <p><b>Tennis sparse-rating damper.</b> After seeing a match where two nearly-unrated
+    players drew a 97% model probability against a 91% market, we proposed capping stated
+    probabilities at the market's own when either player has fewer than five rated matches.
+    Validation on our settled record refuted the premise: the sparse-rating class (207 picks)
+    is well calibrated &mdash; stated 65.7%, actual 66.2% &mdash; and outperforms the market's
+    64.4%. The overconfidence actually lives in the <i>well-rated</i> class (+4.8pts), which
+    is a calibration question, not a data-poverty one. Not shipped. Finding one alarming
+    example and fixing the class it belongs to would have destroyed real edge; the check that
+    stopped us is the same one we run before every change.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
     <h3>Football: season-opener shrinkage extended to the totals and BTTS models</h3>
     <p>With a new season starting, teams have empty form windows and the models flatten toward
