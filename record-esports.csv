@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-09,dplus kia,kt rolster,0.541,,W
+2026-08-09,bnk fearx,drx,0.618,,W
+2026-08-09,g2 esports,team heretics,0.736,,W
+2026-08-09,karmine corp,fnatic,0.763,,W
+2026-08-09,lyon,team dignitas,0.816,0.902,W
+2026-08-09,team liquid,flyquest,0.655,0.694,W
 2026-08-08,t1,hanwha life esports,0.552,,L
 2026-08-08,nongshim redforce,soopers,0.743,,L
 2026-08-08,natus vincere,sk gaming,0.677,,W
