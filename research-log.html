@@ -62,6 +62,21 @@
     Brier and log-loss on <b>both</b> chronological splits. The overconfidence itself is
     real and persists out-of-sample; what we lack is a stable estimate of the fix.</p>
   </div>
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
+    <h3>Goals-model calibration study: two corrections shipped, two refused — and a lesson
+    about measuring your own record</h3>
+    <p>Following the side-asymmetry finding below, we tested whether our goals models
+    systematically over-predict goals, on 6,534 held-out matches per market that the deployed
+    models never trained on. The clean answer: mostly no. Over/under 2.5 and both-teams-to-score
+    are unbiased out of sample (+0.6 and +0.1 points) — the larger gaps we measured on our own
+    live board were a <i>selection effect</i>: conditioning on the model choosing a side inflates
+    apparent overconfidence. Two real flaws did survive scrutiny: the over-3.5 tail is genuinely
+    fat (+1.8 points, +4.1 in the big leagues), and the over-1.5 probabilities were too timid.
+    Both now carry fitted corrections that improved held-out accuracy in both test halves;
+    both-teams-to-score and over/under 2.5 ship nothing, because fixing an artifact would have
+    damaged real probabilities. Stated probabilities on the affected markets change by roughly
+    half a point on a typical fixture.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Registered</span>
     <h3>Pre-declared question for the 1 November threshold review: side-specific goals gates</h3>
     <p>Observed on 10 August 2026, looking at the record because a reader-level question
