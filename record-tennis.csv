@@ -1,4 +1,19 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-09,Tallon Griekspoor,Daniel Merida,0.531,0.539,L
+2026-08-09,Jakub Mensik,Botic Van de Zandschulp,0.734,0.720,W
+2026-08-09,Learner Tien,Thiago Agustin Tirante,0.708,0.675,W
+2026-08-09,Ben Shelton,Joao Fonseca,0.513,0.534,W
+2026-08-09,Naomi Osaka,Leylah Fernandez,0.708,0.698,W
+2026-08-09,Coco Gauff,Alina Korneeva,0.772,0.752,W
+2026-08-09,Elena Rybakina,Liudmila Samsonova,0.755,0.746,W
+2026-08-09,Alibek Kachmazov,Colin Sinclair,0.700,0.686,L
+2026-08-09,Andrea Guerrieri,Joel Schwaerzler,0.501,0.506,L
+2026-08-09,Jerome Kym,Tom Gentzsch,0.564,0.569,L
+2026-08-09,Ilia Simakin,Lucas Poullain,0.661,0.667,L
+2026-08-09,Sonja Zhiyenbayeva,Isabella Shinikova,0.582,0.586,W
+2026-08-09,Hynek Barton,Tim Handel,0.972,0.911,W
+2026-08-09,Pyotr Nesterov,Gabriele Piraino,0.601,0.617,L
+2026-08-09,Edas Butvilas,Andre Ilagan,0.628,0.634,W
 2026-08-08,Nuno Borges,Luciano Darderi,0.615,0.599,L
 2026-08-08,Brandon Nakashima,Arthur Rinderknech,0.672,0.670,W
 2026-08-08,Arthur Fils,Cameron Norrie,0.719,0.699,W
