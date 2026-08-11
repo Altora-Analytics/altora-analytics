@@ -1,4 +1,35 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-10,Semen Pankin,Dominik Palan,0.627,0.619,W
+2026-08-10,Khumoyun Sultanov,Alexander Binda,0.656,0.637,W
+2026-08-10,Hayato Matsuoka,Koki Matsuda,0.663,0.648,W
+2026-08-10,Marco Cecchinato,Nick Hardt,0.719,0.694,W
+2026-08-10,Daniel Elahi Galan,Murkel Dellien,0.764,0.756,W
+2026-08-10,Niels Mcdonald,Mika Petkovic,0.585,0.589,W
+2026-08-10,Raul Brancaccio,Filip Cristian Jianu,0.621,0.621,W
+2026-08-10,Max Alcalà Gurri,Eduardo Ribeiro,0.825,0.815,L
+2026-08-10,Chun Hsin Tseng,Vitaliy Sachko,0.514,0.532,L
+2026-08-10,Erik Arutiunian,Mitsuki Wei Kang Leong,0.562,0.573,W
+2026-08-10,Sasikumar Mukund,Kokoro Isomura,0.796,0.785,L
+2026-08-10,Taisei Ichikawa,Karan   Singh,0.547,0.563,W
+2026-08-10,Jan Kumstat,Tom Zeuch,0.944,0.912,W
+2026-08-10,Lorenzo Carboni,Maximilian Homberg,0.636,0.638,W
+2026-08-10,Ergi Kirkin,Federico Zeballos,0.795,0.783,W
+2026-08-10,Shunsuke Mitsui,Sidharth Rawat,0.660,0.662,L
+2026-08-10,Colin Sinclair,Damir Zhalgasbay,0.510,0.504,W
+2026-08-10,Eric Vanshelboim,Michele Mecarelli,0.568,0.564,L
+2026-08-10,Gianmarco Ferrari,Nikita Mashtakov,0.598,0.586,L
+2026-08-10,Oleksii Krutykh,Jannik Opitz,0.804,0.798,W
+2026-08-10,Georgii Kravchenko,STEFANO D`AGOSTINO,0.677,0.645,W
+2026-08-10,Olle Wallin,Niklas Guttau,0.789,0.755,W
+2026-08-10,Andrew Fenty,Evan King,0.764,0.753,W
+2026-08-10,Carlo Alberto Caniato,Gabriele Crivellaro,0.877,0.832,W
+2026-08-10,Juan Cruz Martin Manzan,Alexander Weis,0.558,0.558,L
+2026-08-10,Denis Yevseyev,Saba Purtseladze,0.606,0.588,W
+2026-08-10,Tristan Boyer,Aidan Mayo,0.567,0.564,L
+2026-08-10,Gavin Young,Edward Winter,0.515,0.523,L
+2026-08-10,Mees Rottgering,Garrett Johns,0.619,0.633,W
+2026-08-10,Aidan Kim,Suresh Dhakshineswar,0.509,0.513,L
+2026-08-10,Quinn Vandecasteele,Ajeet Rai,0.743,0.726,W
 2026-08-09,Tallon Griekspoor,Daniel Merida,0.531,0.539,L
 2026-08-09,Jakub Mensik,Botic Van de Zandschulp,0.734,0.720,W
 2026-08-09,Learner Tien,Thiago Agustin Tirante,0.708,0.675,W
