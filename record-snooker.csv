@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-11,John Higgins,Stuart Bingham,0.682,0.691,L
+2026-08-11,Chris Wakelin,Tom Ford,0.624,0.621,W
+2026-08-11,Zhao Xintong,Zhang Anda,0.757,0.772,L
 2026-08-10,Neil Robertson,Chang Bingyu,0.573,0.558,W
 2026-08-10,SI Jiahui,Jiang Jun,0.591,0.586,W
 2026-08-10,Kyren Wilson,Aaron Hill,0.787,0.776,W
