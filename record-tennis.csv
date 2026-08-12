@@ -1,13 +1,60 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-11,Learner Tien,Daniel Merida,0.675,0.656,W
+2026-08-11,Naomi Osaka,Elena Rybakina,0.506,0.502,L
+2026-08-11,Ben Shelton,Jakub Mensik,0.527,0.544,W
+2026-08-11,Aziz Dougaz,Alec Deckers,0.818,0.759,W
+2026-08-11,Kasidit Samrej,Kokoro Isomura,0.628,0.626,W
+2026-08-11,Takuya Kumasaka,Colin Sinclair,0.519,0.523,W
+2026-08-11,Mert Alkaya,Sidharth Rawat,0.781,0.752,W
+2026-08-11,Francesco Forti,Michele Mecarelli,0.749,0.733,W
+2026-08-11,Matej Dodig,Denis Yevseyev,0.847,0.836,W
+2026-08-11,Dylan Dietrich,Oleksii Krutykh,0.712,0.694,W
+2026-08-11,Fryderyk Lechno-Wasiuty,Saba Purtseladze,0.623,0.627,L
+2026-08-11,Jan Kumstat,Jamie Mackenzie,0.595,0.597,W
+2026-08-11,Andrej Nedic,Ergi Kirkin,0.833,0.793,W
+2026-08-11,Carlos Taberner,Olle Wallin,0.608,0.589,W
+2026-08-11,Lukas Neumayer,Alexander Weis,0.829,0.795,W
+2026-08-11,Alex Barrena,Georgii Kravchenko,0.624,0.611,W
+2026-08-11,Oriol Roca Batalla,Nikita Mashtakov,0.715,0.675,W
+2026-08-11,Eva Vedder,Sohyun Park,0.732,0.710,L
+2026-08-11,Samira de Stefano,Francesca Parcelli,0.829,0.783,W
+2026-08-11,Lilli Tagger,Lin Zhu,0.612,0.597,W
+2026-08-11,Robin Montgomery,Julia Grabher,0.613,0.619,W
+2026-08-11,Aleksandr Shevchenko,Pablo Llamas Ruiz,0.545,0.556,W
+2026-08-11,Quentin Halys,Soonwoo Kwon,0.602,0.599,W
+2026-08-11,Giovanni Mpetshi Perricard,Trevor Svajda,0.662,0.644,L
+2026-08-11,Luca Van Assche,Gustavo Heide,0.702,0.706,W
+2026-08-11,Benjamin Bonzi,Dusan Lajovic,0.635,0.645,L
+2026-08-11,Mary Stoiana,Veronika Erjavec,0.589,0.589,W
+2026-08-11,Sebastian Ofner,Marco Trungelliti,0.588,0.588,L
+2026-08-11,Yibing Wu,Mackenzie McDonald,0.684,0.680,W
+2026-08-11,Jaime Faria,Nikoloz Basilashvili,0.662,0.644,W
+2026-08-11,Coco Gauff,Belinda Bencic,0.604,0.608,VOID
+2026-08-10,Manas Dhamne,Vadym Ursu,0.598,0.614,W
 2026-08-10,Semen Pankin,Dominik Palan,0.627,0.619,W
+2026-08-10,Sergey Fomin,Maxim Zhukov,0.596,0.586,W
+2026-08-10,Beibit Zhukayev,Amir Omarkhanov,0.522,0.508,W
 2026-08-10,Khumoyun Sultanov,Alexander Binda,0.656,0.637,W
+2026-08-10,Jie Cui,Aziz Ouakaa,0.718,0.708,W
 2026-08-10,Hayato Matsuoka,Koki Matsuda,0.663,0.648,W
+2026-08-10,Thomas Faurel,Facundo Mena,0.577,0.582,W
 2026-08-10,Marco Cecchinato,Nick Hardt,0.719,0.694,W
+2026-08-10,Enrico Dalla Valle,Juan Bautista Torres,0.618,0.599,L
 2026-08-10,Daniel Elahi Galan,Murkel Dellien,0.764,0.756,W
+2026-08-10,Zsombor Piros,Max Schoenhaus,0.694,0.676,L
 2026-08-10,Niels Mcdonald,Mika Petkovic,0.585,0.589,W
 2026-08-10,Raul Brancaccio,Filip Cristian Jianu,0.621,0.621,W
 2026-08-10,Max Alcalà Gurri,Eduardo Ribeiro,0.825,0.815,L
 2026-08-10,Chun Hsin Tseng,Vitaliy Sachko,0.514,0.532,L
+2026-08-10,Sumit Nagal,Max Houkes,0.553,0.569,L
+2026-08-10,Max Hans Rehberg,Diego Dedura-Palomero,0.503,0.494,W
+2026-08-10,Elmer Moller,Rudolf Molleker,0.725,0.708,L
+2026-08-10,Edas Butvilas,Michael Mmoh,0.505,0.511,W
+2026-08-10,Andres Martin,Andre Ilagan,0.506,0.495,L
+2026-08-10,Brandon Nakashima,Luciano Darderi,0.683,0.681,W
+2026-08-10,Heliovaara/Patten,Cerundolo/Etcheverry,0.884,0.837,L
+2026-08-10,Arthur Fils,Rafael Jodar,0.501,0.479,L
+2026-08-10,Andreozzi/Guinard,Luz/Matos,0.574,0.566,L
 2026-08-10,Erik Arutiunian,Mitsuki Wei Kang Leong,0.562,0.573,W
 2026-08-10,Sasikumar Mukund,Kokoro Isomura,0.796,0.785,L
 2026-08-10,Taisei Ichikawa,Karan   Singh,0.547,0.563,W
@@ -30,6 +77,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-10,Mees Rottgering,Garrett Johns,0.619,0.633,W
 2026-08-10,Aidan Kim,Suresh Dhakshineswar,0.509,0.513,L
 2026-08-10,Quinn Vandecasteele,Ajeet Rai,0.743,0.726,W
+2026-08-10,Stefano Travaglia,Nicolas Kicker,0.755,0.740,L
+2026-08-10,Duje Ajdukovic,Luciano Emanuel Ambrogi,0.531,0.545,L
+2026-08-10,Borna Gojo,Harry Wendelken,0.657,0.656,L
+2026-08-10,Arribage/Olivetti,Marozsan/Medvedev,0.713,0.691,W
+2026-08-10,Anna Siskova,Maria Martinez Vaquero,0.896,0.866,W
 2026-08-09,Tallon Griekspoor,Daniel Merida,0.531,0.539,L
 2026-08-09,Jakub Mensik,Botic Van de Zandschulp,0.734,0.720,W
 2026-08-09,Learner Tien,Thiago Agustin Tirante,0.708,0.675,W
