@@ -1,4 +1,16 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-12,nongshim redforce,soopers,0.651,0.664,L
+2026-08-12,dplus kia,kt rolster,0.525,0.622,W
+2026-08-12,aurora gaming,big,0.621,0.615,L
+2026-08-12,spirit,jijiehao,0.923,0.873,L
+2026-08-12,fut esports,tyloo,0.632,0.597,W
+2026-08-12,g2,m80,0.676,0.679,W
+2026-08-12,themongolz,magic,0.629,0.538,W
+2026-08-12,team falcons,k27,0.829,0.799,W
+2026-08-12,faze clan,bb team,0.506,0.524,W
+2026-08-12,astralis,mibr,0.503,0.561,W
+2026-08-12,furia,wildcard,0.798,0.780,W
+2026-08-12,9z,pain,0.690,0.622,W
 2026-08-10,team vitality,sk gaming,0.759,0.653,W
 2026-08-10,g2 esports,natus vincere,0.542,0.797,W
 2026-08-09,dplus kia,kt rolster,0.541,,W
