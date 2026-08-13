@@ -77,6 +77,36 @@
     damaged real probabilities. Stated probabilities on the affected markets change by roughly
     half a point on a typical fixture.</p>
   </div>
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
+    <h3>Trading: a two-day cost audit rebuilt how our FX book executes</h3>
+    <p>We asked one question of every trading book: how much edge do execution costs eat, and
+    can we pay less without changing what the strategies believe? Six studies later, the
+    honest answers: our rebalancing books lose ~2.4% a year to spread but most of that churn
+    carries real signal (slowing it down loses more than it saves); our breakout engines'
+    edge lives in their exits (holding longer guts them); and our main FX book had three
+    genuine leaks &mdash; impatient exits on two strategies, one pair (EUR/GBP) where every
+    strategy loses because the spread is huge relative to how little it moves, and a
+    once-a-day entry slot at 9pm UK where spreads run five times normal.</p>
+    <p>Two attractive ideas died on the way, and we're publishing them alongside the wins:
+    a margin-of-victory upgrade for the snooker model improved probability quality but not
+    picks (failed its pre-registered gate), and one strategy's apparent gain from passive
+    entries evaporated under a stricter fill assumption &mdash; the trades the limit order
+    missed were precisely the best ones.</p>
+    <p>The surviving changes &mdash; resting limit orders for four strategies (with per-pair
+    exceptions the data demanded), minimum holding periods for two, EUR/GBP removed from
+    execution &mdash; were validated as one combined book against 15 years of data, required
+    to beat the current book in both the early and recent halves and with costs doubled.
+    It passed everything: Sharpe 0.77 &rarr; 1.03 overall, 1.24 &rarr; 1.61 in the modern
+    era, 0.42 &rarr; 0.80 under doubled costs, with 11% fewer trades.</p>
+    <p>The uncomfortable part, disclosed plainly: our backtests had always charged a flat
+    average spread. Re-scoring with real hour-by-hour spreads shows the current live
+    construct &mdash; a third of whose entries land in the expensive rollover hour &mdash;
+    was flattered by that assumption; much of its paper edge shrinks under honest pricing.
+    The revision is three times less exposed, because resting orders don't pay the entry
+    spread at all. The live bot cuts over only after a verification period confirms real
+    fills match the simulated construct; until then it trades the old way, and the demo
+    record continues unbroken either way.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Registered</span>
     <h3>Pre-declared question for the 1 November threshold review: side-specific goals gates</h3>
     <p>Observed on 10 August 2026, looking at the record because a reader-level question
