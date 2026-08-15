@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-14,Griquas,Sharks,0.828,,W
+2026-08-14,Lions,Boland Cavaliers,0.861,,L
+2026-08-14,Dolphins,Manly Sea Eagles,0.679,0.717,W
+2026-08-14,Canterbury Bulldogs Wom,South Sydney Rabbitohs,0.596,0.593,L
+2026-08-14,Hull FC,Castleford Tigers,0.622,0.829,L
 2026-08-13,Penrith Panthers,Sydney Rooster,0.620,0.631,L
 2026-08-13,Warrington Wolves,York Knights,0.864,0.878,W
 2026-08-13,Hull Kingston Rovers,Catalans Dragons,0.913,0.932,W
