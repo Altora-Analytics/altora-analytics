@@ -1,4 +1,46 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-15,Maria Sakkari,Kamilla Rakhimova,0.637,0.643,W
+2026-08-15,Amanda Anisimova,Zeynep Sonmez,0.792,0.784,W
+2026-08-15,Belinda Bencic,Lois Boisson,0.798,0.792,L
+2026-08-15,Emma Navarro,Anhelina Kalinina,0.621,0.627,W
+2026-08-15,Jessica Pegula,Simona Waltert,0.943,0.927,W
+2026-08-15,Martin Landaluce,Matteo Arnaldi,0.553,0.547,W
+2026-08-15,Diana Shnaider,Tatjana Maria,0.784,0.761,W
+2026-08-15,Alexandra Eala,Elena-Gabriela Ruse,0.695,0.673,W
+2026-08-15,Magdalena Frech,Jelena Ostapenko,0.520,0.501,W
+2026-08-15,Anna Kalinskaya,Catherine Mcnally,0.553,0.553,W
+2026-08-15,Cristina Bucsa,Maja Chwalinska,0.520,0.520,L
+2026-08-15,Elise Mertens,Diane Parry,0.756,0.745,L
+2026-08-15,Linda Noskova,Katie Boulter,0.791,0.765,W
+2026-08-15,Alexander Blockx,Mariano Navone,0.569,0.566,W
+2026-08-15,Terence Atmane,Tomas Martin Etcheverry,0.616,0.613,W
+2026-08-15,Jakub Mensik,Mattia Bellucci,0.773,0.764,W
+2026-08-15,Flavio Cobolli,Miomir Kecmanovic,0.537,0.541,W
+2026-08-15,Luciano Darderi,Rinky Hijikata,0.600,0.604,L
+2026-08-15,Alejandro Tabilo,Jan-Lennard Struff,0.629,0.642,W
+2026-08-15,Novak Djokovic,Thiago Agustin Tirante,0.827,0.784,L
+2026-08-15,Rafael Jodar,Denis Shapovalov,0.700,0.694,W
+2026-08-15,Hayato Matsuoka,Khumoyun Sultanov,0.579,0.573,W
+2026-08-15,Aziz Dougaz,Sergey Fomin,0.601,0.592,W
+2026-08-15,Matej Dodig,Marvin Moeller,0.688,0.661,L
+2026-08-15,Jan Kumstat,Matheus Pucinelli De Al,0.682,0.678,W
+2026-08-15,Valentin Vacherot,Adolfo Daniel Vallejo,0.739,0.703,L
+2026-08-15,Tommy Paul,Hubert Hurkacz,0.552,0.546,W
+2026-08-15,Maxim Mrva,Alex Barrena,0.549,0.556,W
+2026-08-15,Clara Tauson,Peyton Stearns,0.525,0.540,W
+2026-08-15,Sorana Cirstea ,Nikola Bartunkova,0.605,0.605,W
+2026-08-15,Alex De Minaur,Quentin Halys,0.757,0.708,W
+2026-08-15,Arthur Fils,Yannick Hanfmann,0.776,0.761,W
+2026-08-15,Rositsa Dencheva,Luna Vujovic,0.615,0.610,W
+2026-08-15,Anna Siskova,Ruth Roura Llaverias,0.802,0.798,W
+2026-08-15,Susan Bandecchi,Alana Smith,0.757,0.740,W
+2026-08-15,Yelyzaveta Kotliar,Nellie Taraba Wallberg,0.553,0.564,W
+2026-08-15,Mia Ristic,Matilde Paoletti,0.666,0.659,W
+2026-08-15,Laima Vladson,Rasheeda Mcadoo,0.634,0.625,L
+2026-08-15,Arthur Fery,James Duckworth,0.550,0.566,W
+2026-08-15,Marco Cecchinato,Nicolas Kicker,0.733,0.724,L
+2026-08-15,Lloyd Harris,Daniel Milavsky,0.688,0.675,W
+2026-08-15,Jack Pinnington Jones,Andre Ilagan,0.621,0.608,L
 2026-08-14,Ben Shelton,Brandon Nakashima,0.704,0.670,W
 2026-08-14,Hayato Matsuoka,Fajing Sun,0.585,0.587,W
 2026-08-14,Khumoyun Sultanov,Mert Alkaya,0.512,0.534,W
@@ -14,6 +56,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-14,Tereza Valentova,Mary Stoiana,0.680,0.673,W
 2026-08-14,Xiyu Wang,Maria Timofeeva,0.626,0.643,W
 2026-08-14,Anna Blinkova,Mananchaya Sawangkaew,0.519,0.505,W
+2026-08-14,Shuai Zhang,Kayla Day,0.539,0.552,W
 2026-08-14,Nikola Bartunkova,Alina Charaeva,0.699,0.689,W
 2026-08-14,Joelle Steur,Dalila Jakupovic,0.766,0.759,L
 2026-08-14,Rositsa Dencheva,Katarina Zavatska,0.521,0.510,W
