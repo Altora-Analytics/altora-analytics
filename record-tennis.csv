@@ -1,5 +1,44 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-16,Jessica Bouzas Maneiro,Katerina Siniakova,0.523,0.510,L
+2026-08-16,Madison Keys,Daria Snigur,0.716,0.702,W
+2026-08-16,Barbora Krejcikova,Sara Bejlek,0.598,0.605,L
+2026-08-16,Marie Bouzkova,Lucrezia Stefanini,0.800,0.786,W
+2026-08-16,Ekaterina Alexandrova,Anna Blinkova,0.750,0.741,W
+2026-08-16,Janice Tjen,Viktorija Golubic,0.524,0.529,W
+2026-08-16,Aryna Sabalenka,Talia Gibson,0.884,0.859,W
+2026-08-16,Leylah Fernandez,Xiyu Wang,0.556,0.562,L
+2026-08-16,Mirra Andreeva,Oleksandra Oliynykova,0.932,0.907,W
+2026-08-16,Iva Jovic,Tamara Korpatsch,0.916,0.894,W
+2026-08-16,Arthur Rinderknech,Manuel Cerundolo,0.624,0.617,L
+2026-08-16,Joao Fonseca,Botic Van de Zandschulp,0.723,0.711,W
+2026-08-16,Taylor Fritz,Alex Michelsen,0.625,0.623,W
+2026-08-16,Casper Ruud,Christopher O'Connell,0.773,0.747,L
+2026-08-16,Coco Gauff,Liudmila Samsonova,0.747,0.738,W
+2026-08-16,Marta Kostyuk,Sofia Kenin,0.910,0.892,W
+2026-08-16,Xinyu Wang,Donna Vekic,0.548,0.541,W
+2026-08-16,Anastasia Potapova,Sloane Stephens,0.648,0.655,L
+2026-08-16,Elina Svitolina,Tereza Valentova,0.729,0.724,W
+2026-08-16,Brandon Nakashima,Aleksandar Kovacevic,0.778,0.761,W
+2026-08-16,Daniel Merida,Zizou Bergs,0.512,0.535,W
+2026-08-16,Adam Walton,Ignacio Buse,0.602,0.590,W
+2026-08-16,Daniil Medvedev,Marco Trungelliti,0.877,0.840,W
+2026-08-16,Ugo Humbert,Michael Zheng,0.520,0.519,L
+2026-08-16,Frances Tiafoe,Lorenzo Sonego,0.603,0.611,W
+2026-08-16,Nuno Borges,Francisco Cerundolo,0.528,0.543,W
+2026-08-16,Ben Shelton,Jaime Faria,0.840,0.824,L
+2026-08-16,Hayato Matsuoka,Aziz Dougaz,0.595,0.608,W
+2026-08-16,Rudolf Molleker,Aleksandr Braynin,0.853,0.837,W
+2026-08-16,Norbert Gombos,Jiri Cizek,0.955,0.934,W
+2026-08-16,Oleksii Krutykh,Michael Vrbensky,0.660,0.662,W
+2026-08-16,Jan Kumstat,Marvin Moeller,0.606,0.607,W
+2026-08-16,Dusan Obradovic,Matyas Cerny,0.508,0.514,L
+2026-08-16,Gerard Campana Lee,Franco Ribero,0.748,0.735,W
+2026-08-16,Ann Li,Shuai Zhang,0.663,0.660,W
+2026-08-16,Maxim Mrva,Nicolas Kicker,0.602,0.615,W
+2026-08-16,Yelyzaveta Kotliar,Daria Kuczer,0.662,0.660,L
+2026-08-16,Anna Siskova,Rasheeda Mcadoo,0.861,0.815,W
 2026-08-15,Maria Sakkari,Kamilla Rakhimova,0.637,0.643,W
+2026-08-15,Elena Rybakina,Taylor Townsend,0.767,0.752,W
 2026-08-15,Amanda Anisimova,Zeynep Sonmez,0.792,0.784,W
 2026-08-15,Belinda Bencic,Lois Boisson,0.798,0.792,L
 2026-08-15,Emma Navarro,Anhelina Kalinina,0.621,0.627,W
@@ -8,6 +47,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-15,Diana Shnaider,Tatjana Maria,0.784,0.761,W
 2026-08-15,Alexandra Eala,Elena-Gabriela Ruse,0.695,0.673,W
 2026-08-15,Magdalena Frech,Jelena Ostapenko,0.520,0.501,W
+2026-08-15,Alexander Zverev,Cameron Norrie,0.822,0.771,W
 2026-08-15,Anna Kalinskaya,Catherine Mcnally,0.553,0.553,W
 2026-08-15,Cristina Bucsa,Maja Chwalinska,0.520,0.520,L
 2026-08-15,Elise Mertens,Diane Parry,0.756,0.745,L
@@ -27,10 +67,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-15,Valentin Vacherot,Adolfo Daniel Vallejo,0.739,0.703,L
 2026-08-15,Tommy Paul,Hubert Hurkacz,0.552,0.546,W
 2026-08-15,Maxim Mrva,Alex Barrena,0.549,0.556,W
+2026-08-15,Iga Swiatek,Emiliana Arango,0.969,0.944,W
 2026-08-15,Clara Tauson,Peyton Stearns,0.525,0.540,W
 2026-08-15,Sorana Cirstea ,Nikola Bartunkova,0.605,0.605,W
 2026-08-15,Alex De Minaur,Quentin Halys,0.757,0.708,W
+2026-08-15,Lorenzo Musetti,Daniel Altmaier,0.748,0.742,W
 2026-08-15,Arthur Fils,Yannick Hanfmann,0.776,0.761,W
+2026-08-15,Felix Auger-Aliassime,Stefanos Tsitsipas,0.538,0.569,W
 2026-08-15,Rositsa Dencheva,Luna Vujovic,0.615,0.610,W
 2026-08-15,Anna Siskova,Ruth Roura Llaverias,0.802,0.798,W
 2026-08-15,Susan Bandecchi,Alana Smith,0.757,0.740,W
@@ -41,6 +84,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-15,Marco Cecchinato,Nicolas Kicker,0.733,0.724,L
 2026-08-15,Lloyd Harris,Daniel Milavsky,0.688,0.675,W
 2026-08-15,Jack Pinnington Jones,Andre Ilagan,0.621,0.608,L
+2026-08-15,Learner Tien,Sebastian Baez,0.757,0.741,W
+2026-08-15,Andrey Rublev,Pablo Carreno Busta,0.688,0.658,W
 2026-08-14,Ben Shelton,Brandon Nakashima,0.704,0.670,W
 2026-08-14,Hayato Matsuoka,Fajing Sun,0.585,0.587,W
 2026-08-14,Khumoyun Sultanov,Mert Alkaya,0.512,0.534,W
