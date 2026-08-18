@@ -1,4 +1,45 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-17,Sumit Nagal,Eduardo Ribeiro,0.753,0.746,W
+2026-08-17,Kimmer Coppejans,Miguel Damas,0.703,0.694,W
+2026-08-17,Cezar Cretu,Thomas Faurel,0.524,0.528,W
+2026-08-17,Manas Dhamne,Viktor Durasovic,0.551,0.560,L
+2026-08-17,Max Basing,Lucas Poullain,0.617,0.607,L
+2026-08-17,Johannus Monday,Iliyan Radulov,0.774,0.769,L
+2026-08-17,Christian Langmo,Gabi Adrian Boitan,0.547,0.558,L
+2026-08-17,Amanda Anisimova,Alexandra Eala,0.540,0.549,W
+2026-08-17,Alexander Blockx,Flavio Cobolli,0.510,0.523,L
+2026-08-17,Diana Shnaider,Maja Chwalinska,0.771,0.758,W
+2026-08-17,Sorana Cirstea ,Anna Kalinskaya,0.518,0.520,W
+2026-08-17,Jessica Pegula,Emma Navarro,0.814,0.801,W
+2026-08-17,Linda Noskova,Clara Tauson,0.699,0.694,W
+2026-08-17,Lois Boisson,Diane Parry,0.509,0.515,L
+2026-08-17,Jakub Mensik,Rinky Hijikata,0.764,0.758,W
+2026-08-17,Thiago Agustin Tirante,Martin Landaluce,0.538,0.562,W
+2026-08-17,Rafael Jodar,Alejandro Tabilo,0.684,0.665,W
+2026-08-17,Tommy Paul,Adolfo Daniel Vallejo,0.855,0.795,W
+2026-08-17,Arthur Fils,Jiri Lehecka,0.588,0.589,W
+2026-08-17,Alex De Minaur,Arthur Fery,0.806,0.797,W
+2026-08-17,Lautaro Midon,Dan Martin,0.817,0.806,W
+2026-08-17,Paul Jubb,Elias Ymer,0.555,0.567,L
+2026-08-17,Alexander Zverev,Terence Atmane,0.905,0.853,W
+2026-08-17,Javier Barranco Cosano,Andrej Martin,0.533,0.540,W
+2026-08-17,Gerard Campana Lee,Theo Papamalamis,0.602,0.595,W
+2026-08-17,Norbert Gombos,Andrew Paulson,0.651,0.653,W
+2026-08-17,Luca Wiedenmann,Thiago Cigarran,0.786,0.751,L
+2026-08-17,Alex Marti Pujolras,Lorenzo Bocchi,0.703,0.664,W
+2026-08-17,Oleksii Krutykh,Luciano Emanuel Ambrogi,0.555,0.567,W
+2026-08-17,Ben Hassan,Leo Raquillet,0.635,0.626,W
+2026-08-17,Nerman Fatic,Matthew William Donald,0.638,0.628,W
+2026-08-17,Radu Mihai Papoe,Matyas Cerny,0.819,0.805,W
+2026-08-17,Elena Rybakina,Magdalena Frech,0.874,0.862,W
+2026-08-17,Oleksandr Ovcharenko,Dimitris Sakellaridis,0.523,0.539,W
+2026-08-17,Alec Deckers,Ali Habib,0.897,0.844,W
+2026-08-17,Lucas Andrade Da Silva,Iván Marrero Curbelo,0.645,0.651,W
+2026-08-17,Iga Swiatek,Maria Sakkari,0.889,0.873,W
+2026-08-17,Aidan Kim,Edward Winter,0.530,0.544,L
+2026-08-17,Timo Legout,Garrett Johns,0.722,0.703,L
+2026-08-17,Andrew Fenty,Evan Zhu,0.524,0.513,L
+2026-08-17,Vitaliy Sachko,Daniel Siniakov,0.759,0.729,VOID
 2026-08-16,Jessica Bouzas Maneiro,Katerina Siniakova,0.523,0.510,L
 2026-08-16,Madison Keys,Daria Snigur,0.716,0.702,W
 2026-08-16,Barbora Krejcikova,Sara Bejlek,0.598,0.605,L
