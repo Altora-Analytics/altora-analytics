@@ -1,10 +1,51 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-18,Mirra Andreeva,Janice Tjen,0.869,0.849,W
+2026-08-18,Aryna Sabalenka,Xinyu Wang,0.915,0.901,W
+2026-08-18,Lorenzo Musetti,Michael Zheng,0.634,0.629,W
+2026-08-18,Daniil Medvedev,Brandon Nakashima,0.574,0.564,L
+2026-08-18,Felix Auger-Aliassime,Manuel Cerundolo,0.832,0.807,W
+2026-08-18,Coco Gauff,Ann Li,0.873,0.858,W
+2026-08-18,Marta Kostyuk,Sloane Stephens,0.879,0.869,W
+2026-08-18,Madison Keys,Katerina Siniakova,0.755,0.748,W
+2026-08-18,Iva Jovic,Marie Bouzkova,0.611,0.621,L
+2026-08-18,Ekaterina Alexandrova,Sara Bejlek,0.513,0.516,L
+2026-08-18,Jesper De Jong,Dane Sweeny,0.656,0.637,W
+2026-08-18,Taylor Fritz,Daniel Merida,0.830,0.780,W
+2026-08-18,Andrey Rublev,Nuno Borges,0.623,0.602,L
+2026-08-18,Learner Tien,Frances Tiafoe,0.506,0.531,L
+2026-08-18,Jaime Faria,Adam Walton,0.565,0.576,W
+2026-08-18,Francisco Comesana,Pablo Llamas Ruiz,0.506,0.530,L
+2026-08-18,Yelyzaveta Kotliar,Laura Mair,0.778,0.766,W
+2026-08-18,Xinyu Gao,Julia Adams,0.894,0.874,W
+2026-08-18,Vivian Wolff,Merel Hoedt,0.778,0.776,W
+2026-08-18,Rudolf Molleker,Matias Soto,0.650,0.650,W
+2026-08-18,Oleksii Krutykh,Daniel Siniakov,0.637,0.642,W
+2026-08-18,Norbert Gombos,Gilles Arnaud Bailly,0.541,0.547,W
+2026-08-18,Martin Krumich,Javier Barranco Cosano,0.680,0.673,L
+2026-08-18,Charles Broom,Filip Peliwo,0.933,0.887,W
+2026-08-18,Sandra Samir,Polina Leykina,0.620,0.603,L
+2026-08-18,Filip Cristian Jianu,Andrej Martin,0.555,0.559,W
+2026-08-18,Patrick Brady,Alec Deckers,0.591,0.601,W
+2026-08-18,Michael Geerts,Billy Blaydes,0.570,0.566,W
+2026-08-18,Radu Mihai Papoe,Oriol Roca Batalla,0.686,0.678,W
+2026-08-18,Maxim Mrva,Nerman Fatic,0.609,0.623,W
+2026-08-18,Oliver Tarvet,John Echeverria,0.920,0.887,W
+2026-08-18,Haruka Kaji,Sakura Hosogi,0.637,0.629,W
+2026-08-18,Ugo Blanchet,James Watt,0.621,0.632,W
+2026-08-18,Stefanos Sakellaridis,Tristan Schoolkate,0.570,0.564,W
+2026-08-18,Joao Fonseca,Christopher O'Connell,0.846,0.780,VOID
+2026-08-18,Elina Svitolina,Xiyu Wang,0.759,0.747,VOID
+2026-08-17,Henry Bernet,Johan Nikles,0.732,0.719,W
 2026-08-17,Sumit Nagal,Eduardo Ribeiro,0.753,0.746,W
+2026-08-17,Max Dahlin,Tommaso Compagnucci,0.562,0.574,L
 2026-08-17,Kimmer Coppejans,Miguel Damas,0.703,0.694,W
 2026-08-17,Cezar Cretu,Thomas Faurel,0.524,0.528,W
+2026-08-17,Ognjen Milic,Lucio Ratti,0.547,0.544,L
+2026-08-17,Ryan Nijboer,Murkel Dellien,0.552,0.565,W
 2026-08-17,Manas Dhamne,Viktor Durasovic,0.551,0.560,L
 2026-08-17,Max Basing,Lucas Poullain,0.617,0.607,L
 2026-08-17,Johannus Monday,Iliyan Radulov,0.774,0.769,L
+2026-08-17,Anton Matusevich,Yuta Shimizu,0.553,0.560,W
 2026-08-17,Christian Langmo,Gabi Adrian Boitan,0.547,0.558,L
 2026-08-17,Amanda Anisimova,Alexandra Eala,0.540,0.549,W
 2026-08-17,Alexander Blockx,Flavio Cobolli,0.510,0.523,L
@@ -30,6 +71,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-17,Oleksii Krutykh,Luciano Emanuel Ambrogi,0.555,0.567,W
 2026-08-17,Ben Hassan,Leo Raquillet,0.635,0.626,W
 2026-08-17,Nerman Fatic,Matthew William Donald,0.638,0.628,W
+2026-08-17,Kai Wehnelt,Nino Ehrenschneider,0.572,0.581,W
 2026-08-17,Radu Mihai Papoe,Matyas Cerny,0.819,0.805,W
 2026-08-17,Elena Rybakina,Magdalena Frech,0.874,0.862,W
 2026-08-17,Oleksandr Ovcharenko,Dimitris Sakellaridis,0.523,0.539,W
@@ -39,7 +81,21 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-17,Aidan Kim,Edward Winter,0.530,0.544,L
 2026-08-17,Timo Legout,Garrett Johns,0.722,0.703,L
 2026-08-17,Andrew Fenty,Evan Zhu,0.524,0.513,L
+2026-08-17,Hynek Barton,Chun Hsin Tseng,0.578,0.585,L
+2026-08-17,Jan Kumstat,Petr Brunclik,0.541,0.550,W
+2026-08-17,Marvin Moeller,Dimitar Kuzmanov,0.591,0.595,L
+2026-08-17,Mika Brunold,Patrick Zahraj,0.747,0.717,W
+2026-08-17,Elmer Moller,Ivan Ivanov,0.725,0.713,W
+2026-08-17,Alex Rybakov,Faris Zakaria,0.783,0.777,W
+2026-08-17,Clement Chidekh,Jay Clarke,0.600,0.603,W
+2026-08-17,Juan Carlos Prado Angel,Juan Pablo Ficovich,0.578,0.571,W
+2026-08-17,Valentin Royer,Luis Guto Miguel,0.853,0.808,W
+2026-08-17,Liam Draxl,Andres Andrade,0.665,0.644,L
+2026-08-17,Rio Noguchi,Luis Carlos Alvarez Val,0.666,0.668,W
+2026-08-17,Elena Malygina,Zuzanna Bednarz,0.892,0.872,W
 2026-08-17,Vitaliy Sachko,Daniel Siniakov,0.759,0.729,VOID
+2026-08-17,Max Hans Rehberg,Jakub Nicod,0.712,0.678,VOID
+2026-08-17,Pyotr Nesterov,Calvin Hemery,0.543,0.564,VOID
 2026-08-16,Jessica Bouzas Maneiro,Katerina Siniakova,0.523,0.510,L
 2026-08-16,Madison Keys,Daria Snigur,0.716,0.702,W
 2026-08-16,Barbora Krejcikova,Sara Bejlek,0.598,0.605,L
