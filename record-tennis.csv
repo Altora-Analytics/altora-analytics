@@ -1,4 +1,60 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-19,Iliyan Radulov,Mark Ceban,0.510,0.510,L
+2026-08-19,Alastair Gray,Gabi Adrian Boitan,0.753,0.736,L
+2026-08-19,Lucas Poullain,Viktor Durasovic,0.595,0.601,W
+2026-08-19,Iga Swiatek,Diane Parry,0.965,0.946,W
+2026-08-19,Jessica Pegula,Sorana Cirstea ,0.745,0.733,W
+2026-08-19,Linda Noskova,Amanda Anisimova,0.520,0.525,L
+2026-08-19,Elena Rybakina,Diana Shnaider,0.724,0.713,W
+2026-08-19,Arthur Fils,Alex De Minaur,0.627,0.618,W
+2026-08-19,Jakub Mensik,Thiago Agustin Tirante,0.663,0.667,L
+2026-08-19,Rafael Jodar,Flavio Cobolli,0.742,0.738,L
+2026-08-19,Harold Mayot,Max Purcell,0.508,0.516,W
+2026-08-19,Alexander Zverev,Tommy Paul,0.747,0.720,L
+2026-08-19,Chun Hsin Tseng,Juan Bautista Torres,0.644,0.635,W
+2026-08-19,Juan Manuel La Serna,Luca Staeheli,0.554,0.564,W
+2026-08-19,Oleksii Krutykh,Nick Hardt,0.501,0.528,W
+2026-08-19,Dominic Stricker,Lucio Ratti,0.812,0.768,W
+2026-08-19,Tommaso Compagnucci,Ryan Nijboer,0.556,0.568,W
+2026-08-19,Max Hans Rehberg,Kimmer Coppejans,0.542,0.552,W
+2026-08-19,Sean Cuenin,Norbert Gombos,0.613,0.599,L
+2026-08-19,Charles Broom,Alex Rybakov,0.793,0.786,W
+2026-08-19,Rudolf Molleker,Filip Cristian Jianu,0.533,0.547,L
+2026-08-19,Mika Brunold,Calvin Hemery,0.612,0.595,W
+2026-08-19,Jan Kumstat,Sumit Nagal,0.666,0.654,W
+2026-08-19,Lui Maxted,Patrick Brady,0.520,0.527,W
+2026-08-19,Sandro Kopp,Ben Hassan,0.663,0.643,L
+2026-08-19,Dimitar Kuzmanov,Alex Marti Pujolras,0.747,0.711,W
+2026-08-19,Geoffrey Blancaneaux,Jeffrey Von Der Schulen,0.747,0.719,W
+2026-08-19,Maxim Mrva,Cezar Cretu,0.660,0.655,W
+2026-08-19,Michael Geerts,Radu Albot,0.621,0.611,W
+2026-08-19,Elmer Moller,Anton Matusevich,0.515,0.527,L
+2026-08-19,Radu Mihai Papoe,Javier Barranco Cosano,0.712,0.683,W
+2026-08-19,Oliver Tarvet,Matheus Pucinelli De Al,0.765,0.719,W
+2026-08-19,Henry Bernet,Lorenzo Giustino,0.575,0.581,L
+2026-08-19,Madison Keys,Xiyu Wang,0.800,0.784,W
+2026-08-19,Taylor Fritz,Christopher O'Connell,0.922,0.894,W
+2026-08-19,Daniil Glinka,Elias Ymer,0.538,0.563,W
+2026-08-19,Weronika Ewald,Ilinca Amariei,0.505,0.523,W
+2026-08-19,Darya Astakhova,Lea Nilsson,0.524,0.535,W
+2026-08-19,Ekaterina Yashina,Diana Marcinkevica,0.556,0.564,W
+2026-08-19,Alicia Linana,Anastasia Zolotareva,0.575,0.584,W
+2026-08-19,Lucie Havlickova,Valeriya Strakhova,0.842,0.807,W
+2026-08-19,Lisa Zaar,Weronika Falkowska,0.569,0.579,W
+2026-08-19,Jana Kovackova,Denisa Zoldakova,0.741,0.731,W
+2026-08-19,Xinyu Gao,Mayuka Aikawa,0.848,0.837,W
+2026-08-19,Viola Turini,Anna Kmiecik,0.972,0.912,L
+2026-08-19,Sofia Shapatava,Polina Leykina,0.587,0.587,L
+2026-08-19,Rada Zolotareva,Chloe Paquet,0.670,0.661,W
+2026-08-19,Dalila Jakupovic,Marcelina Podlinska,0.823,0.811,W
+2026-08-19,Radka Zelnickova,Amelia Paszun,0.685,0.685,W
+2026-08-19,Ariana Geerlings,Lucie Petruzelova,0.900,0.845,W
+2026-08-19,Mirra Andreeva,Marta Kostyuk,0.523,0.541,L
+2026-08-19,Dalila Spiteri,Aliesia Reva,0.983,0.928,W
+2026-08-19,Pedro Martinez,Garrett Johns,0.718,0.690,W
+2026-08-19,Coco Gauff,Marie Bouzkova,0.771,0.754,W
+2026-08-19,Brandon Nakashima,Nuno Borges,0.590,0.599,W
+2026-08-19,Lorenzo Musetti,Jaime Faria,0.730,0.714,W
 2026-08-18,Mirra Andreeva,Janice Tjen,0.869,0.849,W
 2026-08-18,Aryna Sabalenka,Xinyu Wang,0.915,0.901,W
 2026-08-18,Lorenzo Musetti,Michael Zheng,0.634,0.629,W
@@ -14,7 +70,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-18,Andrey Rublev,Nuno Borges,0.623,0.602,L
 2026-08-18,Learner Tien,Frances Tiafoe,0.506,0.531,L
 2026-08-18,Jaime Faria,Adam Walton,0.565,0.576,W
+2026-08-18,Nicolas Mejia,Camilo Ugo Carabelli,0.506,0.513,L
 2026-08-18,Francisco Comesana,Pablo Llamas Ruiz,0.506,0.530,L
+2026-08-18,Otto Virtanen,Moez Echargui,0.809,0.786,L
 2026-08-18,Yelyzaveta Kotliar,Laura Mair,0.778,0.766,W
 2026-08-18,Xinyu Gao,Julia Adams,0.894,0.874,W
 2026-08-18,Vivian Wolff,Merel Hoedt,0.778,0.776,W
@@ -33,6 +91,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-18,Haruka Kaji,Sakura Hosogi,0.637,0.629,W
 2026-08-18,Ugo Blanchet,James Watt,0.621,0.632,W
 2026-08-18,Stefanos Sakellaridis,Tristan Schoolkate,0.570,0.564,W
+2026-08-18,Dino Prizmic,Alexis Galarneau,0.747,0.737,L
+2026-08-18,Aleksandar Vukic,Kyrian Jacquet,0.550,0.554,W
+2026-08-18,Coleman Wong,Alexandre Muller,0.606,0.619,W
 2026-08-18,Joao Fonseca,Christopher O'Connell,0.846,0.780,VOID
 2026-08-18,Elina Svitolina,Xiyu Wang,0.759,0.747,VOID
 2026-08-17,Henry Bernet,Johan Nikles,0.732,0.719,W
