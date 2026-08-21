@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-21,Ross Smith,Brody Klinge,0.643,0.651,L
+2026-08-21,Stephen Bunting,Mal Cuming,0.861,0.845,W
+2026-08-21,Josh Rock,Adam Leek,0.661,0.682,W
+2026-08-21,James Wade,Tim Pusey,0.806,0.784,W
+2026-08-21,Gian van Veen,Raymond Smith,0.655,0.651,W
+2026-08-21,Jonny Clayton,Ben Robb,0.814,0.863,W
+2026-08-21,Gerwyn Price,Simon Whitlock,0.852,0.859,W
+2026-08-21,Damon Heta,Joe Comito,0.758,0.772,W
 2026-08-15,Jonny Clayton,Gian van Veen,0.518,0.508,W
 2026-08-15,James Wade,Josh Rock,0.529,0.524,W
 2026-08-15,Gerwyn Price,Damon Heta,0.721,0.657,W
