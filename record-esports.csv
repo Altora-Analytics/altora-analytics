@@ -1,4 +1,13 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-20,team vitality,faze clan,0.739,0.755,W
+2026-08-20,team falcons,themongolz,0.677,0.801,W
+2026-08-20,natus vincere,legacy,0.660,0.693,L
+2026-08-20,spirit,b8,0.809,0.835,W
+2026-08-20,pvision,boomboys,0.805,0.713,W
+2026-08-20,hanwha life esports,dplus kia,0.541,0.535,W
+2026-08-20,team liquid,team yandex,0.641,0.547,L
+2026-08-20,nongshim redforce,drx,0.554,0.571,W
+2026-08-20,team falcons,nigma galaxy,0.545,0.659,L
 2026-08-19,g2,astralis,0.646,0.664,W
 2026-08-19,mouz,gamerlegion,0.728,0.798,W
 2026-08-19,geng,kt rolster,0.850,0.830,W
