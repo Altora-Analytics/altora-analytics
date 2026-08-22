@@ -1,5 +1,36 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-08-21,Arthur Fils,Thiago Agustin Tirante,0.779,0.752,W
+2026-08-21,Granollers/Zeballos,Darderi/Etcheverry,0.737,0.713,W
+2026-08-21,Coco Gauff,Marta Kostyuk,0.559,0.569,W
+2026-08-21,Madison Keys,Sara Bejlek,0.650,0.650,L
+2026-08-21,Lorenzo Musetti,Frances Tiafoe,0.508,0.516,L
+2026-08-21,Taylor Fritz,Brandon Nakashima,0.643,0.633,L
+2026-08-21,Dominic Stricker,Tommaso Compagnucci,0.832,0.772,W
+2026-08-21,Jans/Whitehouse,Paulson/Vliegen,0.550,0.557,L
+2026-08-21,Jana Kovackova,Alena Kovackova,0.506,0.528,W
+2026-08-21,Anastasija Cvetkovic,Mara Guth,0.524,0.523,W
+2026-08-21,Jenny Lim,Franziska Sziedat,0.773,0.765,W
+2026-08-21,Lorenzo Giustino,Ben Hassan,0.614,0.594,L
+2026-08-21,Chun Hsin Tseng,Norbert Gombos,0.631,0.618,W
+2026-08-21,Jan Kumstat,Filip Cristian Jianu,0.748,0.737,W
+2026-08-21,Oliver Tarvet,Anton Matusevich,0.694,0.690,W
+2026-08-21,Lucas Poullain,Lui Maxted,0.529,0.544,W
+2026-08-21,Maria Popa,Adrienn Nagy,0.705,0.682,L
+2026-08-21,Jessica Pieri,Marie Mettraux,0.626,0.621,W
+2026-08-21,Rada Zolotareva,Darya Astakhova,0.527,0.544,W
+2026-08-21,Diana-Ioana Simionescu,Teodora Miron,0.596,0.584,L
+2026-08-21,Weronika Ewald,Camilla Zanolini,0.700,0.686,W
+2026-08-21,Luna Vujovic,Samira Stefano,0.609,0.602,W
+2026-08-21,Jesper De Jong,Hugo Gaston,0.576,0.579,L
+2026-08-21,Luca Van Assche,Benjamin Bonzi,0.514,0.533,W
+2026-08-21,Valentin Royer,Clement Chidekh,0.615,0.601,W
+2026-08-21,Xinyu Gao,Yelyzaveta Kotliar,0.677,0.646,W
+2026-08-21,Hubert Hurkacz,Roman Safiullin,0.659,0.665,W
+2026-08-21,Zizou Bergs,Stefanos Sakellaridis,0.686,0.662,L
+2026-08-21,Lloyd Harris,Vit Kopriva,0.598,0.598,W
+2026-08-21,Pedro Martinez,Daniil Glinka,0.523,0.521,W
+2026-08-21,Jacob Fearnley,Taro Daniel,0.675,0.679,L
+2026-08-21,Sebastian Baez,Coleman Wong,0.554,0.549,W
 2026-08-20,Zizou Bergs,Andrea Pellegrino,0.830,0.775,W
 2026-08-20,Jesper De Jong,Nicolai Budkov Kjaer,0.614,0.597,W
 2026-08-20,Luca Van Assche,Rei Sakamoto,0.596,0.613,W
@@ -43,6 +74,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-20,Jessica Pegula,Amanda Anisimova,0.522,0.535,W
 2026-08-20,Valentin Royer,Gonzalo Bueno,0.835,0.801,W
 2026-08-20,Tommy Paul,Flavio Cobolli,0.616,0.597,L
+2026-08-20,Barry/Broom,Gray/Rybakov,0.528,0.545,W
 2026-08-20,Alexei Popyrin,Hugo Gaston,0.673,0.651,VOID
 2026-08-20,Iga Swiatek,Elena Rybakina,0.613,0.598,VOID
 2026-08-19,Iliyan Radulov,Mark Ceban,0.510,0.510,L
