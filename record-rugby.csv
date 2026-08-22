@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-21,Pumas,Griquas,0.512,0.534,L
+2026-08-21,Sharks,Lions,0.751,0.466,W
+2026-08-21,Canberra Raiders,Brisbane Bronc,0.772,0.759,L
+2026-08-21,Dolphins,Parramatta Eels,0.791,0.818,W
+2026-08-21,Wigan Warriors,Wakefield Trinity,0.844,0.859,W
+2026-08-21,Leigh Leopards,Bradford Bulls,0.877,0.925,W
 2026-08-20,Penrith Panthers,Melbourne Storm,0.663,0.676,W
 2026-08-18,Hull Kingston Rovers,Warrington Wolves,0.704,0.696,L
 2026-08-16,Bulls,Cheetahs,0.824,0.325,L

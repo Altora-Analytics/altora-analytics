@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-21,bnk fearx,brion,0.549,0.543,W
+2026-08-21,t1,kt rolster,0.689,0.704,W
+2026-08-21,mouz,fut esports,0.577,0.596,L
+2026-08-21,sk gaming,team heretics,0.629,0.627,L
+2026-08-21,vitality,spirit,0.577,0.581,L
 2026-08-20,team vitality,faze clan,0.739,0.755,W
 2026-08-20,team falcons,themongolz,0.677,0.801,W
 2026-08-20,natus vincere,legacy,0.660,0.693,L
