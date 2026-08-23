@@ -77,6 +77,48 @@
     damaged real probabilities. Stated probabilities on the affected markets change by roughly
     half a point on a typical fixture.</p>
   </div>
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Registered</span>
+    <h3>Two of our football gates have gone quiet &mdash; and we caused half of it</h3>
+    <p>Since the season started, our match-result channel has published no backed picks at
+    all, and over/under 2.5 none since 5 August. Both-teams-to-score still fires normally.
+    We checked whether the record was failing to update: it isn't &mdash; every market has
+    settled every day, and the site matches our ledger row for row. The picks simply
+    aren't clearing their thresholds.</p>
+    <p>Two things explain it. First, the gates are shaped differently than they appear:
+    match-result and over/under only back a selection when our model prices it
+    <i>better than the market does</i>, while the both-teams-to-score gate requires no such
+    disagreement &mdash; which is why one keeps passing and the others starve. Second, and
+    this part is ours: on 9 August we shipped a genuine improvement that pulls early-season
+    probabilities toward market prices where teams have little form data. On 23 August it
+    was touching 46 of 60 over/under fixtures and cutting model-market disagreement by
+    roughly 28%. We improved the model's honesty and, with the same change, removed the raw
+    material two of its own gates feed on.</p>
+    <p>The uncomfortable consequence, stated plainly: thresholds we froze on 26 July are
+    being applied to probabilities that no longer exist in the form they were tuned on.</p>
+    <p><b>So we are moving our threshold review forward, from 1 November to 15 September</b>,
+    and we want to be precise about why &mdash; because &ldquo;our thresholds stopped
+    producing picks, so we changed them&rdquo; is exactly the behaviour a freeze exists to
+    prevent. That is not this. We changed the model, which invalidated the basis on which
+    those gates were tuned; correcting a mismatch we introduced is a different act from
+    loosening a rule we simply dislike the output of. Three commitments make the difference
+    checkable rather than assertable:</p>
+    <p>First, the rules were written down <i>today, before the review runs</i>, and they are
+    the July rules unchanged: a threshold is adopted only if it is profitable in both halves
+    of the record with at least thirty bets in each, stability preferred over peak
+    performance, and any market without a robust setting stays tracking-only rather than
+    being given a gate that flatters it. The only additions are the two we registered this
+    morning &mdash; regenerate probabilities under the current model, and test the
+    probability and odds requirements together instead of holding one fixed.</p>
+    <p>Second, the review is a historical exercise across roughly 43,000 matches, as it was
+    in July. Our live sample since the model changed is two backed selections; it could not
+    justify a decision and is not an input. The live weeks to 15 September serve only as an
+    out-of-sample sanity check on what the historical review proposes, and we will read them
+    loosely, because early season is the window our own adjustment distorts most.</p>
+    <p>Third, whatever is adopted on 15 September is frozen until 1 February 2027. A revision
+    date that moves once is a correction; a revision date that moves twice is a habit, and we
+    would rather you hold us to that sentence than to our good intentions. Until September the
+    gates are untouched and the quiet channels explain why they are quiet.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Shipped</span>
     <h3>Trading: a two-day cost audit rebuilt how our FX book executes</h3>
     <p>We asked one question of every trading book: how much edge do execution costs eat, and
