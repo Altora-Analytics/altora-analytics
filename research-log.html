@@ -77,8 +77,108 @@
     damaged real probabilities. Stated probabilities on the affected markets change by roughly
     half a point on a typical fixture.</p>
   </div>
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ref">Refuted</span>
+    <h3>We went looking for our edge in three places and did not find it</h3>
+    <p>Having established that our match-result threshold was testing for a disagreement
+    our own pipeline had removed, the obvious question was whether the disagreement could
+    be restored. We ran three studies. All three said no, by different routes, and we are
+    publishing all three.</p>
+    <p><b>First: turn down the market blending.</b> Our served probability is blended 85%
+    into a second model, and the intuition &mdash; ours and our founder's &mdash; was that
+    this made us too close to the market. It does widen disagreement: turn it off and the
+    spread of our differences from the price nearly doubles. But the extra disagreement is
+    noise. Measured on the matches each setting would actually select, the model gets
+    <i>worse</i> the more we de-anchor it, and at the lowest settings it is significantly
+    worse than simply devigging the bookmaker's price. It also produces fewer qualifying
+    picks, not more. A related dial inside our correct-score model gave the same answer
+    again, independently.</p>
+    <p>We also found that the 85% figure was never chosen. The search that set it was
+    capped at 85%, and every market pinned to that ceiling; unconstrained, the measurement
+    wanted 100%. And the correct-score blend it feeds, documented in our code as fitted
+    against exchange data, cannot be reproduced &mdash; the fitting script does not exist,
+    the data is not on disk, and on the prices we actually serve against, the claimed
+    improvement is a tenth of the stated size and points the wrong way. We have been
+    running a number that was presented as measured and was not.</p>
+    <p><b>Second: closing-line value.</b> If our probabilities match where prices end up,
+    and we publish early, we would be capturing value without ever needing to beat the
+    bookmaker. Tested across 7,000 selections, the effect is real and far too small to
+    matter: about 0.2% of stake, against a price handicap of roughly 6%. Worse, we
+    discovered our own measuring instrument is broken &mdash; the closing prices we record
+    fail to register around six in ten genuine market moves, so a chunk of what we have
+    been calling closing-line value was never measurable in the first place.</p>
+    <p><b>Third, and hardest: our flagship.</b> On the matches where bookmakers price
+    correct-score markets, their prices predict the actual scoreline better than our
+    correct-score model does. Not by much, but consistently, and correct score is the
+    model we are proudest of.</p>
+    <p>The honest summary is that our football models are <i>competent</i> &mdash; they
+    match the market's accuracy, which most published models do not &mdash; but we cannot
+    presently show that they beat it. &ldquo;We find value the bookmakers missed&rdquo; is
+    not a claim our own evidence supports today.</p>
+    <p>Three caveats we are not hiding behind, but which are true. These samples are small:
+    the selections that matter run to about a hundred matches each, where the differences
+    at stake need a thousand. Twenty-nine days of season is not a season. And two of the
+    three studies were partly measuring instruments we now know are faulty. Absence of
+    demonstrated edge is not demonstrated absence of edge &mdash; but it is where the
+    evidence sits, and we would rather say so than wait for a month that flatters us.</p>
+    <p>What changes, today. The affected channels stop pretending to be value products:
+    they will publish the model's most confident calls as <b>free analysis</b>, with the
+    probability shown and no claim attached, alongside both the calibration record (are our
+    percentages honest?) and the profit-and-loss record (what would backing them blindly
+    have cost?). We expect the first to look good and the second to look bad, and showing
+    them together is the most useful thing we can publish, because the gap between them is
+    the entire lesson. The 15 September review may conclude that no sound threshold exists
+    for these markets. We are also fixing the measurement, because another sixty days of
+    unmeasurable data would waste the wait.</p>
+    <p>We found this in August, with six subscribers and nothing sold, because we track
+    every game rather than the ones we back. That is the whole reason the record exists.</p>
+  </div>
+  <div class="entry"><span class="dt">August 2026</span><span class="tag ref">Correction</span>
+    <h3>Correction: we misdiagnosed our own silent channel, and the real cause is worse</h3>
+    <p>Earlier today we published the entry below, blaming our quiet match-result and
+    over/under channels on an early-season adjustment we shipped on 9 August. That was
+    right for over/under. <b>For match result it was wrong</b>, and we found out within
+    hours of publishing it. The correct account:</p>
+    <p>The match-result threshold has never produced a single backed selection &mdash; not
+    once in 1,209 tracked selections, and not before our 9 August change either. It was
+    never going to. The study that chose that threshold measured it firing on about 3% of
+    matches; live it has fired on none of 628. Those two numbers describe different
+    worlds, and the reason is ours: <b>we chose the threshold using one version of our
+    model's probability and then served a different one.</b> The study used the raw model,
+    which never sees a bookmaker's price. What our channels actually send is that number
+    calibrated, then blended 85% into a second model whose inputs <i>include the market's
+    own prices</i>, then nudged a further 25% toward the market on early-season fixtures.
+    Our published number now tracks the market's number at a correlation of 0.95.</p>
+    <p>That matters because of what the threshold asks. It only backs a selection when our
+    probability is <i>better than the price implies</i> &mdash; a disagreement test. We had
+    quietly rebuilt our probability out of the market's own prices, so there was almost
+    nothing left to disagree with. The two conditions became not merely rare but
+    arithmetically incompatible: on our current board, the highest probability among
+    fixtures priced loosely enough to qualify is 62%, and the threshold needs 65%.</p>
+    <p>There is a second, independent error. The study's test period was December to May.
+    The channel has only ever run in July and August &mdash; and in that same study, even
+    on raw probabilities, the threshold fired zero times in June and zero times in July.
+    A summer of nothing was visible in our own data and we averaged it away.</p>
+    <p>We are not loosening the threshold in response. We have instead extended what the
+    15 September review must do: generate its candidates through the pipeline that actually
+    serves you rather than a simplified stand-in, report results month by month so a
+    threshold that cannot fire in the months it operates in cannot pass, and apply the same
+    sanity limits to prices on both sides. That review is explicitly permitted to conclude
+    that no sound threshold exists for these markets and that they should carry analysis
+    rather than backed selections &mdash; and if that is the answer, we will publish it and
+    act on it.</p>
+    <p>The uncomfortable part we are not going to bury: this doubt does not stop at one
+    market. Every threshold set in that July study was chosen the same way, including ones
+    that are currently firing. Firing is not the same as being right. We will know in
+    September, and you will get the answer whichever way it falls. Subscribers to the
+    affected channel have been told this directly rather than left with an explanation
+    that flattered us.</p>
+  </div>
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Registered</span>
     <h3>Two of our football gates have gone quiet &mdash; and we caused half of it</h3>
+    <p style="border-left:3px solid var(--gold);padding-left:10px;margin-bottom:10px">
+    <b>Corrected the same day &mdash; see the entry above.</b> The diagnosis below is
+    accurate for over/under 2.5 but wrong for match result, whose threshold never fired at
+    all and for a different reason. Left standing unedited, as everything here is.</p>
     <p>Since the season started, our match-result channel has published no backed picks at
     all, and over/under 2.5 none since 5 August. Both-teams-to-score still fires normally.
     We checked whether the record was failing to update: it isn't &mdash; every market has
