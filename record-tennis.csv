@@ -1,4 +1,41 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-23,Pablo Carreno Busta,Adolfo Daniel Vallejo,0.548,0.545,L
+2026-08-23,Martin Landaluce,Mattia Bellucci,0.556,0.561,L
+2026-08-23,Rinky Hijikata,Darwin Blanch,0.679,0.659,W
+2026-08-23,Jenson Brooksby,Giovanni Mpetshi Perricard,0.576,0.583,W
+2026-08-23,Yibing Wu,Francisco Comesana,0.615,0.627,L
+2026-08-23,Miomir Kecmanovic,Sho Shimabukuro,0.701,0.690,W
+2026-08-23,Adrienn Nagy,Teodora Miron,0.579,0.570,L
+2026-08-23,Daniel Siniakov,Kai Wehnelt,0.602,0.587,L
+2026-08-23,Denis Yevseyev,Mirza Basic,0.596,0.590,W
+2026-08-23,Benito Sanchez Martinez,Alec Beckley,0.552,0.544,W
+2026-08-23,Georgii Kravchenko,Dominik Recek,0.713,0.682,L
+2026-08-23,Ben Hassan,Maximilian Marterer,0.507,0.527,W
+2026-08-23,Alex Rybakov,Oliver Bonding,0.612,0.607,L
+2026-08-23,Peter Makk,Oskari Paldanius,0.593,0.601,L
+2026-08-23,Inaki Montes-De La Torr,Matt Ponchet,0.932,0.876,W
+2026-08-23,Millen Hurrion,Marcus Walters,0.724,0.704,W
+2026-08-23,Hady Habib,Leonardo Rossi,0.612,0.594,L
+2026-08-23,Radu Albot,Conor Gannon,0.706,0.697,W
+2026-08-23,Patrick Brady,Alafia Ayeni,0.653,0.654,W
+2026-08-23,Faris Zakaria,Alexis Gautier,0.520,0.524,L
+2026-08-23,Alec Deckers,Oscar Weightman,0.503,0.504,W
+2026-08-23,Mees Rottgering,Hugo Grenier,0.659,0.665,W
+2026-08-23,Pierre-Hugues Herbert,Quinn Vandecasteele,0.641,0.631,L
+2026-08-23,Felix Balshaw,Sebastian Gorzny,0.624,0.607,W
+2026-08-23,Rada Zolotareva,Lidia Encheva,0.680,0.657,W
+2026-08-23,Jenny Lim,Valentini Grammatikopoulou,0.747,0.727,L
+2026-08-23,Lucas Andrade Da Silva,Kaylan Bigun,0.663,0.659,L
+2026-08-23,Luca Van Assche,Stefanos Sakellaridis,0.594,0.608,W
+2026-08-23,Abdullah Shelbayh,Suresh Dhakshineswar,0.514,0.505,W
+2026-08-23,Matt Kuhar,Siddhant Banthia,0.626,0.641,W
+2026-08-23,Arthur Fils,Frances Tiafoe,0.675,0.647,W
+2026-08-23,Kamilla Rakhimova,Maria Timofeeva,0.651,0.656,L
+2026-08-23,Coco Gauff,Jessica Pegula,0.580,0.571,W
+2026-08-23,Yulia Putintseva,Maya Joint,0.555,0.563,L
+2026-08-23,Roman Safiullin,Marton Fucsovics,0.615,0.611,VOID
+2026-08-23,Dino Prizmic,Cruz Hewitt,0.857,0.808,VOID
+2026-08-23,Liudmila Samsonova,Taylah Preston,0.804,0.788,VOID
 2026-08-22,Iga Swiatek,Jessica Pegula,0.672,0.680,L
 2026-08-22,Arthur Fils,Flavio Cobolli,0.710,0.694,W
 2026-08-22,Oliver Tarvet,Lucas Poullain,0.779,0.745,W

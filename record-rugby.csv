@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-23,Cheetahs,Boland Cavaliers,0.618,,W
+2026-08-23,Sydney Rooster,Wests Tigers,0.904,0.920,L
+2026-08-23,Warrington Wolves,Huddersfield Giants,0.791,0.808,W
+2026-08-23,Leeds Rhinos,York Knights,0.753,0.862,W
 2026-08-22,New Zealand Warriors,South Sydney Rabbitohs,0.566,0.587,W
 2026-08-22,Canterbury Bulldogs Wom,St George,0.663,0.668,W
 2026-08-22,St Helens,Castleford Tigers,0.778,0.790,W
