@@ -1,10 +1,55 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-24,Marko Topo,Miguel Damas,0.641,0.640,L
+2026-08-24,Andrej Nedic,Juan Estevez,0.753,0.713,L
+2026-08-24,Sandro Kopp,Eduardo Ribeiro,0.681,0.659,W
+2026-08-24,Hynek Barton,Calvin Hemery,0.688,0.675,W
+2026-08-24,Johannus Monday,Iliyan Radulov,0.811,0.765,W
+2026-08-24,Lui Maxted,Anton Shepp,0.645,0.643,W
+2026-08-24,Julia Grabher,Veronika Erjavec,0.528,0.545,W
+2026-08-24,Talia Gibson,Lizette Cabrera,0.953,0.919,L
+2026-08-24,Tyler Zink,Luis Guto Miguel,0.591,0.601,L
+2026-08-24,Andrew Fenty,Alvaro Guillen Meza,0.665,0.663,W
+2026-08-24,Andres Andrade,Edward Winter,0.598,0.586,W
+2026-08-24,Petra Marcinko,Alycia Parks,0.524,0.542,L
+2026-08-24,Janice Tjen,Dayana Yastremska,0.609,0.587,W
+2026-08-24,Clara Tauson,Renata Zarazua,0.745,0.730,W
+2026-08-24,Svyatoslav Gulin,Denis Yevseyev,0.704,0.693,W
+2026-08-24,Kai Wehnelt,Robert Strombachs,0.515,0.534,W
+2026-08-24,Inaki Montes-De La Torr,Oskari Paldanius,0.714,0.697,W
+2026-08-24,Benito Sanchez Martinez,Dominik Recek,0.657,0.662,W
+2026-08-24,Oliver Bonding,Millen Hurrion,0.509,0.502,W
+2026-08-24,Mika Brunold,Liam Gavrielides,0.722,0.700,W
+2026-08-24,Oleksii Krutykh,Federico Iannaccone,0.764,0.753,W
+2026-08-24,Matthew William Donald,Ben Hassan,0.512,0.496,L
+2026-08-24,Himeno Sakatsume,Jazmin Ortenzi,0.824,0.794,W
+2026-08-24,Elias Ymer,Franco Roncadelli,0.875,0.844,W
+2026-08-24,Mai Hontama,Lina Gjorcheska,0.792,0.749,W
+2026-08-24,Liam Broady,Marco Cecchinato,0.760,0.716,L
+2026-08-24,Titouan Droguet,Daniel Rincon,0.798,0.780,L
+2026-08-24,Katarzyna Kawa,Ekaterine Gorgodze,0.613,0.621,L
+2026-08-24,Luka Pavlovic,Juan Pablo Varillas,0.781,0.749,W
+2026-08-24,Diego Dedura-Palomero,Frederico Ferreira Silva,0.508,0.521,L
+2026-08-24,Kayla Day,Julieta Pareja,0.628,0.603,L
+2026-08-24,Spencer Johnson,Cristian Garin,0.605,0.601,L
+2026-08-24,Fabrizio Andaloro,Giulio Perego,0.838,0.821,W
+2026-08-24,Patrick Brady,Andreja Petrovic,0.806,0.771,W
+2026-08-24,Alec Deckers,Alexis Gautier,0.748,0.730,W
+2026-08-24,Aidan Kim,Dan Martin,0.838,0.812,W
+2026-08-24,Bruno Kuzuhara,Thomas Fancutt,0.716,0.679,L
+2026-08-24,Stefanos Tsitsipas,Jenson Brooksby,0.593,0.605,W
+2026-08-24,Aidan Mayo,Keshav Chopra,0.901,0.848,L
+2026-08-24,James Duckworth,Quinn Vandecasteele,0.801,0.766,W
+2026-08-24,Marcos Giron,Suresh Dhakshineswar,0.728,0.694,L
+2026-08-24,Cruz Hewitt,Sebastian Gorzny,0.505,0.529,W
+2026-08-24,Jan Choinski,Mees Rottgering,0.578,0.571,L
 2026-08-23,Pablo Carreno Busta,Adolfo Daniel Vallejo,0.548,0.545,L
 2026-08-23,Martin Landaluce,Mattia Bellucci,0.556,0.561,L
+2026-08-23,Adam Walton,Jesper De Jong,0.614,0.593,W
 2026-08-23,Rinky Hijikata,Darwin Blanch,0.679,0.659,W
 2026-08-23,Jenson Brooksby,Giovanni Mpetshi Perricard,0.576,0.583,W
 2026-08-23,Yibing Wu,Francisco Comesana,0.615,0.627,L
 2026-08-23,Miomir Kecmanovic,Sho Shimabukuro,0.701,0.690,W
+2026-08-23,Kamil Majchrzak,Benjamin Bonzi,0.525,0.537,L
 2026-08-23,Adrienn Nagy,Teodora Miron,0.579,0.570,L
 2026-08-23,Daniel Siniakov,Kai Wehnelt,0.602,0.587,L
 2026-08-23,Denis Yevseyev,Mirza Basic,0.596,0.590,W
@@ -36,6 +81,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-08-23,Roman Safiullin,Marton Fucsovics,0.615,0.611,VOID
 2026-08-23,Dino Prizmic,Cruz Hewitt,0.857,0.808,VOID
 2026-08-23,Liudmila Samsonova,Taylah Preston,0.804,0.788,VOID
+2026-08-23,Lorenzo Sonego,Vit Kopriva,0.613,0.591,VOID
 2026-08-22,Iga Swiatek,Jessica Pegula,0.672,0.680,L
 2026-08-22,Arthur Fils,Flavio Cobolli,0.710,0.694,W
 2026-08-22,Oliver Tarvet,Lucas Poullain,0.779,0.745,W
