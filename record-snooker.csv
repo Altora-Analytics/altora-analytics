@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-25,Stephen Maguire,Artemijs Zizins,0.610,0.586,W
+2026-08-25,Ronnie O'Sullivan,Yao Pengcheng,0.792,0.830,W
+2026-08-25,Neil Robertson,Hossein Vafaei,0.642,0.651,W
+2026-08-25,SI Jiahui,Dylan Emery,0.707,0.707,W
+2026-08-25,Daniel Wells,Michael Holt,0.507,0.523,W
+2026-08-25,Zhao Xintong,Jak Jones,0.731,0.765,W
+2026-08-25,Mark Selby,He Guoqiang,0.830,0.827,W
+2026-08-25,Barry Hawkins,Ryan Day,0.674,0.702,W
 2026-08-24,Zhao Xintong,Gao Yang,0.852,0.874,W
 2026-08-24,Mark Selby,Fan Zhengyi,0.801,0.806,W
 2026-08-24,Shaun Murphy,Alfie Burden,0.850,0.862,W
