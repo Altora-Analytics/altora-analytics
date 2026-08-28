@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-27,Judd Trump,Chang Bingyu,0.712,0.701,L
+2026-08-27,Mark Selby,Ronnie O'Sullivan,0.613,0.602,L
+2026-08-27,Zhao Xintong,Neil Robertson,0.638,0.654,W
+2026-08-27,Mark Williams,Xiao Guodong,0.522,0.510,L
 2026-08-26,Mark Selby,Pang Junxu,0.761,0.785,W
 2026-08-26,Ronnie O'Sullivan,Stephen Maguire,0.720,0.730,W
 2026-08-26,Chang Bingyu,Ali Carter,0.584,0.567,W

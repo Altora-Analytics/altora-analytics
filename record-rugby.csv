@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-27,Colomiers,Angouleme,0.561,0.450,L
+2026-08-27,US Oyonnax,Beziers,0.505,,W
+2026-08-27,Grenoble FC,Aurillac,0.748,,W
+2026-08-27,Nevers,Montauban,0.826,0.667,L
+2026-08-27,Provence Rugby,Agen,0.747,0.851,W
+2026-08-27,US Dax,Narbonne,0.841,0.811,W
+2026-08-27,Melbourne Storm,Brisbane Bronc,0.591,0.592,W
+2026-08-27,Wigan Warriors,Hull Kingston Rovers,0.949,0.966,W
 2026-08-23,Cheetahs,Boland Cavaliers,0.618,,W
 2026-08-23,Sydney Rooster,Wests Tigers,0.904,0.920,L
 2026-08-23,Warrington Wolves,Huddersfield Giants,0.791,0.808,W
