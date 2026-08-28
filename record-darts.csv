@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-28,Kevin Doets,Jonas Masalin,0.867,0.851,L
+2026-08-28,Andrew Gilding,Milan Biro,0.826,0.897,W
+2026-08-28,Connor Scutt,Ritchie Edhouse,0.591,0.565,L
+2026-08-28,Niko Springer,Maik Kuivenhoven,0.624,0.617,W
+2026-08-28,William O'Connor,Sam Price,0.720,0.773,W
+2026-08-28,Martin Schindler,Keane Barry,0.567,0.564,L
+2026-08-28,Cristo Reyes,Ryan Joyce,0.650,0.615,L
+2026-08-28,Dave Chisnall,Andras Borbely,0.727,0.772,W
 2026-08-22,James Wade,Stephen Bunting,0.554,0.548,W
 2026-08-22,Gian van Veen,Brody Klinge,0.615,0.610,L
 2026-08-22,Gerwyn Price,Josh Rock,0.659,0.657,W
