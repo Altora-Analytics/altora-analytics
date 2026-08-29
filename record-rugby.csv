@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-28,Sharks,Bulls,0.780,,W
+2026-08-28,CA Brive,Valence Romans,0.785,,W
+2026-08-28,Manly Sea Eagles,St George,0.718,0.726,W
+2026-08-28,Penrith Panthers,Canterbury Bulldogs Wom,0.767,0.750,W
+2026-08-28,St Helens,Leeds Rhinos,0.513,0.284,L
+2026-08-28,Leigh Leopards,Huddersfield Giants,0.691,0.727,L
+2026-08-28,Castleford Tigers,Catalans Dragons,0.529,0.513,L
 2026-08-27,Colomiers,Angouleme,0.561,0.450,L
 2026-08-27,US Oyonnax,Beziers,0.505,,W
 2026-08-27,Grenoble FC,Aurillac,0.748,,W
