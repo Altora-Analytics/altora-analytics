@@ -55,7 +55,7 @@
 <div class="wrap">
   <header>
     <p class="eyebrow">Altora Analytics</p>
-    <h1>⭐ OPEN ACCESS</h1>
+    <h1>⭐ PREMIUM ACCESS</h1>
     <p class="sub">The picks that clear our published gates, delivered to your Telegram before
       kick-off. Free while we prove the record deserves a price.</p>
     <p style="margin-top:10px"><a class="back" href="index.html">← home</a></p>
@@ -72,22 +72,23 @@
     <div style="margin:14px 0 4px">
       <div class="tgrow"><div><div class="tgname">⚽ Match result (1x2)</div>
         <div class="tgsub">Top five home/draw/away picks daily</div></div>
-        </div>
+        <a class="tgbtn" href="https://t.me/+OUS2A6GW9VQ5NWE0">Join →</a></div>
       <div class="tgrow"><div><div class="tgname">📈 Over / under goals</div>
         <div class="tgsub">Top five totals picks daily</div></div>
-        </div>
+        <a class="tgbtn" href="https://t.me/+QnF5mdgxP8M4ZWI0">Join →</a></div>
       <div class="tgrow"><div><div class="tgname">🥅 Both teams to score</div>
         <div class="tgsub">Top five BTTS picks daily</div></div>
-        </div>
+        <a class="tgbtn" href="https://t.me/+tLvKM_A6RX9iNTY0">Join →</a></div>
       <div class="tgrow"><div><div class="tgname">🎯 Correct score</div>
         <div class="tgsub">Top five scoreline picks daily</div></div>
-        </div>
+        <a class="tgbtn" href="https://t.me/+fvPZ7ZVwBGNlODE0">Join →</a></div>
       <div class="tgrow"><div><div class="tgname">🧾 Accumulators</div>
         <div class="tgsub">Backtested acca shapes, built daily</div></div>
-        </div>
+        <a class="tgbtn" href="https://t.me/+ygQ6AWZwzt4zMTA0">Join →</a></div>
       <div class="tgrow"><div><div class="tgname">🎁 Free Football Predictions</div>
         <div class="tgsub">The daily banker board &mdash; free forever, part of no bundle</div></div>
-        </div>
+        <a class="tgbtn" href="https://t.me/+lOZjlxoPtJ05MDVk"
+           style="background:var(--green)">Join →</a></div>
     </div>
     <p class="small" style="margin-top:12px">Links open Telegram directly. Join one channel or
       all five; leave any time. We never see your name, number or email.</p>
@@ -131,6 +132,6 @@
   </div>
 
   <footer>Altora Analytics · model probabilities, not tips · 18+ | BeGambleAware.org</footer>
-<p style="text-align:center;margin:26px 0 8px"><a href="board.html" style="color:#5bc88d;font-weight:700;text-decoration:none">See today&#39;s board &#8594;</a></p></div>
+</div>
 <script src="nav.js"></script>
 </body></html>

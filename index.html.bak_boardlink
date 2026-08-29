@@ -287,7 +287,7 @@
 
     <div class="trust" role="list"><div role="listitem"><b>818k+</b><span>matches in our database</span></div><div role="listitem"><b>588</b><span>competitions · 8 sports</span></div><div role="listitem"><b>10,527</b><span>predictions published</span></div><div role="listitem"><b>0</b><span>ever deleted</span></div><div role="listitem"><b>100%</b><span>published before the event</span></div><div role="listitem"><b>Free</b><span>model predictions · every day</span></div></div>
 
-    <a href="board.html" style="color:var(--blue,#57a9df);font-weight:700;text-decoration:none">Today's board &#8594;</a> &middot; <a class="record-cta" href="record.html">VIEW THE RECORD →</a>
+    <a class="record-cta" href="record.html">VIEW THE RECORD →</a>
   </header>
 
   <!-- ================= SPORT HUB ================= -->

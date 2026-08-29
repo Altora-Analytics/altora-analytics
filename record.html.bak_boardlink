@@ -82,7 +82,7 @@
 
   <div class="seclabel"><h2>Full-market models</h2><span class="hint">team sports · multiple betting markets</span><span class="rule"></span></div>
   <div class="grid g3">
-    <a href="board.html" style="color:var(--blue,#57a9df);font-weight:700;text-decoration:none">Today's board &#8594;</a> &middot; <a class="card" href="record-football.html">
+    <a class="card" href="record-football.html">
       <span class="badge b-live">● live</span>
       <span class="emoji">⚽</span><span class="cname">Football</span>
       <span class="cmeta">Value &amp; probability bets · PASS/FAIL</span>
