@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-29,Pumas,Cheetahs,0.684,0.466,W
+2026-08-29,Sydney Rooster,Dolphins,0.652,0.619,L
+2026-08-29,North Queensland Cowboys,Wests Tigers,0.781,0.777,W
+2026-08-29,Wakefield Trinity,York Knights,0.762,0.758,W
+2026-08-29,Warrington Wolves,Hull FC,0.653,0.678,W
+2026-08-29,Toulouse Olympique,Bradford Bulls,0.660,0.861,W
 2026-08-28,Sharks,Bulls,0.780,,W
 2026-08-28,CA Brive,Valence Romans,0.785,,W
 2026-08-28,Manly Sea Eagles,St George,0.718,0.726,W

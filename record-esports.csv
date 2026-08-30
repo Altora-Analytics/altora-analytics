@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-29,vitality,9z,0.771,0.763,W
+2026-08-29,mouz,inner circle esports,0.753,0.769,W
+2026-08-29,fut esports,lynn vision,0.728,0.806,W
+2026-08-29,team falcons,legacy,0.600,0.640,W
+2026-08-29,natus vincere,giantx,0.531,0.552,W
 2026-08-28,natus vincere,pain,0.769,0.832,W
 2026-08-28,team heretics,shifters,0.555,0.556,L
 2026-08-28,furia,m80,0.710,0.790,W
