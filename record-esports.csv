@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-08-30,dplus kia,kt rolster,0.747,0.742,L
+2026-08-30,natus vincere,g2,0.548,0.527,L
+2026-08-30,aurora gaming,m80,0.660,0.761,W
+2026-08-30,team vitality,shifters,0.802,0.782,W
+2026-08-30,movistar koi,team heretics,0.778,0.775,W
+2026-08-30,fnatic,giantx,0.520,0.549,L
+2026-08-30,lyon,team liquid,0.519,0.523,W
 2026-08-29,vitality,9z,0.771,0.763,W
 2026-08-29,mouz,inner circle esports,0.753,0.769,W
 2026-08-29,fut esports,lynn vision,0.728,0.806,W
