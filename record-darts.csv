@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-04,Cameron Menzies,Johan Engstrom,0.833,0.825,W
+2026-09-04,Andrew Gilding,David Rosi,0.904,0.897,W
+2026-09-04,Kim Huybrechts,Ryan Joyce,0.622,0.581,L
+2026-09-04,William O'Connor,Jiri Brejcha,0.875,0.871,W
+2026-09-04,Niko Springer,Martin Homola,0.865,0.872,W
+2026-09-04,Kevin Doets,Ricky Evans,0.662,0.664,W
+2026-09-04,Joe Cullen,Stephen Burton,0.669,0.668,L
+2026-09-04,Cristo Reyes,Callan Rydz,0.592,0.557,L
 2026-08-30,Rob Cross,Dirk van Duijvenbode,0.600,0.566,L
 2026-08-30,Ryan Searle,Danny Noppert,0.541,0.546,L
 2026-08-30,Jonny Clayton,Ross Smith,0.559,0.510,L
