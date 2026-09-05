@@ -1,4 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-04,Agen,CA Brive,0.628,0.664,L
+2026-09-04,Aurillac,US Dax,0.569,0.719,W
+2026-09-04,Grenoble FC,Montauban,0.664,,L
+2026-09-04,Narbonne,Nevers,0.676,0.602,W
+2026-09-04,US Oyonnax,Biarritz Olympique,0.896,,W
+2026-09-04,Valence Romans,Angouleme,0.763,,W
+2026-09-04,Dolphins,Gold Coast Tit,0.716,0.752,W
+2026-09-04,South Sydney Rabbitohs,Sydney Rooster,0.847,0.887,W
+2026-09-04,Toulouse Olympique,Hull FC,0.573,0.537,W
+2026-09-04,Hull Kingston Rovers,Huddersfield Giants,0.733,0.721,W
+2026-09-04,Leigh Leopards,St Helens,0.722,0.771,W
 2026-09-03,Colomiers,Provence Rugby,0.705,0.518,L
 2026-09-03,Canterbury Bulldogs Wom,Brisbane Bronc,0.711,0.707,L
 2026-09-03,Bradford Bulls,Castleford Tigers,0.624,0.584,W
