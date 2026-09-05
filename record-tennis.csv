@@ -1,4 +1,37 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-04,Matej Dodig,Max Schoenhaus,0.508,0.524,W
+2026-09-04,Oleksandr Ovcharenko,Georgii Kravchenko,0.527,0.540,L
+2026-09-04,Gustavo Heide,Thiago Monteiro,0.609,0.588,W
+2026-09-04,Thiago Seyboth Wild,Juan Pablo Varillas,0.720,0.696,L
+2026-09-04,Carlos Alcaraz,Yibing Wu,0.955,0.929,W
+2026-09-04,Frances Tiafoe,Valentin Vacherot,0.660,0.655,W
+2026-09-04,Mariano Navone,Tomas Martin Etcheverry,0.505,0.508,L
+2026-09-04,Tommy Paul,Alexander Bublik,0.597,0.611,W
+2026-09-04,Elina Svitolina,Anna Kalinskaya,0.710,0.707,L
+2026-09-04,Karolina Muchova,Emma Navarro,0.799,0.789,L
+2026-09-04,Marta Kostyuk,Ekaterina Alexandrova,0.752,0.742,W
+2026-09-04,Jiri Lehecka,Stefanos Tsitsipas,0.632,0.623,L
+2026-09-04,Aryna Sabalenka,Kamilla Rakhimova,0.964,0.931,W
+2026-09-04,Nys/Roger-Vasselin,Paul/Vocel,0.695,0.689,W
+2026-09-04,Linda Noskova,Ann Li,0.755,0.753,W
+2026-09-04,Chun Hsin Tseng,Fajing Sun,0.957,0.917,W
+2026-09-04,Enzo Aguiard,Kasidit Samrej,0.550,0.551,L
+2026-09-04,Charlton/Wang,Delaney/Delaney,0.595,0.613,W
+2026-09-04,Federico Iannaccone,Valerio Aboian,0.509,0.515,L
+2026-09-04,Kalender/Serdarusic,Forcano Aparic/Vervoort,0.842,0.819,W
+2026-09-04,Juan Manuel La Serna,Yanaki Milev,0.748,0.738,L
+2026-09-04,Alejandro Moro Canas,Pedro Vives Marcos,0.757,0.716,L
+2026-09-04,Andrej Nedic,Johan Nikles,0.852,0.790,L
+2026-09-04,Felix Balshaw,Billy Harris,0.577,0.582,W
+2026-09-04,Edas Butvilas,Luca Potenza,0.811,0.781,L
+2026-09-04,Jack Pinnington Jones,Inaki Montes-De La Torr,0.609,0.609,L
+2026-09-04,Hugo Dellien,Miguel Damas,0.794,0.788,W
+2026-09-04,Jay Clarke,Duje Ajdukovic,0.587,0.594,W
+2026-09-04,Nina Radovanovic,Selena Janicijevic,0.506,0.530,W
+2026-09-04,Anastasija Cvetkovic,Anna Petkovic,0.813,0.796,L
+2026-09-04,Giorgia Pedone,Sara Cakarevic,0.774,0.766,W
+2026-09-04,Anastasia Gasanova,Sofia Johnson,0.678,0.663,L
+2026-09-04,Mark Lajal,Alejo Sanchez Quilez,0.749,0.733,W
 2026-09-03,Khumoyun Sultanov,Enzo Aguiard,0.639,0.639,L
 2026-09-03,Bernard Tomic,Kasidit Samrej,0.750,0.734,L
 2026-09-03,Maxim Mrva,Federico Iannaccone,0.800,0.781,L
@@ -21,14 +54,21 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-03,Lorenzo Musetti,Dane Sweeny,0.963,0.945,L
 2026-09-03,Maria Sakkari,Yuliia Starodubtseva,0.603,0.601,L
 2026-09-03,Mirra Andreeva,Eva Lys,0.917,0.901,W
+2026-09-03,Alexander Zverev,Quentin Halys,0.904,0.840,W
+2026-09-03,Thomas Faurel,Dusan Obradovic,0.757,0.736,L
 2026-09-03,Charlton/Wang,Papa/Zheng,0.760,0.758,W
+2026-09-03,Facundo Mena,Oriol Roca Batalla,0.524,0.542,W
 2026-09-03,Felix Balshaw,Alexandre Muller,0.513,0.501,W
 2026-09-03,Trotter/Uchida,Delaney/Delaney,0.586,0.594,L
 2026-09-03,Mark Lajal,Ivan Ivanov,0.860,0.842,W
 2026-09-03,Jack Pinnington Jones,Michele Ribecai,0.623,0.634,W
+2026-09-03,Diana Shnaider,Taylor Townsend,0.654,0.652,L
+2026-09-03,Jessica Pegula,Leylah Fernandez,0.714,0.715,W
 2026-09-03,Jay Friend,Billy Harris,0.554,0.557,L
 2026-09-03,Joel Schwaerzler,Luca Potenza,0.788,0.779,L
 2026-09-03,Daniel Rincon,Inaki Montes-De La Torr,0.525,0.534,L
+2026-09-03,Daniil Medvedev,Arthur Rinderknech,0.733,0.704,W
+2026-09-03,Alex Michelsen,Daniel Merida,0.621,0.608,W
 2026-09-03,Coco Gauff,Paula Badosa,0.876,0.863,W
 2026-09-03,Yexin Ma,Jiaqi Wang,0.797,0.780,L
 2026-09-03,Fangran Tian,Patcharin Cheapchandej,0.529,0.537,L
@@ -49,6 +89,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-03,Arthur Gea,Zachary Svajda,0.508,0.523,W
 2026-09-03,Ignacio Buse,Benjamin Bonzi,0.583,0.585,L
 2026-09-03,Alex De Minaur,Botic Van de Zandschulp,0.758,0.757,L
+2026-09-03,Sorana Cirstea ,Jasmine Paolini,0.614,0.624,W
 2026-09-02,Fajing Sun,Hanyi Liu,0.985,0.959,W
 2026-09-02,Massimo Giunta,Dusan Obradovic,0.724,0.704,L
 2026-09-02,Max Schoenhaus,Gonzalo Bueno,0.531,0.531,W
