@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-05,Krzysztof Ratajski,Jermaine Wattimena,0.545,0.527,W
+2026-09-05,Ryan Searle,William O'Connor,0.589,0.610,L
+2026-09-05,Kevin Doets,Danny Noppert,0.566,0.593,L
+2026-09-05,Gary Anderson,Cameron Menzies,0.668,0.671,L
+2026-09-05,Chris Dobey,Keane Barry,0.680,0.707,L
+2026-09-05,Ross Smith,Stephen Burton,0.743,0.743,W
+2026-09-05,Nathan Aspinall,Andrew Gilding,0.662,0.677,L
+2026-09-05,Wessel Nijman,Martin Schindler,0.675,0.679,W
 2026-09-04,Cameron Menzies,Johan Engstrom,0.833,0.825,W
 2026-09-04,Andrew Gilding,David Rosi,0.904,0.897,W
 2026-09-04,Kim Huybrechts,Ryan Joyce,0.622,0.581,L
