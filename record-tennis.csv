@@ -1,4 +1,26 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-05,Madison Keys,Qinwen Zheng,0.595,0.597,L
+2026-09-05,Flavio Cobolli,Alexander Blockx,0.505,0.509,L
+2026-09-05,Iva Jovic,Alexandra Eala,0.507,0.519,W
+2026-09-05,Michael Zheng,Arthur Gea,0.604,0.589,L
+2026-09-05,Elena Rybakina,Yuliia Starodubtseva,0.933,0.906,W
+2026-09-05,Mirra Andreeva,Nikola Bartunkova,0.808,0.801,W
+2026-09-05,Coco Gauff,Cristina Bucsa,0.958,0.957,W
+2026-09-05,Luciano Darderi,Dane Sweeny,0.768,0.756,W
+2026-09-05,Karen Khachanov,Benjamin Bonzi,0.686,0.656,W
+2026-09-05,Botic Van de Zandschulp,Zizou Bergs,0.665,0.661,W
+2026-09-05,Kasidit Samrej,Chun Hsin Tseng,0.520,0.513,W
+2026-09-05,Georgii Kravchenko,Dusan Obradovic,0.719,0.696,W
+2026-09-05,Valerio Aboian,Yanaki Milev,0.610,0.607,L
+2026-09-05,Kalender/Serdarusic,Drzewiecki/Matuszewski,0.529,0.539,W
+2026-09-05,Hugo Dellien,Pedro Vives Marcos,0.828,0.790,W
+2026-09-05,Gustavo Heide,Facundo Mena,0.819,0.765,L
+2026-09-05,Mark Lajal,Felix Balshaw,0.612,0.619,L
+2026-09-05,Juan Pablo Varillas,Jay Clarke,0.507,0.531,W
+2026-09-05,Ksenia Zaytseva,Nina Radovanovic,0.599,0.594,W
+2026-09-05,Fiona Ferro,Francesca Pace,0.740,0.731,W
+2026-09-05,Inaki Montes-De La Torr,Luca Potenza,0.754,0.749,W
+2026-09-05,Matej Dodig,Johan Nikles,0.823,0.808,W
 2026-09-04,Matej Dodig,Max Schoenhaus,0.508,0.524,W
 2026-09-04,Oleksandr Ovcharenko,Georgii Kravchenko,0.527,0.540,L
 2026-09-04,Gustavo Heide,Thiago Monteiro,0.609,0.588,W
@@ -8,6 +30,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-04,Mariano Navone,Tomas Martin Etcheverry,0.505,0.508,L
 2026-09-04,Tommy Paul,Alexander Bublik,0.597,0.611,W
 2026-09-04,Elina Svitolina,Anna Kalinskaya,0.710,0.707,L
+2026-09-04,Ben Shelton,Denis Shapovalov,0.800,0.780,W
 2026-09-04,Karolina Muchova,Emma Navarro,0.799,0.789,L
 2026-09-04,Marta Kostyuk,Ekaterina Alexandrova,0.752,0.742,W
 2026-09-04,Jiri Lehecka,Stefanos Tsitsipas,0.632,0.623,L
@@ -27,11 +50,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-04,Jack Pinnington Jones,Inaki Montes-De La Torr,0.609,0.609,L
 2026-09-04,Hugo Dellien,Miguel Damas,0.794,0.788,W
 2026-09-04,Jay Clarke,Duje Ajdukovic,0.587,0.594,W
+2026-09-04,Amanda Anisimova,Anastasia Potapova,0.805,0.790,L
+2026-09-04,Iga Swiatek,Marie Bouzkova,0.864,0.843,W
+2026-09-04,Naomi Osaka,Elise Mertens,0.694,0.683,W
 2026-09-04,Nina Radovanovic,Selena Janicijevic,0.506,0.530,W
 2026-09-04,Anastasija Cvetkovic,Anna Petkovic,0.813,0.796,L
 2026-09-04,Giorgia Pedone,Sara Cakarevic,0.774,0.766,W
 2026-09-04,Anastasia Gasanova,Sofia Johnson,0.678,0.663,L
 2026-09-04,Mark Lajal,Alejo Sanchez Quilez,0.749,0.733,W
+2026-09-04,Taylor Fritz,Francisco Cerundolo,0.843,0.829,L
+2026-09-04,Harrison/Skupski,Reymond/Sanchez,0.785,0.795,W
 2026-09-03,Khumoyun Sultanov,Enzo Aguiard,0.639,0.639,L
 2026-09-03,Bernard Tomic,Kasidit Samrej,0.750,0.734,L
 2026-09-03,Maxim Mrva,Federico Iannaccone,0.800,0.781,L
