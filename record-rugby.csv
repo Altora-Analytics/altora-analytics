@@ -1,4 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-05,Aviron Bayonnais,RC Toulonnais,0.542,0.665,W
+2026-09-05,Bordeaux Begles,Racing 92,0.759,0.856,W
+2026-09-05,Vannes,Castres Olympique,0.606,0.191,L
+2026-09-05,Lyon,Clermont,0.547,0.545,W
+2026-09-05,Montpellier,Section Paloise,0.848,0.772,L
+2026-09-05,Stade Francais Paris,USA Perpignan,0.893,0.850,W
+2026-09-05,North Queensland Cowboys,Canberra Raiders,0.638,0.642,L
+2026-09-05,Melbourne Storm,Cronulla Shark,0.682,0.694,W
+2026-09-05,Wakefield Trinity,Warrington Wolves,0.548,0.533,W
+2026-09-05,Catalans Dragons,York Knights,0.726,0.720,L
+2026-09-05,Leeds Rhinos,Wigan Warriors,0.579,0.529,L
 2026-09-04,Agen,CA Brive,0.628,0.664,L
 2026-09-04,Aurillac,US Dax,0.569,0.719,W
 2026-09-04,Grenoble FC,Montauban,0.664,,L
