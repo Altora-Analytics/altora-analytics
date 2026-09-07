@@ -1,4 +1,42 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-06,Nouza/Oberleitner,Gonzalez/Molteni,0.613,0.604,L
+2026-09-06,Daniil Medvedev,Frances Tiafoe,0.599,0.589,L
+2026-09-06,Alex Michelsen,Tomas Martin Etcheverry,0.737,0.729,W
+2026-09-06,Marta Kostyuk,Linda Noskova,0.568,0.576,L
+2026-09-06,Anna Kalinskaya,Emma Navarro,0.501,0.513,L
+2026-09-06,Ben Shelton,Stefanos Tsitsipas,0.697,0.690,W
+2026-09-06,Tsung-Hao Huang,Arjun Kadhe,0.674,0.678,W
+2026-09-06,Joshua Charlton,Ji Sung Nam,0.525,0.540,L
+2026-09-06,Ipek Oz,Dalila Jakupovic,0.623,0.617,W
+2026-09-06,Martina Trevisan,Julia Stusek,0.724,0.708,W
+2026-09-06,Jule Niemeier,Lucija Ciric Bagaric,0.567,0.569,L
+2026-09-06,Tatiana Pieri,Dalila Spiteri,0.614,0.604,L
+2026-09-06,Leo Raquillet,Matteo Covato,0.950,0.912,W
+2026-09-06,Oskari Paldanius,Nicolas Tepmahc,0.714,0.682,W
+2026-09-06,Hugo Dellien,Facundo Mena,0.775,0.747,L
+2026-09-06,Matthew William Donald,Jelle Sels,0.582,0.586,W
+2026-09-06,Mika Brunold,Kai Wehnelt,0.776,0.730,W
+2026-09-06,Daniel Siniakov,Niels Visker,0.521,0.527,W
+2026-09-06,Izan Almazan Valiente,Saba Purtseladze,0.705,0.679,W
+2026-09-06,Lorenzo Carboni,Gerard Campana Lee,0.509,0.495,L
+2026-09-06,Francesco Forti,Niccolo Ciavarella,0.926,0.894,W
+2026-09-06,Alexander Weis,Federico Iannaccone,0.504,0.500,L
+2026-09-06,Lorenzo Angelini,Lorenzo Rottoli,0.531,0.531,L
+2026-09-06,Andrew Paulson,Robert Strombachs,0.634,0.630,W
+2026-09-06,Federico Arnaboldi,Edoardo Cherie Ligniere,0.786,0.777,W
+2026-09-06,Valerio Aboian,Luca Castagnola,0.814,0.763,W
+2026-09-06,Matej Dodig,Juan Pablo Varillas,0.728,0.699,W
+2026-09-06,Felix Balshaw,Inaki Montes-De La Torr,0.609,0.597,W
+2026-09-06,S D Prajwal Dev,Benjamin O'Connell,0.724,0.709,L
+2026-09-06,Martin Borisiouk,Takuya Kumasaka,0.556,0.561,W
+2026-09-06,Maxim Zhukov,Samir Hamza Reguig,0.719,0.708,L
+2026-09-06,Ergi Kirkin,Keshav Chopra,0.610,0.603,W
+2026-09-06,Alex Hernandez,Cem Ilkel,0.708,0.682,W
+2026-09-06,Ksenia Zaytseva,Giorgia Pedone,0.612,0.593,W
+2026-09-06,Radu David Turcanu,Egor Agafonov,0.675,0.646,W
+2026-09-06,Alibek Kachmazov,Louis Wessels,0.553,0.564,W
+2026-09-06,Faris Zakaria,Mert Naci Turker,0.634,0.632,W
+2026-09-06,Maxime Janvier,Thomas Fancutt,0.508,0.500,VOID
 2026-09-05,Madison Keys,Qinwen Zheng,0.595,0.597,L
 2026-09-05,Flavio Cobolli,Alexander Blockx,0.505,0.509,L
 2026-09-05,Iva Jovic,Alexandra Eala,0.507,0.519,W
@@ -9,6 +47,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-05,Luciano Darderi,Dane Sweeny,0.768,0.756,W
 2026-09-05,Karen Khachanov,Benjamin Bonzi,0.686,0.656,W
 2026-09-05,Botic Van de Zandschulp,Zizou Bergs,0.665,0.661,W
+2026-09-05,Learner Tien,Jakub Mensik,0.558,0.554,W
+2026-09-05,Alexander Zverev,Alejandro Tabilo,0.900,0.844,W
 2026-09-05,Kasidit Samrej,Chun Hsin Tseng,0.520,0.513,W
 2026-09-05,Georgii Kravchenko,Dusan Obradovic,0.719,0.696,W
 2026-09-05,Valerio Aboian,Yanaki Milev,0.610,0.607,L
@@ -19,8 +59,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-05,Juan Pablo Varillas,Jay Clarke,0.507,0.531,W
 2026-09-05,Ksenia Zaytseva,Nina Radovanovic,0.599,0.594,W
 2026-09-05,Fiona Ferro,Francesca Pace,0.740,0.731,W
+2026-09-05,Jessica Pegula,Sorana Cirstea ,0.727,0.724,W
 2026-09-05,Inaki Montes-De La Torr,Luca Potenza,0.754,0.749,W
+2026-09-05,Aryna Sabalenka,Taylor Townsend,0.825,0.820,W
+2026-09-05,Carlos Alcaraz,Tommy Paul,0.861,0.835,W
 2026-09-05,Matej Dodig,Johan Nikles,0.823,0.808,W
+2026-09-05,Georgii Kravchenko,Yanaki Milev,0.662,0.643,W
 2026-09-04,Matej Dodig,Max Schoenhaus,0.508,0.524,W
 2026-09-04,Oleksandr Ovcharenko,Georgii Kravchenko,0.527,0.540,L
 2026-09-04,Gustavo Heide,Thiago Monteiro,0.609,0.588,W
