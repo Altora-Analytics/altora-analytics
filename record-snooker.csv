@@ -1,4 +1,18 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-07,SI Jiahui,Robbie Williams,0.664,0.671,L
+2026-09-07,Ding Junhui,Michael Holt,0.711,0.726,W
+2026-09-07,Zhang Anda,Zak Surety,0.638,0.665,W
+2026-09-07,Yuan Sijun,Tom Ford,0.532,0.524,W
+2026-09-07,Neil Robertson,Luo Zetao,0.863,0.880,L
+2026-09-07,Ali Carter,Jackson Page,0.617,0.599,W
+2026-09-07,Chris Wakelin,Louis Heathcote,0.665,0.668,W
+2026-09-07,Kyren Wilson,Mateusz Baranowski,0.893,0.929,W
+2026-09-07,Jimmy Robertson,Gong Chenzhi,0.674,0.681,L
+2026-09-07,Zhao Xintong,Oliver Lines,0.825,0.830,L
+2026-09-07,Elliot Slessor,Ashley Hugill,0.690,0.736,L
+2026-09-07,Zhou Yuelong,Stan Moody,0.587,0.567,W
+2026-09-07,Joe OConnor,Florian Nuessle,0.728,0.708,W
+2026-09-07,Jak Jones,Chang Bingyu,0.521,0.401,VOID
 2026-09-06,Mark Selby,Jak Jones,0.674,0.691,L
 2026-09-05,Mark Selby,Liam Highfield,0.801,0.780,W
 2026-09-05,Judd Trump,Jak Jones,0.786,0.769,L
