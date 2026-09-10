@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-09,9z,mibr,0.642,0.609,L
+2026-09-09,legacy,alliance,0.755,0.708,W
+2026-09-09,tyloo,gamerlegion,0.549,0.541,W
+2026-09-09,g2,big,0.666,0.692,W
+2026-09-09,inox division,the last resort,0.809,0.851,L
+2026-09-09,heroic,bestia,0.671,0.815,W
 2026-09-08,faze clan,alliance,0.732,0.725,L
 2026-09-08,themongolz,mibr,0.669,0.475,L
 2026-09-08,bb team,big,0.524,0.521,W
