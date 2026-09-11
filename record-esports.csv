@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-10,parivision,magic,0.532,0.595,L
+2026-09-10,astralis,5star,0.801,0.889,L
+2026-09-10,furia,legacy,0.529,0.627,L
+2026-09-10,bb team,mibr,0.573,0.572,W
 2026-09-09,9z,mibr,0.642,0.609,L
 2026-09-09,legacy,alliance,0.755,0.708,W
 2026-09-09,tyloo,gamerlegion,0.549,0.541,W
