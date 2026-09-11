@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-11,Mickey Mansell,Bradley Brooks,0.510,0.527,L
+2026-09-11,Niels Zonneveld,Petr Tous,0.863,0.860,W
+2026-09-11,Andrew Gilding,Chris Landman,0.651,0.638,L
+2026-09-11,Kevin Doets,James Hurrell,0.695,0.707,W
+2026-09-11,Karel Sedláček,Michael Hansen,0.853,0.886,W
+2026-09-11,Jeffrey de Graaf,Jeroen Caron,0.797,0.831,W
+2026-09-11,Ryan Joyce,Stephen Burton,0.634,0.624,W
 2026-09-06,Gerwyn Price,Cameron Menzies,0.651,0.671,W
 2026-09-06,Ross Smith,Gian van Veen,0.534,0.543,W
 2026-09-06,Josh Rock,William O'Connor,0.606,0.569,L
