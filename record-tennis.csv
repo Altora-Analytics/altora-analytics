@@ -1,9 +1,47 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-10,Philip Sekulic,Koki Matsuda,0.517,0.520,W
+2026-09-10,Ilya Ivashka,Bernard Tomic,0.573,0.582,W
+2026-09-10,Yi Zhou,Jie Cui,0.669,0.650,W
+2026-09-10,Tung-Lin Wu,Luca Castelnuovo,0.702,0.671,L
+2026-09-10,Lukas Neumayer,Juan Manuel La Serna,0.751,0.739,W
+2026-09-10,Ji Sung Nam,Denis Yevseyev,0.502,0.496,W
+2026-09-10,Filip Misolic,Mika Brunold,0.575,0.568,L
+2026-09-10,Mark Lajal,Sascha Gueymard Wayenbu,0.707,0.691,W
+2026-09-10,Nicolai Budkov Kjaer,Yanis Ghazouani Durand,0.881,0.835,W
+2026-09-10,Raphael Perot,Robin Bertrand,0.718,0.691,L
+2026-09-10,Genaro Alberto Olivieri,Tiago Pereira,0.578,0.573,W
+2026-09-10,Henrique Rocha,Santiago Rodriguez Tave,0.942,0.888,W
+2026-09-10,Thiago Monteiro,Joao Lucas Reis Da Silv,0.699,0.686,L
+2026-09-10,Gustavo Heide,Diego Dedura-Palomero,0.578,0.564,W
+2026-09-10,Fiona Ferro,Barbora Palicova,0.625,0.627,W
+2026-09-10,Simona Waltert,Despina Papamichail,0.970,0.917,W
+2026-09-10,Dusan Lajovic,Calvin Hemery,0.738,0.722,W
+2026-09-10,Max Alcalà Gurri,Pavel Lagutin,0.711,0.678,W
+2026-09-10,Francesco Passaro,Juan Pablo Varillas,0.645,0.630,L
+2026-09-10,Stefano Travaglia,Enrico Dalla Valle,0.529,0.520,L
+2026-09-10,Aryna Sabalenka,Jessica Pegula,0.641,0.640,W
+2026-09-10,Yanki Erel,Radu Albot,0.682,0.648,W
+2026-09-10,Max Basing,Mert Alkaya,0.613,0.592,W
+2026-09-10,Edas Butvilas,Miguel Tobon,0.774,0.769,W
+2026-09-10,Yufei Ren,Yuhan Wang,0.738,0.724,W
+2026-09-10,Noguchi/Wang,Bar Biryukov/Binda,0.501,0.500,L
+2026-09-10,Xinyu Gao,Sofia Johnson,0.554,0.567,L
+2026-09-10,Anastasia Gasanova,Iveta Dapkute,0.967,0.945,W
+2026-09-10,Angelina Voloshchuk,Jo-Yee Chan,0.668,0.671,W
+2026-09-10,Reese Brantmeier,Aoi Ito,0.569,0.570,L
+2026-09-10,Daria Yesypchuk,Merel Hoedt,0.519,0.511,W
+2026-09-10,Amandine Hesse,Meritxell Garcia,0.907,0.861,W
+2026-09-10,Caijsa Hennemann,Lucia Llorca,0.705,0.682,L
+2026-09-10,Matilde Paoletti,Diletta Cherubini,0.637,0.639,W
+2026-09-10,Jessica Pieri,Marianna Argyrokastriti,0.680,0.649,L
+2026-09-10,Elena Rybakina,Coco Gauff,0.510,0.513,W
+2026-09-10,Anna Blinkova,Julia Riera,0.632,0.633,W
 2026-09-09,Aurora Zantedeschi,Lina Gjorcheska,0.551,0.566,W
 2026-09-09,Taro Daniel,Marat Sharipov,0.604,0.618,L
 2026-09-09,Alexis Galarneau,Linang Xiao,0.965,0.936,W
 2026-09-09,Marvin Moeller,Matias Soto,0.694,0.673,L
 2026-09-09,Maks Kasnikowski,Christian Langmo,0.778,0.771,W
+2026-09-09,Billy Harris,Moez Echargui,0.526,0.544,L
 2026-09-09,Laslo Djere,Gabriele Piraino,0.861,0.820,W
 2026-09-09,Titouan Droguet,Gijs Brouwer,0.925,0.871,W
 2026-09-09,Stefanos Sakellaridis,Duje Ajdukovic,0.739,0.722,W
@@ -22,6 +60,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-09,Han Shi,Fangran Tian,0.949,0.927,W
 2026-09-09,Pavel Kotov,Jake Delaney,0.821,0.759,W
 2026-09-09,Francesco Maestrelli,Alafia Ayeni,0.772,0.746,W
+2026-09-09,Jay Friend,Samir Hamza Reguig,0.956,0.935,W
 2026-09-09,Daniil Glinka,Mathys Erhard,0.588,0.594,W
 2026-09-09,Martin Krumich,Zdenek Kolar,0.593,0.599,L
 2026-09-09,Vitaliy Sachko,Marko Topo,0.644,0.650,W
@@ -31,6 +70,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-09,Ugo Blanchet,Daniel Rincon,0.521,0.524,W
 2026-09-09,Pablo Llamas Ruiz,Raul Brancaccio,0.820,0.809,L
 2026-09-09,Alex Barrena,Nico Hipfl,0.719,0.711,W
+2026-09-09,Thiago Seyboth Wild,Massimo Giunta,0.796,0.772,W
+2026-09-09,Maria Lourdes Carle,Eva Vedder,0.522,0.533,W
 2026-09-09,Irene Burillo,Miriam Bulgaru,0.536,0.559,W
 2026-09-09,Dalma Galfi,Nuria Brancaccio,0.507,0.524,W
 2026-09-09,Andrea Pellegrino,Valerio Aboian,0.782,0.748,L
@@ -41,7 +82,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-09,Julieta Pareja,Leolia Jeanjean,0.529,0.539,L
 2026-09-09,Beatrise Zeltina,Amandine Hesse,0.523,0.537,L
 2026-09-09,Mary Stoiana,Julia Riera,0.679,0.656,L
+2026-09-09,Lucie Havlickova,Lucija Ciric Bagaric,0.627,0.642,VOID
 2026-09-09,Anouk Koevermans,Stephanie Visscher,0.837,0.821,VOID
+2026-09-09,Hugo Dellien,Matej Dodig,0.554,0.551,VOID
 2026-09-08,Jessica Pegula,Emma Navarro,0.790,0.769,W
 2026-09-08,Frances Tiafoe,Alex Michelsen,0.606,0.587,W
 2026-09-08,Carlos Alcaraz,Ben Shelton,0.819,0.780,L
