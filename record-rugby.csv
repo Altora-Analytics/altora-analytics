@@ -1,4 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-11,Angouleme,Montauban,0.905,0.683,W
+2026-09-11,Beziers,Nevers,0.833,0.685,W
+2026-09-11,Grenoble FC,Agen,0.714,,L
+2026-09-11,Provence Rugby,Narbonne,0.925,0.976,W
+2026-09-11,US Dax,Valence Romans,0.720,,W
+2026-09-11,US Oyonnax,Aurillac,0.941,,W
+2026-09-11,Warrington Wolves,Toulouse Olympique,0.594,0.534,W
+2026-09-11,Hull Kingston Rovers,St Helens,0.532,0.172,L
+2026-09-11,Wigan Warriors,Catalans Dragons,0.945,0.962,W
+2026-09-11,Leeds Rhinos,Hull FC,0.844,0.913,L
+2026-09-11,Leigh Leopards,Wakefield Trinity,0.644,0.647,L
 2026-09-10,Biarritz Olympique,Colomiers,0.645,,W
 2026-09-10,York Knights,Bradford Bulls,0.673,0.690,W
 2026-09-06,Stade Rochelais,Stade Toulousain,0.572,0.369,W

@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-11,mibr,alliance,0.587,0.555,W
+2026-09-11,furia,g2,0.571,0.581,L
+2026-09-11,natus vincere,giantx,0.570,0.571,W
 2026-09-10,parivision,magic,0.532,0.595,L
 2026-09-10,astralis,5star,0.801,0.889,L
 2026-09-10,furia,legacy,0.529,0.627,L
