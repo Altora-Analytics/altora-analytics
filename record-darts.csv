@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-13,Gian van Veen,Kevin Doets,0.515,0.518,W
+2026-09-13,Chris Dobey,Ryan Searle,0.584,0.574,W
+2026-09-13,Jermaine Wattimena,Ryan Joyce,0.583,0.590,L
+2026-09-13,Gerwyn Price,Ross Smith,0.586,0.592,L
+2026-09-13,Rob Cross,James Wade,0.505,0.517,L
+2026-09-13,Wessel Nijman,Danny Noppert,0.666,0.631,L
+2026-09-13,Luke Woodhouse,Damon Heta,0.580,0.553,L
+2026-09-13,Nathan Aspinall,Stephen Bunting,0.596,0.564,W
 2026-09-12,Kevin Doets,Krzysztof Ratajski,0.552,0.567,W
 2026-09-12,Jermaine Wattimena,Karel Sedláček,0.559,0.562,W
 2026-09-12,Rob Cross,Martin Schindler,0.662,0.620,W
