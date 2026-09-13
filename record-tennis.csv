@@ -1,4 +1,28 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-12,Aryna Sabalenka,Elena Rybakina,0.579,0.578,L
+2026-09-12,Harrison/Skupski,Krawietz/Puetz,0.603,0.587,W
+2026-09-12,Ilya Ivashka,Luca Castelnuovo,0.789,0.778,W
+2026-09-12,Harold Mayot,Max Basing,0.713,0.686,L
+2026-09-12,Delaney/Delaney,Bar Biryukov/Binda,0.547,0.558,W
+2026-09-12,Mark Lajal,Daniel Masur,0.817,0.813,W
+2026-09-12,Maks Kasnikowski,Jay Friend,0.515,0.507,L
+2026-09-12,Mika Brunold,Vitaliy Sachko,0.509,0.521,W
+2026-09-12,Pavel Kotov,Marat Sharipov,0.520,0.513,L
+2026-09-12,Lucia Llorca,Marianna Argyrokastriti,0.620,0.603,W
+2026-09-12,Ariana Geerlings,Francesca Pace,0.683,0.665,W
+2026-09-12,Holmgren/Overbeck,Ayeni/Chopra,0.522,0.530,L
+2026-09-12,Sofia Johnson,Matilde Jorge,0.617,0.601,L
+2026-09-12,Joao Lucas Reis Da Silv,Alex Barrena,0.621,0.611,W
+2026-09-12,Titouan Droguet,Nicolai Budkov Kjaer,0.608,0.606,W
+2026-09-12,Laslo Djere,Pedro Martinez,0.638,0.630,L
+2026-09-12,Jaume Munar,Facundo Diaz Acosta,0.518,0.506,L
+2026-09-12,Alevtina Ibragimova,Alicia Herrero Linana,0.628,0.621,W
+2026-09-12,Fiona Ferro,Dalma Galfi,0.556,0.571,W
+2026-09-12,Xiaodi You,Luiza Fullana,0.773,0.747,W
+2026-09-12,Cadence Brace,Ana Candiotto,0.949,0.914,W
+2026-09-12,Chloe Paquet,Martina Capurro Taborda,0.584,0.575,W
+2026-09-12,Thiago Seyboth Wild,Matej Dodig,0.520,0.524,W
+2026-09-12,Dusan Lajovic,Max Alcalà Gurri,0.683,0.674,W
 2026-09-11,Alexis Galarneau,Pavel Kotov,0.553,0.568,L
 2026-09-11,Marat Sharipov,Omar Jasika,0.713,0.690,W
 2026-09-11,Zdenek Kolar,Alex Barrena,0.558,0.561,L
