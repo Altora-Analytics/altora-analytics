@@ -1,4 +1,34 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-13,Alexander Zverev,Ben Shelton,0.593,0.578,W
+2026-09-13,Lois Boisson,Panna Udvardy,0.586,0.588,L
+2026-09-13,Peyton Stearns,Emiliana Arango,0.702,0.698,W
+2026-09-13,Bianca Andreescu,Cristina Bucsa,0.536,0.546,L
+2026-09-13,Taiyo Yamanaka,Egor Agafonov,0.555,0.562,W
+2026-09-13,Yaroslav Demin,Hanyi Liu,0.758,0.730,L
+2026-09-13,Ilya Ivashka,Marat Sharipov,0.508,0.521,W
+2026-09-13,Maxim Zhukov,Thijmen Loof,0.587,0.577,L
+2026-09-13,Jay Friend,Max Basing,0.531,0.544,L
+2026-09-13,Mika Brunold,Joao Lucas Reis Da Silv,0.600,0.609,W
+2026-09-13,Titouan Droguet,Mark Lajal,0.522,0.531,W
+2026-09-13,Ariana Geerlings,Lucia Llorca,0.774,0.766,L
+2026-09-13,Anastasia Gasanova,Matilde Jorge,0.667,0.668,L
+2026-09-13,Fiona Ferro,Noma Noha Akugue,0.732,0.704,W
+2026-09-13,Diletta Cherubini,Isabella Shinikova,0.606,0.601,W
+2026-09-13,Alycia Parks,Varvara Lepchenko,0.653,0.645,W
+2026-09-13,Giuseppe La Vela,STEFANO D`AGOSTINO,0.624,0.617,W
+2026-09-13,Federico Iannaccone,Luca Wiedenmann,0.634,0.635,W
+2026-09-13,Izan Almazan Valiente,Matteo Covato,0.886,0.841,W
+2026-09-13,Nikita Mashtakov,Mario Gonzalez Fernande,0.712,0.708,W
+2026-09-13,Federico Arnaboldi,Maximilian Marterer,0.506,0.523,L
+2026-09-13,Ariana Arseneault,Georgina Garcia Perez,0.694,0.685,W
+2026-09-13,Johan Nikles,Saba Purtseladze,0.731,0.713,W
+2026-09-13,Robert Strombachs,Pavlos Tsitsipas,0.839,0.775,W
+2026-09-13,Malaika Rapolu,Zhibek Kulambayeva,0.755,0.748,W
+2026-09-13,Gijs Brouwer,Yanis Ghazouani Durand,0.523,0.521,L
+2026-09-13,Katrina Scott,Carole Monnet,0.609,0.610,L
+2026-09-13,Thiago Seyboth Wild,Pedro Martinez,0.622,0.633,W
+2026-09-13,Facundo Diaz Acosta,Dusan Lajovic,0.617,0.602,W
+2026-09-13,Daniel Elahi Galan,Michael Vrbensky,0.821,0.796,VOID
 2026-09-12,Aryna Sabalenka,Elena Rybakina,0.579,0.578,L
 2026-09-12,Harrison/Skupski,Krawietz/Puetz,0.603,0.587,W
 2026-09-12,Ilya Ivashka,Luca Castelnuovo,0.789,0.778,W
