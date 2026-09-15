@@ -1,8 +1,56 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-14,Elias Ymer,Semen Pankin,0.718,0.687,W
+2026-09-14,Akira Santillan,Yaojie Zeng,0.753,0.725,W
+2026-09-14,Rio Noguchi,Kaichi Uchida,0.817,0.803,W
+2026-09-14,Colin Sinclair,Linang Xiao,0.572,0.573,W
+2026-09-14,Enzo Aguiard,Masamichi Imamura,0.530,0.544,W
+2026-09-14,Kenta   Miyoshi,Moerani Bouzige,0.940,0.913,W
+2026-09-14,Yuta Shimizu,Philip Sekulic,0.611,0.602,L
+2026-09-14,Rodrigo Pacheco Mendez,Sergio Callejon Hernand,0.854,0.817,W
+2026-09-14,Arthur Weber,Koki Matsuda,0.635,0.627,W
+2026-09-14,Thiago Monteiro,Stefano Travaglia,0.506,0.511,W
+2026-09-14,Lucas Poullain,David Jorda Sanchis,0.657,0.655,W
+2026-09-14,Ugo Blanchet,Billy Harris,0.545,0.558,W
+2026-09-14,Petr Brunclik,Filippo Romano,0.618,0.594,W
+2026-09-14,Felix Gill,Mika Petkovic,0.651,0.645,W
+2026-09-14,Jay Clarke,Jonas Forejtek,0.613,0.597,W
+2026-09-14,Alejandro Moro Canas,Geoffrey Blancaneaux,0.749,0.725,W
+2026-09-14,Jeffrey John Wolf,Luciano Emanuel Ambrogi,0.962,0.929,W
+2026-09-14,Tristan Boyer,Edward Winter,0.652,0.634,W
+2026-09-14,Ryuki Matsuda,Taiyo Yamanaka,0.747,0.738,W
+2026-09-14,Timofei Derepasko,Taisei Ichikawa,0.676,0.656,W
+2026-09-14,Mitsuki Wei Kang Leong,Hanyi Liu,0.717,0.714,W
+2026-09-14,Yanis Ghazouani Durand,Nikola Slavic,0.775,0.771,W
+2026-09-14,Federico Iannaccone,Giuseppe La Vela,0.666,0.664,L
+2026-09-14,Gerard Campana Lee,Juan Cruz Martin Manzan,0.547,0.548,W
+2026-09-14,Gianmarco Ferrari,Izan Almazan Valiente,0.505,0.511,L
+2026-09-14,Kai Wehnelt,Michael Vrbensky,0.668,0.665,W
+2026-09-14,Sinja Kraus,Mia Pohankova,0.635,0.636,L
+2026-09-14,Max Schoenhaus,Patrick Brady,0.594,0.580,W
+2026-09-14,Rudolf Molleker,Tiago Pereira,0.583,0.590,L
+2026-09-14,Lea Boskovic,Raluka Serban,0.628,0.634,W
+2026-09-14,Deborah Chiesa,Lucija Ciric Bagaric,0.523,0.526,L
+2026-09-14,Elena Malygina,Gabriella Da Silva Fick,0.670,0.645,W
+2026-09-14,Pierluigi Basile,Giovanni Oradini,0.655,0.657,W
+2026-09-14,Thijmen Loof,Jesse Delaney,0.739,0.713,L
+2026-09-14,Dali Blanch,Ivan Gakhov,0.717,0.703,L
+2026-09-14,Patrick Zahraj,Maxime Janvier,0.550,0.554,L
+2026-09-14,Lina Gjorcheska,Miriam Bulgaru,0.598,0.609,L
+2026-09-14,Veronika Erjavec,Francesca Curmi,0.639,0.627,L
+2026-09-14,Kenny De Schepper,Finn Bass,0.661,0.654,L
+2026-09-14,Johan Nikles,Matyas Cerny,0.616,0.625,W
+2026-09-14,Santiago Rodriguez Tave,Robert Strombachs,0.597,0.609,L
+2026-09-14,Daniel Masur,Daniel De Jonge,0.759,0.743,W
+2026-09-14,Spencer Johnson,Erik Arutiunian,0.823,0.779,L
+2026-09-14,Roger Pascual Ferra,Luca Staeheli,0.726,0.694,L
+2026-09-14,Paula Badosa,Darja Semenistaja,0.866,0.864,VOID
 2026-09-13,Alexander Zverev,Ben Shelton,0.593,0.578,W
 2026-09-13,Lois Boisson,Panna Udvardy,0.586,0.588,L
 2026-09-13,Peyton Stearns,Emiliana Arango,0.702,0.698,W
+2026-09-13,Liudmila Samsonova,Elsa Jacquemot,0.805,0.789,W
 2026-09-13,Bianca Andreescu,Cristina Bucsa,0.536,0.546,L
+2026-09-13,Taylor Townsend,Tatjana Maria,0.728,0.707,W
+2026-09-13,Kayla Day,Elvina Kalieva,0.611,0.603,W
 2026-09-13,Taiyo Yamanaka,Egor Agafonov,0.555,0.562,W
 2026-09-13,Yaroslav Demin,Hanyi Liu,0.758,0.730,L
 2026-09-13,Ilya Ivashka,Marat Sharipov,0.508,0.521,W
