@@ -2,16 +2,6 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
 <title>Corrections | Altora Analytics</title>
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Altora Analytics">
-<meta property="og:title" content="Corrections | Altora Analytics">
-<meta property="og:description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
-<meta property="og:url" content="https://altoraanalytics.com/corrections.html">
-<meta property="og:image" content="https://altoraanalytics.com/assets/og.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://altoraanalytics.com/assets/og.png">
 <style>
   :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
         --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
@@ -76,11 +66,21 @@
 
   <section>
     <h2>Record</h2>
-    <p><b>8</b> corrections published ·
+    <p><b>9</b> corrections published ·
     <b>0</b> resulting in any exclusion from headline statistics ·
     <b>0</b> predictions deleted, since day one.</p>
   </section>
 
+  <article>
+    <div class="top"><span class="dt">2026-09-15</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Snooker likeliest scorelines published for the wrong match length</h3>
+    <p class="sp">Snooker</p>
+    <p><b>What happened.</b> Our snooker previews take the match length from a table of competition names, and anything the table did not recognise fell back to first to 5 frames. A generic &quot;qualifier&quot; rule also fired before the event-specific ones. The result is that 300 of 363 snooker predictions since July were priced as first to 5 regardless of the event. Where the exchange carried a correct-score market, which states the format exactly, our length was wrong on 16 of the 18 matches we can check: a first-to-10 final was published with &quot;5-2&quot; as its likeliest score, and best-of-7 Home Nations matches were priced as best of 9.</p>
+    <p><b>Why it matters.</b> The likeliest scoreline and expected frame count on those cards were arithmetically impossible for the match being played, exactly as happened with the darts World Matchplay in July. The published win probabilities are blended with the market price and are largely unaffected, but on matches without a market price the win probability also depends on the match length and was mis-stated by a few points. The site owner spotted it from the cards: every likeliest score was &quot;5-something&quot;.</p>
+    <p><b>What we did.</b> Annotated. All affected rows stay in the record with their original scoreline and frame figures; nothing is deleted. On 15 September the twelve Northern Ireland Open qualifier previews published that morning at first to 5 were voided in the ledger (kept, greyed) once the error was found; the five evening matches were re-logged at the correct first to 4 before they started, and the seven afternoon matches were already in play so carry a void with no replacement. Winner picks and their settlement on every other day stand. Scoreline-accuracy figures for snooker before 15 September should be read as unreliable rather than as a measure of the model. From now on a match whose length we cannot verify is published with a winner probability and no scoreline at all.</p>
+    <p class="fix"><b>Fixed.</b> The match length now comes from the exchange&#x27;s correct-score market wherever one exists, which covers the long-format later rounds where the error was largest. The competition table has been rebuilt with event-family rules ahead of the generic one, Home Nations events at first to 4. Every logged prediction now records where its format came from, and the daily health check raises a warning on any day that used the default. This is the same fix the darts pipeline received on 26 July; it should have been applied to snooker at the same time. <a href="record-snooker.html">Read the detail</a></p>
+  </article>
   <article>
     <div class="top"><span class="dt">2026-07-31</span>
       <span class="tag ann">Annotated, still counted</span></div>
