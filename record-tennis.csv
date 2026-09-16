@@ -1,23 +1,91 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-15,Rebeka Masarova,Mina Hodzic,0.800,0.783,W
+2026-09-15,Martina Trevisan,Leyre Romero Gormaz,0.504,0.501,W
+2026-09-15,Angela Fita Boluda,Yasmine Kabbaj,0.703,0.671,L
+2026-09-15,Dalma Galfi,Pia Lovric,0.836,0.814,W
+2026-09-15,Maria Lourdes Carle,Ekaterine Gorgodze,0.614,0.598,L
+2026-09-15,Lucie Havlickova,Aurora Zantedeschi,0.593,0.583,W
+2026-09-15,Jennifer Ruggeri,Eva Vedder,0.502,0.496,W
+2026-09-15,Peyton Stearns,Diane Parry,0.510,0.526,W
+2026-09-15,Cristina Bucsa,Panna Udvardy,0.706,0.679,W
+2026-09-15,Sara Bejlek,Alycia Parks,0.764,0.753,W
+2026-09-15,Tai Leonard Sach,Filip Peliwo,0.609,0.591,L
+2026-09-15,Hunter Heck,Khumoyun Sultanov,0.720,0.685,W
+2026-09-15,Martin Borisiouk,Dominik Palan,0.717,0.697,W
+2026-09-15,Moise Kouame,Ryuki Matsuda,0.939,0.880,W
+2026-09-15,Ilia Simakin,Timofei Derepasko,0.917,0.888,W
+2026-09-15,Nikolas Sanchez Izquier,Dali Blanch,0.568,0.579,W
+2026-09-15,Kilian Feldbausch,Kai Wehnelt,0.881,0.822,W
+2026-09-15,Filip Pieczonka,Tiago Pereira,0.522,0.538,W
+2026-09-15,Laslo Djere,Johan Nikles,0.906,0.873,W
+2026-09-15,Luka Mikrut,Robert Strombachs,0.811,0.804,W
+2026-09-15,Zdenek Kolar,Ivan Gakhov,0.698,0.680,W
+2026-09-15,Franco Agamenone,Izan Almazan Valiente,0.524,0.508,L
+2026-09-15,Carlos Taberner,Gerard Campana Lee,0.690,0.665,L
+2026-09-15,Bernard Tomic,Yuta Kikuchi,0.924,0.876,W
+2026-09-15,Alexander Binda,Aoran Wang,0.708,0.710,W
+2026-09-15,Pavel Lagutin,Enrico Dalla Valle,0.504,0.518,W
+2026-09-15,Petr Bar Biryukov,Jesse Delaney,0.843,0.811,W
+2026-09-15,Oksana Selekhmeteva,Nastasja Schunk,0.537,0.544,L
+2026-09-15,Malaika Rapolu,Caroline Werner,0.658,0.660,W
+2026-09-15,Stefano Napolitano,Alex Marti Pujolras,0.617,0.607,W
+2026-09-15,Ayla Aksu,Elena Malygina,0.529,0.535,L
+2026-09-15,Anastasiia Sobolieva,Lea Boskovic,0.751,0.735,W
+2026-09-15,Sascha Gueymard Wayenbu,Maxime Janvier,0.712,0.685,W
+2026-09-15,Clement Chidekh,Finn Bass,0.942,0.910,W
+2026-09-15,Yanis Ghazouani Durand,Leo Raquillet,0.620,0.629,W
+2026-09-15,Borna Gojo,Daniel Masur,0.712,0.688,W
+2026-09-15,Laura Samson,Lucija Ciric Bagaric,0.629,0.643,W
+2026-09-15,Kristiana Sidorova,Ya Yang,0.989,0.953,W
+2026-09-15,Yidi Yang,Polina Leykina,0.598,0.586,W
+2026-09-15,Elizara Yaneva,Sarah Emst,0.791,0.763,W
+2026-09-15,Lidia Encheva,Denislava Glushkova,0.735,0.730,W
+2026-09-15,Ikumi Yamazaki,Yuno Kitahara,0.615,0.635,L
+2026-09-15,Ena Shibahara,Sakura Hosogi,0.565,0.571,W
+2026-09-15,Janice Tjen,Sloane Stephens,0.578,0.585,L
+2026-09-15,Braden Shick,Erik Arutiunian,0.578,0.571,W
+2026-09-15,Andre Ilagan,Bryce Nakashima Nakashi,0.546,0.553,L
+2026-09-15,Henry Searle,Timo Legout,0.576,0.560,L
+2026-09-15,Joao Lucas Reis Da Silv,Pierluigi Basile,0.527,0.543,VOID
+2026-09-15,Rositsa Dencheva,Julia Adams,0.944,0.927,VOID
 2026-09-14,Elias Ymer,Semen Pankin,0.718,0.687,W
+2026-09-14,Lloyd Harris,Hayato Matsuoka,0.800,0.787,W
+2026-09-14,Shintaro Mochizuki,Pavel Kotov,0.523,0.516,L
 2026-09-14,Akira Santillan,Yaojie Zeng,0.753,0.725,W
+2026-09-14,Omar Jasika,Luca Castelnuovo,0.594,0.608,L
 2026-09-14,Rio Noguchi,Kaichi Uchida,0.817,0.803,W
 2026-09-14,Colin Sinclair,Linang Xiao,0.572,0.573,W
 2026-09-14,Enzo Aguiard,Masamichi Imamura,0.530,0.544,W
 2026-09-14,Kenta   Miyoshi,Moerani Bouzige,0.940,0.913,W
+2026-09-14,Cruz Hewitt,Digvijay Pratap Singh,0.795,0.763,W
 2026-09-14,Yuta Shimizu,Philip Sekulic,0.611,0.602,L
 2026-09-14,Rodrigo Pacheco Mendez,Sergio Callejon Hernand,0.854,0.817,W
 2026-09-14,Arthur Weber,Koki Matsuda,0.635,0.627,W
+2026-09-14,Constantin Bittoun Kouz,Benjamin O'Connell,0.712,0.694,W
+2026-09-14,Blake Ellis,Hiroki Moriya,0.523,0.522,W
 2026-09-14,Thiago Monteiro,Stefano Travaglia,0.506,0.511,W
+2026-09-14,Daniel Michalski,Marvin Moeller,0.504,0.505,L
+2026-09-14,Hynek Barton,Raul Brancaccio,0.550,0.555,W
+2026-09-14,Vitaliy Sachko,Filip Cristian Jianu,0.626,0.615,W
+2026-09-14,Teodora Kostovic,Victoria Luiza Barros,0.835,0.771,W
+2026-09-14,Elina Avanesyan,Julia Riera,0.524,0.541,W
+2026-09-14,Clement Tabur,Harold Mayot,0.506,0.504,L
 2026-09-14,Lucas Poullain,David Jorda Sanchis,0.657,0.655,W
 2026-09-14,Ugo Blanchet,Billy Harris,0.545,0.558,W
 2026-09-14,Petr Brunclik,Filippo Romano,0.618,0.594,W
+2026-09-14,Oriol Roca Batalla,Alejo Sanchez Quilez,0.580,0.579,W
 2026-09-14,Felix Gill,Mika Petkovic,0.651,0.645,W
 2026-09-14,Jay Clarke,Jonas Forejtek,0.613,0.597,W
 2026-09-14,Alejandro Moro Canas,Geoffrey Blancaneaux,0.749,0.725,W
+2026-09-14,Alex Barrena,Maxime Chazal,0.668,0.656,W
+2026-09-14,Francesco Forti,Gianluca Cadenasso,0.533,0.548,W
+2026-09-14,Nishesh Basavareddy,Igor Marcondes,0.870,0.854,W
 2026-09-14,Jeffrey John Wolf,Luciano Emanuel Ambrogi,0.962,0.929,W
+2026-09-14,Keegan Smith,Mitchell Krueger,0.612,0.601,L
+2026-09-14,Trevor Svajda,Blaise Bicknell,0.725,0.708,W
 2026-09-14,Tristan Boyer,Edward Winter,0.652,0.634,W
 2026-09-14,Ryuki Matsuda,Taiyo Yamanaka,0.747,0.738,W
+2026-09-14,Facundo Diaz Acosta,Daniel Elahi Galan,0.804,0.789,L
 2026-09-14,Timofei Derepasko,Taisei Ichikawa,0.676,0.656,W
 2026-09-14,Mitsuki Wei Kang Leong,Hanyi Liu,0.717,0.714,W
 2026-09-14,Yanis Ghazouani Durand,Nikola Slavic,0.775,0.771,W
@@ -28,6 +96,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-14,Sinja Kraus,Mia Pohankova,0.635,0.636,L
 2026-09-14,Max Schoenhaus,Patrick Brady,0.594,0.580,W
 2026-09-14,Rudolf Molleker,Tiago Pereira,0.583,0.590,L
+2026-09-14,Victoria Jimenez Kasintseva,Katherine Sebov,0.644,0.641,W
 2026-09-14,Lea Boskovic,Raluka Serban,0.628,0.634,W
 2026-09-14,Deborah Chiesa,Lucija Ciric Bagaric,0.523,0.526,L
 2026-09-14,Elena Malygina,Gabriella Da Silva Fick,0.670,0.645,W
@@ -43,6 +112,19 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-14,Daniel Masur,Daniel De Jonge,0.759,0.743,W
 2026-09-14,Spencer Johnson,Erik Arutiunian,0.823,0.779,L
 2026-09-14,Roger Pascual Ferra,Luca Staeheli,0.726,0.694,L
+2026-09-14,Alexis Galarneau,Fajing Sun,0.696,0.685,L
+2026-09-14,Florent Bax,Thanh Minh Truong,0.968,0.946,W
+2026-09-14,Marco Cecchinato,Henri Squire,0.658,0.642,W
+2026-09-14,Marco Trungelliti,Sean Cuenin,0.677,0.674,W
+2026-09-14,Lucrezia Stefanini,Nadia Podoroska,0.718,0.680,L
+2026-09-14,Mika Brunold,Massimo Giunta,0.698,0.694,W
+2026-09-14,Gabriele Piraino,Samuele Pieri,0.536,0.540,L
+2026-09-14,Daniel Milavsky,Federico Agustin Gomez,0.552,0.565,L
+2026-09-14,Darwin Blanch,Stefan Kozlov,0.622,0.608,W
+2026-09-14,Gabriela Knutson,Aoi Ito,0.522,0.528,W
+2026-09-14,Anouk Koevermans,Elena Micic,0.765,0.742,W
+2026-09-14,Ilya Ivashka,Marat Sharipov,0.573,0.584,VOID
+2026-09-14,Dusan Lajovic,Diego Dedura-Palomero,0.553,0.561,VOID
 2026-09-14,Paula Badosa,Darja Semenistaja,0.866,0.864,VOID
 2026-09-13,Alexander Zverev,Ben Shelton,0.593,0.578,W
 2026-09-13,Lois Boisson,Panna Udvardy,0.586,0.588,L
