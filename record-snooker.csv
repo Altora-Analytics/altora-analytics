@@ -1,4 +1,25 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-15,David Lilley,Wang Xinbo,0.536,,L
+2026-09-15,Anthony McGill,Yang Liu,0.815,,W
+2026-09-15,Liu Hongyu,Huang Jiahao,0.733,,L
+2026-09-15,Yuan Sijun,Mateusz Baranowski,0.789,,L
+2026-09-15,Xu Si,Jimmy White,0.836,0.847,W
+2026-09-15,He Guoqiang,Zhao Hanyang,0.723,0.753,W
+2026-09-15,Ricky Walden,Ian Burns,0.619,0.648,W
+2026-09-15,Jamie Jones,Xu Yichen,0.660,0.657,W
+2026-09-15,Marco Fu,Matthew Stevens,0.607,0.615,L
+2026-09-15,Fan Zhengyi,Liam Davies,0.545,0.501,VOID
+2026-09-15,Ben Mertens,Iulian Boiko,0.543,0.510,VOID
+2026-09-15,Aaron Hill,Ross Muir,0.694,0.697,VOID
+2026-09-15,Jimmy Robertson,Alfie Burden,0.595,0.665,VOID
+2026-09-15,Sam Craigie,Ishpreet Singh Chadha,0.564,0.591,VOID
+2026-09-15,Matthew Selt,Antoni Kowalski,0.639,0.651,VOID
+2026-09-15,Lyu Haotian,Louis Heathcote,0.580,0.465,VOID
+2026-09-15,Xu Si,Jimmy White,0.768,0.849,VOID
+2026-09-15,He Guoqiang,Zhao Hanyang,0.747,,VOID
+2026-09-15,Ricky Walden,Ian Burns,0.633,,VOID
+2026-09-15,Jamie Jones,Xu Yichen,0.679,,VOID
+2026-09-15,Marco Fu,Matthew Stevens,0.547,0.615,VOID
 2026-09-14,Gao Yang,Panchaya Channoi,0.876,0.902,W
 2026-09-14,Oliver Sykes,Alexander Ursenbacher,0.591,0.593,W
 2026-09-14,Artemijs Zizins,Ka Wai Cheung,0.620,0.634,L
