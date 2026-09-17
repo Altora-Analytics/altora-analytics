@@ -1,4 +1,20 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-16,Oliver Lines,Ka Wai Cheung,0.632,0.619,L
+2026-09-16,Zak Surety,Oliver Sykes,0.618,0.660,L
+2026-09-16,Long Zehuang,Gao Yang,0.542,,L
+2026-09-16,Stan Moody,Yao Pengcheng,0.648,,L
+2026-09-16,Ben Woollaston,Liam Pullen,0.551,0.440,L
+2026-09-16,Luca Brecel,Mitchell Mann,0.702,0.704,W
+2026-09-16,Robbie Williams,Michael Larkov,0.709,0.822,W
+2026-09-16,Martin O'Donnell,Chatchapong Nasa,0.743,0.704,W
+2026-09-16,Tom Ford,David Grace,0.610,0.599,W
+2026-09-16,Jiang Jun,Liam Highfield,0.562,0.445,L
+2026-09-16,Daniel Wells,Dylan Emery,0.552,0.550,W
+2026-09-16,Ryan Day,Ashley Hugill,0.599,0.572,W
+2026-09-16,Jackson Page,Thanawat Tirapongpaiboon,0.629,0.616,L
+2026-09-16,Michael Holt,On Yee Ng,0.677,0.887,W
+2026-09-16,Julien Leclercq,Jordan Brown,0.597,0.603,L
+2026-09-16,Scott Donaldson,Leone Crowley,0.721,0.686,W
 2026-09-15,David Lilley,Wang Xinbo,0.536,,L
 2026-09-15,Anthony McGill,Yang Liu,0.815,,W
 2026-09-15,Liu Hongyu,Huang Jiahao,0.733,,L
