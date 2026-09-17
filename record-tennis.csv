@@ -1,4 +1,48 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-16,Rio Noguchi,Colin Sinclair,0.835,0.817,W
+2026-09-16,Jay Clarke,Petr Brunclik,0.533,0.555,W
+2026-09-16,Tom Gentzsch,Martin Krumich,0.607,0.611,W
+2026-09-16,Michael Mmoh,Patrick Maloney,0.704,0.689,W
+2026-09-16,Tristan Boyer,Abdullah Shelbayh,0.615,0.599,L
+2026-09-16,Liudmila Samsonova,Kayla Day,0.707,0.698,W
+2026-09-16,Magdalena Frech,Caroline Dolehide,0.689,0.659,W
+2026-09-16,Iva Jovic,Zeynep Sonmez,0.800,0.781,W
+2026-09-16,Philip Sekulic,Kenta   Miyoshi,0.833,0.798,W
+2026-09-16,Matthew Dellavedova,Enzo Aguiard,0.581,0.571,W
+2026-09-16,Cruz Hewitt,Constantin Bittoun Kouz,0.753,0.742,W
+2026-09-16,Moise Kouame,Filip Peliwo,0.911,0.847,W
+2026-09-16,Pavel Kotov,Akira Santillan,0.797,0.771,W
+2026-09-16,Elias Ymer,Luca Castelnuovo,0.674,0.645,W
+2026-09-16,Ugo Blanchet,Sascha Gueymard Wayenbu,0.515,0.535,L
+2026-09-16,Clement Chidekh,Lucas Poullain,0.742,0.699,W
+2026-09-16,Thiago Monteiro,Vitaliy Sachko,0.524,0.542,W
+2026-09-16,Felix Gill,Gerard Campana Lee,0.699,0.670,W
+2026-09-16,Alejandro Moro Canas,Pavel Lagutin,0.581,0.569,W
+2026-09-16,Jennifer Ruggeri,Despina Papamichail,0.588,0.587,L
+2026-09-16,Francesca Jones,Mona Barthel,0.759,0.729,L
+2026-09-16,Mia Ristic,Miriam Bulgaru,0.766,0.759,W
+2026-09-16,Yufei Ren,Jiaqi Wang,0.776,0.766,W
+2026-09-16,Lucie Havlickova,Ekaterine Gorgodze,0.640,0.639,L
+2026-09-16,Laura Samson,Weronika Falkowska,0.786,0.780,W
+2026-09-16,Lloyd Harris,Marat Sharipov,0.674,0.670,L
+2026-09-16,Dalma Galfi,Alice Tubello,0.708,0.691,L
+2026-09-16,Oriol Roca Batalla,Stefano Napolitano,0.503,0.528,W
+2026-09-16,Kilian Feldbausch,Diego Dedura-Palomero,0.558,0.546,L
+2026-09-16,Teodora Kostovic,Darja Semenistaja,0.595,0.604,W
+2026-09-16,Jeffrey John Wolf,Braden Shick,0.738,0.719,W
+2026-09-16,Marta Lombardini,Enola Chiesa,0.751,0.729,W
+2026-09-16,Elizara Yaneva,Gaia Maduzzi,0.822,0.792,W
+2026-09-16,Caijsa Hennemann,Iva Ivanova,0.799,0.783,W
+2026-09-16,Daria Kuczer,Julia Adams,0.840,0.822,L
+2026-09-16,Angella Okutoyi,Franziska Sziedat,0.754,0.748,L
+2026-09-16,Lidia Encheva,Anja Stankovic,0.704,0.688,W
+2026-09-16,Antonia Stoyanov,Loes Koning,0.569,0.558,L
+2026-09-16,Naiktha Bains,Tiphanie Lemaitre,0.575,0.582,W
+2026-09-16,Matilde Paoletti,Maria Toma,0.956,0.930,W
+2026-09-16,Lucie Tan,Yasmine Mansouri,0.608,0.611,W
+2026-09-16,Marta Kostyuk,Taylor Townsend,0.747,0.735,VOID
+2026-09-16,Clara Burel,Martina Trevisan,0.704,0.689,VOID
+2026-09-16,Harold Mayot,Murphy Cassone,0.598,0.598,VOID
 2026-09-15,Rebeka Masarova,Mina Hodzic,0.800,0.783,W
 2026-09-15,Martina Trevisan,Leyre Romero Gormaz,0.504,0.501,W
 2026-09-15,Angela Fita Boluda,Yasmine Kabbaj,0.703,0.671,L
@@ -25,7 +69,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-15,Bernard Tomic,Yuta Kikuchi,0.924,0.876,W
 2026-09-15,Alexander Binda,Aoran Wang,0.708,0.710,W
 2026-09-15,Pavel Lagutin,Enrico Dalla Valle,0.504,0.518,W
+2026-09-15,Sergey Fomin,Mitsuki Wei Kang Leong,0.526,0.516,L
 2026-09-15,Petr Bar Biryukov,Jesse Delaney,0.843,0.811,W
+2026-09-15,Nikoloz Basilashvili,Naoya Honda,0.791,0.755,L
+2026-09-15,Federico Cina,James Kent Trotter,0.747,0.724,L
 2026-09-15,Oksana Selekhmeteva,Nastasja Schunk,0.537,0.544,L
 2026-09-15,Malaika Rapolu,Caroline Werner,0.658,0.660,W
 2026-09-15,Stefano Napolitano,Alex Marti Pujolras,0.617,0.607,W
@@ -34,6 +81,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-15,Sascha Gueymard Wayenbu,Maxime Janvier,0.712,0.685,W
 2026-09-15,Clement Chidekh,Finn Bass,0.942,0.910,W
 2026-09-15,Yanis Ghazouani Durand,Leo Raquillet,0.620,0.629,W
+2026-09-15,Max Schoenhaus,Matteo Martineau,0.711,0.711,L
 2026-09-15,Borna Gojo,Daniel Masur,0.712,0.688,W
 2026-09-15,Laura Samson,Lucija Ciric Bagaric,0.629,0.643,W
 2026-09-15,Kristiana Sidorova,Ya Yang,0.989,0.953,W
@@ -46,6 +94,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-15,Braden Shick,Erik Arutiunian,0.578,0.571,W
 2026-09-15,Andre Ilagan,Bryce Nakashima Nakashi,0.546,0.553,L
 2026-09-15,Henry Searle,Timo Legout,0.576,0.560,L
+2026-09-15,Kaitlin Quevedo,Whitney Osuigwe,0.728,0.705,VOID
 2026-09-15,Joao Lucas Reis Da Silv,Pierluigi Basile,0.527,0.543,VOID
 2026-09-15,Rositsa Dencheva,Julia Adams,0.944,0.927,VOID
 2026-09-14,Elias Ymer,Semen Pankin,0.718,0.687,W
@@ -67,16 +116,23 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-14,Daniel Michalski,Marvin Moeller,0.504,0.505,L
 2026-09-14,Hynek Barton,Raul Brancaccio,0.550,0.555,W
 2026-09-14,Vitaliy Sachko,Filip Cristian Jianu,0.626,0.615,W
+2026-09-14,Claire Liu,Mary Stoiana,0.531,0.544,L
+2026-09-14,Jessica Bouzas Maneiro,Dominika Salkova,0.775,0.752,L
 2026-09-14,Teodora Kostovic,Victoria Luiza Barros,0.835,0.771,W
+2026-09-14,Suzan Lamens,Carolina Alves,0.843,0.829,W
+2026-09-14,Eva Lys,Gabriela Ce,0.928,0.906,W
+2026-09-14,Vendula Valdmannova,Laura Pigossi,0.812,0.768,W
 2026-09-14,Elina Avanesyan,Julia Riera,0.524,0.541,W
 2026-09-14,Clement Tabur,Harold Mayot,0.506,0.504,L
 2026-09-14,Lucas Poullain,David Jorda Sanchis,0.657,0.655,W
+2026-09-14,Titouan Droguet,Michele Ribecai,0.818,0.803,W
 2026-09-14,Ugo Blanchet,Billy Harris,0.545,0.558,W
 2026-09-14,Petr Brunclik,Filippo Romano,0.618,0.594,W
 2026-09-14,Oriol Roca Batalla,Alejo Sanchez Quilez,0.580,0.579,W
 2026-09-14,Felix Gill,Mika Petkovic,0.651,0.645,W
 2026-09-14,Jay Clarke,Jonas Forejtek,0.613,0.597,W
 2026-09-14,Alejandro Moro Canas,Geoffrey Blancaneaux,0.749,0.725,W
+2026-09-14,Daniel Rincon,Hamish Stewart,0.706,0.695,W
 2026-09-14,Alex Barrena,Maxime Chazal,0.668,0.656,W
 2026-09-14,Francesco Forti,Gianluca Cadenasso,0.533,0.548,W
 2026-09-14,Nishesh Basavareddy,Igor Marcondes,0.870,0.854,W
@@ -117,12 +173,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-14,Marco Cecchinato,Henri Squire,0.658,0.642,W
 2026-09-14,Marco Trungelliti,Sean Cuenin,0.677,0.674,W
 2026-09-14,Lucrezia Stefanini,Nadia Podoroska,0.718,0.680,L
+2026-09-14,Tristan Schoolkate,Marek Gengel,0.748,0.727,W
 2026-09-14,Mika Brunold,Massimo Giunta,0.698,0.694,W
 2026-09-14,Gabriele Piraino,Samuele Pieri,0.536,0.540,L
 2026-09-14,Daniel Milavsky,Federico Agustin Gomez,0.552,0.565,L
 2026-09-14,Darwin Blanch,Stefan Kozlov,0.622,0.608,W
 2026-09-14,Gabriela Knutson,Aoi Ito,0.522,0.528,W
 2026-09-14,Anouk Koevermans,Elena Micic,0.765,0.742,W
+2026-09-14,Alina Charaeva,Xiaodi You,0.703,0.691,W
+2026-09-14,Solana Sierra,Cadence Brace,0.630,0.637,W
+2026-09-14,Chloe Paquet,Jazmin Ortenzi,0.606,0.594,L
 2026-09-14,Ilya Ivashka,Marat Sharipov,0.573,0.584,VOID
 2026-09-14,Dusan Lajovic,Diego Dedura-Palomero,0.553,0.561,VOID
 2026-09-14,Paula Badosa,Darja Semenistaja,0.866,0.864,VOID
