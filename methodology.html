@@ -84,6 +84,26 @@
   </section>
 
   <!-- ============ THE MODELS ============ -->
+  <section class="sec" id="validation">
+    <p class="tag">Validation</p>
+    <h2>How we test the probabilities, in detail</h2>
+    <p class="lead">Two questions, tested separately. Is the probability honest? And does it contain anything the market has not already priced? A model can pass the first and fail the second, and ours currently does.</p>
+
+    <p><b>The split is chronological, never random.</b> A random split leaks future form into the past: a team's October results end up informing a prediction about their August. We hold out the most recent <b>15% of fixtures by date</b> as the test slice. The model never trains on it, and the calibrator never sees it.</p>
+
+    <p><b>Calibration is fitted out-of-fold.</b> Five expanding time windows; each is scored by a model trained only on the fixtures before it. The calibrator (Platt scaling) is then fitted on those forward predictions, not on in-sample fits. We report log-loss and expected calibration error <b>raw and calibrated</b> on the untouched slice, and we ship the calibrator only where the forward fold says it helps.</p>
+
+    <div class="honest"><b>On match result (1X2) it doesn't help.</b> Raw forward log-loss 1.024, calibrated 1.025. A calibration layer that makes the forward numbers worse is not calibration, so on 1X2 we serve the raw model probabilities and say so here. It is applied where it earns its place: BTTS and, marginally, Over/Under 2.5.</div>
+
+    <p><b>Then it stops being a backtest.</b> Every published probability is logged before kick-off and settled in public. The record pages show stated vs actual hit rate, Brier score and reliability bins. On the match-result reads the model is currently <b>under-confident at short prices</b> (stated 61%, actual 73% over the first 109). That is disclosed as a calibration gap, not sold as edge.</p>
+
+    <p><b>The second question is the hard one: closing-line value.</b> We capture the closing price on <b>99% of 1X2 rows</b> and compute CLV on every published read. Raw CLV on the daily card picks is <b>+1.05% (n=122)</b>. It has the right sign and it is not significant. Raw CLV also flatters: it measures whether the price moved our way, not whether we knew more than the close.</p>
+
+    <div class="honest no"><b>The stricter test is negative.</b> Our probability against the <b>devigged</b> closing line, market by market, comes out below zero on every football market we run. The honest reading, as of September 2026: the model is calibrated, it beats the market on accuracy, and it does not yet contain information the close has not priced. That is why a "read" and a "bet" are different words on this site, why the backed count is small, and why none of this costs anything.</div>
+
+    <p>Where CLV is positive and statistically significant is across the model's <b>entire</b> output, published or not (+0.32%, n=3,229). Real, tiny, and below the bookmaker's margin. If the devigged test turns positive on any market we will show the sample size before we show the ROI.</p>
+  </section>
+
   <section class="sec">
     <p class="tag">The models</p>
     <h2>What's actually under the bonnet</h2>
@@ -93,7 +113,7 @@
       <div class="card">
         <h3>⚽ Football</h3>
         <div class="meta">Gradient boosting + Poisson</div>
-        <p><b>CatBoost</b> (classification and regression) for match outcomes, plus a <b>Poisson goal model</b> driving Over/Under and Correct Score. Probabilities are <b>Platt-calibrated</b>.</p>
+        <p><b>CatBoost</b> (classification and regression) for match outcomes, plus a <b>Poisson goal model</b> driving Over/Under and Correct Score. Probabilities are <b>Platt-calibrated where the forward fold says it helps</b>; on match result the calibrator made forward log-loss worse, so raw probabilities are served (<a href="#validation" style="color:var(--gold)">details</a>).</p>
         <p>Around <b>90 engineered features across 24 modules</b>, including:</p>
         <span class="chip">rolling xG</span><span class="chip">opponent-adjusted strength</span><span class="chip">Elo ratings</span><span class="chip">schedule difficulty</span><span class="chip">market-implied strength</span><span class="chip">home-advantage index</span><span class="chip">rest days</span><span class="chip">shot tempo</span><span class="chip">venue-specific form</span><span class="chip">volatility</span><span class="chip">match importance</span><span class="chip">league environment</span>
         <p style="margin-top:10px">Markets: 1X2 · Over/Under 2.5 · BTTS · Correct Score · Accumulators · Misc.</p>
