@@ -1,4 +1,16 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-17,b8,metizport,0.730,0.647,W
+2026-09-17,ninjas in pyjamas,m80,0.525,0.540,L
+2026-09-17,b8,gamerlegion,0.609,0.569,W
+2026-09-17,mouz,nrg,0.806,0.854,L
+2026-09-17,b8,ninjas in pyjamas,0.547,0.546,W
+2026-09-17,m80,gamerlegion,0.552,0.466,W
+2026-09-17,vitality,magic,0.843,0.882,W
+2026-09-17,ninjas in pyjamas,gamerlegion,0.539,0.534,L
+2026-09-17,gamerlegion,metizport,0.617,0.620,L
+2026-09-17,b8,m80,0.576,0.596,W
+2026-09-17,natus vincere,aurora gaming,0.606,0.560,L
+2026-09-17,furia,mibr,0.696,0.713,W
 2026-09-13,legacy,g2,0.518,0.485,W
 2026-09-13,sentinels,flyquest,0.514,0.517,L
 2026-09-12,hanwha life esports,t1,0.571,0.589,W
