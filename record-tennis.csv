@@ -1,4 +1,45 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-17,Hynek Barton,Zdenek Kolar,0.610,0.607,L
+2026-09-17,Tommaso Compagnucci,Juan Cruz Martin Manzan,0.502,0.523,L
+2026-09-17,Gabriela Knutson,Anouk Koevermans,0.521,0.530,W
+2026-09-17,Nastasja Schunk,Irene Burillo,0.646,0.637,L
+2026-09-17,Mika Brunold,Francesco Forti,0.673,0.668,W
+2026-09-17,Marco Trungelliti,Filip Pieczonka,0.827,0.797,W
+2026-09-17,Daniel Elahi Galan,Nikolas Sanchez Izquier,0.511,0.538,L
+2026-09-17,Rebeka Masarova,Alicia Herrero Linana,0.712,0.693,L
+2026-09-17,Adrian Mannarino,Matisse Bobichon,0.856,0.800,L
+2026-09-17,Marco Cecchinato,Marvin Moeller,0.612,0.598,W
+2026-09-17,Michael Zheng,Trevor Svajda,0.788,0.766,W
+2026-09-17,Timo Legout,Bryce Nakashima Nakashi,0.666,0.643,L
+2026-09-17,Darwin Blanch,Federico Agustin Gomez,0.624,0.617,W
+2026-09-17,Peyton Stearns,Sloane Stephens,0.613,0.611,W
+2026-09-17,Sara Bejlek,Cristina Bucsa,0.661,0.658,L
+2026-09-17,James Kent Trotter,Mitsuki Wei Kang Leong,0.690,0.662,L
+2026-09-17,Daria Khomutsianskaya,Junhan Zhang,0.819,0.803,W
+2026-09-17,Sijia Wei,Zhuoxuan Bai,0.541,0.548,W
+2026-09-17,Tristan Schoolkate,Anton Matusevich,0.593,0.607,W
+2026-09-17,Petr Bar Biryukov,Naoya Honda,0.714,0.690,W
+2026-09-17,Borna Gojo,Matteo Martineau,0.722,0.690,W
+2026-09-17,Francesco Maestrelli,Yanis Ghazouani Durand,0.718,0.696,W
+2026-09-17,Elizara Yaneva,Julia Adams,0.951,0.916,W
+2026-09-17,Caijsa Hennemann,Elena Korokozidi,0.707,0.693,W
+2026-09-17,Loes Koning,Lidia Encheva,0.565,0.549,W
+2026-09-17,Elina Avanesyan,Alina Charaeva,0.539,0.556,L
+2026-09-17,Mary Stoiana,Dominika Salkova,0.673,0.653,W
+2026-09-17,Francesca Gandolfi,Franziska Sziedat,0.584,0.576,L
+2026-09-17,Camilla Gennaro,Briana Szabo,0.627,0.629,W
+2026-09-17,Alisa Oktiabreva,Laura Boehner,0.945,0.915,W
+2026-09-17,Oceane Babel,Anna Petkovic,0.704,0.667,W
+2026-09-17,Diana Martynov,Clara Vlasselaer,0.577,0.570,W
+2026-09-17,Martyna Kubka,Carson Tanguilig,0.747,0.732,W
+2026-09-17,Valentina Steiner,Marta Lombardini,0.591,0.601,L
+2026-09-17,Fiona Crawley,Naiktha Bains,0.705,0.701,W
+2026-09-17,Veronika Podrez,Manon Arcangioli,0.911,0.853,W
+2026-09-17,Solana Sierra,Suzan Lamens,0.554,0.564,L
+2026-09-17,Eva Lys,Nadia Podoroska,0.669,0.660,L
+2026-09-17,Paula Badosa,Jazmin Ortenzi,0.939,0.911,W
+2026-09-17,Anna Blinkova,Vendula Valdmannova,0.685,0.651,W
+2026-09-17,Iva Jovic,Magdalena Frech,0.742,0.743,W
 2026-09-16,Rio Noguchi,Colin Sinclair,0.835,0.817,W
 2026-09-16,Jay Clarke,Petr Brunclik,0.533,0.555,W
 2026-09-16,Tom Gentzsch,Martin Krumich,0.607,0.611,W
@@ -13,6 +54,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-16,Moise Kouame,Filip Peliwo,0.911,0.847,W
 2026-09-16,Pavel Kotov,Akira Santillan,0.797,0.771,W
 2026-09-16,Elias Ymer,Luca Castelnuovo,0.674,0.645,W
+2026-09-16,Bernard Tomic,Jake Delaney,0.742,0.733,W
 2026-09-16,Ugo Blanchet,Sascha Gueymard Wayenbu,0.515,0.535,L
 2026-09-16,Clement Chidekh,Lucas Poullain,0.742,0.699,W
 2026-09-16,Thiago Monteiro,Vitaliy Sachko,0.524,0.542,W
@@ -22,7 +64,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-16,Francesca Jones,Mona Barthel,0.759,0.729,L
 2026-09-16,Mia Ristic,Miriam Bulgaru,0.766,0.759,W
 2026-09-16,Yufei Ren,Jiaqi Wang,0.776,0.766,W
+2026-09-16,Fajing Sun,Alexander Binda,0.751,0.719,L
+2026-09-16,Alex Barrena,Samuele Pieri,0.549,0.558,W
 2026-09-16,Lucie Havlickova,Ekaterine Gorgodze,0.640,0.639,L
+2026-09-16,Noma Noha Akugue,Malaika Rapolu,0.591,0.581,L
 2026-09-16,Laura Samson,Weronika Falkowska,0.786,0.780,W
 2026-09-16,Lloyd Harris,Marat Sharipov,0.674,0.670,L
 2026-09-16,Dalma Galfi,Alice Tubello,0.708,0.691,L
@@ -40,6 +85,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-16,Naiktha Bains,Tiphanie Lemaitre,0.575,0.582,W
 2026-09-16,Matilde Paoletti,Maria Toma,0.956,0.930,W
 2026-09-16,Lucie Tan,Yasmine Mansouri,0.608,0.611,W
+2026-09-16,Carlo Alberto Caniato,Izan Almazan Valiente,0.625,0.624,W
+2026-09-16,Ryan Seggerman,Mitchell Krueger,0.567,0.564,L
 2026-09-16,Marta Kostyuk,Taylor Townsend,0.747,0.735,VOID
 2026-09-16,Clara Burel,Martina Trevisan,0.704,0.689,VOID
 2026-09-16,Harold Mayot,Murphy Cassone,0.598,0.598,VOID
