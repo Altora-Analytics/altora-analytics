@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-18,Agen,US Oyonnax,0.512,,L
+2026-09-18,Colomiers,US Dax,0.832,,W
+2026-09-18,Beziers,Montauban,0.528,,L
+2026-09-18,Narbonne,Angouleme,0.602,,W
+2026-09-18,Nevers,Biarritz Olympique,0.519,,L
+2026-09-18,Valence Romans,Provence Rugby,0.631,,L
+2026-09-18,Wakefield Trinity,Leigh Leopards,0.590,0.569,W
 2026-09-17,CA Brive,Aurillac,0.569,0.418,W
 2026-09-13,Stade Toulousain,Bordeaux Begles,0.690,0.766,W
 2026-09-13,Penrith Panthers,Sydney Rooster,0.714,0.690,W

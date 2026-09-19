@@ -1,4 +1,26 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-18,David Gilbert,Wang Xinbo,0.612,0.653,L
+2026-09-18,Liu Hongyu,Lan Yuhao,0.648,,W
+2026-09-18,Zhou Yuelong,Ashley Hugill,0.784,,W
+2026-09-18,Thepchaiya Un-Nooh,Chatchapong Nasa,0.840,,W
+2026-09-18,Mark Selby,Luo Zetao,0.865,,W
+2026-09-18,Hossein Vafaei,Ka Wai Cheung,0.770,0.761,W
+2026-09-18,Jiang Jun,Florian Nuessle,0.721,0.755,W
+2026-09-18,He Guoqiang,Stuart Carrington,0.723,,L
+2026-09-18,Luca Brecel,Jamie Rhys Clarke,0.670,0.677,W
+2026-09-18,Jamie Jones,Mitchell Mann,0.607,0.664,L
+2026-09-18,Mark Williams,Andrew Higginson,0.812,0.728,W
+2026-09-18,Martin O'Donnell,Julien Leclercq,0.585,0.438,L
+2026-09-18,Marco Fu,Michael Holt,0.569,0.582,W
+2026-09-18,Xiao Guodong,Dylan Emery,0.739,0.771,L
+2026-09-18,Ishpreet Singh Chadha,Deng Haohui,0.597,0.687,W
+2026-09-18,Aaron Hill,Antoni Kowalski,0.615,0.695,W
+2026-09-18,Long Zehuang,Phil O'Kane,0.744,0.886,W
+2026-09-18,Jack Lisowski,Ashley Carty,0.720,0.711,L
+2026-09-18,Daniel Wells,Oliver Brown,0.805,0.827,W
+2026-09-18,Matthew Selt,Ross Muir,0.702,0.687,L
+2026-09-18,Noppon Saengkham,Sam Craigie,0.624,0.620,L
+2026-09-18,John Higgins,Craig Steadman,0.900,0.902,W
 2026-09-17,Stephen Maguire,Mateusz Baranowski,0.806,,W
 2026-09-17,Zhang Anda,Artemijs Zizins,0.705,,W
 2026-09-17,Elliot Slessor,Yao Pengcheng,0.701,0.714,L
