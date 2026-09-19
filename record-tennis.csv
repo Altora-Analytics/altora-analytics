@@ -1,4 +1,46 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-18,Felix Gill,Jay Clarke,0.568,0.550,L
+2026-09-18,Noemi Basiletti,Ekaterine Gorgodze,0.543,0.562,W
+2026-09-18,Laura Samson,Anastasiia Sobolieva,0.558,0.573,W
+2026-09-18,Marat Sharipov,Elias Ymer,0.673,0.664,W
+2026-09-18,Yasmine Kabbaj,Despina Papamichail,0.562,0.570,W
+2026-09-18,Alejandro Moro Canas,Oriol Roca Batalla,0.582,0.575,W
+2026-09-18,Susan Bandecchi,Lisa Pigato,0.658,0.640,L
+2026-09-18,Clement Chidekh,Harold Mayot,0.596,0.614,L
+2026-09-18,Diego Dedura-Palomero,Thiago Monteiro,0.532,0.539,L
+2026-09-18,Tom Gentzsch,Luka Mikrut,0.503,0.523,L
+2026-09-18,Michael Mmoh,Abdullah Shelbayh,0.605,0.586,W
+2026-09-18,Jeffrey John Wolf,Sebastian Gorzny,0.692,0.674,W
+2026-09-18,Bittoun Kouzmine/Dev,Jeong/Matsuda,0.688,0.682,W
+2026-09-18,Mitsuki Wei Kang Leong,Petr Bar Biryukov,0.536,0.547,L
+2026-09-18,Mika Brunold,Carlo Alberto Caniato,0.699,0.699,L
+2026-09-18,Bernard Tomic,Alexander Binda,0.891,0.829,W
+2026-09-18,Kristiana Sidorova,Yufei Ren,0.982,0.919,W
+2026-09-18,Sascha Gueymard Wayenbu,Francesco Maestrelli,0.610,0.624,W
+2026-09-18,Alex Barrena,Juan Cruz Martin Manzan,0.618,0.625,W
+2026-09-18,Marco Trungelliti,Marco Cecchinato,0.602,0.595,W
+2026-09-18,Gabriela Knutson,Malaika Rapolu,0.596,0.591,W
+2026-09-18,Tristan Schoolkate,Matisse Bobichon,0.793,0.786,W
+2026-09-18,Alicia Herrero Linana,Irene Burillo,0.535,0.548,W
+2026-09-18,Anna Blinkova,Alina Charaeva,0.615,0.612,W
+2026-09-18,Kaitlin Quevedo,Teodora Kostovic,0.554,0.569,W
+2026-09-18,Loes Koning,Caijsa Hennemann,0.590,0.586,W
+2026-09-18,Elizara Yaneva,Ipek Oz,0.621,0.624,W
+2026-09-18,Alisa Oktiabreva,Matilde Paoletti,0.802,0.762,W
+2026-09-18,Camilla Gennaro,Franziska Sziedat,0.555,0.551,L
+2026-09-18,Oceane Babel,Ilary Pistola,0.658,0.657,L
+2026-09-18,Viola Turini,Marta Lombardini,0.513,0.500,L
+2026-09-18,Martyna Kubka,Manon Leonard,0.679,0.677,L
+2026-09-18,Fiona Crawley,Julia Avdeeva,0.549,0.558,W
+2026-09-18,Anna Siskova,Diana Martynov,0.871,0.848,W
+2026-09-18,Nikolas Sanchez Izquier,Zdenek Kolar,0.619,0.603,W
+2026-09-18,Paula Badosa,Mary Stoiana,0.665,0.667,W
+2026-09-18,Dhakshineswar Suresh,Soonwoo Kwon,0.625,0.617,L
+2026-09-18,Sumit Nagal,Hyeon Chung,0.606,0.620,L
+2026-09-18,Titouan Droguet,Borna Gojo,0.599,0.601,W
+2026-09-18,Darwin Blanch,Bryce Nakashima Nakashi,0.645,0.638,W
+2026-09-18,Nadia Podoroska,Suzan Lamens,0.554,0.552,W
+2026-09-18,Iva Jovic,Cristina Bucsa,0.760,0.761,W
 2026-09-17,Hynek Barton,Zdenek Kolar,0.610,0.607,L
 2026-09-17,Tommaso Compagnucci,Juan Cruz Martin Manzan,0.502,0.523,L
 2026-09-17,Gabriela Knutson,Anouk Koevermans,0.521,0.530,W
@@ -14,6 +56,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-17,Darwin Blanch,Federico Agustin Gomez,0.624,0.617,W
 2026-09-17,Peyton Stearns,Sloane Stephens,0.613,0.611,W
 2026-09-17,Sara Bejlek,Cristina Bucsa,0.661,0.658,L
+2026-09-17,Rodrigo Pacheco Mendez,Philip Sekulic,0.721,0.696,W
 2026-09-17,James Kent Trotter,Mitsuki Wei Kang Leong,0.690,0.662,L
 2026-09-17,Daria Khomutsianskaya,Junhan Zhang,0.819,0.803,W
 2026-09-17,Sijia Wei,Zhuoxuan Bai,0.541,0.548,W
@@ -21,6 +64,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-17,Petr Bar Biryukov,Naoya Honda,0.714,0.690,W
 2026-09-17,Borna Gojo,Matteo Martineau,0.722,0.690,W
 2026-09-17,Francesco Maestrelli,Yanis Ghazouani Durand,0.718,0.696,W
+2026-09-17,Mia Ristic,Mona Barthel,0.510,0.523,L
 2026-09-17,Elizara Yaneva,Julia Adams,0.951,0.916,W
 2026-09-17,Caijsa Hennemann,Elena Korokozidi,0.707,0.693,W
 2026-09-17,Loes Koning,Lidia Encheva,0.565,0.549,W
@@ -40,6 +84,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-17,Paula Badosa,Jazmin Ortenzi,0.939,0.911,W
 2026-09-17,Anna Blinkova,Vendula Valdmannova,0.685,0.651,W
 2026-09-17,Iva Jovic,Magdalena Frech,0.742,0.743,W
+2026-09-17,Pavel Kotov,Rio Noguchi,0.650,0.640,W
+2026-09-17,Martha Matoula,Mathilde Lollia,0.594,0.603,W
 2026-09-16,Rio Noguchi,Colin Sinclair,0.835,0.817,W
 2026-09-16,Jay Clarke,Petr Brunclik,0.533,0.555,W
 2026-09-16,Tom Gentzsch,Martin Krumich,0.607,0.611,W
