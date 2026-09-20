@@ -1,4 +1,39 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-19,Moise Kouame,Rodrigo Pacheco Mendez,0.875,0.827,L
+2026-09-19,Yexin Ma,Carol Zhao,0.925,0.888,W
+2026-09-19,Aoi Ito,Sofya Lansere,0.521,0.524,W
+2026-09-19,Priscilla Hon,Xinxin Yao,0.609,0.604,L
+2026-09-19,Joanna Garland,Ellen Perez,0.944,0.914,W
+2026-09-19,Viktoria Morvayova,Nika Radisic,0.767,0.768,W
+2026-09-19,En-Shuo Liang,Sara Saito,0.718,0.696,L
+2026-09-19,Alevtina Ibragimova,Rina Saigo,0.796,0.771,W
+2026-09-19,Mei Yamaguchi,Ulrikke Eikeri,0.854,0.819,W
+2026-09-19,Mona Barthel,Noemi Basiletti,0.587,0.578,W
+2026-09-19,Marat Sharipov,Petr Bar Biryukov,0.804,0.785,W
+2026-09-19,Pavel Kotov,Bernard Tomic,0.557,0.557,W
+2026-09-19,Carlo Alberto Caniato,Alex Barrena,0.520,0.528,W
+2026-09-19,Harold Mayot,Tristan Schoolkate,0.519,0.535,W
+2026-09-19,Marco Trungelliti,Thiago Monteiro,0.577,0.565,L
+2026-09-19,Mia Pohankova,Gabriela Knutson,0.532,0.548,L
+2026-09-19,Alejandro Moro Canas,Jay Clarke,0.556,0.559,W
+2026-09-19,Alicia Herrero Linana,Yasmine Kabbaj,0.621,0.607,W
+2026-09-19,Luka Mikrut,Nikolas Sanchez Izquier,0.515,0.532,L
+2026-09-19,Titouan Droguet,Sascha Gueymard Wayenbu,0.685,0.678,L
+2026-09-19,Anna Blinkova,Kaitlin Quevedo,0.589,0.597,L
+2026-09-19,Soonwoo Kwon,Sumit Nagal,0.958,0.927,W
+2026-09-19,Elizara Yaneva,Loes Koning,0.544,0.560,W
+2026-09-19,Alisa Oktiabreva,Franziska Sziedat,0.948,0.914,W
+2026-09-19,Toby Samuel,Andres Andrade,0.835,0.797,W
+2026-09-19,Alexander Zverev,Matej Dodig,0.981,0.929,W
+2026-09-19,Arthur Fery,Alvaro Guillen Meza,0.937,0.902,W
+2026-09-19,Ben Shelton,Jakub Mensik,0.578,0.582,L
+2026-09-19,Fiona Crawley,Manon Leonard,0.780,0.753,W
+2026-09-19,Paula Badosa,Nadia Podoroska,0.817,0.807,L
+2026-09-19,Michael Zheng,Darwin Blanch,0.719,0.707,L
+2026-09-19,Iva Jovic,Peyton Stearns,0.754,0.747,W
+2026-09-19,Jeffrey John Wolf,Michael Mmoh,0.564,0.574,L
+2026-09-19,Dhakshineswar Suresh,Hyeon Chung,0.653,0.649,VOID
+2026-09-19,Lukas Neumayer,Gauthier Onclin,0.662,0.646,VOID
 2026-09-18,Felix Gill,Jay Clarke,0.568,0.550,L
 2026-09-18,Noemi Basiletti,Ekaterine Gorgodze,0.543,0.562,W
 2026-09-18,Laura Samson,Anastasiia Sobolieva,0.558,0.573,W
