@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-19,Aviron Bayonnais,Clermont,0.601,0.784,W
+2026-09-19,Castres Olympique,RC Toulonnais,0.692,0.588,W
+2026-09-19,Lyon,Section Paloise,0.587,0.494,W
+2026-09-19,Montpellier,USA Perpignan,0.931,0.842,W
+2026-09-19,Stade Rochelais,Racing 92,0.756,0.878,L
+2026-09-19,Vannes,Stade Toulousain,0.777,0.120,L
+2026-09-19,Sydney Rooster,Cronulla Shark,0.686,0.668,W
+2026-09-19,Warrington Wolves,Hull Kingston Rovers,0.577,,W
 2026-09-18,Agen,US Oyonnax,0.512,,L
 2026-09-18,Colomiers,US Dax,0.832,,W
 2026-09-18,Beziers,Montauban,0.528,,L
