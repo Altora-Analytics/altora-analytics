@@ -10,6 +10,7 @@
     ["record-rugby.html",      "🏉", "Rugby",      "#facc15"],
     ["record-tennis.html",     "🎾", "Tennis",     "#ec4899"],
     ["record-esports.html",    "🎮", "Esports",    "#8b5cf6"],
+    ["record-internationals.html", "🌍", "Internationals", "#2dd4bf"],
     ["record-trading.html",    "📈", "Trading",    "#e8b84b"]
   ];
   var LINKS = [
