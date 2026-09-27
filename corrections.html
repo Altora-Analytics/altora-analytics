@@ -2,16 +2,6 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
 <title>Corrections | Altora Analytics</title>
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Altora Analytics">
-<meta property="og:title" content="Corrections | Altora Analytics">
-<meta property="og:description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
-<meta property="og:url" content="https://altoraanalytics.com/corrections.html">
-<meta property="og:image" content="https://altoraanalytics.com/assets/og.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://altoraanalytics.com/assets/og.png">
 <style>
   :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
         --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
@@ -76,11 +66,21 @@
 
   <section>
     <h2>Record</h2>
-    <p><b>9</b> corrections published ·
+    <p><b>10</b> corrections published ·
     <b>0</b> resulting in any exclusion from headline statistics ·
     <b>0</b> predictions deleted, since day one.</p>
   </section>
 
+  <article>
+    <div class="top"><span class="dt">2026-09-27</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Some tennis predictions were logged after the match had started</h3>
+    <p class="sp">Tennis</p>
+    <p><b>What happened.</b> Our tennis predictor picked up every unsettled match starting in the next 20 hours, but had no rule to skip matches that had already begun. The morning run (07:05 UK) therefore also logged matches listed to start overnight or early in the morning, mostly from the Asian tournaments. 478 of 3,133 tennis predictions since July (15%) were logged after their listed start time, and the morning card showed some of them after the first serve. The site owner spotted it from the card: it listed matches at 03:00 and 06:00 while being posted at 7am.</p>
+    <p><b>Why it matters.</b> We say every prediction is logged before a ball is hit. For these matches that was not true. The model uses only pre-match player ratings, never anything from the match itself, so the probabilities carry no information advantage, and the affected picks hit 66.7% against 65.3% for the whole record, which is no meaningful difference. They were nonetheless published late.</p>
+    <p><b>What we did.</b> Annotated, kept in the statistics. All 478 predictions stay in the record and the accuracy figures, because the probabilities were fixed before each match from pre-match ratings alone. Nothing is deleted.</p>
+    <p class="fix"><b>Fixed.</b> The predictor now only logs a match that starts at least 10 minutes later. A new evening run at 20:35 UK logs and posts overnight and early-morning matches the night before, and the morning card shows only matches that run logged and that have not started. The same check on darts, snooker, rugby and esports found no comparable issue beyond two isolated late re-logs. <a href="record-tennis.html">Read the detail</a></p>
+  </article>
   <article>
     <div class="top"><span class="dt">2026-09-15</span>
       <span class="tag ann">Annotated, still counted</span></div>
