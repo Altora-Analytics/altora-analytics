@@ -1,4 +1,18 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-26,Exeter Chiefs,Gloucester,0.833,0.636,L
+2026-09-26,Sale Sharks,Bristol,0.559,0.599,L
+2026-09-26,Clermont,Castres Olympique,0.792,,W
+2026-09-26,Vannes,RC Toulonnais,0.504,0.141,L
+2026-09-26,Racing 92,Aviron Bayonnais,0.843,0.670,L
+2026-09-26,Section Paloise,Stade Rochelais,0.730,0.752,W
+2026-09-26,Stade Francais Paris,Lyon,0.837,,W
+2026-09-26,Bordeaux Begles,USA Perpignan,0.554,0.476,L
+2026-09-26,Leinster,Lions,0.501,0.605,L
+2026-09-26,Munster,Glasgow Warriors,0.536,0.543,L
+2026-09-26,Scarlets,Cardiff Rugby,0.608,0.492,L
+2026-09-26,Sharks,Ospreys,0.827,0.761,W
+2026-09-26,Bulls,Zebre,0.524,0.766,W
+2026-09-26,Wigan Warriors,Wakefield Trinity,0.779,,L
 2026-09-25,Bath,Harlequins,0.591,0.828,W
 2026-09-25,Northampton Saints,Newcastle Red Bulls,0.966,0.919,W
 2026-09-25,Angouleme,Agen,0.734,0.702,W
