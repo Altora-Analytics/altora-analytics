@@ -1,4 +1,40 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-27,Denis Shapovalov,Adrian Mannarino,0.724,0.699,W
+2026-09-27,Nikoloz Basilashvili,Jenson Brooksby,0.882,0.870,W
+2026-09-27,Kyrian Jacquet,Fabian Marozsan,0.529,0.544,W
+2026-09-27,Andrey Rublev,Hugo Gaston,0.851,0.816,W
+2026-09-27,Alejandro Davidovich Fokina,Alexandre Muller,0.775,0.735,W
+2026-09-27,Maya Joint,Kimberly Birrell,0.626,0.611,L
+2026-09-27,Hubert Hurkacz,Lloyd Harris,0.624,0.613,W
+2026-09-27,Leylah Fernandez,Talia Gibson,0.685,0.648,W
+2026-09-27,Roman Safiullin,Yunchaokete Bu,0.520,0.521,W
+2026-09-27,Viktoria Hruncakova,Anastasia Tikhonova,0.596,0.594,L
+2026-09-27,Lois Boisson,Fiona Crawley,0.639,0.642,L
+2026-09-27,Teodora Kostovic,Berfu Cengiz,0.700,0.690,L
+2026-09-27,Daniil Medvedev,Coleman Wong,0.838,0.781,W
+2026-09-27,Filip Misolic,Oleksandr Ovcharenko,0.645,0.632,L
+2026-09-27,Patrick Zahraj,Karl Poling,0.599,0.598,W
+2026-09-27,Alisa Oktiabreva,Alena Kovackova,0.697,0.697,W
+2026-09-27,Elizara Yaneva,Ane Mintegi Del Olmo,0.664,0.647,L
+2026-09-27,Max Alcalà Gurri,Jonas Forejtek,0.713,0.675,W
+2026-09-27,Filippo Romano,Kenny De Schepper,0.665,0.651,W
+2026-09-27,Ryan Peniston,Jelle Sels,0.606,0.591,W
+2026-09-27,Dimitris Sakellaridis,Filippo Francesco Garbe,0.869,0.858,W
+2026-09-27,Maxime Janvier,Manas Dhamne,0.573,0.580,L
+2026-09-27,Thijs Boogaard,Alberto Barroso Campos,0.753,0.746,L
+2026-09-27,Leonardo Rossi,Constantin Bittoun Kouz,0.555,0.560,W
+2026-09-27,Yanis Ghazouani Durand,Emile Hudd,0.644,0.633,W
+2026-09-27,Luka Mikrut,Carlo Alberto Caniato,0.625,0.612,W
+2026-09-27,Alejo Sanchez Quilez,Alexander Donski,0.728,0.690,W
+2026-09-27,Marko Topo,Mario Gonzalez Fernande,0.743,0.733,W
+2026-09-27,Georgii Kravchenko,Goncalo Marques,0.601,0.607,L
+2026-09-27,Robin Bertrand,Guilherme Valdoleiros,0.967,0.953,W
+2026-09-27,Eliakim Coulibaly,Christian Langmo,0.607,0.618,L
+2026-09-27,Titouan Droguet,Harold Mayot,0.611,0.606,W
+2026-09-27,Anton Matusevich,Tiago Cacao,0.706,0.696,W
+2026-09-27,Luca Potenza,Iván Marrero Curbelo,0.604,0.619,W
+2026-09-27,Michael Antonius,Keaton Hance,0.587,0.594,L
+2026-09-27,Carl Emil Overbeck,Fausto Tabacco,0.625,0.621,VOID
 2026-09-26,Nishesh Basavareddy,Andres Andrade,0.739,0.720,W
 2026-09-26,Kamil Majchrzak,Yunchaokete Bu,0.558,0.547,L
 2026-09-26,Hubert Hurkacz,Martin Damm Jr,0.711,0.693,W
@@ -10,9 +46,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-26,Galloway/Goransson,Cash/Erler,0.509,0.503,W
 2026-09-26,Teodora Kostovic,Polina Iatcenko,0.571,0.568,W
 2026-09-26,Leylah Fernandez,Maja Chwalinska,0.598,0.582,W
+2026-09-26,Nouza/Oberleitner,Arends/Pel,0.605,0.622,L
+2026-09-26,Cabral/Tracy,Gonzalez/Jebens,0.651,0.639,W
+2026-09-26,Halys/Miedler,Rojer/Winegar,0.509,0.515,L
 2026-09-26,Luka Mikrut,Marvin Moeller,0.718,0.699,W
 2026-09-26,Max Alcalà Gurri,Carlos Taberner,0.582,0.576,W
 2026-09-26,Harold Mayot,Murphy Cassone,0.619,0.624,W
+2026-09-26,Reynolds/Watt,King/Stevens,0.627,0.619,L
 2026-09-26,Carlo Alberto Caniato,Francesco Forti,0.649,0.650,W
 2026-09-26,Loes Ebeling Koning,Ane Mintegi Del Olmo,0.545,0.550,L
 2026-09-26,Alena Kovackova,Vittoria Paganetti,0.750,0.738,W
