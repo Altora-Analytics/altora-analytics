@@ -1,9 +1,74 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-28,Arribage/Olivetti,Galloway/Goransson,0.562,0.570,L
+2026-09-28,Vitaliy Sachko,Mika Petkovic,0.749,0.735,W
+2026-09-28,Enrico Dalla Valle,Buvaysar Gadamauri,0.734,0.725,W
+2026-09-28,Garrett Johns,Lorenzo Angelini,0.613,0.622,L
+2026-09-28,Gauthier Onclin,Dan Added,0.739,0.722,W
+2026-09-28,Max Basing,Mili Poljicak,0.598,0.601,L
 2026-09-28,Sara Saito,Chenting Zhu,0.721,0.696,L
 2026-09-28,Mei Yamaguchi,Wushuang Zheng,0.552,0.549,L
+2026-09-28,Arends/Pel,King/Stevens,0.587,0.578,W
+2026-09-28,Alejandro Davidovich Fokina,Nikoloz Basilashvili,0.695,0.690,W
+2026-09-28,Andrey Rublev,Kyrian Jacquet,0.772,0.727,W
 2026-09-28,Zhuoxuan Bai,Mina Hodzic,0.751,0.748,W
+2026-09-28,Irene Burillo,Valeria Savinykh,0.609,0.622,L
+2026-09-28,Maddison Inglis,Xinxin Yao,0.581,0.572,W
+2026-09-28,Cabral/Tracy,Rojer/Winegar,0.526,0.545,W
+2026-09-28,Kamil Majchrzak,Lorenzo Sonego,0.590,0.598,W
 2026-09-28,Stefanos Tsitsipas,Yoshihito Nishioka,0.856,0.820,W
 2026-09-28,Rinky Hijikata,Camilo Ugo Carabelli,0.695,0.681,W
+2026-09-28,Taro Daniel,Adolfo Daniel Vallejo,0.513,0.516,L
+2026-09-28,Jaime Faria,Shintaro Mochizuki,0.688,0.683,W
+2026-09-28,Jaume Munar,Marcos Giron,0.630,0.635,W
+2026-09-28,Yannick Hanfmann,Tomas Machac,0.500,0.512,L
+2026-09-28,Alex Molcan,Vit Kopriva,0.583,0.578,W
+2026-09-28,Pablo Carreno Busta,Yi Zhou,0.674,0.662,W
+2026-09-28,Botic Van de Zandschulp,Valentin Royer,0.626,0.617,W
+2026-09-28,Miomir Kecmanovic,Adrian Mannarino,0.551,0.556,L
+2026-09-28,Niels Visker,Niels Mcdonald,0.542,0.554,W
+2026-09-28,Hubert Hurkacz,Denis Shapovalov,0.579,0.571,W
+2026-09-28,Daniil Medvedev,Roman Safiullin,0.718,0.696,W
+2026-09-28,Antonia Ruzic,Vendula Valdmannova,0.535,0.556,W
+2026-09-28,Terence Atmane,Dominik Palan,0.952,0.915,W
+2026-09-28,Mattia Bellucci,Filip Peliwo,0.981,0.922,W
+2026-09-28,Franco Agamenone,John Sperle,0.677,0.646,L
+2026-09-28,Noma Noha Akugue,Fiona Crawley,0.515,0.506,L
+2026-09-28,Filippo Romano,Ryan Peniston,0.542,0.564,W
+2026-09-28,Manas Dhamne,Viktor Durasovic,0.570,0.575,L
+2026-09-28,Filippo Moroni,Fabrizio Andaloro,0.554,0.552,L
+2026-09-28,Zsombor Piros,Ben Hassan,0.830,0.780,W
+2026-09-28,Jack Pinnington Jones,Thomas Faurel,0.657,0.646,L
+2026-09-28,Benjamin Bonzi,August Holmgren,0.755,0.746,L
+2026-09-28,Jerome Kym,Tiago Torres,0.796,0.773,W
+2026-09-28,Michael Mmoh,Laslo Djere,0.630,0.617,L
+2026-09-28,Varvara Lepchenko,Ulrikke Eikeri,0.956,0.937,W
+2026-09-28,Rebecca Sramkova,Jodie Burrage,0.634,0.630,L
+2026-09-28,Storm Hunter,Ruien Zhang,0.941,0.911,W
+2026-09-28,Mai Hontama,Alexandra Panova,0.961,0.919,W
+2026-09-28,Patrick Zahraj,Alexandre Reco,0.709,0.688,L
+2026-09-28,Leolia Jeanjean,Suzan Lamens,0.554,0.560,W
+2026-09-28,Anna Siskova,Julia Riera,0.558,0.553,L
+2026-09-28,Aleksandar Vukic,Ryan Seggerman,0.754,0.740,W
+2026-09-28,Mathys Erhard,Alberto Barroso Campos,0.785,0.768,L
+2026-09-28,Anna Blinkova,Emiliana Arango,0.720,0.704,W
+2026-09-28,Matthew William Donald,Dimitris Sakellaridis,0.797,0.759,W
+2026-09-28,Lucrezia Stefanini,Elena Ruxandra Bertea,0.788,0.760,W
+2026-09-28,Samuel Heredia,Juan Sebastian Osorio,0.531,0.538,W
+2026-09-28,Lorenzo Joaquin Rodrigu,Wilson Leite,0.828,0.791,W
+2026-09-28,Goncalo Marques,Christian Langmo,0.547,0.564,W
+2026-09-28,Alejo Sanchez Quilez,Fausto Tabacco,0.736,0.708,L
+2026-09-28,Marko Topo,Pyotr Nesterov,0.523,0.513,L
+2026-09-28,Lui Maxted,Luca Potenza,0.565,0.576,L
+2026-09-28,Yanis Ghazouani Durand,Leonardo Rossi,0.536,0.548,W
+2026-09-28,Bruno Fernandez,Victor Hugo Remondy Pag,0.669,0.643,L
+2026-09-28,Shunsuke Mitsui,Oliver Okonkwo,0.764,0.737,L
+2026-09-28,Alex Rybakov,Luca Staeheli,0.700,0.686,L
+2026-09-28,Michael Geerts,Joao Domingues,0.680,0.653,W
+2026-09-28,Duncan Chan,Keaton Hance,0.567,0.565,W
+2026-09-28,James Kent Trotter,Li Tu,0.508,0.530,L
+2026-09-28,Quinn Vandecasteele,Daniil Ostapenkov,0.653,0.641,L
+2026-09-28,Grigor Dimitrov,Daniel Rincon,0.810,0.773,VOID
+2026-09-28,Anastasia Gasanova,Viktoria Hruncakova,0.719,0.707,VOID
 2026-09-27,Denis Shapovalov,Adrian Mannarino,0.724,0.699,W
 2026-09-27,Nikoloz Basilashvili,Jenson Brooksby,0.882,0.870,W
 2026-09-27,Kyrian Jacquet,Fabian Marozsan,0.529,0.544,W
