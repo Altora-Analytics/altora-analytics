@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-28,Sara Saito,Chenting Zhu,0.721,0.696,L
+2026-09-28,Mei Yamaguchi,Wushuang Zheng,0.552,0.549,L
+2026-09-28,Zhuoxuan Bai,Mina Hodzic,0.751,0.748,W
+2026-09-28,Stefanos Tsitsipas,Yoshihito Nishioka,0.856,0.820,W
+2026-09-28,Rinky Hijikata,Camilo Ugo Carabelli,0.695,0.681,W
 2026-09-27,Denis Shapovalov,Adrian Mannarino,0.724,0.699,W
 2026-09-27,Nikoloz Basilashvili,Jenson Brooksby,0.882,0.870,W
 2026-09-27,Kyrian Jacquet,Fabian Marozsan,0.529,0.544,W
@@ -33,7 +38,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-27,Titouan Droguet,Harold Mayot,0.611,0.606,W
 2026-09-27,Anton Matusevich,Tiago Cacao,0.706,0.696,W
 2026-09-27,Luca Potenza,Iván Marrero Curbelo,0.604,0.619,W
+2026-09-27,Lui Maxted,Francisco Rocha,0.725,0.711,W
+2026-09-27,Joao Domingues,Vadym Ursu,0.520,0.518,W
 2026-09-27,Michael Antonius,Keaton Hance,0.587,0.594,L
+2026-09-27,Facundo Mena,Alex Barrena,0.510,0.515,L
+2026-09-27,Kaylan Bigun,Noah Zamora,0.605,0.607,W
+2026-09-27,Nishesh Basavareddy,Igor Marcondes,0.851,0.826,W
 2026-09-27,Carl Emil Overbeck,Fausto Tabacco,0.625,0.621,VOID
 2026-09-26,Nishesh Basavareddy,Andres Andrade,0.739,0.720,W
 2026-09-26,Kamil Majchrzak,Yunchaokete Bu,0.558,0.547,L
