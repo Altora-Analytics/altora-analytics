@@ -106,3 +106,23 @@ kickoff_uk,competition,home,away,model_home,model_draw,model_away,market_home,ma
 2026-09-27 19:45,Nations League,Norway,Portugal,0.3245,0.25,0.4255,0.3319,0.2575,0.4106,away,1-2,away,0.8545,0.8901
 2026-09-27 20:00,CONCACAF Nations League,Guyana,Cayman Islands,0.8321,0.1214,0.0465,0.8708,0.0966,0.0325,home,2-0,home,0.1838,0.1383
 2026-09-27 21:30,Friendlies,Bolivia,Paraguay,0.1992,0.2901,0.5107,0.1408,0.2119,0.6473,away,0-2,away,0.672,0.4349
+2026-09-28 11:25,Friendlies,Japan,Venezuela,0.7949,0.1597,0.0454,0.7073,0.1896,0.1031,home,2-1,home,0.2295,0.3463
+2026-09-28 12:00,Friendlies,South Korea,Uruguay,0.4921,0.2884,0.2195,0.4131,0.2851,0.3018,home,1-4,away,1.5164,1.198
+2026-09-28 17:00,Nations League,Latvia,Cyprus,0.4776,0.2423,0.2801,0.371,0.2854,0.3436,home,0-0,draw,1.4176,1.2539
+2026-09-28 17:00,Nations League,Armenia,Montenegro,0.288,0.2472,0.4649,0.3536,0.2818,0.3647,away,2-3,away,0.7659,1.0087
+2026-09-28 17:00,Nations League,Georgia,Ukraine,0.3616,0.2509,0.3875,0.354,0.2886,0.3574,away,0-0,draw,1.3827,1.2427
+2026-09-28 17:00,AFCON Q,Zimbabwe,Congo DR,0.144,0.2364,0.6196,0.184,0.2944,0.5216,away,1-2,away,0.4787,0.6509
+2026-09-28 17:00,AFCON Q,Equatorial Guinea,Sierra Leone,0.5889,0.2387,0.1724,0.4703,0.2958,0.2339,home,1-0,home,0.5295,0.7544
+2026-09-28 17:00,AFCON Q,Central African Republic,Burkina Faso,0.1162,0.2209,0.663,0.1042,0.2177,0.6781,away,0-1,away,0.411,0.3885
+2026-09-28 19:45,Nations League,Romania,Bosnia & Herzegovina,0.5362,0.2321,0.2316,0.4397,0.2789,0.2814,home,2-4,away,1.4627,1.268
+2026-09-28 19:45,Nations League,Northern Ireland,Hungary,0.2725,0.2453,0.4822,0.2804,0.3056,0.414,away,0-0,draw,1.4053,1.1855
+2026-09-28 19:45,Nations League,Türkiye,Italy,0.3724,0.2508,0.3768,0.2913,0.2784,0.4303,away,1-4,away,0.976,0.8433
+2026-09-28 19:45,Nations League,Sweden,Poland,0.4514,0.2457,0.303,0.485,0.2647,0.2504,home,3-1,home,0.7954,0.7236
+2026-09-28 19:45,Nations League,Belgium,France,0.3213,0.2498,0.4288,0.2787,0.2617,0.4596,away,0-1,away,0.8468,0.7774
+2026-09-28 20:00,CONCACAF Nations League,Guadeloupe,Barbados,0.8316,0.1215,0.047,0.4801,0.2798,0.2401,home,2-2,draw,2.1078,1.2737
+2026-09-28 22:00,CONCACAF Nations League,Cuba,Bonaire,0.589,0.216,0.195,0.8169,0.1295,0.0536,home,2-0,home,0.5293,0.2022
+2026-09-28 23:00,CONCACAF Nations League,Suriname,Martinique,0.6873,0.1859,0.1268,0.5901,0.2455,0.1644,home,2-1,home,0.375,0.5275
+2026-09-29 01:00,CONCACAF Nations League,Jamaica,Honduras,0.5186,0.2313,0.2501,0.4258,0.2817,0.2925,home,0-1,away,1.3859,1.2293
+2026-09-29 01:00,CONCACAF Nations League,St. Kitts and Nevis,Grenada,0.4632,0.2397,0.2971,0.2795,0.2423,0.4782,home,3-0,home,0.7696,1.2748
+2026-09-29 01:00,CONCACAF Nations League,St. Lucia,Bermuda,0.4608,0.2399,0.2993,0.3326,0.2644,0.403,home,5-2,home,0.7748,1.1008
+2026-09-29 03:00,CONCACAF Nations League,Guatemala,El Salvador,0.5667,0.2214,0.2119,0.4613,0.2713,0.2674,home,6-0,home,0.5679,0.7737
