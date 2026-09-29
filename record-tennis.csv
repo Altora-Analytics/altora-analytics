@@ -1,11 +1,25 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-29,Arthur Gea,Tomas Machac,0.559,0.569,W
+2026-09-29,Stefanos Tsitsipas,Rinky Hijikata,0.739,0.740,W
+2026-09-29,Marat Sharipov,Mitsuki Wei Kang Leong,0.828,0.793,W
+2026-09-29,Omar Jasika,Hiroki Moriya,0.571,0.568,W
+2026-09-29,Harriet Dart,Yexin Ma,0.663,0.643,W
+2026-09-29,Jaume Munar,Aleksandar Kovacevic,0.603,0.603,W
+2026-09-29,Adam Walton,Alexander Binda,0.972,0.913,W
+2026-09-29,Katarzyna Kawa,Valeria Savinykh,0.727,0.725,W
 2026-09-28,Arribage/Olivetti,Galloway/Goransson,0.562,0.570,L
+2026-09-28,Clement Tabur,Matteo Martineau,0.659,0.638,W
+2026-09-28,Sascha Gueymard Wayenbu,Pierre-Hugues Herbert,0.620,0.632,W
 2026-09-28,Vitaliy Sachko,Mika Petkovic,0.749,0.735,W
 2026-09-28,Enrico Dalla Valle,Buvaysar Gadamauri,0.734,0.725,W
 2026-09-28,Garrett Johns,Lorenzo Angelini,0.613,0.622,L
 2026-09-28,Gauthier Onclin,Dan Added,0.739,0.722,W
 2026-09-28,Max Basing,Mili Poljicak,0.598,0.601,L
+2026-09-28,Daniel Milavsky,Blaise Bicknell,0.698,0.693,W
+2026-09-28,Mees Rottgering,Edward Winter,0.703,0.705,W
 2026-09-28,Sara Saito,Chenting Zhu,0.721,0.696,L
+2026-09-28,Sofia Costoulas,Kristina Mladenovic,0.817,0.808,W
+2026-09-28,Tyra Caterina Grant,Aliona Falei,0.673,0.648,L
 2026-09-28,Mei Yamaguchi,Wushuang Zheng,0.552,0.549,L
 2026-09-28,Arends/Pel,King/Stevens,0.587,0.578,W
 2026-09-28,Alejandro Davidovich Fokina,Nikoloz Basilashvili,0.695,0.690,W
@@ -41,6 +55,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-28,Benjamin Bonzi,August Holmgren,0.755,0.746,L
 2026-09-28,Jerome Kym,Tiago Torres,0.796,0.773,W
 2026-09-28,Michael Mmoh,Laslo Djere,0.630,0.617,L
+2026-09-28,Braden Shick,Ozan Baris,0.551,0.543,W
 2026-09-28,Varvara Lepchenko,Ulrikke Eikeri,0.956,0.937,W
 2026-09-28,Rebecca Sramkova,Jodie Burrage,0.634,0.630,L
 2026-09-28,Storm Hunter,Ruien Zhang,0.941,0.911,W
@@ -63,7 +78,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-28,Bruno Fernandez,Victor Hugo Remondy Pag,0.669,0.643,L
 2026-09-28,Shunsuke Mitsui,Oliver Okonkwo,0.764,0.737,L
 2026-09-28,Alex Rybakov,Luca Staeheli,0.700,0.686,L
+2026-09-28,Jose Pereira,Ryan Dickerson,0.546,0.550,W
 2026-09-28,Michael Geerts,Joao Domingues,0.680,0.653,W
+2026-09-28,Pedro Sakamoto,Santiago De La Fuente,0.740,0.724,W
 2026-09-28,Duncan Chan,Keaton Hance,0.567,0.565,W
 2026-09-28,James Kent Trotter,Li Tu,0.508,0.530,L
 2026-09-28,Quinn Vandecasteele,Daniil Ostapenkov,0.653,0.641,L
