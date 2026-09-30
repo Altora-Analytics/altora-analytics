@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-30,Lilli Tagger,Elena-Gabriela Ruse,0.509,0.526,L
+2026-09-30,Catherine Mcnally,Dayana Yastremska,0.671,0.659,L
+2026-09-30,Maria Timofeeva,Darja Vidmanova,0.557,0.571,W
+2026-09-30,Emerson Jones,Chenting Zhu,0.865,0.848,W
+2026-09-30,Adam Walton,Moise Kouame,0.683,0.650,W
+2026-09-30,Mattia Bellucci,Alexandre Muller,0.670,0.645,W
+2026-09-30,Polina Kudermetova,Mayar Sherif,0.629,0.643,VOID
 2026-09-29,Michael Zheng,Yaojie Zeng,0.962,0.930,W
 2026-09-29,Alex Bolt,Semen Pankin,0.744,0.738,W
 2026-09-29,Amelia Rajecki,Yuhan Wang,0.521,0.510,L
@@ -7,6 +14,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-29,Polina Iatcenko,Erika Andreeva,0.537,0.561,L
 2026-09-29,Simona Waltert,Anastasia Tikhonova,0.725,0.707,W
 2026-09-29,Lois Boisson,Lucia Bronzetti,0.588,0.585,W
+2026-09-29,Alexander Blockx,Valentin Vacherot,0.513,0.521,L
 2026-09-29,Arthur Gea,Tomas Machac,0.559,0.569,W
 2026-09-29,Stefanos Tsitsipas,Rinky Hijikata,0.739,0.740,W
 2026-09-29,Marat Sharipov,Mitsuki Wei Kang Leong,0.828,0.793,W
@@ -14,6 +22,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-29,Harriet Dart,Yexin Ma,0.663,0.643,W
 2026-09-29,Jaume Munar,Aleksandar Kovacevic,0.603,0.603,W
 2026-09-29,Adam Walton,Alexander Binda,0.972,0.913,W
+2026-09-29,Felix Auger-Aliassime,Karen Khachanov,0.618,0.635,L
 2026-09-29,Mattia Bellucci,Keisuke Saitoh,0.939,0.892,W
 2026-09-29,Terence Atmane,Enzo Aguiard,0.918,0.853,W
 2026-09-29,Marina Bassols Ribera,Xiaodi You,0.578,0.582,W
@@ -44,10 +53,15 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-29,Pyotr Nesterov,Goncalo Marques,0.673,0.673,L
 2026-09-29,Andrea Guerrieri,Anton Matusevich,0.515,0.534,W
 2026-09-29,Abdullah Shelbayh,Li Tu,0.591,0.588,W
+2026-09-29,Colton Smith,Duncan Chan,0.674,0.656,W
+2026-09-29,Keegan Smith,Kaylan Bigun,0.608,0.623,W
+2026-09-29,Stefan Kozlov,James Kent Trotter,0.517,0.523,W
+2026-09-29,Lorenzo Musetti,Arthur Fery,0.630,0.619,VOID
 2026-09-28,Arribage/Olivetti,Galloway/Goransson,0.562,0.570,L
 2026-09-28,Clement Tabur,Matteo Martineau,0.659,0.638,W
 2026-09-28,Sascha Gueymard Wayenbu,Pierre-Hugues Herbert,0.620,0.632,W
 2026-09-28,Mark Lajal,Lucas Poullain,0.793,0.768,L
+2026-09-28,Clement Chidekh,David Goffin,0.706,0.708,W
 2026-09-28,Felix Balshaw,Billy Harris,0.587,0.587,W
 2026-09-28,Vitaliy Sachko,Mika Petkovic,0.749,0.735,W
 2026-09-28,Enrico Dalla Valle,Buvaysar Gadamauri,0.734,0.725,W
@@ -61,6 +75,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-28,Daniel Milavsky,Blaise Bicknell,0.698,0.693,W
 2026-09-28,Mees Rottgering,Edward Winter,0.703,0.705,W
 2026-09-28,Darwin Blanch,Patrick Maloney,0.792,0.758,W
+2026-09-28,Bryce Nakashima Nakashi,Jack Kennedy,0.607,0.614,W
+2026-09-28,Jeffrey John Wolf,Dylan Dietrich,0.543,0.550,L
 2026-09-28,Sara Saito,Chenting Zhu,0.721,0.696,L
 2026-09-28,Sofia Costoulas,Kristina Mladenovic,0.817,0.808,W
 2026-09-28,Tyra Caterina Grant,Aliona Falei,0.673,0.648,L
@@ -105,6 +121,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-28,Benjamin Bonzi,August Holmgren,0.755,0.746,L
 2026-09-28,Jerome Kym,Tiago Torres,0.796,0.773,W
 2026-09-28,Michael Mmoh,Laslo Djere,0.630,0.617,L
+2026-09-28,Igor Marcondes,Andrew Fenty,0.563,0.567,L
 2026-09-28,Braden Shick,Ozan Baris,0.551,0.543,W
 2026-09-28,Varvara Lepchenko,Ulrikke Eikeri,0.956,0.937,W
 2026-09-28,Rebecca Sramkova,Jodie Burrage,0.634,0.630,L
