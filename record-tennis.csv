@@ -1,21 +1,73 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-09-30,Lilli Tagger,Elena-Gabriela Ruse,0.509,0.526,L
+2026-09-30,Maya Joint,Sinja Kraus,0.744,0.727,L
 2026-09-30,Catherine Mcnally,Dayana Yastremska,0.671,0.659,L
+2026-09-30,Anna Bondar,Renata Zarazua,0.695,0.685,L
+2026-09-30,Yue Yuan,Oleksandra Oliynykova,0.619,0.637,W
+2026-09-30,Janice Tjen,Anhelina Kalinina,0.524,0.514,W
 2026-09-30,Maria Timofeeva,Darja Vidmanova,0.557,0.571,W
+2026-09-30,Taylah Preston,Tamara Korpatsch,0.695,0.670,W
+2026-09-30,Fiona Ferro,Sijia Wei,0.739,0.719,L
 2026-09-30,Emerson Jones,Chenting Zhu,0.865,0.848,W
+2026-09-30,Anna Blinkova,Viktoria Hruncakova,0.817,0.807,W
+2026-09-30,Harold Mayot,Niels Visker,0.813,0.796,W
+2026-09-30,Zsombor Piros,Enrico Dalla Valle,0.698,0.689,L
+2026-09-30,Sascha Gueymard Wayenbu,Gauthier Onclin,0.631,0.633,W
+2026-09-30,Clement Tabur,Thomas Faurel,0.738,0.716,W
+2026-09-30,Mees Rottgering,Braden Shick,0.596,0.604,W
+2026-09-30,Dane Sweeny,Omar Jasika,0.675,0.653,W
+2026-09-30,Evan Zhu,Hanyi Liu,0.808,0.791,W
+2026-09-30,Terence Atmane,Elias Ymer,0.803,0.791,L
 2026-09-30,Adam Walton,Moise Kouame,0.683,0.650,W
+2026-09-30,Marat Sharipov,Dalibor Svrcina,0.505,0.510,W
 2026-09-30,Mattia Bellucci,Alexandre Muller,0.670,0.645,W
+2026-09-30,Arthur Gea,Zhizhen Zhang,0.762,0.755,W
+2026-09-30,Sara Sorribes Tormo,Wushuang Zheng,0.833,0.818,W
+2026-09-30,Viktorija Golubic,Elvina Kalieva,0.632,0.634,W
+2026-09-30,Daria Snigur,Katarzyna Kawa,0.869,0.852,W
+2026-09-30,Talia Gibson,Aliaksandra Sasnovich,0.514,0.534,L
+2026-09-30,Zeynep Sonmez,Maddison Inglis,0.667,0.662,L
+2026-09-30,Zhuoxuan Bai,Linda Fruhvirtova,0.596,0.585,L
+2026-09-30,Katie Boulter,Mai Hontama,0.692,0.685,W
+2026-09-30,Arthur Fils,Luca Van Assche,0.890,0.847,W
+2026-09-30,Gianluca Cadenasso,Lorenzo Angelini,0.828,0.805,W
+2026-09-30,Vitaliy Sachko,Dimitar Kuzmanov,0.620,0.637,W
+2026-09-30,Magdalena Frech,Elsa Jacquemot,0.683,0.678,W
+2026-09-30,Elena Pridankina,Fiona Crawley,0.501,0.500,W
+2026-09-30,Jay Clarke,Juan Cruz Martin Manzan,0.713,0.696,L
+2026-09-30,Lois Boisson,Martyna Kubka,0.719,0.714,W
+2026-09-30,Simona Waltert,Erika Andreeva,0.510,0.514,L
+2026-09-30,Lautaro Midon,Bruno Fernandez,0.836,0.822,W
+2026-09-30,Antonia Ruzic,Julia Riera,0.621,0.624,W
+2026-09-30,Gustavo Heide,Felipe Meligeni Alves,0.740,0.730,W
+2026-09-30,Teodora Kostovic,Dalma Galfi,0.556,0.559,W
+2026-09-30,Lian Tran,Tina Manescu,0.669,0.659,W
+2026-09-30,Heerae Im,Seda Baslilar,0.508,0.527,W
+2026-09-30,Tessa Brockmann,Demi Tran,0.953,0.904,W
+2026-09-30,Reese Brantmeier,Katie Swan,0.537,0.555,L
+2026-09-30,Naiktha Bains,Maria Martinez Vaquero,0.676,0.660,W
+2026-09-30,Cadence Brace,Elza Tomase,0.768,0.739,W
+2026-09-30,Kristina Novak,Meritxell Teixido Garcia,0.759,0.745,W
+2026-09-30,Matilde Jorge,Elena Malygina,0.627,0.614,L
+2026-09-30,Ayana Akli,Polona Hercog,0.613,0.611,L
+2026-09-30,Lisa Pigato,Jasmijn Gimbrere,0.944,0.913,W
+2026-09-30,Carmen Gallardo Guevara,Elena Milovanovic,0.530,0.543,W
+2026-09-30,Eva Vedder,Caroline Werner,0.544,0.540,W
 2026-09-30,Polina Kudermetova,Mayar Sherif,0.629,0.643,VOID
 2026-09-29,Michael Zheng,Yaojie Zeng,0.962,0.930,W
 2026-09-29,Alex Bolt,Semen Pankin,0.744,0.738,W
+2026-09-29,Lloyd Harris,Alexis Galarneau,0.714,0.708,W
 2026-09-29,Amelia Rajecki,Yuhan Wang,0.521,0.510,L
 2026-09-29,Bernard Tomic,Fajing Sun,0.577,0.573,W
 2026-09-29,Yanki Erel,Arthur Weber,0.613,0.623,W
+2026-09-29,Kalender/Serdarusic,Behar/Paris,0.547,0.551,L
 2026-09-29,Polina Iatcenko,Erika Andreeva,0.537,0.561,L
 2026-09-29,Simona Waltert,Anastasia Tikhonova,0.725,0.707,W
 2026-09-29,Lois Boisson,Lucia Bronzetti,0.588,0.585,W
 2026-09-29,Alexander Blockx,Valentin Vacherot,0.513,0.521,L
+2026-09-29,Rei Sakamoto,Matteo Arnaldi,0.553,0.554,L
 2026-09-29,Arthur Gea,Tomas Machac,0.559,0.569,W
+2026-09-29,Tommy Paul,Alejandro Tabilo,0.734,0.716,L
 2026-09-29,Stefanos Tsitsipas,Rinky Hijikata,0.739,0.740,W
 2026-09-29,Marat Sharipov,Mitsuki Wei Kang Leong,0.828,0.793,W
 2026-09-29,Omar Jasika,Hiroki Moriya,0.571,0.568,W
@@ -23,6 +75,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-29,Jaume Munar,Aleksandar Kovacevic,0.603,0.603,W
 2026-09-29,Adam Walton,Alexander Binda,0.972,0.913,W
 2026-09-29,Felix Auger-Aliassime,Karen Khachanov,0.618,0.635,L
+2026-09-29,Novak Djokovic,Nuno Borges,0.667,0.646,W
+2026-09-29,Yunchaokete Bu,Manuel Cerundolo,0.563,0.575,W
 2026-09-29,Mattia Bellucci,Keisuke Saitoh,0.939,0.892,W
 2026-09-29,Terence Atmane,Enzo Aguiard,0.918,0.853,W
 2026-09-29,Marina Bassols Ribera,Xiaodi You,0.578,0.582,W
@@ -52,12 +106,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-29,Remy Bertola,Alexandre Reco,0.824,0.783,W
 2026-09-29,Pyotr Nesterov,Goncalo Marques,0.673,0.673,L
 2026-09-29,Andrea Guerrieri,Anton Matusevich,0.515,0.534,W
+2026-09-29,Jacob Fearnley,Alejo Sanchez Quilez,0.764,0.752,W
+2026-09-29,Inaki Montes-De La Torr,Luca Potenza,0.644,0.650,W
 2026-09-29,Abdullah Shelbayh,Li Tu,0.591,0.588,W
 2026-09-29,Colton Smith,Duncan Chan,0.674,0.656,W
 2026-09-29,Keegan Smith,Kaylan Bigun,0.608,0.623,W
 2026-09-29,Stefan Kozlov,James Kent Trotter,0.517,0.523,W
 2026-09-29,Lorenzo Musetti,Arthur Fery,0.630,0.619,VOID
 2026-09-28,Arribage/Olivetti,Galloway/Goransson,0.562,0.570,L
+2026-09-28,Tristan Schoolkate,Philip Henning,0.687,0.674,W
+2026-09-28,Daniil Glinka,Henry Bernet,0.528,0.541,L
 2026-09-28,Clement Tabur,Matteo Martineau,0.659,0.638,W
 2026-09-28,Sascha Gueymard Wayenbu,Pierre-Hugues Herbert,0.620,0.632,W
 2026-09-28,Mark Lajal,Lucas Poullain,0.793,0.768,L
@@ -66,11 +124,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-28,Vitaliy Sachko,Mika Petkovic,0.749,0.735,W
 2026-09-28,Enrico Dalla Valle,Buvaysar Gadamauri,0.734,0.725,W
 2026-09-28,Garrett Johns,Lorenzo Angelini,0.613,0.622,L
+2026-09-28,Dominic Stricker,Liam Broady,0.721,0.699,W
 2026-09-28,Gauthier Onclin,Dan Added,0.739,0.722,W
 2026-09-28,Max Basing,Mili Poljicak,0.598,0.601,L
+2026-09-28,Genaro Alberto Olivieri,Lucas Andrade Da Silva,0.611,0.629,W
 2026-09-28,Felipe Meligeni Alves,Carlos Maria Zarate,0.716,0.705,W
 2026-09-28,Gustavo Heide,Hernan Casanova,0.688,0.687,W
 2026-09-28,Joao Lucas Reis Da Silv,Murkel Dellien,0.765,0.752,W
+2026-09-28,Juan Carlos Prado Angel,Gonzalo Villanueva,0.635,0.640,L
 2026-09-28,Juan Bautista Torres,Miguel Tobon,0.612,0.629,W
 2026-09-28,Daniel Milavsky,Blaise Bicknell,0.698,0.693,W
 2026-09-28,Mees Rottgering,Edward Winter,0.703,0.705,W
@@ -121,6 +182,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-09-28,Benjamin Bonzi,August Holmgren,0.755,0.746,L
 2026-09-28,Jerome Kym,Tiago Torres,0.796,0.773,W
 2026-09-28,Michael Mmoh,Laslo Djere,0.630,0.617,L
+2026-09-28,Guido Ivan Justo,Franco Roncadelli,0.542,0.553,W
+2026-09-28,Facundo Mena,Luis Guto Miguel,0.599,0.601,L
 2026-09-28,Igor Marcondes,Andrew Fenty,0.563,0.567,L
 2026-09-28,Braden Shick,Ozan Baris,0.551,0.543,W
 2026-09-28,Varvara Lepchenko,Ulrikke Eikeri,0.956,0.937,W
