@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-09-30,Danny Noppert,Ryan Joyce,0.621,0.606,L
+2026-09-30,Wessel Nijman,Jonny Clayton,0.584,0.552,L
+2026-09-30,Gerwyn Price,Ross Smith,0.604,0.604,W
+2026-09-30,Nathan Aspinall,Luke Woodhouse,0.589,0.568,W
 2026-09-29,Chris Dobey,Jermaine Wattimena,0.603,0.589,L
 2026-09-29,Ryan Searle,William O'Connor,0.574,0.596,W
 2026-09-29,Josh Rock,Niels Zonneveld,0.565,0.578,L
