@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-02,Novak Djokovic,Yunchaokete Bu,0.786,0.750,W
 2026-10-02,Linda Noskova,Elena-Gabriela Ruse,0.784,0.759,W
 2026-10-02,Naomi Osaka,Maria Timofeeva,0.782,0.769,W
 2026-10-02,Maja Chwalinska,Dayana Yastremska,0.593,0.599,L
@@ -13,17 +14,44 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-02,Mirra Andreeva,Yue Yuan,0.936,0.917,W
 2026-10-02,Karolina Muchova,Katie Boulter,0.873,0.858,W
 2026-10-02,Nikola Bartunkova,Magdalena Frech,0.592,0.589,W
+2026-10-02,Erika Andreeva,Elena Pridankina,0.521,0.524,W
+2026-10-02,Aryna Sabalenka,Renata Zarazua,0.962,0.965,W
+2026-10-02,Sascha Gueymard Wayenbu,Clement Tabur,0.555,0.570,W
+2026-10-02,Dylan Dietrich,Darwin Blanch,0.562,0.577,W
 2026-10-02,Karen Khachanov,Alex Molcan,0.785,0.775,W
+2026-10-02,Lucrezia Stefanini,Leolia Jeanjean,0.519,0.534,L
+2026-10-02,Marcelo Tomas Barrios V,Matheus Pucinelli De Al,0.527,0.516,W
 2026-10-02,Jaume Munar,Jaime Faria,0.619,0.621,W
 2026-10-02,Stefanos Tsitsipas,Valentin Vacherot,0.591,0.590,L
 2026-10-02,Luciano Darderi,Kyrian Jacquet,0.537,0.547,L
+2026-10-02,Arthur Fils,Frances Tiafoe,0.732,0.708,W
 2026-10-02,Sara Sorribes Tormo,Aliona Falei,0.563,0.569,L
+2026-10-02,Joel Schwaerzler,Lucas Poullain,0.605,0.586,W
 2026-10-02,Dane Sweeny,Alex Bolt,0.521,0.537,L
+2026-10-02,Carlos Taberner,Samuele Pieri,0.776,0.771,L
+2026-10-02,Daniel Rincon,David Jorda Sanchis,0.743,0.716,L
 2026-10-02,Lloyd Harris,Andre Ilagan,0.813,0.801,W
+2026-10-02,Gonzalez/Molteni,Bublik/Shang,0.731,0.708,L
+2026-10-02,Hubert Hurkacz,Arthur Gea,0.583,0.575,W
+2026-10-02,Henrique Rocha,August Holmgren,0.695,0.684,W
+2026-10-02,Martin Krumich,Matthew William Donald,0.662,0.668,L
+2026-10-02,Jerome Kym,Edas Butvilas,0.526,0.533,W
+2026-10-02,Inaki Montes-De La Torr,Hugo Grenier,0.562,0.573,W
+2026-10-02,Henry Bernet,Felix Balshaw,0.528,0.537,W
 2026-10-02,Charo Esquiva Banuls,Valentina Ryser,0.587,0.594,W
 2026-10-02,Cadence Brace,Amandine Hesse,0.669,0.657,L
+2026-10-02,Nahia Berecoechea,Celia Cervino Ruiz,0.643,0.646,L
+2026-10-02,Valentina Ivanov,Juliana Giaccio,0.594,0.584,W
+2026-10-02,Katie Swan,Alicia Dudeney,0.680,0.679,W
 2026-10-02,Diana Martynov,Sada Nahimana,0.514,0.531,L
 2026-10-02,Susan Bandecchi,Margaux Rouvroy,0.812,0.797,L
+2026-10-02,Lisa Pigato,Polona Hercog,0.694,0.683,W
+2026-10-02,Eva Vedder,Francisca Jorge,0.501,0.495,W
+2026-10-02,Manon Leonard,Isis Van Den Broek,0.664,0.654,L
+2026-10-02,Britt Du Pree,Isabella Serban,0.747,0.736,W
+2026-10-02,Tessa Brockmann,Salma Djoubri,0.813,0.775,L
+2026-10-02,Keegan Smith,Mitchell Krueger,0.545,0.543,L
+2026-10-02,Guido Ivan Justo,Gonzalo Villanueva,0.619,0.606,W
 2026-10-02,Anastasia Potapova,Sinja Kraus,0.740,0.734,VOID
 2026-10-01,Michael Zheng,Yanki Erel,0.870,0.824,L
 2026-10-01,Bernard Tomic,Yuta Shimizu,0.593,0.606,W
@@ -45,8 +73,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-01,Marat Sharipov,Andre Ilagan,0.725,0.701,L
 2026-10-01,Federico Cina,Elias Ymer,0.754,0.738,W
 2026-10-01,Dane Sweeny,Petr Bar Biryukov,0.728,0.701,W
+2026-10-01,Vitaliy Sachko,Gianluca Cadenasso,0.593,0.603,W
 2026-10-01,Dominic Stricker,Henry Bernet,0.537,0.546,L
 2026-10-01,Harold Mayot,Tristan Schoolkate,0.586,0.589,W
+2026-10-01,Enrico Dalla Valle,Juan Cruz Martin Manzan,0.667,0.643,L
 2026-10-01,Pedro Boscardin Dias,Genaro Alberto Olivieri,0.538,0.547,W
 2026-10-01,Guido Ivan Justo,Pedro Sakamoto,0.713,0.685,W
 2026-10-01,Edas Butvilas,Moez Echargui,0.652,0.647,W
