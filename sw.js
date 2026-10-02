@@ -7,7 +7,7 @@
  *   - Images and static assets: cache-first (immutable in practice; card PNGs are dated).
  * Bump VERSION to invalidate everything after a structural site change.
  */
-const VERSION = "altora-v1";
+const VERSION = "altora-v2";   // v2 2026-10-02: nav.js changed (premium link removed) — assets are cache-first
 const RUNTIME = VERSION + "-runtime";
 
 self.addEventListener("install", (e) => {
