@@ -1,5 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-02,Diana Shnaider,Janice Tjen,0.730,0.713,W
+2026-10-02,Mirra Andreeva,Yue Yuan,0.936,0.917,W
+2026-10-02,Jaume Munar,Jaime Faria,0.619,0.621,W
+2026-10-02,Anastasia Potapova,Sinja Kraus,0.740,0.734,VOID
 2026-10-01,Michael Zheng,Yanki Erel,0.870,0.824,L
+2026-10-01,Bernard Tomic,Yuta Shimizu,0.593,0.606,W
 2026-10-01,Kamilla Rakhimova,Marina Bassols Ribera,0.732,0.720,W
 2026-10-01,Qinwen Zheng,Han Shi,0.911,0.891,W
 2026-10-01,Katie Volynets,Robin Montgomery,0.551,0.549,W
@@ -10,22 +15,30 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-01,Clement Chidekh,Ugo Blanchet,0.694,0.690,W
 2026-10-01,Jaime Faria,Arthur Fery,0.523,0.513,W
 2026-10-01,Mattia Bellucci,Adam Walton,0.506,0.515,W
+2026-10-01,Stefan Kozlov,Mitchell Krueger,0.557,0.558,L
+2026-10-01,Colton Smith,Aidan Mayo,0.595,0.584,L
 2026-10-01,Keegan Smith,Bryce Nakashima,0.574,0.555,W
 2026-10-01,Lloyd Harris,Luka Pavlovic,0.816,0.810,W
 2026-10-01,Alex Bolt,Evan Zhu,0.686,0.657,W
 2026-10-01,Marat Sharipov,Andre Ilagan,0.725,0.701,L
 2026-10-01,Dane Sweeny,Petr Bar Biryukov,0.728,0.701,W
 2026-10-01,Dominic Stricker,Henry Bernet,0.537,0.546,L
+2026-10-01,Harold Mayot,Tristan Schoolkate,0.586,0.589,W
+2026-10-01,Pedro Boscardin Dias,Genaro Alberto Olivieri,0.538,0.547,W
+2026-10-01,Guido Ivan Justo,Pedro Sakamoto,0.713,0.685,W
 2026-10-01,Edas Butvilas,Moez Echargui,0.652,0.647,W
 2026-10-01,Doumbia/Reboul,Gonzalez/Molteni,0.626,0.619,L
 2026-10-01,Hugo Grenier,Tiago Pereira,0.561,0.566,W
+2026-10-01,Mateus Alves,Gonzalo Villanueva,0.671,0.648,L
 2026-10-01,Jacob Fearnley,Inaki Montes-De La Torr,0.763,0.743,L
+2026-10-01,Luis Guto Miguel,Joao Schiessl,0.753,0.744,W
 2026-10-01,Valentina Ryser,Daniela Vismane,0.768,0.742,W
 2026-10-01,Sada Nahimana,Alina Nesmianovych,0.913,0.860,W
 2026-10-01,Susan Bandecchi,Lea Nilsson,0.689,0.682,W
 2026-10-01,Katie Swan,Elena Malygina,0.749,0.738,W
 2026-10-01,Linda Klimovicova,Alicia Dudeney,0.618,0.599,L
 2026-10-01,Manon Leonard,Clara Vlasselaer,0.695,0.687,W
+2026-10-01,Madison Brengle,Arianna Zucchini,0.724,0.701,W
 2026-09-30,Paula Badosa,Daria Kasatkina,0.694,0.683,W
 2026-09-30,Lilli Tagger,Elena-Gabriela Ruse,0.509,0.526,L
 2026-09-30,Maya Joint,Sinja Kraus,0.744,0.727,L
