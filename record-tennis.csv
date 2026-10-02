@@ -1,7 +1,20 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-02,Linda Noskova,Elena-Gabriela Ruse,0.784,0.759,W
+2026-10-02,Maja Chwalinska,Dayana Yastremska,0.593,0.599,L
 2026-10-02,Diana Shnaider,Janice Tjen,0.730,0.713,W
+2026-10-02,Peyton Stearns,Viktorija Golubic,0.585,0.590,L
+2026-10-02,Liudmila Samsonova,Linda Fruhvirtova,0.829,0.807,W
+2026-10-02,Jasmine Paolini,Daria Snigur,0.559,0.568,L
+2026-10-02,Ekaterina Alexandrova,Aliaksandra Sasnovich,0.579,0.583,W
+2026-10-02,Diane Parry,Taylah Preston,0.559,0.571,L
 2026-10-02,Mirra Andreeva,Yue Yuan,0.936,0.917,W
+2026-10-02,Karolina Muchova,Katie Boulter,0.873,0.858,W
+2026-10-02,Karen Khachanov,Alex Molcan,0.785,0.775,W
 2026-10-02,Jaume Munar,Jaime Faria,0.619,0.621,W
+2026-10-02,Stefanos Tsitsipas,Valentin Vacherot,0.591,0.590,L
+2026-10-02,Sara Sorribes Tormo,Aliona Falei,0.563,0.569,L
+2026-10-02,Dane Sweeny,Alex Bolt,0.521,0.537,L
+2026-10-02,Lloyd Harris,Andre Ilagan,0.813,0.801,W
 2026-10-02,Anastasia Potapova,Sinja Kraus,0.740,0.734,VOID
 2026-10-01,Michael Zheng,Yanki Erel,0.870,0.824,L
 2026-10-01,Bernard Tomic,Yuta Shimizu,0.593,0.606,W
@@ -21,6 +34,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-01,Lloyd Harris,Luka Pavlovic,0.816,0.810,W
 2026-10-01,Alex Bolt,Evan Zhu,0.686,0.657,W
 2026-10-01,Marat Sharipov,Andre Ilagan,0.725,0.701,L
+2026-10-01,Federico Cina,Elias Ymer,0.754,0.738,W
 2026-10-01,Dane Sweeny,Petr Bar Biryukov,0.728,0.701,W
 2026-10-01,Dominic Stricker,Henry Bernet,0.537,0.546,L
 2026-10-01,Harold Mayot,Tristan Schoolkate,0.586,0.589,W
