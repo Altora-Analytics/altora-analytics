@@ -1,1 +1,6 @@
 tools/bin/gh.exe
+
+# never publish working backups (2026-10-02)
+*.bak*
+*.retired
+*.orig
