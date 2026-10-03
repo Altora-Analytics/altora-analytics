@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Altora systematic trading record: three uncorrelated books, combined backtest Sharpe 1.5 (2011–2026), live on demo.">
+<meta name="description" content="Altora systematic trading record: three uncorrelated books, combined backtest Sharpe 1.3 (2011–2026, net of measured costs and financing), live on demo.">
 <title>Trading Record — Altora Analytics</title>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Altora Analytics">
 <meta property="og:title" content="Trading Record — Altora Analytics">
-<meta property="og:description" content="Altora systematic trading record: three uncorrelated books, combined backtest Sharpe 1.5 (2011–2026), live on demo.">
+<meta property="og:description" content="Altora systematic trading record: three uncorrelated books, combined backtest Sharpe 1.3 (2011–2026, net of measured costs and financing), live on demo.">
 <meta property="og:url" content="https://altoraanalytics.com/record-trading.html">
 <meta property="og:image" content="https://altoraanalytics.com/assets/og.png">
 <meta property="og:image:width" content="1200">
@@ -80,36 +80,50 @@
   <div class="combined">
     <h2>The combined book: what the three sleeves add up to</h2>
     <div class="stats">
-      <div class="stat"><b>0.92</b><span>backtest Sharpe<br>2011–26, net</span></div>
-      <div class="stat"><b>1.69</b><span>Sharpe, held-out<br>era 2023–26</span></div>
-      <div class="stat"><b>12 / 16</b><span>positive years</span></div>
+      <div class="stat"><b>1.30</b><span>backtest Sharpe<br>2011–26, net</span></div>
+      <div class="stat"><b>2.13</b><span>Sharpe, held-out<br>era 2023–26</span></div>
+      <div class="stat"><b>13 / 16</b><span>positive years</span></div>
       <div class="stat"><b>~0</b><span>cross-book<br>correlation</span></div>
     </div>
-    <p>Risk-parity blend of the three sleeves, net of estimated spread costs. The sleeves are
-      genuinely orthogonal (monthly correlations of −0.05 to +0.19 between them), which is why
-      the combined book beats every sleeve on its own, at a smaller drawdown than any of them.</p>
+    <p>Risk-parity blend of the three sleeves (each scaled to the same volatility), net of measured
+      spreads and the overnight financing of every day held. The sleeves are genuinely orthogonal
+      (monthly correlations of −0.10 to +0.17 between them), which is why the combined book beats
+      every sleeve on its own. Run at 10% annual volatility, its worst peak-to-trough was −26%.
+      Before 2023 the blend's Sharpe was 0.97; the held-out figure is flattered by an unusually
+      good recent stretch for index and gold trends.</p>
     <p style="font-size:12.5px;color:var(--orange);max-width:64ch;margin:12px auto 0;text-align:center">
-      Corrected 1 August 2026, downwards. The previous figures here (1.52 and 2.10) came from
+      Revised 3 October 2026. A full re-test after we found and fixed several bugs: three strategy
+      engines compared different instruments when our price files were sorted by date; the live bots
+      acted on stop and target exits one candle late; financing was mis-modelled (one tool over-charged
+      FX six-fold, others applied today's rates to all of history), and is now charged at historical
+      rates for every day held; and the commodities bot could not trade markets that were shut at its
+      run time for about a month. Every number on this page now uses the corrected engines, measured
+      spreads and full financing, on OANDA's costs (on IG's lower costs the blend is 1.41). The
+      construction is simpler than August's (equal risk per trade in each book), so the figures are not
+      directly comparable. The live record below is what actually matters.</p>
+    <p style="font-size:12px;color:var(--muted);max-width:64ch;margin:10px auto 0;text-align:center">
+      Earlier: corrected 1 August 2026, downwards. The previous figures here (1.52 and 2.10) came from
       a script that no longer exists and used an indices input backtested with almost no
       trading cost. We rebuilt the whole blend to mirror what the three live bots actually do:
       their real engine rosters, their own rebalance rules, real measured spreads, and
       commodity carry. The rebuilt figures are what you see above, with twelve of sixteen
-      years positive and a 21% maximum drawdown at the blend level. Overnight financing on FX
-      and indices is still not modelled, so even these numbers are slightly flattered, and we
-      say so. Full detail on the corrections page.</p>
+      years positive and a 21% maximum drawdown at the blend level. Full detail on the corrections page.</p>
   </div>
   <div class="books">
     <div class="book"><span class="bi">💱</span><b>FX</b><span class="style">mean-reversion + momentum · 4h</span>
-      <span class="sharpe">0.85</span><span class="slab">backtest Sharpe 2011–26</span>
-      <p>11 major pairs (EUR/USD, GBP/USD, USD/JPY, the yen &amp; euro crosses…). Seven rule-locked
-        edges: RSI exhaustion, currency-strength divergence, price-action reversal, pullback
-        quality, volatility breakout, plus weekly CFTC positioning and cross-sectional rotation.</p>
-      <p class="mut">Two-sided · rebalances every 4 hours · volatility-targeted sizing</p></div>
+      <span class="sharpe">0.61</span><span class="slab">backtest Sharpe 2011–26<br>before 2023 0.39 · 2023–26 1.09</span>
+      <p>11 major pairs (EUR/USD, GBP/USD, USD/JPY, the yen &amp; euro crosses…). Six rule-locked
+        edges: RSI exhaustion, price-action structure breaks, pullback quality, volatility breakout,
+        weekly CFTC positioning and cross-sectional currency rotation. (Currency-strength divergence
+        was removed on 21 September 2026 after it lost money in both halves of the history.)</p>
+      <p class="mut">Two-sided · checks every 4 hours · fixed risk per trade · thin edge per trade, so it is the most cost-sensitive book</p></div>
     <div class="book"><span class="bi">📊</span><b>Indices &amp; metals</b><span class="style">trend · daily</span>
-      <span class="sharpe">0.77</span><span class="slab">backtest Sharpe 2011–26<br>net of real spreads</span>
+      <span class="sharpe">1.05</span><span class="slab">backtest Sharpe 2011–26<br>before 2023 0.69 · 2023–26 1.85</span>
       <p>S&amp;P 500, Nasdaq 100, DAX, Nikkei 225, gold and silver. Seven trend/dip engines
-        (Donchian breakout, momentum burst, RSI trend-dip, turn-of-month…) plus two event
-        overlays: pre-FOMC drift and an equity positioning (COT) tilt.</p>
+        (Donchian breakout, momentum burst, RSI trend-dip, turn-of-month…), long only, exactly as the
+        live bot trades. The two event overlays once listed here (pre-FOMC drift and a COT tilt) were
+        switched off in August 2026 after failing their re-tests. Revised 3 October 2026 (see note above);
+        the history of this book's earlier figures is below.</p>
       <p class="mut" style="color:var(--orange)">Corrected 31 July 2026, downwards. This book
         previously showed 1.19. That figure came from a script we can no longer find, and the
         surviving code it was built on charged index CFDs a foreign-exchange spread of 0.0001
@@ -120,11 +134,12 @@
         longer exists, so we publish the number we can defend rather than the one we liked.</p>
       <p class="mut">Long-only · rebalances daily · volatility-targeted sizing</p></div>
     <div class="book"><span class="bi">🛢️</span><b>Commodities</b><span class="style">trend · daily</span>
-      <span class="sharpe">0.66</span><span class="slab">backtest Sharpe 2011–26</span>
-      <p>Brent, WTI, natural gas, corn, soybeans, wheat, sugar, copper, platinum, palladium.
-        Six trend engines (volatility expansion, trend continuation, breakout, range compression…)
-        with a fixed trailing-stop exit.</p>
-      <p class="mut">Two-sided · rebalances daily · volatility-targeted sizing</p></div>
+      <span class="sharpe">0.62</span><span class="slab">backtest Sharpe 2011–26<br>before 2023 0.63 · 2023–26 0.56</span>
+      <p>Brent, WTI, natural gas, corn, soybeans, wheat and sugar. Four trend engines (volatility
+        expansion, higher-timeframe volatility expansion, multi-timeframe pullback, trend pullback)
+        with a 3×ATR trailing-stop exit. Copper, platinum and palladium were removed after losing in
+        both halves of the history; most of the edge comes from oil.</p>
+      <p class="mut">Two-sided · rebalances daily · fixed risk per trade (halved to 0.5% in October 2026)</p></div>
   </div>
   <!-- LIVE-RECORD-START -->
   <div class="method" id="live-record">
@@ -134,23 +149,24 @@
           <th style="text-align:right;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:6px 8px">Started with</th>
           <th style="text-align:right;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:6px 8px">Net P&amp;L</th>
           <th style="text-align:right;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:6px 8px">NAV now</th></tr>
-      <tr><td>FX</td><td class="num">£4,000</td><td class="num" style="color:var(--green)">+£71.64 (+1.79%)</td><td class="num">£4,071.65</td></tr><tr><td>Indices & metals</td><td class="num">£10,500</td><td class="num" style="color:var(--red)">−£85.09 (−0.81%)</td><td class="num">£10,414.91</td></tr><tr><td>Commodities</td><td class="num">£5,000</td><td class="num" style="color:var(--red)">−£773.52 (−15.47%)</td><td class="num">£4,226.48</td></tr>
+      <tr><td>FX</td><td class="num">£4,000</td><td class="num" style="color:var(--red)">−£9.34 (−0.23%)</td><td class="num">£3,990.66</td></tr><tr><td>Indices & metals</td><td class="num">£10,500<br><span style="font-size:11px;color:var(--muted)">+ £4,633 added 1 Oct</span></td><td class="num" style="color:var(--red)">−£39.86 (−0.38%)</td><td class="num">£15,093.14</td></tr><tr><td>Commodities</td><td class="num">£5,000</td><td class="num" style="color:var(--red)">−£1,003.17 (−20.06%)</td><td class="num">£3,996.83</td></tr>
       <tr><td style="padding:8px;font-weight:800;color:var(--white)">Portfolio</td><td></td>
-          <td class="num" style="font-weight:800;color:var(--red)">−£786.97 (−4.04%)</td>
-          <td class="num">£19500.0 deployed</td></tr>
+          <td class="num" style="font-weight:800;color:var(--red)">−£1052.37 (−4.36%)</td>
+          <td class="num">£24133.0 deployed</td></tr>
       <tr><td colspan="4" style="padding:14px 8px 4px;font-size:10.5px;letter-spacing:.1em;
           text-transform:uppercase;color:var(--muted)">Under evaluation — not in the portfolio figure</td></tr>
-      <tr><td>simple_trader</td><td class="num">£25,000</td><td class="num" style="color:var(--red)">−£327.87 (−1.31%)</td><td class="num">£24,672.13</td></tr><tr><td>Explorer v2</td><td class="num">£10,000</td><td class="num" style="color:var(--green)">+£1,686.90 (+16.87%)</td><td class="num">£11,686.90</td></tr>
+      <tr><td>simple_trader</td><td class="num">£25,000</td><td class="num" style="color:var(--red)">−£28.75 (−0.11%)</td><td class="num">£24,971.25</td></tr><tr><td>Explorer v2</td><td class="num">£10,000</td><td class="num" style="color:var(--green)">+£3,080.14 (+30.8%)</td><td class="num">£13,080.15</td></tr>
     </table>
     <p style="font-size:12px;color:var(--muted);margin-top:8px"><b>simple_trader</b> is a
     from-scratch lab running classic indicators, and <b>Explorer v2</b> is a candidate bench
-    whose rules were frozen before it started, with a verdict due 1 December 2026. Neither is
+    whose rules were frozen before it started, with a verdict due 15 December 2026. Neither is
     a validated book yet, so neither counts toward the portfolio return above — but both are
     published here for the same reason everything else is.</p>
     <p style="font-size:12px;color:var(--muted);margin-top:10px">Demo accounts, verified against
     the broker's own transaction history and marked to live NAV. Live since mid-June 2026 —
     a sample this young is mostly noise, which is why it updates weekly whether it flatters
-    us or not. Updated 28 Sep 2026.</p>
+    us or not. Where capital was added to a running book it is shown under its starting figure and is
+    not counted as profit. Updated 03 Oct 2026.</p>
   </div>
 <!-- LIVE-RECORD-END -->
   <p class="note">Execution-timing disclosure: live results before 7 August 2026 carry an
