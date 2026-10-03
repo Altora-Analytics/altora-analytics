@@ -3,8 +3,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-03,Denis Shapovalov,Alejandro Tabilo,0.575,0.580,W
 2026-10-03,Matteo Berrettini,Adolfo Daniel Vallejo,0.610,0.590,L
 2026-10-03,Ann Li,Ashlyn Krueger,0.523,0.540,W
+2026-10-03,Elena Rybakina,Alina Charaeva,0.969,0.938,L
 2026-10-03,Qinwen Zheng,Anna Kalinskaya,0.625,0.612,W
 2026-10-03,Katie Volynets,Elise Mertens,0.510,0.474,L
+2026-10-03,Marie Bouzkova,Kimberly Birrell,0.675,0.662,W
+2026-10-03,Sonay Kartal,Xinyu Wang,0.506,0.514,W
 2026-10-03,Maria Sakkari,Storm Hunter,0.699,0.694,W
 2026-10-03,Paula Badosa,Jelena Ostapenko,0.589,0.592,L
 2026-10-03,Elina Svitolina,Katerina Siniakova,0.754,0.752,W
@@ -12,13 +15,29 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-03,Belinda Bencic,Anastasia Zakharova,0.804,0.793,W
 2026-10-03,Donna Vekic,Lin Zhu,0.618,0.629,W
 2026-10-03,Andrey Rublev,Roman Safiullin,0.582,0.575,W
+2026-10-03,Iva Jovic,Harriet Dart,0.918,0.901,W
+2026-10-03,Jakub Mensik,Francisco Cerundolo,0.632,0.640,L
 2026-10-03,Iga Swiatek,Xinyu Gao,0.962,0.965,W
 2026-10-03,Lloyd Harris,Alex Bolt,0.843,0.836,W
 2026-10-03,Nys/Roger-Vasselin,Hijikata/Uesugi,0.694,0.683,L
 2026-10-03,Jessica Bouzas Maneiro,Aliona Falei,0.766,0.753,W
+2026-10-03,Daniil Medvedev,Jan-Lennard Struff,0.844,0.836,W
 2026-10-03,Mattia Bellucci,Yanki Erel,0.800,0.768,W
+2026-10-03,Inaki Montes-De La Torr,David Jorda Sanchis,0.729,0.711,W
+2026-10-03,Vitaliy Sachko,Samuele Pieri,0.782,0.755,L
+2026-10-03,Sascha Gueymard Wayenbu,Joel Schwaerzler,0.591,0.595,W
+2026-10-03,Juan Cruz Martin Manzan,Matthew William Donald,0.545,0.542,W
+2026-10-03,Dylan Dietrich,Andres Andrade,0.632,0.624,W
 2026-10-03,Cabral/Tracy,Cash/Erler,0.572,0.581,L
+2026-10-03,Lois Boisson,Erika Andreeva,0.704,0.691,W
+2026-10-03,Marcelo Tomas Barrios V,Guido Ivan Justo,0.673,0.675,L
 2026-10-03,Charo Esquiva Banuls,Amandine Hesse,0.567,0.577,W
+2026-10-03,Valentina Ivanov,Celia Cervino Ruiz,0.562,0.574,W
+2026-10-03,Isis Van Den Broek,Sada Nahimana,0.537,0.534,W
+2026-10-03,Clement Chidekh,Henry Bernet,0.611,0.612,W
+2026-10-03,Britt Du Pree,Salma Djoubri,0.797,0.795,W
+2026-10-03,Antonia Ruzic,Leolia Jeanjean,0.566,0.573,L
+2026-10-03,Henrique Rocha,Jerome Kym,0.593,0.582,VOID
 2026-10-02,Novak Djokovic,Yunchaokete Bu,0.786,0.750,W
 2026-10-02,Linda Noskova,Elena-Gabriela Ruse,0.784,0.759,W
 2026-10-02,Naomi Osaka,Maria Timofeeva,0.782,0.769,W
@@ -46,7 +65,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-02,Stefanos Tsitsipas,Valentin Vacherot,0.591,0.590,L
 2026-10-02,Luciano Darderi,Kyrian Jacquet,0.537,0.547,L
 2026-10-02,Arthur Fils,Frances Tiafoe,0.732,0.708,W
+2026-10-02,Jiri Lehecka,Ugo Humbert,0.611,0.618,W
 2026-10-02,Alex De Minaur,Quentin Halys,0.739,0.713,W
+2026-10-02,Alexander Zverev,Juncheng Shang,0.944,0.911,W
 2026-10-02,Sara Sorribes Tormo,Aliona Falei,0.563,0.569,L
 2026-10-02,Joel Schwaerzler,Lucas Poullain,0.605,0.586,W
 2026-10-02,Dane Sweeny,Alex Bolt,0.521,0.537,L
