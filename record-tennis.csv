@@ -3,10 +3,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-04,Arthur Fils,Valentin Vacherot,0.785,0.776,L
 2026-10-04,Linda Noskova,Viktorija Golubic,0.886,0.873,W
 2026-10-04,Dayana Yastremska,Sinja Kraus,0.721,0.708,L
+2026-10-04,Karolina Muchova,Liudmila Samsonova,0.791,0.769,W
 2026-10-04,Daria Snigur,Taylah Preston,0.598,0.596,W
 2026-10-04,Diana Shnaider,Ekaterina Alexandrova,0.668,0.667,L
 2026-10-04,Mirra Andreeva,Polina Kudermetova,0.938,0.917,W
 2026-10-04,Aryna Sabalenka,Nikola Bartunkova,0.868,0.853,L
+2026-10-04,Naomi Osaka,Sara Bejlek,0.736,0.728,W
 2026-10-04,Karen Khachanov,Hubert Hurkacz,0.595,0.583,L
 2026-10-04,Julieta Pareja,Madison Brengle,0.704,0.693,L
 2026-10-04,Arribage/Olivetti,Hijikata/Uesugi,0.615,0.625,W
@@ -17,13 +19,35 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-04,Ajeet Rai,Grigoriy Lomakin,0.749,0.724,L
 2026-10-04,Ryuki Matsuda,Sergey Betov,0.896,0.844,W
 2026-10-04,Jiri Lehecka,Adolfo Daniel Vallejo,0.708,0.697,W
+2026-10-04,Henrique Rocha,Inaki Montes-De La Torr,0.660,0.642,W
+2026-10-04,Alexander Zverev,Novak Djokovic,0.742,0.727,L
 2026-10-04,Daniil Medvedev,Francisco Cerundolo,0.695,0.694,W
+2026-10-04,Clement Chidekh,Sascha Gueymard Wayenbu,0.552,0.550,W
+2026-10-04,Diego Dedura-Palomero,Vadym Ursu,0.691,0.684,W
+2026-10-04,Federico Arnaboldi,Andrea De Marchi,0.626,0.620,W
+2026-10-04,Marko Topo,Niels Visker,0.562,0.556,W
 2026-10-04,Ryan Seggerman,Naoki Tajima,0.953,0.903,W
 2026-10-04,Kosuke Ogura,Yuta Kikuchi,0.560,0.572,L
+2026-10-04,Anastasia Tikhonova,Mariia Tkacheva,0.628,0.618,L
+2026-10-04,Gabriel Ghetu,Ignacio Parisca Romera,0.548,0.557,L
+2026-10-04,Matyas Cerny,Fabrizio Andaloro,0.527,0.526,W
+2026-10-04,Dominik Recek,Christian Langmo,0.507,0.521,L
 2026-10-04,Georgii Kravchenko,Sergi Fita Juan,0.842,0.829,W
 2026-10-04,Vladyslav Orlov,Guilherme Valdoleiros,0.942,0.905,W
 2026-10-04,Oliver Tarvet,Mathys Erhard,0.769,0.761,W
+2026-10-04,Alex Marti Pujolras,Filippo Moroni,0.589,0.589,L
+2026-10-04,Patrick Schoen,Alberto Barroso Campos,0.789,0.752,W
+2026-10-04,Philip Henning,Thijs Boogaard,0.680,0.656,W
+2026-10-04,Ben Hassan,Rafael Izquierdo Luque,0.825,0.814,W
+2026-10-04,Hynek Barton,Stefan Latinovic,0.956,0.902,W
+2026-10-04,Filip Pieczonka,Adrian Oetzbach,0.716,0.679,W
+2026-10-04,Oleksii Krutykh,Francisco Rocha,0.743,0.739,W
+2026-10-04,Mili Poljicak,Patrick Brady,0.561,0.551,W
+2026-10-04,Dylan Dietrich,Abdullah Shelbayh,0.698,0.680,W
+2026-10-04,Lisa Pigato,Eva Vedder,0.613,0.617,W
+2026-10-04,Charo Esquiva Banuls,Valentina Ivanov,0.691,0.659,W
 2026-10-04,Tatjana Maria,Ella McDonald,0.861,0.810,VOID
+2026-10-04,Caroline Werner,Zhibek Kulambayeva,0.712,0.676,VOID
 2026-10-03,Carlos Alcaraz,Matteo Arnaldi,0.968,0.941,W
 2026-10-03,Denis Shapovalov,Alejandro Tabilo,0.575,0.580,W
 2026-10-03,Matteo Berrettini,Adolfo Daniel Vallejo,0.610,0.590,L
