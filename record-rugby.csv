@@ -1,13 +1,18 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-04,North Harbour,Bay of Plenty,0.517,0.412,L
+2026-10-04,Taranaki,Wellington,0.891,,W
 2026-10-03,Northampton Saints,Bristol,0.555,0.548,L
 2026-10-03,Gloucester,Harlequins,0.567,0.650,W
+2026-10-03,Leicester Tigers,Newcastle Red Bulls,0.794,0.782,W
 2026-10-03,Aviron Bayonnais,Stade Francais Paris,0.573,0.609,W
 2026-10-03,Bordeaux Begles,Lyon,0.872,0.866,W
+2026-10-03,Stade Toulousain,Castres Olympique,0.568,0.524,W
 2026-10-03,Racing 92,USA Perpignan,0.852,0.750,W
 2026-10-03,Stade Rochelais,Clermont,0.774,,W
 2026-10-03,Vannes,Section Paloise,0.805,0.468,L
 2026-10-03,Dragons,Scarlets,0.676,0.569,W
 2026-10-03,Lions,Ospreys,0.822,0.793,W
+2026-10-03,Munster,Bulls,0.772,0.572,W
 2026-10-03,Leinster,Sharks,0.519,0.659,L
 2026-10-03,Hawke's Bay,Counties Manukau,0.590,,L
 2026-10-03,Canterbury,Manawatu,0.673,,W
