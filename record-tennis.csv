@@ -1,5 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-04,Jaume Munar,Kyrian Jacquet,0.595,0.590,W
+2026-10-04,Arthur Fils,Valentin Vacherot,0.785,0.776,L
 2026-10-04,Linda Noskova,Viktorija Golubic,0.886,0.873,W
 2026-10-04,Dayana Yastremska,Sinja Kraus,0.721,0.708,L
 2026-10-04,Daria Snigur,Taylah Preston,0.598,0.596,W
@@ -11,9 +12,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-04,Arribage/Olivetti,Hijikata/Uesugi,0.615,0.625,W
 2026-10-04,Carlos Alcaraz,Denis Shapovalov,0.912,0.866,W
 2026-10-04,Lloyd Harris,Mattia Bellucci,0.516,0.534,W
+2026-10-04,Alex De Minaur,Andrey Rublev,0.510,0.533,W
+2026-10-04,Arends/Pel,Bublik/Shang,0.707,0.684,W
 2026-10-04,Ajeet Rai,Grigoriy Lomakin,0.749,0.724,L
+2026-10-04,Ryuki Matsuda,Sergey Betov,0.896,0.844,W
+2026-10-04,Jiri Lehecka,Adolfo Daniel Vallejo,0.708,0.697,W
+2026-10-04,Daniil Medvedev,Francisco Cerundolo,0.695,0.694,W
 2026-10-04,Ryan Seggerman,Naoki Tajima,0.953,0.903,W
 2026-10-04,Kosuke Ogura,Yuta Kikuchi,0.560,0.572,L
+2026-10-04,Georgii Kravchenko,Sergi Fita Juan,0.842,0.829,W
+2026-10-04,Vladyslav Orlov,Guilherme Valdoleiros,0.942,0.905,W
+2026-10-04,Oliver Tarvet,Mathys Erhard,0.769,0.761,W
 2026-10-04,Tatjana Maria,Ella McDonald,0.861,0.810,VOID
 2026-10-03,Carlos Alcaraz,Matteo Arnaldi,0.968,0.941,W
 2026-10-03,Denis Shapovalov,Alejandro Tabilo,0.575,0.580,W
@@ -40,6 +49,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-03,Daniil Medvedev,Jan-Lennard Struff,0.844,0.836,W
 2026-10-03,Mattia Bellucci,Yanki Erel,0.800,0.768,W
 2026-10-03,Rina Saigo,Yidi Yang,0.504,0.501,L
+2026-10-03,Kyoka Okamura,Priska Nugroho,0.550,0.558,W
 2026-10-03,Kristiana Sidorova,Katarina Zavatska,0.656,0.649,L
 2026-10-03,Inaki Montes-De La Torr,David Jorda Sanchis,0.729,0.711,W
 2026-10-03,Vitaliy Sachko,Samuele Pieri,0.782,0.755,L
