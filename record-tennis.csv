@@ -10,7 +10,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Iva Jovic,Kamilla Rakhimova,0.794,0.784,W
 2026-10-05,Qinwen Zheng,Marie Bouzkova,0.572,0.581,W
 2026-10-05,Sonay Kartal,Alina Charaeva,0.610,0.621,L
+2026-10-05,Daniel Rincon,Alejo Sanchez Quilez,0.695,0.662,W
+2026-10-05,Pablo Llamas Ruiz,Luca Nardi,0.557,0.557,W
+2026-10-05,Moez Echargui,Raul Brancaccio,0.591,0.593,W
+2026-10-05,Nikolas Sanchez Izquier,Goncalo Marques,0.873,0.855,W
+2026-10-05,Duje Ajdukovic,Filip Cristian Jianu,0.510,0.500,W
 2026-10-05,Alibek Kachmazov,Grigoriy Lomakin,0.974,0.914,W
+2026-10-05,Murkel Dellien,Juan Estevez,0.521,0.517,W
 2026-10-05,Martin Borisiouk,Kristjan Tamm,0.754,0.741,W
 2026-10-05,Keisuke Saitoh,Yusuke Takahashi,0.606,0.601,W
 2026-10-05,Rebecca Sramkova,Alevtina Ibragimova,0.587,0.587,W
@@ -19,8 +25,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Tatiana Prozorova,Ruien Zhang,0.955,0.907,W
 2026-10-05,Claire Liu,Elsa Jacquemot,0.596,0.603,W
 2026-10-05,Carlos Alcaraz,Jaume Munar,0.927,0.876,W
+2026-10-05,Nishesh Basavareddy,Kimmer Coppejans,0.864,0.842,L
+2026-10-05,Dalibor Svrcina,Billy Harris,0.720,0.699,W
+2026-10-05,Aleksandar Vukic,Jie Cui,0.668,0.671,W
 2026-10-05,Ilia Simakin,Luka Pavlovic,0.659,0.659,W
 2026-10-05,Aleksandr Shevchenko,Yoshihito Nishioka,0.649,0.633,L
+2026-10-05,Lloyd Harris,Alex Bolt,0.831,0.813,W
 2026-10-05,Tristan Schoolkate,Dane Sweeny,0.573,0.584,L
 2026-10-05,Martin Damm Jr,Pavel Kotov,0.688,0.653,L
 2026-10-05,Terence Atmane,Bernard Tomic,0.717,0.699,L
@@ -40,14 +50,46 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Chun Hsin Tseng,Nicolas Mejia,0.594,0.593,L
 2026-10-05,Kyrian Jacquet,Tianhui Zhang,0.967,0.935,W
 2026-10-05,Rei Sakamoto,Seongchan Hong,0.752,0.745,W
+2026-10-05,Alexandre Muller,Rio Noguchi,0.625,0.645,W
+2026-10-05,Mattia Bellucci,Elias Ymer,0.795,0.774,W
 2026-10-05,Alex De Minaur,Hubert Hurkacz,0.548,0.542,W
 2026-10-05,Noma Noha Akugue,Elena Micic,0.707,0.673,W
+2026-10-05,Jiri Lehecka,Valentin Vacherot,0.618,0.627,W
 2026-10-05,Olle Wallin,Tiago Cacao,0.639,0.640,W
+2026-10-05,Daniel Siniakov,Yanaki Milev,0.542,0.542,L
+2026-10-05,Fiona Crawley,Lucia Bronzetti,0.589,0.595,W
+2026-10-05,Suzan Lamens,Polina Iatcenko,0.506,0.528,L
+2026-10-05,Dalma Galfi,Julia Grabher,0.614,0.598,W
+2026-10-05,Dominika Salkova,Himeno Sakatsume,0.518,0.515,L
+2026-10-05,Dominic Stricker,Marko Topo,0.693,0.673,W
+2026-10-05,Hugo Grenier,Georgii Kravchenko,0.697,0.665,L
 2026-10-05,Oliver Tarvet,Diego Dedura-Palomero,0.754,0.748,W
+2026-10-05,Filippo Moroni,Ignacio Parisca Romera,0.523,0.519,W
+2026-10-05,Daniil Medvedev,Novak Djokovic,0.590,0.590,L
+2026-10-05,Ben Hassan,Ryan Nijboer,0.575,0.583,L
+2026-10-05,Philip Henning,Iván Marrero Curbelo,0.786,0.751,W
+2026-10-05,Joaquin Aguilar Cardozo,Lorenzo Joaquin Rodrigu,0.890,0.858,W
+2026-10-05,Vilius Gaubas,Joao Domingues,0.838,0.809,W
+2026-10-05,Zsombor Piros,Tristan Boyer,0.612,0.615,W
+2026-10-05,Thiago Monteiro,Elmer Moller,0.513,0.537,L
+2026-10-05,Andrej Martin,Louis Wessels,0.523,0.538,W
 2026-10-05,Johan Nikles,Vladyslav Orlov,0.652,0.646,W
 2026-10-05,Filip Misolic,Patrick Schoen,0.625,0.615,L
 2026-10-05,Mariam Bolkvadze,Mariia Tkacheva,0.545,0.553,W
+2026-10-05,Weronika Falkowska,Caroline Werner,0.508,0.523,L
+2026-10-05,Federico Arnaboldi,Kalin Ivanovski,0.558,0.559,L
+2026-10-05,Oleksii Krutykh,Filip Pieczonka,0.509,0.514,W
+2026-10-05,Javier Barranco Cosano,N  Barrientos,0.740,0.723,W
+2026-10-05,Hynek Barton,Pyotr Nesterov,0.626,0.613,L
+2026-10-05,Maayan Laron,Maddalena Giordano,0.894,0.840,W
+2026-10-05,Matyas Cerny,Dimitris Sakellaridis,0.616,0.613,L
+2026-10-05,Max Hans Rehberg,Mili Poljicak,0.648,0.634,W
+2026-10-05,Alan Magadan,Joao Schiessl,0.519,0.514,L
+2026-10-05,Hernan Casanova,Bernardo Munk Mesa,0.731,0.710,L
+2026-10-05,Mateus Alves,Jose Pereira,0.860,0.818,L
+2026-10-05,Inaki Montes-De La Torr,Damir Dzumhur,0.636,0.638,VOID
 2026-10-05,Gerard Campana Lee,Pedro Vives Marcos,0.521,0.524,VOID
+2026-10-05,Dino Prizmic,Jack Pinnington Jones,0.797,0.756,VOID
 2026-10-04,Jaume Munar,Kyrian Jacquet,0.595,0.590,W
 2026-10-04,Arthur Fils,Valentin Vacherot,0.785,0.776,L
 2026-10-04,Linda Noskova,Viktorija Golubic,0.886,0.873,W
