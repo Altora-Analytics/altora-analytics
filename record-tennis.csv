@@ -1,5 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-05,Akira Santillan,Luca Castelnuovo,0.524,0.507,W
 2026-10-05,Sergey Fomin,Timofei Derepasko,0.744,0.716,L
+2026-10-05,Elina Svitolina,Maria Sakkari,0.741,0.743,W
+2026-10-05,Elise Mertens,Jelena Ostapenko,0.604,0.616,W
 2026-10-05,Iga Swiatek,Donna Vekic,0.910,0.885,W
 2026-10-05,Bolelli/Vavassori,Krajicek/Mektic,0.595,0.584,L
 2026-10-05,Belinda Bencic,Ann Li,0.699,0.698,L
@@ -15,7 +18,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Jia-Jing Lu,Wushuang Zheng,0.565,0.576,L
 2026-10-05,Tatiana Prozorova,Ruien Zhang,0.955,0.907,W
 2026-10-05,Claire Liu,Elsa Jacquemot,0.596,0.603,W
+2026-10-05,Carlos Alcaraz,Jaume Munar,0.927,0.876,W
 2026-10-05,Ilia Simakin,Luka Pavlovic,0.659,0.659,W
+2026-10-05,Aleksandr Shevchenko,Yoshihito Nishioka,0.649,0.633,L
+2026-10-05,Tristan Schoolkate,Dane Sweeny,0.573,0.584,L
+2026-10-05,Martin Damm Jr,Pavel Kotov,0.688,0.653,L
 2026-10-05,Terence Atmane,Bernard Tomic,0.717,0.699,L
 2026-10-05,Stefanos Sakellaridis,Timofey Skatov,0.620,0.629,L
 2026-10-05,Ryan Seggerman,Maxim Zhukov,0.787,0.769,W
@@ -29,8 +36,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Sijia Wei,Kyoka Okamura,0.673,0.645,L
 2026-10-05,Ryuki Matsuda,Yuta Kikuchi,0.707,0.674,L
 2026-10-05,Michael Zheng,Federico Agustin Gomez,0.860,0.835,W
+2026-10-05,Adam Walton,Rigele Te,0.968,0.927,L
 2026-10-05,Chun Hsin Tseng,Nicolas Mejia,0.594,0.593,L
+2026-10-05,Kyrian Jacquet,Tianhui Zhang,0.967,0.935,W
 2026-10-05,Rei Sakamoto,Seongchan Hong,0.752,0.745,W
+2026-10-05,Alex De Minaur,Hubert Hurkacz,0.548,0.542,W
+2026-10-05,Noma Noha Akugue,Elena Micic,0.707,0.673,W
+2026-10-05,Olle Wallin,Tiago Cacao,0.639,0.640,W
+2026-10-05,Oliver Tarvet,Diego Dedura-Palomero,0.754,0.748,W
+2026-10-05,Johan Nikles,Vladyslav Orlov,0.652,0.646,W
+2026-10-05,Filip Misolic,Patrick Schoen,0.625,0.615,L
+2026-10-05,Mariam Bolkvadze,Mariia Tkacheva,0.545,0.553,W
 2026-10-05,Gerard Campana Lee,Pedro Vives Marcos,0.521,0.524,VOID
 2026-10-04,Jaume Munar,Kyrian Jacquet,0.595,0.590,W
 2026-10-04,Arthur Fils,Valentin Vacherot,0.785,0.776,L
