@@ -1,10 +1,37 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-05,Sergey Fomin,Timofei Derepasko,0.744,0.716,L
+2026-10-05,Iga Swiatek,Donna Vekic,0.910,0.885,W
+2026-10-05,Bolelli/Vavassori,Krajicek/Mektic,0.595,0.584,L
+2026-10-05,Belinda Bencic,Ann Li,0.699,0.698,L
+2026-10-05,Beibit Zhukayev,Yaroslav Demin,0.506,0.515,L
+2026-10-05,Iva Jovic,Kamilla Rakhimova,0.794,0.784,W
+2026-10-05,Qinwen Zheng,Marie Bouzkova,0.572,0.581,W
+2026-10-05,Sonay Kartal,Alina Charaeva,0.610,0.621,L
 2026-10-05,Alibek Kachmazov,Grigoriy Lomakin,0.974,0.914,W
 2026-10-05,Martin Borisiouk,Kristjan Tamm,0.754,0.741,W
 2026-10-05,Keisuke Saitoh,Yusuke Takahashi,0.606,0.601,W
+2026-10-05,Rebecca Sramkova,Alevtina Ibragimova,0.587,0.587,W
+2026-10-05,Elvina Kalieva,Yexin Ma,0.554,0.553,W
 2026-10-05,Jia-Jing Lu,Wushuang Zheng,0.565,0.576,L
+2026-10-05,Tatiana Prozorova,Ruien Zhang,0.955,0.907,W
+2026-10-05,Claire Liu,Elsa Jacquemot,0.596,0.603,W
+2026-10-05,Ilia Simakin,Luka Pavlovic,0.659,0.659,W
+2026-10-05,Terence Atmane,Bernard Tomic,0.717,0.699,L
+2026-10-05,Stefanos Sakellaridis,Timofey Skatov,0.620,0.629,L
 2026-10-05,Ryan Seggerman,Maxim Zhukov,0.787,0.769,W
 2026-10-05,Han Shi,Yidi Yang,0.855,0.793,W
+2026-10-05,Roman Safiullin,Alexis Galarneau,0.854,0.827,W
+2026-10-05,Taro Daniel,Shintaro Mochizuki,0.539,0.563,L
+2026-10-05,Lorenzo Sonego,Aziz Dougaz,0.787,0.786,L
+2026-10-05,Hugo Gaston,Liam Draxl,0.593,0.581,L
+2026-10-05,Nikoloz Basilashvili,Andre Ilagan,0.718,0.689,W
+2026-10-05,Federico Cina,Linang Xiao,0.945,0.919,W
+2026-10-05,Sijia Wei,Kyoka Okamura,0.673,0.645,L
+2026-10-05,Ryuki Matsuda,Yuta Kikuchi,0.707,0.674,L
+2026-10-05,Michael Zheng,Federico Agustin Gomez,0.860,0.835,W
+2026-10-05,Chun Hsin Tseng,Nicolas Mejia,0.594,0.593,L
+2026-10-05,Rei Sakamoto,Seongchan Hong,0.752,0.745,W
+2026-10-05,Gerard Campana Lee,Pedro Vives Marcos,0.521,0.524,VOID
 2026-10-04,Jaume Munar,Kyrian Jacquet,0.595,0.590,W
 2026-10-04,Arthur Fils,Valentin Vacherot,0.785,0.776,L
 2026-10-04,Linda Noskova,Viktorija Golubic,0.886,0.873,W
