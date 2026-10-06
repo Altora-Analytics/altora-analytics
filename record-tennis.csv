@@ -1,5 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-06,Mirra Andreeva,Daria Snigur,0.855,0.840,W
+2026-10-06,Max Purcell,Filip Peliwo,0.965,0.925,L
+2026-10-06,Omar Jasika,Martin Borisiouk,0.509,0.496,W
 2026-10-05,Akira Santillan,Luca Castelnuovo,0.524,0.507,W
+2026-10-05,Masamichi Imamura,Kaichi Uchida,0.619,0.623,L
 2026-10-05,Sergey Fomin,Timofei Derepasko,0.744,0.716,L
 2026-10-05,Elina Svitolina,Maria Sakkari,0.741,0.743,W
 2026-10-05,Elise Mertens,Jelena Ostapenko,0.604,0.616,W
@@ -16,12 +20,15 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Nikolas Sanchez Izquier,Goncalo Marques,0.873,0.855,W
 2026-10-05,Duje Ajdukovic,Filip Cristian Jianu,0.510,0.500,W
 2026-10-05,Alibek Kachmazov,Grigoriy Lomakin,0.974,0.914,W
+2026-10-05,Gonzalo Villanueva,Nick Hardt,0.549,0.556,L
 2026-10-05,Murkel Dellien,Juan Estevez,0.521,0.517,W
 2026-10-05,Martin Borisiouk,Kristjan Tamm,0.754,0.741,W
 2026-10-05,Keisuke Saitoh,Yusuke Takahashi,0.606,0.601,W
 2026-10-05,Rebecca Sramkova,Alevtina Ibragimova,0.587,0.587,W
 2026-10-05,Elvina Kalieva,Yexin Ma,0.554,0.553,W
 2026-10-05,Jia-Jing Lu,Wushuang Zheng,0.565,0.576,L
+2026-10-05,Mananchaya Sawangkaew,Linda Fruhvirtova,0.605,0.604,L
+2026-10-05,Zhuoxuan Bai,Moyuka Uchijima,0.502,0.504,W
 2026-10-05,Tatiana Prozorova,Ruien Zhang,0.955,0.907,W
 2026-10-05,Claire Liu,Elsa Jacquemot,0.596,0.603,W
 2026-10-05,Carlos Alcaraz,Jaume Munar,0.927,0.876,W
@@ -73,6 +80,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Zsombor Piros,Tristan Boyer,0.612,0.615,W
 2026-10-05,Thiago Monteiro,Elmer Moller,0.513,0.537,L
 2026-10-05,Andrej Martin,Louis Wessels,0.523,0.538,W
+2026-10-05,Genaro Alberto Olivieri,Valerio Aboian,0.624,0.605,W
 2026-10-05,Johan Nikles,Vladyslav Orlov,0.652,0.646,W
 2026-10-05,Filip Misolic,Patrick Schoen,0.625,0.615,L
 2026-10-05,Mariam Bolkvadze,Mariia Tkacheva,0.545,0.553,W
