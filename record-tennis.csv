@@ -1,9 +1,28 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-06,Mirra Andreeva,Daria Snigur,0.855,0.840,W
+2026-10-06,Linda Noskova,Ekaterina Alexandrova,0.787,0.764,L
 2026-10-06,Max Purcell,Filip Peliwo,0.965,0.925,L
 2026-10-06,Omar Jasika,Martin Borisiouk,0.509,0.496,W
+2026-10-06,Jay Friend,Yuta Kikuchi,0.910,0.880,W
+2026-10-06,Keisuke Saitoh,Dominik Palan,0.694,0.675,W
+2026-10-06,Nikoloz Basilashvili,Liam Draxl,0.578,0.583,W
+2026-10-06,Roman Safiullin,Shintaro Mochizuki,0.830,0.808,W
+2026-10-06,Ryan Seggerman,Hikaru Shiraishi,0.787,0.768,W
+2026-10-06,Renata Zarazua,Han Shi,0.545,0.549,W
+2026-10-06,Oleksandra Oliynykova,Wushuang Zheng,0.724,0.717,W
+2026-10-06,Darja Vidmanova,Kyoka Okamura,0.835,0.803,L
+2026-10-06,Federico Cina,Aziz Dougaz,0.708,0.676,W
+2026-10-06,Bernard Tomic,Timofey Skatov,0.539,0.553,W
+2026-10-06,Michael Zheng,Nicolas Mejia,0.812,0.798,L
+2026-10-06,Arribage/Olivetti,Krajicek/Mektic,0.502,0.496,L
+2026-10-06,Ilia Simakin,Rigele Te,0.859,0.848,W
+2026-10-06,Sarah Van Emst,Sapfo Sakellaridi,0.532,0.550,W
+2026-10-06,Dalibor Svrcina,Yoshihito Nishioka,0.595,0.607,VOID
+2026-10-06,Teodora Kostovic,Noma Noha Akugue,0.691,0.662,VOID
+2026-10-05,Evan Zhu,Koki Matsuda,0.702,0.708,W
 2026-10-05,Akira Santillan,Luca Castelnuovo,0.524,0.507,W
 2026-10-05,Masamichi Imamura,Kaichi Uchida,0.619,0.623,L
+2026-10-05,Keegan Smith,Hiroki Moriya,0.682,0.654,L
 2026-10-05,Sergey Fomin,Timofei Derepasko,0.744,0.716,L
 2026-10-05,Elina Svitolina,Maria Sakkari,0.741,0.743,W
 2026-10-05,Elise Mertens,Jelena Ostapenko,0.604,0.616,W
@@ -11,6 +30,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Bolelli/Vavassori,Krajicek/Mektic,0.595,0.584,L
 2026-10-05,Belinda Bencic,Ann Li,0.699,0.698,L
 2026-10-05,Beibit Zhukayev,Yaroslav Demin,0.506,0.515,L
+2026-10-05,Mitsuki Wei Kang Leong,Sidharth Rawat,0.741,0.737,W
 2026-10-05,Iva Jovic,Kamilla Rakhimova,0.794,0.784,W
 2026-10-05,Qinwen Zheng,Marie Bouzkova,0.572,0.581,W
 2026-10-05,Sonay Kartal,Alina Charaeva,0.610,0.621,L
@@ -27,6 +47,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-05,Rebecca Sramkova,Alevtina Ibragimova,0.587,0.587,W
 2026-10-05,Elvina Kalieva,Yexin Ma,0.554,0.553,W
 2026-10-05,Jia-Jing Lu,Wushuang Zheng,0.565,0.576,L
+2026-10-05,Aliona Falei,Hanyu Guo,0.575,0.580,W
 2026-10-05,Mananchaya Sawangkaew,Linda Fruhvirtova,0.605,0.604,L
 2026-10-05,Zhuoxuan Bai,Moyuka Uchijima,0.502,0.504,W
 2026-10-05,Tatiana Prozorova,Ruien Zhang,0.955,0.907,W
