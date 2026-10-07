@@ -1,8 +1,18 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-07,Akira Santillan,Yaroslav Demin,0.553,0.560,W
 2026-10-07,Claire Liu,Rebecca Sramkova,0.682,0.657,L
+2026-10-07,Iga Swiatek,Iva Jovic,0.654,0.655,W
+2026-10-07,Coco Gauff,Elise Mertens,0.799,0.775,L
 2026-10-07,Marat Sharipov,Omar Jasika,0.823,0.805,L
+2026-10-07,Filip Peliwo,Timofei Derepasko,0.534,0.539,L
+2026-10-07,Aliaksandra Sasnovich,Linda Fruhvirtova,0.663,0.656,W
 2026-10-07,Keisuke Saitoh,Hiroki Moriya,0.509,0.513,W
+2026-10-07,Tatiana Prozorova,Kyoka Okamura,0.803,0.761,L
+2026-10-07,Nikoloz Basilashvili,Adrian Mannarino,0.531,0.538,L
+2026-10-07,Alex Molcan,Federico Cina,0.622,0.602,W
+2026-10-07,Rei Sakamoto,Marco Trungelliti,0.652,0.653,W
+2026-10-07,Jazmin Ortenzi,Laura Mair,0.772,0.771,W
+2026-10-07,Jennifer Ruggeri,Ani Amiraghyan,0.921,0.859,W
 2026-10-06,Nikola Bartunkova,Sinja Kraus,0.821,0.809,W
 2026-10-06,Mirra Andreeva,Daria Snigur,0.855,0.840,W
 2026-10-06,Linda Noskova,Ekaterina Alexandrova,0.787,0.764,L
@@ -12,7 +22,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-06,Jay Friend,Yuta Kikuchi,0.910,0.880,W
 2026-10-06,Keisuke Saitoh,Dominik Palan,0.694,0.675,W
 2026-10-06,Nikoloz Basilashvili,Liam Draxl,0.578,0.583,W
+2026-10-06,Tomas Machac,Zhizhen Zhang,0.718,0.700,W
+2026-10-06,Miomir Kecmanovic,Sho Shimabukuro,0.620,0.620,W
 2026-10-06,Roman Safiullin,Shintaro Mochizuki,0.830,0.808,W
+2026-10-06,Arthur Gea,Jaime Faria,0.668,0.660,W
 2026-10-06,Ryan Seggerman,Hikaru Shiraishi,0.787,0.768,W
 2026-10-06,Renata Zarazua,Han Shi,0.545,0.549,W
 2026-10-06,Tamara Korpatsch,Jia-Jing Lu,0.695,0.690,W
