@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-08,Mirra Andreeva,Ekaterina Alexandrova,0.758,0.758,W
 2026-10-08,Fajing Sun,Kasidit Samrej,0.665,0.643,W
 2026-10-08,Jay Friend,Mitsuki Wei Kang Leong,0.756,0.717,W
 2026-10-08,Ryan Seggerman,Kaichi Uchida,0.756,0.746,W
@@ -7,22 +8,44 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-08,Elvina Kalieva,Tamara Korpatsch,0.510,0.499,W
 2026-10-08,Alibek Kachmazov,Evan Zhu,0.631,0.621,W
 2026-10-08,Matteo Arnaldi,Bernard Tomic,0.693,0.667,W
+2026-10-08,Cameron Norrie,Dalibor Svrcina,0.627,0.616,L
 2026-10-08,Ilia Simakin,Camilo Ugo Carabelli,0.699,0.675,L
 2026-10-08,Stefanos Tsitsipas,Kimmer Coppejans,0.934,0.896,W
 2026-10-08,Tallon Griekspoor,Pavel Kotov,0.683,0.656,L
 2026-10-08,Manuel Cerundolo,Nicolas Mejia,0.691,0.662,W
+2026-10-08,Buvaysar Gadamauri,Yanaki Milev,0.682,0.648,L
+2026-10-08,Lorenzo Giustino,Carlos Sanchez Jover,0.530,0.543,L
+2026-10-08,Francesco Passaro,Carlo Alberto Caniato,0.523,0.523,W
+2026-10-08,Bianca Andreescu,Mariam Bolkvadze,0.793,0.779,W
+2026-10-08,Oliver Tarvet,Laslo Djere,0.641,0.642,L
+2026-10-08,Abdullah Shelbayh,Damir Dzumhur,0.534,0.541,W
 2026-10-08,Borna Gojo,Philip Henning,0.715,0.704,W
+2026-10-08,Simona Waltert,Linda Klimovicova,0.590,0.581,W
+2026-10-08,Anna Blinkova,Caroline Werner,0.863,0.848,W
 2026-10-08,Matej Dodig,Miguel Damas,0.766,0.756,W
+2026-10-08,Max Hans Rehberg,Hynek Barton,0.539,0.548,L
 2026-10-08,Ipek Oz,Alice Rame,0.713,0.678,W
 2026-10-08,Alena Kovackova,Sarah Van Emst,0.781,0.770,W
+2026-10-08,Elizara Yaneva,Sonja Zhenikhova,0.944,0.913,L
 2026-10-08,Tian Jialin,Baotong Xu,0.959,0.927,W
+2026-10-08,Gustavo Heide,Eduardo Ribeiro,0.813,0.802,L
 2026-10-08,Elena Bertea,Martha Matoula,0.549,0.556,L
 2026-10-08,Jazmin Ortenzi,Ilinca Amariei,0.632,0.631,W
 2026-10-08,Luisina Giovannini,Carolina Alves,0.658,0.664,W
 2026-10-08,Nuria Brancaccio,Cristiana Todoni,0.893,0.871,W
+2026-10-08,Ane Mintegi Del Olmo,Jana Kovackova,0.539,0.548,W
+2026-10-08,Federica Urgesi,Iva Ivanova,0.746,0.745,L
+2026-10-08,Jennifer Ruggeri,Raluca Serban,0.712,0.675,W
 2026-10-08,Alisa Oktiabreva,Lola Giza,0.926,0.903,W
 2026-10-08,Max Alcalà Gurri,Patrick Schoen,0.719,0.704,W
+2026-10-08,Francesca Curmi,Miriam Bulgaru,0.817,0.785,W
 2026-10-08,Maria Martinez Vaquero,Milana Ivantsiv,0.956,0.913,W
+2026-10-08,Lukas Neumayer,Olle Wallin,0.730,0.692,W
+2026-10-08,Valeria Savinykh,Arina Arifullina,0.806,0.791,L
+2026-10-08,Britt Du Pree,Carlotta Moccia,0.958,0.914,W
+2026-10-08,Maaya Rajeshwaran Revathi,Berta Bonardi,0.921,0.872,W
+2026-10-08,Luka Mikrut,Oleksii Krutykh,0.827,0.813,W
+2026-10-08,Marvin Moeller,Ryan Nijboer,0.681,0.679,W
 2026-10-08,Yelyzaveta Kotliar,Kateryna Lazarenko,0.696,0.677,VOID
 2026-10-07,Akira Santillan,Yaroslav Demin,0.553,0.560,W
 2026-10-07,Claire Liu,Rebecca Sramkova,0.682,0.657,L
@@ -31,6 +54,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-07,Qinwen Zheng,Alina Charaeva,0.768,0.764,W
 2026-10-07,Dalma Galfi,Polina Iatcenko,0.517,0.531,L
 2026-10-07,Coco Gauff,Elise Mertens,0.799,0.775,L
+2026-10-07,Zsombor Piros,Elmer Moller,0.596,0.592,L
 2026-10-07,Marat Sharipov,Omar Jasika,0.823,0.805,L
 2026-10-07,Filip Peliwo,Timofei Derepasko,0.534,0.539,L
 2026-10-07,Aliaksandra Sasnovich,Linda Fruhvirtova,0.663,0.656,W
@@ -56,6 +80,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-07,Lucrezia Stefanini,Noma Noha Akugue,0.631,0.624,W
 2026-10-07,Thiago Seyboth Wild,Murkel Dellien,0.863,0.847,W
 2026-10-07,Daniil Glinka,Moez Echargui,0.555,0.565,W
+2026-10-07,Jack Pinnington Jones,Joel Schwaerzler,0.555,0.551,W
 2026-10-07,Matheus Pucinelli De Al,Genaro Alberto Olivieri,0.695,0.692,W
 2026-10-07,Martha Matoula,Tilwith Di Girolami,0.689,0.670,W
 2026-10-07,Jennifer Ruggeri,Ani Amiraghyan,0.921,0.859,W
@@ -86,6 +111,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-06,Holger Rune,Daniel Altmaier,0.693,0.679,L
 2026-10-06,Arthur Fery,Marin Cilic,0.597,0.595,W
 2026-10-06,Miomir Kecmanovic,Sho Shimabukuro,0.620,0.620,W
+2026-10-06,Martin Landaluce,Jan-Lennard Struff,0.518,0.507,L
+2026-10-06,Botic Van de Zandschulp,Daniel Merida,0.513,0.502,W
 2026-10-06,Roman Safiullin,Shintaro Mochizuki,0.830,0.808,W
 2026-10-06,Hubert Hurkacz,James Duckworth,0.709,0.708,W
 2026-10-06,Arthur Gea,Jaime Faria,0.668,0.660,W
