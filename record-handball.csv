@@ -562,11 +562,11 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-02,Starligue,Tremblay,Selestat,total,Over 64.25,0.5475,model,0
 2026-10-02,Division 1,MK Holon,Hapoel Ashdod,total,Under 64.5,0.5477,model,1
 2026-10-02,Liga ASOBAL,Morrazo Cangas,Atl. Valladolid,total,Over 58.5,0.5517,model,1
-2026-10-02,Handbollsligan,Karlskrona,Amo HK,total,Under 64.5,0.5552,model,1
+2026-10-02,Liga Nationala,Timisoara,Din. Bucuresti,total,Over 58.25,0.5554,model,0
 2026-10-02,Proligue,Valence,Besancon,total,Over 63.5,0.5575,model,1
 2026-10-02,Proligue,Cherbourg,Istres,total,Over 61.5,0.5866,model,0
 2026-10-02,2. Bundesliga,Essen,Leipzig,total,Under 61.5,0.5878,model,0
-2026-10-02,Liga Nationala,Timisoara,Din. Bucuresti,total,Over 58.25,0.5554,model,0
+2026-10-02,Handbollsligan,Karlskrona,Amo HK,total,Under 64.5,0.5552,model,1
 2026-10-02,Starligue,Caen,St. Raphael,total,Under 62.5,0.6048,model,0
 2026-10-02,Herre Handbold Ligaen,Sonderjyske,Ringsted,total,Under 64.25,0.5986,model,0
 2026-10-02,1. Division,Odder,Raekker Molle,match,Raekker Molle,0.4811,model,1
@@ -576,16 +576,16 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-02,Liga ASOBAL,Caserio Ciudad Real,Ademar,total,Over 61.5,0.628,model,1
 2026-10-02,Proligue,Dijon,Creteil,total,Under 63.5,0.619,model,1
 2026-10-02,1. Division,Odder,Raekker Molle,total,Over 59.25,0.5434,model,1
-2026-10-03,Herre Handbold Ligaen,Mors,Nordsjaelland,match,Mors,0.6615,blend,0
+2026-10-03,Bundesliga,MT Melsungen,Hannover-Burgdorf,match,MT Melsungen,0.6933,blend,1
 2026-10-03,Division de Honor Plata,Burgos,Benidorm,match,Burgos,0.6116,blend,1
 2026-10-03,Division de Honor Plata,Cisne,Contazara Zaragoza,match,Cisne,0.6166,blend,1
 2026-10-03,NLA,Zurich,Pfadi Winterthur,match,Pfadi Winterthur,0.6276,blend,1
 2026-10-03,Division de Honor Women,Malaga W,Gran Canaria W,match,Gran Canaria W,0.6308,blend,0
 2026-10-03,Herre Handbold Ligaen,Kolding,Skjern,match,Skjern,0.6464,blend,1
 2026-10-03,HLA,Voslauer,Krems,match,Voslauer,0.652,blend,1
+2026-10-03,Herre Handbold Ligaen,Mors,Nordsjaelland,match,Mors,0.6615,blend,0
 2026-10-03,2. Bundesliga,Grosswallstadt,Emsdetten,match,Grosswallstadt,0.6097,blend,1
 2026-10-03,Division de Honor Plata,Burgos,Benidorm,hcap,Burgos — draw no bet,0.7131,blend,1
-2026-10-03,1. NLB Liga,Krka,Slovenj Gradec,hcap,Krka -0.5,0.524,blend,1
 2026-10-03,Liga Nationala,Cluj,Steaua Bucuresti,hcap,Steaua Bucuresti -0.5,0.5419,blend,0
 2026-10-03,Herre Handbold Ligaen,Bjerringbro/Silkeborg,Skanderborg AGF,hcap,Skanderborg AGF -0.5,0.5588,blend,0
 2026-10-03,HLA,Fuchse,Aon Fivers,hcap,Fuchse +1.25,0.5707,blend,0
@@ -594,9 +594,9 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-03,Handbollsligan,Ystads IF,Malmo,hcap,Ystads IF +1.25,0.6356,blend,1
 2026-10-03,Starligue,Cesson Rennes-Metropole,Limoges,hcap,Limoges — draw no bet,0.6408,blend,1
 2026-10-03,Herre Handbold Ligaen,GOG,Aalborg,match,Aalborg,0.5996,blend,0
-2026-10-03,2. Bundesliga,Nordhorn-Lingen,Hagen,hcap,Nordhorn-Lingen +0.5,0.5032,blend,0
+2026-10-03,1. NLB Liga,Krka,Slovenj Gradec,hcap,Krka -0.5,0.524,blend,1
 2026-10-03,Proligue,Sarrebourg,Massy Essonne,match,Sarrebourg,0.5985,blend,1
-2026-10-03,Bundesliga,MT Melsungen,Hannover-Burgdorf,match,MT Melsungen,0.6933,blend,1
+2026-10-03,2. Bundesliga,Nordhorn-Lingen,Hagen,hcap,Nordhorn-Lingen +0.5,0.5032,blend,0
 2026-10-03,HLA,Fuchse,Aon Fivers,match,Fuchse,0.5532,blend,0
 2026-10-03,Starligue,Cesson Rennes-Metropole,Limoges,match,Limoges,0.5808,blend,1
 2026-10-03,Liga ASOBAL,Barcelona,Horneo Alicante,total,Over 68,0.5257,blend,1
@@ -648,36 +648,37 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-06,Superleague,Dinamo Astrakhan,Chekhovskiye Medvedi,total,Over 60,0.5597,blend,1
 2026-10-06,EHF European League,Hammarby,Nexe,match,Nexe,0.5823,blend,0
 2026-10-06,EHF European League,Kadetten Schaffhausen,Izvidac,total,Under 67.5,0.5413,blend,0
-2026-10-06,EHF European League,Maritimo,CD Bidasoa Irun,total,Under 62.5,0.5105,blend,0
+2026-10-06,NB I,Szeged,Csurgoi,total,Over 63.75,0.5172,blend,0
 2026-10-06,EHF European League,Sesvete,Presov,total,Under 61.5,0.5353,blend,0
 2026-10-06,EHF European League,Torrelavega,Karvina,total,Over 59.5,0.5279,blend,1
 2026-10-06,EHF European League,La Rioja,Gummersbach,total,Under 63.75,0.5266,blend,0
 2026-10-06,EHF European League,FH Hafnarfjordur,Limoges,total,Over 65.25,0.5181,blend,1
 2026-10-06,EHF European League,St. Raphael,Elverum,total,Under 62.5,0.518,blend,0
-2026-10-06,NB I,Szeged,Csurgoi,total,Over 63.75,0.5172,blend,0
+2026-10-06,EHF European League,Maritimo,CD Bidasoa Irun,total,Under 62.5,0.5105,blend,0
 2026-10-06,EHF European League,Wybrzeze Gdansk,Eurofarm Pelister,total,Over 58.5,0.508,blend,1
 2026-10-06,EHF European League,Slovan,Valur,total,Under 65.5,0.5056,blend,1
 2026-10-06,EHF European League,CSM Bucuresti,Chambery Savoie,total,Over 63.5,0.5019,blend,0
 2026-10-06,EHF European League,Hammarby,Nexe,total,Under 62.5,0.5016,blend,1
 2026-10-06,EHF European League,Holstebro,Benfica,total,Over 62.5,0.5008,blend,1
 2026-10-06,EHF European League,Mors,Tatabanya,total,Under 64.5,0.5357,blend,0
-2026-10-07,1. Bundesliga Women,Thuringer W,Blomberg-Lippe W,match,Thuringer W,0.4543,blend,0
 2026-10-07,AXA League,Dudelange,Differdange,match,Differdange,0.4675,blend,0
 2026-10-07,Division de Honor Women,Gran Canaria W,Bera Bera W,match,Bera Bera W,0.4725,blend,1
 2026-10-07,1. Bundesliga Women,Leipzig W,Metzingen W,match,Metzingen W,0.4824,blend,1
-2026-10-07,1. Bundesliga Women,Leipzig W,Metzingen W,hcap,Leipzig W +1,0.5808,blend,0
-2026-10-07,1. Bundesliga Women,Thuringer W,Blomberg-Lippe W,hcap,Blomberg-Lippe W +0.5,0.5159,blend,1
+2026-10-07,Superleague,Krasnodar,Perm,match,Perm,0.6391,blend,1
+2026-10-07,Superleague,Krasnodar,Perm,hcap,Perm — draw no bet,0.6351,blend,1
 2026-10-07,Bambusa Kvindeligaen Women,Viborg W,NFH W,hcap,NFH W -0.5,0.5226,blend,0
 2026-10-07,HLA,HSG Graz,Aon Fivers,hcap,Aon Fivers -0.5,0.5305,blend,1
 2026-10-07,Division de Honor Women,Gran Canaria W,Bera Bera W,hcap,Bera Bera W -0.5,0.5659,blend,1
+2026-10-07,1. Bundesliga Women,Leipzig W,Metzingen W,hcap,Leipzig W +1,0.5808,blend,0
+2026-10-07,1. Bundesliga Women,Thuringer W,Blomberg-Lippe W,match,Thuringer W,0.4543,blend,0
+2026-10-07,1. Bundesliga Women,Thuringer W,Blomberg-Lippe W,hcap,Blomberg-Lippe W +0.5,0.5159,blend,1
 2026-10-07,HLA,HSG Graz,Aon Fivers,match,Aon Fivers,0.4464,blend,1
-2026-10-07,Superleague,Krasnodar,Perm,match,Perm,0.6391,blend,1
-2026-10-07,AXA League,Rumelange,Berchem,total,Over 60.5,0.5544,blend,1
-2026-10-07,Division 1 Women,Nice W,Dijon W,total,Under 55.5,0.5187,blend,1
+2026-10-07,Liga Nationala Women,Dunarea Braila W,CSM Bucuresti W,total,Over 56.5,0.5313,blend,0
+2026-10-07,NB I Women,Ferencvaros W,Mosonmagyarovar W,total,Over 61,0.5458,blend,1
 2026-10-07,Liga Nationala Women,Bistrita W,Baia Mare W,total,Over 57.5,0.5437,blend,1
 2026-10-07,Bambusa Kvindeligaen Women,Viborg W,NFH W,total,Over 55.5,0.5389,blend,1
 2026-10-07,AXA League,Esch,Kaerjeng,total,Over 64.5,0.538,blend,0
-2026-10-07,Liga Nationala Women,Dunarea Braila W,CSM Bucuresti W,total,Over 56.5,0.5313,blend,0
+2026-10-07,Division 1 Women,Nice W,Dijon W,total,Under 55.5,0.5187,blend,1
 2026-10-07,Division de Honor Women,Gran Canaria W,Bera Bera W,total,Over 49,0.5175,blend,1
 2026-10-07,Superleague,Krasnodar,Perm,total,Under 60.25,0.5165,blend,0
 2026-10-07,HLA,HSG Graz,Aon Fivers,total,Under 63.25,0.5143,blend,0
@@ -685,5 +686,5 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-07,Superleague,Kaustik,St. Petersburg,total,Over 60.75,0.5071,blend,1
 2026-10-07,1. Bundesliga Women,Thuringer W,Blomberg-Lippe W,total,Under 59.5,0.5064,blend,0
 2026-10-07,1. Bundesliga Women,Leipzig W,Metzingen W,total,Under 58.5,0.503,blend,0
-2026-10-07,NB I Women,Ferencvaros W,Mosonmagyarovar W,total,Over 61,0.5458,blend,1
-2026-10-07,Superleague,Krasnodar,Perm,hcap,Perm — draw no bet,0.6351,blend,1
+2026-10-07,AXA League,Rumelange,Berchem,total,Over 60.5,0.5544,blend,1
+2026-10-08,Liga Nationala,CSM Bucuresti,Minaur Baia Mare,hcap,CSM Bucuresti -0.5,0.5398,blend,1
