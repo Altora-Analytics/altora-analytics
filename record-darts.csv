@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-09,Niels Zonneveld,Bradley Brooks,0.586,0.590,L
+2026-10-09,William O'Connor,Jani Haavisto,0.696,0.713,W
+2026-10-09,Mensur Suljović,Gyorgy Jehirszki,0.752,0.768,W
+2026-10-09,Karel Sedláček,Sebastian Bialecki,0.518,0.510,W
+2026-10-09,Niko Springer,Roman Wellinger,0.844,0.851,W
+2026-10-09,Joe Cullen,Tom Bissell,0.521,0.497,L
+2026-10-09,Cristo Reyes,Cameron Menzies,0.547,0.527,W
+2026-10-09,Rob Cross,Mario Vandenbogaerde,0.697,0.704,W
 2026-10-04,Luke Humphries,Gerwyn Price,0.561,0.542,W
 2026-10-03,Gerwyn Price,Nathan Aspinall,0.621,0.602,W
 2026-10-03,Luke Humphries,James Wade,0.598,0.602,W
