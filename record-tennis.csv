@@ -1,5 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Jakub Mensik,Miomir Kecmanovic,0.755,0.742,W
+2026-10-10,Alexander Bublik,Tomas Machac,0.643,0.642,W
 2026-10-10,Frances Tiafoe,Yannick Hanfmann,0.728,0.705,W
 2026-10-10,Alex De Minaur,Alex Molcan,0.698,0.701,VOID
 2026-10-09,Omar Jasika,Timofei Derepasko,0.765,0.746,W
@@ -10,20 +11,44 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-09,Francisco Cerundolo,Roman Safiullin,0.520,0.513,W
 2026-10-09,Andrey Rublev,Rei Sakamoto,0.762,0.716,L
 2026-10-09,Alexander Zverev,Yibing Wu,0.884,0.869,W
+2026-10-09,Karen Khachanov,Arthur Fery,0.712,0.676,W
 2026-10-09,Elina Svitolina,Qinwen Zheng,0.556,0.564,L
 2026-10-09,Ben Shelton,Daniel Altmaier,0.894,0.870,W
+2026-10-09,Lorenzo Musetti,Yi Zhou,0.821,0.801,L
 2026-10-09,Aliaksandra Sasnovich,Elvina Kalieva,0.727,0.724,L
 2026-10-09,Zhuoxuan Bai,Kyoka Okamura,0.738,0.711,L
+2026-10-09,Thiago Seyboth Wild,Felipe Meligeni Alves,0.713,0.707,W
 2026-10-09,Alejandro Davidovich Fokina,Jenson Brooksby,0.693,0.670,W
 2026-10-09,Renata Zarazua,Katarina Zavatska,0.846,0.831,W
 2026-10-09,Jay Friend,Ryan Seggerman,0.604,0.610,W
 2026-10-09,Rebecca Sramkova,Aliona Falei,0.596,0.604,W
+2026-10-09,Novak Djokovic,Hubert Hurkacz,0.639,0.628,L
 2026-10-09,Alibek Kachmazov,Fajing Sun,0.558,0.572,W
+2026-10-09,Fiona Crawley,Ayla Aksu,0.673,0.674,L
+2026-10-09,Borna Gojo,Jack Pinnington Jones,0.586,0.587,L
+2026-10-09,Max Alcalà Gurri,Lukas Neumayer,0.589,0.589,L
+2026-10-09,Himeno Sakatsume,Simona Waltert,0.562,0.573,W
+2026-10-09,Matej Dodig,Marvin Moeller,0.620,0.633,W
+2026-10-09,Daniil Glinka,Abdullah Shelbayh,0.567,0.562,W
+2026-10-09,Carlos Sanchez Jover,Yanaki Milev,0.693,0.670,L
+2026-10-09,Laslo Djere,Hynek Barton,0.698,0.678,W
+2026-10-09,Lucrezia Stefanini,Polina Iatcenko,0.558,0.559,W
+2026-10-09,Elmer Moller,Tiago Pereira,0.712,0.674,W
+2026-10-09,Anna Blinkova,Bianca Andreescu,0.525,0.513,W
 2026-10-09,Alena Kovackova,Sonja Zhenikhova,0.764,0.758,W
 2026-10-09,Ane Mintegi Del Olmo,Jazmin Ortenzi,0.712,0.676,W
 2026-10-09,Alice Tubello,Martha Matoula,0.713,0.679,W
 2026-10-09,Jennifer Ruggeri,Nuria Brancaccio,0.510,0.500,L
+2026-10-09,Anastasiia Sobolieva,Luisina Giovannini,0.605,0.601,W
 2026-10-09,Rositsa Dencheva,Iva Ivanova,0.915,0.885,W
+2026-10-09,Ipek Oz,Jessica Bertoldo,0.927,0.892,W
+2026-10-09,Alisa Oktiabreva,Francesca Curmi,0.746,0.730,W
+2026-10-09,Britt Du Pree,Maria Martinez Vaquero,0.890,0.859,W
+2026-10-09,Angelina Voloshchuk,Celia Cervino Ruiz,0.747,0.720,L
+2026-10-09,Yelyzaveta Kotliar,Arina Arifullina,0.819,0.815,W
+2026-10-09,Luka Mikrut,Vilius Gaubas,0.678,0.670,L
+2026-10-09,Lautaro Midon,Eduardo Ribeiro,0.667,0.667,W
+2026-10-09,Pablo Llamas Ruiz,Pedro Martinez,0.586,0.577,L
 2026-10-08,Mirra Andreeva,Ekaterina Alexandrova,0.758,0.758,W
 2026-10-08,Fajing Sun,Kasidit Samrej,0.665,0.643,W
 2026-10-08,Jay Friend,Mitsuki Wei Kang Leong,0.756,0.717,W
@@ -45,6 +70,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-08,Akira Santillan,Keisuke Saitoh,0.583,0.574,L
 2026-10-08,Enrico Dalla Valle,Gabriele Piraino,0.616,0.635,W
 2026-10-08,Joaquin Aguilar Cardozo,Lautaro Midon,0.580,0.584,L
+2026-10-08,Iga Swiatek,Elise Mertens,0.787,0.780,L
 2026-10-08,Bianca Andreescu,Mariam Bolkvadze,0.793,0.779,W
 2026-10-08,Oliver Tarvet,Laslo Djere,0.641,0.642,L
 2026-10-08,Abdullah Shelbayh,Damir Dzumhur,0.534,0.541,W
@@ -53,6 +79,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-08,Anna Blinkova,Caroline Werner,0.863,0.848,W
 2026-10-08,Matej Dodig,Miguel Damas,0.766,0.756,W
 2026-10-08,Max Hans Rehberg,Hynek Barton,0.539,0.548,L
+2026-10-08,Jonas Forejtek,Michele Ribecai,0.566,0.579,W
 2026-10-08,Ipek Oz,Alice Rame,0.713,0.678,W
 2026-10-08,Alena Kovackova,Sarah Van Emst,0.781,0.770,W
 2026-10-08,Elizara Yaneva,Sonja Zhenikhova,0.944,0.913,L
