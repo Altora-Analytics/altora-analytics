@@ -1,20 +1,29 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-10,Jakub Mensik,Miomir Kecmanovic,0.755,0.742,W
 2026-10-10,Frances Tiafoe,Yannick Hanfmann,0.728,0.705,W
+2026-10-10,Alex De Minaur,Alex Molcan,0.698,0.701,VOID
 2026-10-09,Omar Jasika,Timofei Derepasko,0.765,0.746,W
 2026-10-09,Arthur Gea,Ugo Humbert,0.510,0.531,W
 2026-10-09,Flavio Cobolli,Adrian Mannarino,0.622,0.634,L
 2026-10-09,Brandon Nakashima,Matteo Berrettini,0.607,0.604,W
 2026-10-09,Alexander Blockx,Quentin Halys,0.545,0.549,L
+2026-10-09,Francisco Cerundolo,Roman Safiullin,0.520,0.513,W
 2026-10-09,Andrey Rublev,Rei Sakamoto,0.762,0.716,L
 2026-10-09,Alexander Zverev,Yibing Wu,0.884,0.869,W
 2026-10-09,Elina Svitolina,Qinwen Zheng,0.556,0.564,L
 2026-10-09,Ben Shelton,Daniel Altmaier,0.894,0.870,W
 2026-10-09,Aliaksandra Sasnovich,Elvina Kalieva,0.727,0.724,L
 2026-10-09,Zhuoxuan Bai,Kyoka Okamura,0.738,0.711,L
+2026-10-09,Alejandro Davidovich Fokina,Jenson Brooksby,0.693,0.670,W
 2026-10-09,Renata Zarazua,Katarina Zavatska,0.846,0.831,W
 2026-10-09,Jay Friend,Ryan Seggerman,0.604,0.610,W
 2026-10-09,Rebecca Sramkova,Aliona Falei,0.596,0.604,W
 2026-10-09,Alibek Kachmazov,Fajing Sun,0.558,0.572,W
+2026-10-09,Alena Kovackova,Sonja Zhenikhova,0.764,0.758,W
+2026-10-09,Ane Mintegi Del Olmo,Jazmin Ortenzi,0.712,0.676,W
+2026-10-09,Alice Tubello,Martha Matoula,0.713,0.679,W
+2026-10-09,Jennifer Ruggeri,Nuria Brancaccio,0.510,0.500,L
+2026-10-09,Rositsa Dencheva,Iva Ivanova,0.915,0.885,W
 2026-10-08,Mirra Andreeva,Ekaterina Alexandrova,0.758,0.758,W
 2026-10-08,Fajing Sun,Kasidit Samrej,0.665,0.643,W
 2026-10-08,Jay Friend,Mitsuki Wei Kang Leong,0.756,0.717,W
