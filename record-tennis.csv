@@ -2,6 +2,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Jakub Mensik,Miomir Kecmanovic,0.755,0.742,W
 2026-10-10,Alexander Bublik,Tomas Machac,0.643,0.642,W
 2026-10-10,Frances Tiafoe,Yannick Hanfmann,0.728,0.705,W
+2026-10-10,Jay Friend,Keisuke Saitoh,0.803,0.791,W
+2026-10-10,Talia Gibson,Sara Sorribes Tormo,0.686,0.651,L
+2026-10-10,Alycia Parks,Aoi Ito,0.588,0.598,L
+2026-10-10,Magdalena Frech,Moyuka Uchijima,0.694,0.684,W
 2026-10-10,Alex De Minaur,Alex Molcan,0.698,0.701,VOID
 2026-10-09,Omar Jasika,Timofei Derepasko,0.765,0.746,W
 2026-10-09,Arthur Gea,Ugo Humbert,0.510,0.531,W
@@ -15,6 +19,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-09,Elina Svitolina,Qinwen Zheng,0.556,0.564,L
 2026-10-09,Ben Shelton,Daniel Altmaier,0.894,0.870,W
 2026-10-09,Lorenzo Musetti,Yi Zhou,0.821,0.801,L
+2026-10-09,Alejandro Moro Canas,Massimo Giunta,0.658,0.655,W
+2026-10-09,Matheus Pucinelli De Al,Joao Lucas Reis Da Silv,0.625,0.617,L
 2026-10-09,Aliaksandra Sasnovich,Elvina Kalieva,0.727,0.724,L
 2026-10-09,Zhuoxuan Bai,Kyoka Okamura,0.738,0.711,L
 2026-10-09,Thiago Seyboth Wild,Felipe Meligeni Alves,0.713,0.707,W
@@ -49,6 +55,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-09,Luka Mikrut,Vilius Gaubas,0.678,0.670,L
 2026-10-09,Lautaro Midon,Eduardo Ribeiro,0.667,0.667,W
 2026-10-09,Pablo Llamas Ruiz,Pedro Martinez,0.586,0.577,L
+2026-10-09,Francesco Passaro,Enrico Dalla Valle,0.589,0.597,W
+2026-10-09,Juan Carlos Prado Angel,Miguel Tobon,0.730,0.711,W
 2026-10-08,Mirra Andreeva,Ekaterina Alexandrova,0.758,0.758,W
 2026-10-08,Fajing Sun,Kasidit Samrej,0.665,0.643,W
 2026-10-08,Jay Friend,Mitsuki Wei Kang Leong,0.756,0.717,W
