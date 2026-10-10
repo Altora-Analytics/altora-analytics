@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-10,Krzysztof Ratajski,Stefan Bellmont,0.737,0.744,W
+2026-10-10,Wessel Nijman,Karel Sedláček,0.632,0.628,L
+2026-10-10,Rob Cross,Luke Woodhouse,0.534,0.527,W
+2026-10-10,Martin Schindler,Tom Bissell,0.549,0.552,L
+2026-10-10,Ryan Searle,Cristo Reyes,0.520,0.521,L
+2026-10-10,Ross Smith,William O'Connor,0.666,0.644,W
+2026-10-10,Chris Dobey,Bradley Brooks,0.659,0.644,L
+2026-10-10,Jermaine Wattimena,Michael Smith,0.662,0.670,L
 2026-10-09,Niels Zonneveld,Bradley Brooks,0.586,0.590,L
 2026-10-09,William O'Connor,Jani Haavisto,0.696,0.713,W
 2026-10-09,Mensur Suljović,Gyorgy Jehirszki,0.752,0.768,W
