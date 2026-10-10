@@ -3,12 +3,18 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Alexander Bublik,Tomas Machac,0.643,0.642,W
 2026-10-10,Frances Tiafoe,Yannick Hanfmann,0.728,0.705,W
 2026-10-10,Arthur Fils,Pavel Kotov,0.930,0.894,W
+2026-10-10,Carlos Alcaraz,Manuel Cerundolo,0.964,0.946,W
 2026-10-10,Alejandro Tabilo,Pablo Carreno Busta,0.618,0.615,L
+2026-10-10,Valentin Vacherot,Sebastian Baez,0.732,0.720,W
+2026-10-10,Tommy Paul,Adolfo Daniel Vallejo,0.678,0.648,W
 2026-10-10,Rafael Jodar,Thiago Agustin Tirante,0.681,0.680,W
+2026-10-10,Learner Tien,Zachary Svajda,0.741,0.738,W
+2026-10-10,Alex Michelsen,Botic Van de Zandschulp,0.624,0.642,L
 2026-10-10,Mirra Andreeva,Nikola Bartunkova,0.697,0.690,W
 2026-10-10,Daniil Medvedev,Jan-Lennard Struff,0.870,0.849,W
 2026-10-10,Casper Ruud,Yunchaokete Bu,0.567,0.551,W
 2026-10-10,Tomas Martin Etcheverry,Dalibor Svrcina,0.591,0.578,L
+2026-10-10,Zizou Bergs,Ignacio Buse,0.617,0.614,W
 2026-10-10,Jay Friend,Keisuke Saitoh,0.803,0.791,W
 2026-10-10,Elvina Kalieva,Kyoka Okamura,0.702,0.675,L
 2026-10-10,Alibek Kachmazov,Omar Jasika,0.707,0.671,W
@@ -23,9 +29,23 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Catherine Mcnally,Yue Yuan,0.618,0.629,W
 2026-10-10,Lanlana Tararudee,Claire Liu,0.521,0.514,W
 2026-10-10,Sinja Kraus,Magda Linette,0.515,0.474,W
+2026-10-10,Maya Joint,Mananchaya Sawangkaew,0.621,0.624,L
 2026-10-10,Lois Boisson,Anna Bondar,0.525,0.541,L
+2026-10-10,Katie Volynets,Polina Kudermetova,0.681,0.681,W
+2026-10-10,Qinwen Zheng,Elise Mertens,0.572,0.568,W
+2026-10-10,Matej Dodig,Lukas Neumayer,0.573,0.579,W
+2026-10-10,Jack Pinnington Jones,Daniil Glinka,0.590,0.579,L
+2026-10-10,Himeno Sakatsume,Ayla Aksu,0.656,0.659,L
+2026-10-10,Vilius Gaubas,Elmer Moller,0.554,0.559,L
+2026-10-10,Thiago Seyboth Wild,Lautaro Midon,0.688,0.679,W
+2026-10-10,Alice Tubello,Ipek Oz,0.617,0.618,L
 2026-10-10,Alisa Oktiabreva,Nuria Brancaccio,0.766,0.755,W
 2026-10-10,Anastasiia Sobolieva,Alena Kovackova,0.696,0.691,W
+2026-10-10,Yelyzaveta Kotliar,Celia Cervino Ruiz,0.534,0.543,L
+2026-10-10,Laslo Djere,Pedro Martinez,0.600,0.617,W
+2026-10-10,Anna Blinkova,Lucrezia Stefanini,0.652,0.654,L
+2026-10-10,Alejandro Moro Canas,Jonas Forejtek,0.521,0.542,L
+2026-10-10,Juan Carlos Prado Angel,Joao Lucas Reis Da Silv,0.593,0.581,L
 2026-10-10,Alex De Minaur,Alex Molcan,0.698,0.701,VOID
 2026-10-10,Britt Du Pree,Maaya Rajeshwaran Revathi,0.741,0.729,VOID
 2026-10-09,Omar Jasika,Timofei Derepasko,0.765,0.746,W
@@ -48,6 +68,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-09,Alejandro Davidovich Fokina,Jenson Brooksby,0.693,0.670,W
 2026-10-09,Renata Zarazua,Katarina Zavatska,0.846,0.831,W
 2026-10-09,Jay Friend,Ryan Seggerman,0.604,0.610,W
+2026-10-09,Stefanos Tsitsipas,Luciano Darderi,0.701,0.690,W
 2026-10-09,Rebecca Sramkova,Aliona Falei,0.596,0.604,W
 2026-10-09,Felix Auger-Aliassime,Camilo Ugo Carabelli,0.954,0.937,W
 2026-10-09,Novak Djokovic,Hubert Hurkacz,0.639,0.628,L
