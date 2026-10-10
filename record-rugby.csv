@@ -1,5 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-10,Taranaki,North Harbour,0.528,,W
+2026-10-09,Leicester Tigers,Gloucester,0.848,0.699,W
+2026-10-09,Agen,US Dax,0.752,0.806,W
 2026-10-09,Angouleme,Provence Rugby,0.545,0.466,L
+2026-10-09,Aurillac,Biarritz Olympique,0.591,0.661,W
+2026-10-09,Grenoble FC,Colomiers,0.638,,W
+2026-10-09,US Oyonnax,Narbonne,0.692,,W
+2026-10-09,Valence Romans,Beziers,0.818,,W
+2026-10-09,Dragons,Ospreys,0.591,0.629,L
+2026-10-09,Glasgow Warriors,Connacht,0.784,0.658,W
 2026-10-09,Northland,Tasman,0.651,0.692,W
 2026-10-08,CA Brive,Montauban,0.786,0.391,L
 2026-10-04,Saracens,Sale Sharks,0.818,0.733,L
