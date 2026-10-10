@@ -1,5 +1,17 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-10,Northampton Saints,Bath,0.729,0.665,W
+2026-10-10,Saracens,Bristol,0.814,0.616,W
+2026-10-10,Lyon,Stade Rochelais,0.653,0.747,L
+2026-10-10,RC Toulonnais,Racing 92,0.643,0.674,W
+2026-10-10,Section Paloise,Castres Olympique,0.867,0.831,W
+2026-10-10,Stade Francais Paris,Montpellier,0.666,0.629,W
+2026-10-10,USA Perpignan,Vannes,0.594,0.727,W
+2026-10-10,Bulls,Lions,0.652,0.630,W
+2026-10-10,Scarlets,Benetton,0.626,0.623,W
+2026-10-10,Stormers,Sharks,0.815,0.648,W
+2026-10-10,Edinburgh,Zebre,0.559,0.595,W
 2026-10-10,Taranaki,North Harbour,0.528,,W
+2026-10-10,Ulster,Munster,0.710,0.616,VOID
 2026-10-09,Leicester Tigers,Gloucester,0.848,0.699,W
 2026-10-09,Agen,US Dax,0.752,0.806,W
 2026-10-09,Angouleme,Provence Rugby,0.545,0.466,L
