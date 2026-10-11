@@ -1,6 +1,16 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-11,Karen Khachanov,Adrian Mannarino,0.743,0.739,W
+2026-10-11,Hubert Hurkacz,Yi Zhou,0.879,0.858,W
+2026-10-11,Jay Friend,Alibek Kachmazov,0.575,0.585,L
 2026-10-11,Yulia Putintseva,Ashlyn Krueger,0.511,0.497,W
+2026-10-11,Daria Kasatkina,Sara Sorribes Tormo,0.618,0.630,W
+2026-10-11,Magdalena Frech,Aoi Ito,0.758,0.743,L
 2026-10-11,Zeynep Sonmez,Sinja Kraus,0.593,0.603,W
+2026-10-11,Kamilla Rakhimova,Han Shi,0.748,0.730,L
+2026-10-11,Rebecca Sramkova,Kyoka Okamura,0.737,0.727,W
+2026-10-11,Catherine Mcnally,Lanlana Tararudee,0.528,0.539,W
+2026-10-11,Anna Bondar,Mananchaya Sawangkaew,0.534,0.538,L
+2026-10-11,Lucas Poullain,Gijs Brouwer,0.790,0.769,W
 2026-10-11,Juncheng Shang,Stefanos Sakellaridis,0.699,0.673,VOID
 2026-10-10,Jakub Mensik,Miomir Kecmanovic,0.755,0.742,W
 2026-10-10,Alexander Bublik,Tomas Machac,0.643,0.642,W
@@ -20,6 +30,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Zizou Bergs,Ignacio Buse,0.617,0.614,W
 2026-10-10,Jay Friend,Keisuke Saitoh,0.803,0.791,W
 2026-10-10,Elvina Kalieva,Kyoka Okamura,0.702,0.675,L
+2026-10-10,Ben Shelton,Arthur Gea,0.753,0.713,L
+2026-10-10,Alex De Minaur,Rei Sakamoto,0.713,0.682,W
 2026-10-10,Alibek Kachmazov,Omar Jasika,0.707,0.671,W
 2026-10-10,Talia Gibson,Sara Sorribes Tormo,0.686,0.651,L
 2026-10-10,Alycia Parks,Aoi Ito,0.588,0.598,L
