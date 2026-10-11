@@ -7,6 +7,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Ross Smith,William O'Connor,0.666,0.644,W
 2026-10-10,Chris Dobey,Bradley Brooks,0.659,0.644,L
 2026-10-10,Jermaine Wattimena,Michael Smith,0.662,0.670,L
+2026-10-10,Josh Rock,Dave Chisnall,0.670,0.704,W
+2026-10-10,Stephen Bunting,Jeffrey de Graaf,0.583,0.592,L
+2026-10-10,James Wade,Dirk van Duijvenbode,0.570,0.587,L
+2026-10-10,Jonny Clayton,Maik Kuivenhoven,0.826,0.736,W
+2026-10-10,Michael van Gerwen,Mensur Suljović,0.657,0.654,L
+2026-10-10,Luke Humphries,Kevin Doets,0.741,0.605,W
+2026-10-10,Gian van Veen,Niko Springer,0.658,0.642,W
+2026-10-10,Danny Noppert,Damon Heta,0.569,0.503,L
 2026-10-09,Niels Zonneveld,Bradley Brooks,0.586,0.590,L
 2026-10-09,William O'Connor,Jani Haavisto,0.696,0.713,W
 2026-10-09,Mensur Suljović,Gyorgy Jehirszki,0.752,0.768,W
