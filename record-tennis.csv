@@ -1,7 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-11,Alexander Zverev,Quentin Halys,0.879,0.858,W
+2026-10-11,Alejandro Davidovich Fokina,Frances Tiafoe,0.512,0.504,W
 2026-10-11,Jakub Mensik,Francisco Cerundolo,0.577,0.583,W
 2026-10-11,Karen Khachanov,Adrian Mannarino,0.743,0.739,W
 2026-10-11,Hubert Hurkacz,Yi Zhou,0.879,0.858,W
+2026-10-11,Brandon Nakashima,Alexander Bublik,0.574,0.564,L
 2026-10-11,Jay Friend,Alibek Kachmazov,0.575,0.585,L
 2026-10-11,Yulia Putintseva,Ashlyn Krueger,0.511,0.497,W
 2026-10-11,Daria Kasatkina,Sara Sorribes Tormo,0.618,0.630,W
@@ -11,14 +14,40 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-11,Rebecca Sramkova,Kyoka Okamura,0.737,0.727,W
 2026-10-11,Catherine Mcnally,Lanlana Tararudee,0.528,0.539,W
 2026-10-11,Anna Bondar,Mananchaya Sawangkaew,0.534,0.538,L
+2026-10-11,Mirra Andreeva,Qinwen Zheng,0.617,0.621,L
 2026-10-11,Anastasiia Sobolieva,Ane Mintegi Del Olmo,0.508,0.517,L
+2026-10-11,Laslo Djere,Daniil Glinka,0.626,0.643,W
+2026-10-11,Matej Dodig,Elmer Moller,0.670,0.661,W
+2026-10-11,Lucrezia Stefanini,Ayla Aksu,0.784,0.756,L
 2026-10-11,Alisa Oktiabreva,Ipek Oz,0.754,0.737,W
+2026-10-11,Anouk Koevermans,Ankita Raina,0.944,0.918,W
 2026-10-11,Pyotr Nesterov,Christian Langmo,0.694,0.686,L
+2026-10-11,Vadym Ursu,Matyas Cerny,0.639,0.635,L
 2026-10-11,Yanis Ghazouani Durand,Tom Paris,0.552,0.566,L
 2026-10-11,Lucas Poullain,Gijs Brouwer,0.790,0.769,W
+2026-10-11,Sergi Perez Contri,Tiago Cacao,0.521,0.514,W
+2026-10-11,Pedro Vives Marcos,Radu David Turcanu,0.590,0.598,W
+2026-10-11,Florian Broska,Adrian Oetzbach,0.745,0.743,W
+2026-10-11,Iván Marrero Curbelo,Andrea Colombo,0.677,0.646,W
 2026-10-11,Ugo Blanchet,Nicolas Tepmahc,0.938,0.894,W
+2026-10-11,Daniel Siniakov,Paolo Gabriele Marino,0.943,0.892,W
+2026-10-11,Ryan Nijboer,Javier Barranco Cosano,0.519,0.505,W
+2026-10-11,Andrej Martin,Joao Domingues,0.505,0.515,W
+2026-10-11,Carlos Taberner,Ben Hassan,0.754,0.729,L
+2026-10-11,Georgii Kravchenko,Alexander Donski,0.651,0.635,W
+2026-10-11,Gabi Adrian Boitan,Leo Raquillet,0.726,0.708,L
+2026-10-11,Henry Bernet,Maximilian Neuchrist,0.899,0.871,W
+2026-10-11,Pavel Lagutin,Ignacio Parisca Romera,0.696,0.673,W
+2026-10-11,George Loffhagen,Filip Pieczonka,0.746,0.728,W
+2026-10-11,Alex Marti Pujolras,John Sperle,0.593,0.581,W
+2026-10-11,Ivan Gakhov,Joao Dinis Silva,0.803,0.797,W
+2026-10-11,Yanaki Milev,Maxime Chazal,0.556,0.573,W
+2026-10-11,Norbert Gombos,Mickael Kaouk,0.761,0.750,W
+2026-10-11,Thiago Seyboth Wild,Joao Lucas Reis Da Silv,0.737,0.727,L
 2026-10-11,Omar Jasika,Petr Bar Biryukov,0.532,0.553,W
+2026-10-11,Francesco Passaro,Jonas Forejtek,0.675,0.679,W
 2026-10-11,Juncheng Shang,Stefanos Sakellaridis,0.699,0.673,VOID
+2026-10-11,Olle Wallin,Michael Vrbensky,0.750,0.733,VOID
 2026-10-11,Jake Delaney,Ajeet Rai,0.674,0.676,VOID
 2026-10-10,Jakub Mensik,Miomir Kecmanovic,0.755,0.742,W
 2026-10-10,Alexander Bublik,Tomas Machac,0.643,0.642,W
