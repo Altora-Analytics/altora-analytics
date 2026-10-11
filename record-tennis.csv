@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-11,Yulia Putintseva,Ashlyn Krueger,0.511,0.497,W
+2026-10-11,Zeynep Sonmez,Sinja Kraus,0.593,0.603,W
+2026-10-11,Juncheng Shang,Stefanos Sakellaridis,0.699,0.673,VOID
 2026-10-10,Jakub Mensik,Miomir Kecmanovic,0.755,0.742,W
 2026-10-10,Alexander Bublik,Tomas Machac,0.643,0.642,W
 2026-10-10,Frances Tiafoe,Yannick Hanfmann,0.728,0.705,W
@@ -46,6 +49,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Anna Blinkova,Lucrezia Stefanini,0.652,0.654,L
 2026-10-10,Alejandro Moro Canas,Jonas Forejtek,0.521,0.542,L
 2026-10-10,Juan Carlos Prado Angel,Joao Lucas Reis Da Silv,0.593,0.581,L
+2026-10-10,Francesco Passaro,Yanaki Milev,0.859,0.811,W
+2026-10-10,Arantxa Rus,Kaitlyn Carnicella,0.773,0.736,L
+2026-10-10,Madison Brengle,Astra Sharma,0.539,0.559,L
 2026-10-10,Alex De Minaur,Alex Molcan,0.698,0.701,VOID
 2026-10-10,Britt Du Pree,Maaya Rajeshwaran Revathi,0.741,0.729,VOID
 2026-10-09,Omar Jasika,Timofei Derepasko,0.765,0.746,W
