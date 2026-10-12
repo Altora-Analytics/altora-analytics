@@ -6,6 +6,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-11,Ross Smith,Mensur Suljović,0.701,0.694,L
 2026-10-11,Dirk van Duijvenbode,Michael Smith,0.641,0.651,W
 2026-10-11,Luke Humphries,Krzysztof Ratajski,0.751,0.729,W
+2026-10-11,Dirk van Duijvenbode,Mensur Suljović,0.636,0.621,L
+2026-10-11,Luke Humphries,Cristo Reyes,0.767,0.746,W
 2026-10-10,Krzysztof Ratajski,Stefan Bellmont,0.737,0.744,W
 2026-10-10,Wessel Nijman,Karel Sedláček,0.632,0.628,L
 2026-10-10,Rob Cross,Luke Woodhouse,0.534,0.527,W

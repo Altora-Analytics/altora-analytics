@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-11,Exeter Chiefs,Newcastle Red Bulls,0.952,0.811,W
+2026-10-11,Sale Sharks,Harlequins,0.670,0.797,W
+2026-10-11,Stade Toulousain,Aviron Bayonnais,0.930,0.797,W
 2026-10-11,Canterbury,Waikato,0.787,0.723,W
 2026-10-10,Northampton Saints,Bath,0.729,0.665,W
 2026-10-10,Saracens,Bristol,0.814,0.616,W
@@ -14,6 +17,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-10,Stormers,Sharks,0.815,0.648,W
 2026-10-10,Edinburgh,Zebre,0.559,0.595,W
 2026-10-10,Taranaki,North Harbour,0.528,,W
+2026-10-10,Otago,Hawke's Bay,0.706,,W
 2026-10-10,Ulster,Munster,0.710,0.616,VOID
 2026-10-09,Leicester Tigers,Gloucester,0.848,0.699,W
 2026-10-09,Agen,US Dax,0.752,0.806,W
