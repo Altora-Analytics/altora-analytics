@@ -1,10 +1,20 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-14,Krajicek/Mektic,Miedler/Oberleitner,0.609,0.610,L
+2026-10-13,Katie Volynets,Kimberly Birrell,0.639,0.627,W
+2026-10-13,Yulia Putintseva,Zeynep Sonmez,0.536,0.540,W
+2026-10-13,Alex De Minaur,Karen Khachanov,0.528,0.540,W
+2026-10-13,Sonja Zhenikhova,Madhurima Sawant,0.966,0.936,W
 2026-10-12,Ekaterina Alexandrova,Leylah Fernandez,0.516,0.538,L
+2026-10-12,Diana Shnaider,Katie Boulter,0.772,0.762,W
+2026-10-12,Maja Chwalinska,Mayar Sherif,0.801,0.784,W
 2026-10-12,Marie Bouzkova,Clara Tauson,0.713,0.696,W
 2026-10-12,Maria Sakkari,Donna Vekic,0.607,0.595,W
+2026-10-12,Liudmila Samsonova,Katerina Siniakova,0.509,0.527,W
+2026-10-12,Sorana Cirstea ,Hanyu Guo,0.890,0.872,L
 2026-10-12,Sonay Kartal,Anhelina Kalinina,0.607,0.614,W
 2026-10-12,Sara Bejlek,Jasmine Paolini,0.526,0.529,L
 2026-10-12,Xiyu Wang,Xinyu Wang,0.510,0.497,W
+2026-10-12,Dayana Yastremska,Cristina Bucsa,0.535,0.548,W
 2026-10-12,Jiri Lehecka,Rafael Jodar,0.590,0.581,L
 2026-10-12,Cabral/Tracy,Arends/Johnson,0.595,0.590,W
 2026-10-12,Felix Auger-Aliassime,Pablo Carreno Busta,0.760,0.750,W
@@ -25,13 +35,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-12,Francesco Forti,Zdenek Kolar,0.501,0.516,L
 2026-10-12,Hugo Gaston,Daniel Jade,0.852,0.801,W
 2026-10-12,Henrique Rocha,Sumit Nagal,0.748,0.734,L
+2026-10-12,Stefanos Sakellaridis,Keegan Smith,0.596,0.591,L
 2026-10-12,Hayato Matsuoka,James McCabe,0.535,0.543,W
 2026-10-12,Janice Tjen,Aoi Ito,0.724,0.705,W
 2026-10-12,Magdalena Frech,Mananchaya Sawangkaew,0.576,0.569,W
 2026-10-12,Catherine Mcnally,Yuliia Starodubtseva,0.616,0.625,W
 2026-10-12,Alexandra Eala,Han Shi,0.801,0.779,L
 2026-10-12,Luka Pavlovic,Kangyuan Shi,0.980,0.935,W
+2026-10-12,Liam Draxl,Omar Jasika,0.725,0.711,W
 2026-10-12,Marat Sharipov,Jake Delaney,0.843,0.826,W
+2026-10-12,Jakub Mensik,Arthur Gea,0.627,0.616,L
 2026-10-12,Christian Langmo,Viktor Durasovic,0.521,0.522,L
 2026-10-12,Niels Visker,Iván Marrero Curbelo,0.576,0.585,W
 2026-10-12,Andrea Guerrieri,Abdullah Shelbayh,0.554,0.553,W
@@ -89,6 +102,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-11,Kamilla Rakhimova,Han Shi,0.748,0.730,L
 2026-10-11,Rebecca Sramkova,Kyoka Okamura,0.737,0.727,W
 2026-10-11,Catherine Mcnally,Lanlana Tararudee,0.528,0.539,W
+2026-10-11,Pavel Kotov,Vit Kopriva,0.579,0.583,L
+2026-10-11,Martin Landaluce,Ilia Simakin,0.567,0.542,W
 2026-10-11,Anna Bondar,Mananchaya Sawangkaew,0.534,0.538,L
 2026-10-11,Mirra Andreeva,Qinwen Zheng,0.617,0.621,L
 2026-10-11,Anastasiia Sobolieva,Ane Mintegi Del Olmo,0.508,0.517,L
