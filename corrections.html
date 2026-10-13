@@ -2,16 +2,6 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
 <title>Corrections | Altora Analytics</title>
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Altora Analytics">
-<meta property="og:title" content="Corrections | Altora Analytics">
-<meta property="og:description" content="Altora Analytics corrections policy: we never delete a prediction. When one was produced from faulty data we say so here, in public, and the row stays on the record.">
-<meta property="og:url" content="https://altoraanalytics.com/corrections.html">
-<meta property="og:image" content="https://altoraanalytics.com/assets/og.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://altoraanalytics.com/assets/og.png">
 <style>
   :root{--ink:#0b1220;--panel:#0e1626;--line:#22314a;--white:#f4f7fb;--steel:#c3cdd9;
         --muted:#8493a8;--gold:#e8b84b;--green:#5bc88d;--red:#e25e54}
@@ -76,11 +66,21 @@
 
   <section>
     <h2>Record</h2>
-    <p><b>11</b> corrections published ·
+    <p><b>12</b> corrections published ·
     <b>0</b> resulting in any exclusion from headline statistics ·
     <b>0</b> predictions deleted, since day one.</p>
   </section>
 
+  <article>
+    <div class="top"><span class="dt">2026-10-13</span>
+      <span class="tag ann">Annotated, still counted</span></div>
+    <h3>Our football model could not compare teams from different leagues</h3>
+    <p class="sp">Football</p>
+    <p><b>What happened.</b> Our team ratings were only comparable within a league. Every league&#x27;s average sat at the same starting value, and each new season pulled every team back toward one global average. Teams from strong and weak leagues, or teams that had just been promoted or relegated, were therefore rated as if they played at the same level. On 13 October this put the European games at the top of Today&#x27;s Board with implausible home chances. LASK v Liverpool showed LASK at 48% when the market made them about 9%, and Bodø/Glimt v Borussia Dortmund showed Bodø/Glimt at 62%. Lincoln v West Ham (promoted v relegated) was affected the same way. The site owner spotted it on the board.</p>
+    <p><b>Why it matters.</b> The board publishes every fixture the model prices, and it ranks fixtures by their gap to the market, so the most distorted numbers appeared first. None of these fixtures reached a published 1X2 pick or the ledger, and the accas picked the favourites. The probabilities shown were still wrong, though, and they are what the board exists to show.</p>
+    <p><b>What we did.</b> Model improved and the board rebuilt. Nothing was deleted: earlier board snapshots are in the site&#x27;s history, and no published pick or settled bet is affected.</p>
+    <p class="fix"><b>Fixed.</b> We added a two-level rating: each team&#x27;s strength is its league&#x27;s strength plus its strength within that league. League strength is learned from European results and from promotion and relegation, using results only and no betting odds. On matches the model had not seen (December 2025 to October 2026) it improved accuracy on European games (log-loss 0.991 to 0.944) and on promoted or relegated teams (1.031 to 1.022), with no change on other league games. The 1X2 model now uses it, and the board was rebuilt on 13 October. LASK v Liverpool now reads LASK 32%, draw 26%, Liverpool 42%. That is better but still above the market. The model&#x27;s form and goals features are still measured within each league, and rebasing them is the next step. Our BTTS, over/under and correct-score models will get the same rating once each has passed its own test. <a href="board.html">Read the detail</a></p>
+  </article>
   <article>
     <div class="top"><span class="dt">2026-10-08</span>
       <span class="tag ann">Annotated, still counted</span></div>
