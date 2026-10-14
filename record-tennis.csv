@@ -2,9 +2,21 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Krajicek/Mektic,Miedler/Oberleitner,0.609,0.610,L
 2026-10-14,Belinda Bencic,Sonay Kartal,0.673,0.670,L
 2026-10-14,Iga Swiatek,Magdalena Frech,0.950,0.931,W
+2026-10-14,Rafael Jodar,Botic Van de Zandschulp,0.616,0.634,W
+2026-10-14,Karolina Muchova,Catherine Mcnally,0.807,0.793,W
 2026-10-14,Marie Bouzkova,Maja Chwalinska,0.664,0.657,L
+2026-10-14,Elina Svitolina,Liudmila Samsonova,0.723,0.716,W
+2026-10-14,Iva Jovic,Dayana Yastremska,0.791,0.765,W
+2026-10-14,Tristan Schoolkate,Luka Pavlovic,0.604,0.621,L
+2026-10-14,Yosuke Watanuki,Andre Ilagan,0.545,0.542,W
 2026-10-14,James Duckworth,Liam Draxl,0.577,0.571,L
 2026-10-14,Aleksandar Vukic,Hayato Matsuoka,0.608,0.590,W
+2026-10-14,Vit Kopriva,Keegan Smith,0.628,0.645,L
+2026-10-14,Diana Shnaider,Yulia Putintseva,0.749,0.728,W
+2026-10-14,Nikola Bartunkova,Jasmine Paolini,0.606,0.587,L
+2026-10-14,Daria Snigur,Janice Tjen,0.603,0.612,L
+2026-10-14,Krawietz/Putz,Arribage/Olivetti,0.617,0.607,L
+2026-10-14,Felix Auger-Aliassime,Casper Ruud,0.560,0.571,VOID
 2026-10-14,Marat Sharipov,Ilya Ivashka,0.548,0.553,VOID
 2026-10-13,Katie Volynets,Kimberly Birrell,0.639,0.627,W
 2026-10-13,Yulia Putintseva,Zeynep Sonmez,0.536,0.540,W
