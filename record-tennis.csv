@@ -2,10 +2,15 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Krajicek/Mektic,Miedler/Oberleitner,0.609,0.610,L
 2026-10-14,Belinda Bencic,Sonay Kartal,0.673,0.670,L
 2026-10-14,Iga Swiatek,Magdalena Frech,0.950,0.931,W
+2026-10-14,Daniil Medvedev,Stefanos Tsitsipas,0.708,0.680,W
 2026-10-14,Rafael Jodar,Botic Van de Zandschulp,0.616,0.634,W
 2026-10-14,Karolina Muchova,Catherine Mcnally,0.807,0.793,W
 2026-10-14,Cabral/Tracy,Galloway/Goransson,0.526,0.541,W
+2026-10-14,Tommy Paul,Zizou Bergs,0.692,0.667,W
+2026-10-14,Gabriela Knutson,Susan Bandecchi,0.522,0.526,W
+2026-10-14,Leylah Fernandez,Han Shi,0.760,0.758,W
 2026-10-14,Felix Gill,Izan Almazan Valiente,0.745,0.699,W
+2026-10-14,Lisa Pigato,Lucie Havlickova,0.558,0.557,L
 2026-10-14,Marie Bouzkova,Maja Chwalinska,0.664,0.657,L
 2026-10-14,Elina Svitolina,Liudmila Samsonova,0.723,0.716,W
 2026-10-14,Iva Jovic,Dayana Yastremska,0.791,0.765,W
@@ -19,10 +24,29 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Daria Snigur,Janice Tjen,0.603,0.612,L
 2026-10-14,Jessica Pegula,Jelena Ostapenko,0.676,0.676,L
 2026-10-14,Katie Volynets,Hanyu Guo,0.828,0.793,L
+2026-10-14,Aryna Sabalenka,Ann Li,0.839,0.836,L
+2026-10-14,Ashlyn Krueger,Lanlana Tararudee,0.566,0.574,W
 2026-10-14,Zdenek Kolar,Filip Cristian Jianu,0.556,0.559,W
+2026-10-14,Michael Mmoh,Daniel Rincon,0.509,0.524,W
 2026-10-14,Valentin Royer,Stefano Travaglia,0.707,0.691,L
+2026-10-14,Zsombor Piros,Pol Martin Tiffon,0.734,0.714,W
+2026-10-14,Lucia Bronzetti,Jil Teichmann,0.523,0.523,L
 2026-10-14,Marina Bassols Ribera,Francesca Curmi,0.619,0.605,L
+2026-10-14,Andrej Nedic,Alejo Sanchez Quilez,0.506,0.528,L
+2026-10-14,Enrico Dalla Valle,Buvaysar Gadamauri,0.557,0.574,L
+2026-10-14,Radu Mihai Papoe,Luca Potenza,0.723,0.724,W
+2026-10-14,Luka Mikrut,Sumit Nagal,0.789,0.767,W
+2026-10-14,Sascha Gueymard Wayenbu,Clement Tabur,0.592,0.590,W
+2026-10-14,Lucrezia Stefanini,Harmony Tan,0.615,0.620,W
+2026-10-14,Jessica Bouzas Maneiro,Irene Burillo,0.811,0.799,W
+2026-10-14,Andrea Guerrieri,Maks Kasnikowski,0.600,0.603,L
+2026-10-14,Benjamin Bonzi,Mika Brunold,0.752,0.704,L
 2026-10-14,Krawietz/Putz,Arribage/Olivetti,0.617,0.607,L
+2026-10-14,Fiona Ferro,Selena Janicijevic,0.927,0.892,W
+2026-10-14,Polona Hercog,Jazmin Ortenzi,0.509,0.501,W
+2026-10-14,Lorenzo Giustino,Michael Vrbensky,0.724,0.704,W
+2026-10-14,Luca Nardi,Lorenzo Carboni,0.832,0.766,W
+2026-10-14,Valentina Ryser,Yuki Naito,0.593,0.596,L
 2026-10-14,Felix Auger-Aliassime,Casper Ruud,0.560,0.571,VOID
 2026-10-14,Marat Sharipov,Ilya Ivashka,0.548,0.553,VOID
 2026-10-13,Katie Volynets,Kimberly Birrell,0.639,0.627,W
@@ -93,6 +117,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-12,Sascha Gueymard Wayenbu,Liam Broady,0.698,0.697,W
 2026-10-12,Benjamin Bonzi,Hugo Grenier,0.774,0.766,W
 2026-10-12,Mika Brunold,Mathys Domenc,0.901,0.881,W
+2026-10-12,Clement Chidekh,Jerome Kym,0.595,0.593,L
 2026-10-12,Max Schoenhaus,Matteo Martineau,0.547,0.554,L
 2026-10-12,Michele Ribecai,Radu Mihai Papoe,0.522,0.532,L
 2026-10-12,Sandro Kopp,Buvaysar Gadamauri,0.524,0.536,L
@@ -107,7 +132,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-12,Luka Mikrut,Tiago Pereira,0.810,0.797,W
 2026-10-12,Vilius Gaubas,Kimmer Coppejans,0.595,0.599,W
 2026-10-12,Henrique Rocha,Sumit Nagal,0.748,0.734,L
+2026-10-12,Lukas Neumayer,Elmer Moller,0.515,0.531,W
 2026-10-12,Tristan Boyer,Alejandro Moro Canas,0.518,0.523,W
+2026-10-12,Francesco Passaro,Tiago Torres,0.793,0.769,W
+2026-10-12,Matej Dodig,Pedro Martinez,0.610,0.615,W
 2026-10-12,Stefanos Sakellaridis,Keegan Smith,0.596,0.591,L
 2026-10-12,Hayato Matsuoka,James McCabe,0.535,0.543,W
 2026-10-12,Janice Tjen,Aoi Ito,0.724,0.705,W
@@ -145,6 +173,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-12,Oriol Roca Batalla,Luca Potenza,0.740,0.708,L
 2026-10-12,Felix Gill,Gabriele Piraino,0.603,0.612,W
 2026-10-12,Sean Cuenin,Izan Almazan Valiente,0.634,0.633,L
+2026-10-12,Billy Harris,Matisse Bobichon,0.730,0.688,L
 2026-10-12,Francisco Comesana,Nick Hardt,0.836,0.782,W
 2026-10-12,Alex Barrena,Juan Bautista Torres,0.601,0.618,W
 2026-10-12,Hugo Dellien,Bernardo Munk Mesa,0.948,0.920,W
