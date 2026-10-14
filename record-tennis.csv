@@ -1,5 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Krajicek/Mektic,Miedler/Oberleitner,0.609,0.610,L
+2026-10-14,Belinda Bencic,Sonay Kartal,0.673,0.670,L
+2026-10-14,Iga Swiatek,Magdalena Frech,0.950,0.931,W
+2026-10-14,Marie Bouzkova,Maja Chwalinska,0.664,0.657,L
+2026-10-14,James Duckworth,Liam Draxl,0.577,0.571,L
+2026-10-14,Aleksandar Vukic,Hayato Matsuoka,0.608,0.590,W
+2026-10-14,Marat Sharipov,Ilya Ivashka,0.548,0.553,VOID
 2026-10-13,Katie Volynets,Kimberly Birrell,0.639,0.627,W
 2026-10-13,Yulia Putintseva,Zeynep Sonmez,0.536,0.540,W
 2026-10-13,Jelena Ostapenko,Daria Kasatkina,0.552,0.552,W
@@ -30,7 +36,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-13,Nicolai Budkov Kjaer,Jakub Paul,0.833,0.808,W
 2026-10-13,Raul Brancaccio,Michael Vrbensky,0.720,0.688,L
 2026-10-13,Florian Broska,Milos Karol,0.553,0.548,L
+2026-10-13,Giovanni Mpetshi Perricard,Etienne Donnet,0.738,0.727,L
 2026-10-13,Sonja Zhenikhova,Madhurima Sawant,0.966,0.936,W
+2026-10-13,Victoria Hu,Avery Alexander,0.701,0.684,W
+2026-10-13,Genaro Alberto Olivieri,Lucio Ratti,0.545,0.561,W
+2026-10-13,Annika Penickova,Amelie Hejtmanek,0.943,0.913,W
+2026-10-13,Nicolas Kicker,Thiago Cigarran,0.774,0.772,W
+2026-10-13,Thiago Seyboth Wild,Mateus Alves,0.856,0.838,W
 2026-10-12,Ekaterina Alexandrova,Leylah Fernandez,0.516,0.538,L
 2026-10-12,Diana Shnaider,Katie Boulter,0.772,0.762,W
 2026-10-12,Elise Mertens,Daria Snigur,0.666,0.659,L
@@ -116,8 +128,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-12,Francisco Comesana,Nick Hardt,0.836,0.782,W
 2026-10-12,Alex Barrena,Juan Bautista Torres,0.601,0.618,W
 2026-10-12,Hugo Dellien,Bernardo Munk Mesa,0.948,0.920,W
+2026-10-12,Juan Carlos Prado Angel,Eduardo Ribeiro,0.747,0.728,W
+2026-10-12,Pedro Boscardin Dias,Facundo Mena,0.525,0.534,L
 2026-10-12,Rodrigo Pacheco Mendez,Juan Estevez,0.755,0.746,W
+2026-10-12,Gonzalo Villanueva,Carlos Maria Zarate,0.712,0.675,L
 2026-10-12,Joaquin Aguilar Cardozo,Felipe Meligeni Alves,0.532,0.540,L
+2026-10-12,Franco Roncadelli,Valerio Aboian,0.640,0.628,W
 2026-10-12,Lammons/Withrow,Donski/Pieczonka,0.529,0.535,W
 2026-10-12,Dimitar Kuzmanov,Matyas Cerny,0.835,0.814,W
 2026-10-12,Mackenzie McDonald,Lorenzo Carboni,0.778,0.773,L
