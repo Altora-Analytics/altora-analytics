@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-15,Diana Shnaider,Karolina Muchova,0.531,0.498,W
 2026-10-14,Krajicek/Mektic,Miedler/Oberleitner,0.609,0.610,L
 2026-10-14,Belinda Bencic,Sonay Kartal,0.673,0.670,L
 2026-10-14,Iga Swiatek,Magdalena Frech,0.950,0.931,W
@@ -41,12 +42,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Jessica Bouzas Maneiro,Irene Burillo,0.811,0.799,W
 2026-10-14,Andrea Guerrieri,Maks Kasnikowski,0.600,0.603,L
 2026-10-14,Benjamin Bonzi,Mika Brunold,0.752,0.704,L
+2026-10-14,Francisco Comesana,Felipe Meligeni Alves,0.688,0.652,W
+2026-10-14,Hugo Dellien,Rodrigo Pacheco Mendez,0.589,0.582,W
 2026-10-14,Krawietz/Putz,Arribage/Olivetti,0.617,0.607,L
 2026-10-14,Fiona Ferro,Selena Janicijevic,0.927,0.892,W
 2026-10-14,Polona Hercog,Jazmin Ortenzi,0.509,0.501,W
 2026-10-14,Lorenzo Giustino,Michael Vrbensky,0.724,0.704,W
+2026-10-14,Hugo Gaston,Pierre-Hugues Herbert,0.705,0.676,W
 2026-10-14,Luca Nardi,Lorenzo Carboni,0.832,0.766,W
+2026-10-14,Luis Guto Miguel,Maximo Zeitune,0.586,0.585,W
 2026-10-14,Valentina Ryser,Yuki Naito,0.593,0.596,L
+2026-10-14,Katherine Sebov,Francoise Abanda,0.741,0.719,L
 2026-10-14,Felix Auger-Aliassime,Casper Ruud,0.560,0.571,VOID
 2026-10-14,Marat Sharipov,Ilya Ivashka,0.548,0.553,VOID
 2026-10-13,Katie Volynets,Kimberly Birrell,0.639,0.627,W
