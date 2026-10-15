@@ -1,5 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-15,Shintaro Mochizuki,Dane Sweeny,0.575,0.577,W
+2026-10-15,Aleksandr Shevchenko,Jay Friend,0.522,0.510,W
+2026-10-15,Maria Sakkari,Mia Pohankova,0.699,0.686,W
+2026-10-15,Tomas Machac,Aleksandar Vukic,0.701,0.670,W
+2026-10-15,Marin Cilic,Yosuke Watanuki,0.587,0.583,L
+2026-10-15,Mattia Bellucci,Luka Pavlovic,0.785,0.777,W
+2026-10-15,Iva Jovic,Maja Chwalinska,0.744,0.739,L
 2026-10-15,Diana Shnaider,Karolina Muchova,0.531,0.498,W
+2026-10-15,Elina Svitolina,Hanyu Guo,0.923,0.901,W
+2026-10-15,Alejandro Davidovich Fokina,Arthur Gea,0.530,0.518,VOID
 2026-10-14,Krajicek/Mektic,Miedler/Oberleitner,0.609,0.610,L
 2026-10-14,Belinda Bencic,Sonay Kartal,0.673,0.670,L
 2026-10-14,Iga Swiatek,Magdalena Frech,0.950,0.931,W
@@ -36,6 +45,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Andrej Nedic,Alejo Sanchez Quilez,0.506,0.528,L
 2026-10-14,Enrico Dalla Valle,Buvaysar Gadamauri,0.557,0.574,L
 2026-10-14,Radu Mihai Papoe,Luca Potenza,0.723,0.724,W
+2026-10-14,Luisina Giovannini,Bianca Barbulescu,0.842,0.828,W
 2026-10-14,Luka Mikrut,Sumit Nagal,0.789,0.767,W
 2026-10-14,Sascha Gueymard Wayenbu,Clement Tabur,0.592,0.590,W
 2026-10-14,Lucrezia Stefanini,Harmony Tan,0.615,0.620,W
@@ -46,6 +56,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Hugo Dellien,Rodrigo Pacheco Mendez,0.589,0.582,W
 2026-10-14,Krawietz/Putz,Arribage/Olivetti,0.617,0.607,L
 2026-10-14,Fiona Ferro,Selena Janicijevic,0.927,0.892,W
+2026-10-14,Ilinca Amariei,Maia Burcescu,0.556,0.559,W
 2026-10-14,Polona Hercog,Jazmin Ortenzi,0.509,0.501,W
 2026-10-14,Lorenzo Giustino,Michael Vrbensky,0.724,0.704,W
 2026-10-14,Hugo Gaston,Pierre-Hugues Herbert,0.705,0.676,W
