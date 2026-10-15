@@ -768,7 +768,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-11,2. Bundesliga,Ferndorf,Grosswallstadt,match,Ferndorf,0.5475,blend,0
 2026-10-11,Starligue,Selestat,Dunkerque,match,Selestat,0.5668,blend,0
 2026-10-11,2. Bundesliga,Dessauer,Lubeck-Schwartau,match,Lubeck-Schwartau,0.6112,blend,0
-2026-10-11,Bundesliga,Erlangen,MT Melsungen,match,MT Melsungen,0.6352,blend,0
+2026-10-11,Superleague,Chekhovskiye Medvedi,CSKA Moscow,match,CSKA Moscow,0.6176,blend,0
 2026-10-11,Champions League Women,CSM Bucuresti W (Rou),Esbjerg W (Den),hcap,CSM Bucuresti W (Rou) — draw no bet,0.5568,blend,1
 2026-10-11,Handbollsligan,Kristianstad,Ystads IF,match,Kristianstad,0.6887,blend,1
 2026-10-11,1. Division Women,Bjerringbro W,Ejstrup/Haervejen W,hcap,Bjerringbro W — draw no bet,0.5432,blend,0
@@ -777,7 +777,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-11,Champions League Women,CSM Bucuresti W (Rou),Esbjerg W (Den),match,CSM Bucuresti W (Rou),0.5122,blend,1
 2026-10-11,Herre Handbold Ligaen,Skanderborg AGF,Fredericia,match,Skanderborg AGF,0.6359,blend,0
 2026-10-11,Superleague,Chekhovskiye Medvedi,CSKA Moscow,total,Under 60.25,0.5561,blend,0
-2026-10-11,Superleague,Chekhovskiye Medvedi,CSKA Moscow,match,CSKA Moscow,0.6176,blend,0
+2026-10-11,Bundesliga,Erlangen,MT Melsungen,match,MT Melsungen,0.6352,blend,0
 2026-10-11,Liga ASOBAL,Atl. Valladolid,Puente Genil,total,Over 58,0.5495,blend,0
 2026-10-11,Champions League Women,CSM Bucuresti W (Rou),Esbjerg W (Den),total,Under 61.5,0.5496,blend,0
 2026-10-11,2. Bundesliga,Dessauer,Lubeck-Schwartau,total,Under 64,0.5096,blend,0
@@ -812,18 +812,19 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-13,NB I Women,Gyor W,Esztergomi W,total,Over 61.25,0.5494,blend,1
 2026-10-13,EHF European League,Hammarby,St. Raphael,total,Over 63,0.5094,blend,0
 2026-10-13,EHF European League,Torrelavega,Holstebro,total,Under 61.5,0.5287,blend,0
-2026-10-13,EHF European League,Valur,Tatabanya,total,Under 65.25,0.5281,blend,0
-2026-10-13,EHF European League,Mors,Slovan,total,Under 63.5,0.524,blend,0
-2026-10-13,EHF European League,Wybrzeze Gdansk,La Rioja,total,Under 64,0.5238,blend,1
-2026-10-13,EHF European League,Karvina,Benfica,total,Under 62,0.5215,blend,1
-2026-10-13,EHF European League,Chambery Savoie,Kadetten Schaffhausen,total,Over 63.5,0.5156,blend,0
-2026-10-13,EHF European League,Sesvete,Bergischer,total,Over 60.5,0.5095,blend,1
+2026-10-13,EHF European League,Elverum,Nexe,total,Over 61.75,0.5017,blend,1
+2026-10-13,EHF European League,CSM Bucuresti,Izvidac,total,Under 64.5,0.5032,blend,1
+2026-10-13,EHF European League,Presov,Savehof,total,Under 62.5,0.5064,blend,0
+2026-10-13,EHF European League,Maritimo,FH Hafnarfjordur,total,Under 67.25,0.544,blend,1
 2026-10-13,EHF European League,Limoges,CD Bidasoa Irun,total,Over 64.5,0.509,blend,0
 2026-10-13,EHF European League,Gummersbach,Eurofarm Pelister,total,Under 61,0.5071,blend,0
-2026-10-13,EHF European League,Presov,Savehof,total,Under 62.5,0.5064,blend,0
-2026-10-13,EHF European League,CSM Bucuresti,Izvidac,total,Under 64.5,0.5032,blend,1
-2026-10-13,EHF European League,Elverum,Nexe,total,Over 61.75,0.5017,blend,1
-2026-10-13,EHF European League,Maritimo,FH Hafnarfjordur,total,Under 67.25,0.544,blend,1
+2026-10-13,EHF European League,Chambery Savoie,Kadetten Schaffhausen,total,Over 63.5,0.5156,blend,0
+2026-10-13,EHF European League,Karvina,Benfica,total,Under 62,0.5215,blend,1
+2026-10-13,EHF European League,Wybrzeze Gdansk,La Rioja,total,Under 64,0.5238,blend,1
+2026-10-13,EHF European League,Mors,Slovan,total,Under 63.5,0.524,blend,0
+2026-10-13,EHF European League,Valur,Tatabanya,total,Under 65.25,0.5281,blend,0
+2026-10-13,EHF European League,Sesvete,Bergischer,total,Over 60.5,0.5095,blend,1
 2026-10-14,Division 1 Women,Saint Amand W,Paris 92 W,total,Over 53.25,0.5069,blend,0
 2026-10-14,Division 1 Women,Besancon W,Metz W,total,Under 61.5,0.5215,blend,0
 2026-10-14,Division 1 Women,Plan de Cuques W,Nice W,total,Under 55,0.5357,blend,0
+2026-10-15,Superleague Women,Luch W,Izhevsk W,total,Under 59.75,0.5089,blend,0
