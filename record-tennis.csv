@@ -2,17 +2,38 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-16,Martin Landaluce,Keegan Smith,0.749,0.732,W
 2026-10-16,Rafael Jodar,Casper Ruud,0.512,0.535,W
 2026-10-16,Arribage/Olivetti,Cabral/Tracy,0.548,0.540,L
+2026-10-16,Daniil Medvedev,Tommy Paul,0.682,0.670,W
+2026-10-16,Felix Gill,Buvaysar Gadamauri,0.618,0.637,W
+2026-10-16,Jessica Bouzas Maneiro,Polona Hercog,0.800,0.779,W
+2026-10-16,Michael Mmoh,Luca Nardi,0.528,0.540,L
+2026-10-16,Radu Mihai Papoe,Zdenek Kolar,0.566,0.571,W
+2026-10-16,Luka Mikrut,Alejo Sanchez Quilez,0.804,0.791,L
+2026-10-16,Lucie Havlickova,Jil Teichmann,0.609,0.588,W
 2026-10-16,Maria Sakkari,Maja Chwalinska,0.547,0.549,L
 2026-10-16,Yosuke Watanuki,Shintaro Mochizuki,0.549,0.556,L
 2026-10-16,Mattia Bellucci,Aleksandr Shevchenko,0.687,0.674,W
 2026-10-16,Diana Shnaider,Jelena Ostapenko,0.713,0.676,L
 2026-10-16,Elina Svitolina,Sonay Kartal,0.689,0.664,L
 2026-10-16,Tomas Machac,Liam Draxl,0.728,0.707,L
+2026-10-16,Felix Balshaw,Mika Brunold,0.518,0.515,L
+2026-10-16,Gabriela Knutson,Martyna Kubka,0.520,0.513,L
+2026-10-16,Fiona Ferro,Leyre Romero Gormaz,0.675,0.676,L
 2026-10-16,Damir Dzumhur,Tom Gentzsch,0.518,0.506,W
+2026-10-16,Iga Swiatek,Ann Li,0.826,0.809,W
+2026-10-16,Massimo Giunta,Max Wiskandt,0.667,0.668,W
+2026-10-16,Marco Trungelliti,Francesco Passaro,0.517,0.519,L
+2026-10-16,Francesca Jones,Dalma Galfi,0.598,0.587,L
+2026-10-16,Dominika Salkova,Lea Boskovic,0.618,0.600,W
+2026-10-16,Jacob Fearnley,Maxim Mrva,0.738,0.716,W
+2026-10-16,Marvin Moeller,Gianluca Cadenasso,0.503,0.510,L
+2026-10-16,Hugo Gaston,Nicolai Budkov Kjaer,0.544,0.547,L
 2026-10-16,Carolina Alves,Gala Ivanovic,0.836,0.825,W
 2026-10-16,Ipek Oz,Anja Stankovic,0.809,0.786,W
 2026-10-16,Federica Urgesi,Iva Ivanova,0.748,0.733,L
 2026-10-16,Alisa Oktiabreva,Cristiana Todoni,0.864,0.848,W
+2026-10-16,Elena Bertea,Mika Buchnik,0.911,0.879,W
+2026-10-16,Astrid Lew Yan Foon,Charlotte Pikkaart,0.983,0.930,W
+2026-10-16,Jerome Kym,Dominic Stricker,0.521,0.528,VOID
 2026-10-15,Shintaro Mochizuki,Dane Sweeny,0.575,0.577,W
 2026-10-15,Aleksandr Shevchenko,Jay Friend,0.522,0.510,W
 2026-10-15,Alexander Zverev,Alex De Minaur,0.641,0.637,W
@@ -39,11 +60,13 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-15,Elina Svitolina,Hanyu Guo,0.923,0.901,W
 2026-10-15,Otto Virtanen,Dominic Stricker,0.567,0.549,L
 2026-10-15,Felix Balshaw,Matisse Bobichon,0.829,0.779,W
+2026-10-15,Maks Kasnikowski,Stefano Travaglia,0.576,0.578,W
 2026-10-15,Matej Dodig,Lukas Neumayer,0.684,0.664,W
 2026-10-15,Iga Swiatek,Ashlyn Krueger,0.927,0.900,W
 2026-10-15,Jerome Kym,Ugo Blanchet,0.668,0.654,W
 2026-10-15,Ann Li,Janice Tjen,0.623,0.631,W
 2026-10-15,Leylah Fernandez,Jelena Ostapenko,0.579,0.541,L
+2026-10-15,Zsombor Piros,Lorenzo Giustino,0.794,0.787,W
 2026-10-15,Thiago Seyboth Wild,Carlos Maria Zarate,0.864,0.847,W
 2026-10-15,Juan Carlos Prado Angel,Franco Roncadelli,0.749,0.729,L
 2026-10-15,Facundo Mena,Nicolas Kicker,0.592,0.597,L
@@ -115,6 +138,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-14,Francesco Maestrelli,Maxim Mrva,0.569,0.554,L
 2026-10-14,Luis Guto Miguel,Maximo Zeitune,0.586,0.585,W
 2026-10-14,Valentina Ryser,Yuki Naito,0.593,0.596,L
+2026-10-14,Alicia Herrero Linana,Martina Okalova,0.922,0.887,W
 2026-10-14,Katherine Sebov,Francoise Abanda,0.741,0.719,L
 2026-10-14,Felix Auger-Aliassime,Casper Ruud,0.560,0.571,VOID
 2026-10-14,Marat Sharipov,Ilya Ivashka,0.548,0.553,VOID
