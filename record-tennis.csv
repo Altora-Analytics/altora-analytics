@@ -2,11 +2,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-16,Martin Landaluce,Keegan Smith,0.749,0.732,W
 2026-10-16,Rafael Jodar,Casper Ruud,0.512,0.535,W
 2026-10-16,Arribage/Olivetti,Cabral/Tracy,0.548,0.540,L
+2026-10-16,Maria Sakkari,Maja Chwalinska,0.547,0.549,L
 2026-10-16,Yosuke Watanuki,Shintaro Mochizuki,0.549,0.556,L
 2026-10-16,Mattia Bellucci,Aleksandr Shevchenko,0.687,0.674,W
 2026-10-16,Diana Shnaider,Jelena Ostapenko,0.713,0.676,L
 2026-10-16,Elina Svitolina,Sonay Kartal,0.689,0.664,L
 2026-10-16,Tomas Machac,Liam Draxl,0.728,0.707,L
+2026-10-16,Damir Dzumhur,Tom Gentzsch,0.518,0.506,W
+2026-10-16,Carolina Alves,Gala Ivanovic,0.836,0.825,W
+2026-10-16,Ipek Oz,Anja Stankovic,0.809,0.786,W
+2026-10-16,Federica Urgesi,Iva Ivanova,0.748,0.733,L
+2026-10-16,Alisa Oktiabreva,Cristiana Todoni,0.864,0.848,W
 2026-10-15,Shintaro Mochizuki,Dane Sweeny,0.575,0.577,W
 2026-10-15,Aleksandr Shevchenko,Jay Friend,0.522,0.510,W
 2026-10-15,Alexander Zverev,Alex De Minaur,0.641,0.637,W
@@ -43,6 +49,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-15,Facundo Mena,Nicolas Kicker,0.592,0.597,L
 2026-10-15,Guido Ivan Justo,Juan Manuel La Serna,0.611,0.606,L
 2026-10-15,Francesco Passaro,Nikolas Sanchez Izquier,0.633,0.632,W
+2026-10-15,Vittoria Paganetti,Maria Herazo,0.843,0.828,L
 2026-10-15,Ariana Arseneault,Madison Sieg,0.551,0.560,W
 2026-10-15,Christasha Mcneil,Salma Drugdova,0.593,0.582,L
 2026-10-15,Lea Ma,Sydney Jara,0.966,0.928,W
