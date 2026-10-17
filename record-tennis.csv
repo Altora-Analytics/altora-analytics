@@ -7,6 +7,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-17,Elina Avanesyan,Sayaka Ishii,0.806,0.793,L
 2026-10-17,Harriet Dart,Rina Saigo,0.917,0.854,W
 2026-10-17,Tyra Caterina Grant,Aoi Ito,0.503,0.511,L
+2026-10-17,Sonay Kartal,Jelena Ostapenko,0.558,0.558,W
 2026-10-17,Sinja Kraus,Momoko Kobori,0.953,0.901,W
 2026-10-17,Emerson Jones,Heather    Watson,0.750,0.735,W
 2026-10-17,Maddison Inglis,Sara Sorribes Tormo,0.530,0.533,W
@@ -16,12 +17,41 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-17,Mananchaya Sawangkaew,Polina Kudermetova,0.549,0.549,L
 2026-10-17,Anhelina Kalinina,Simona Waltert,0.689,0.670,W
 2026-10-17,Aliaksandra Sasnovich,Anna Bondar,0.618,0.602,W
+2026-10-17,Kamilla Rakhimova,Dayana Yastremska,0.528,0.513,W
 2026-10-17,Magdalena Frech,Han Shi,0.631,0.633,L
 2026-10-17,Tatiana Prozorova,Mayar Sherif,0.722,0.688,W
+2026-10-17,Martin Landaluce,Liam Draxl,0.616,0.608,W
+2026-10-17,Iga Swiatek,Maja Chwalinska,0.861,0.849,L
+2026-10-17,Daniil Medvedev,Rafael Jodar,0.614,0.634,L
+2026-10-17,Dalma Galfi,Leyre Romero Gormaz,0.593,0.604,L
+2026-10-17,Damir Dzumhur,Maks Kasnikowski,0.503,0.510,W
 2026-10-17,Nikoloz Basilashvili,Taro Daniel,0.656,0.659,W
 2026-10-17,Adam Walton,Beibit Zhukayev,0.892,0.837,W
 2026-10-17,Ipek Oz,Iva Ivanova,0.746,0.745,W
+2026-10-17,Ilia Simakin,Luka Pavlovic,0.573,0.574,W
+2026-10-17,Felix Gill,Radu Mihai Papoe,0.522,0.534,L
+2026-10-17,Clara Burel,Jessica Bouzas Maneiro,0.561,0.554,W
+2026-10-17,Aleksandr Shevchenko,Daniil Glinka,0.581,0.571,W
+2026-10-17,Jerome Kym,Mika Brunold,0.646,0.632,L
+2026-10-17,Tom Gentzsch,Aziz Dougaz,0.510,0.515,L
+2026-10-17,Martin Damm Jr,Buvaysar Gadamauri,0.797,0.750,W
+2026-10-17,Jacob Fearnley,Luca Nardi,0.668,0.659,W
+2026-10-17,Zsombor Piros,Alejo Sanchez Quilez,0.704,0.691,W
 2026-10-17,Roman Safiullin,Ilya Ivashka,0.856,0.801,W
+2026-10-17,Stefanos Sakellaridis,Petr Bar Biryukov,0.657,0.661,W
+2026-10-17,Martyna Kubka,Dominika Salkova,0.519,0.524,L
+2026-10-17,Laura Samson,Tamara Zidansek,0.554,0.551,W
+2026-10-17,Federico Cina,Joel Schwaerzler,0.563,0.556,W
+2026-10-17,Gauthier Onclin,Harry Wendelken,0.528,0.514,W
+2026-10-17,Giovanni Mpetshi Perricard,Remy Bertola,0.606,0.588,L
+2026-10-17,Clement Chidekh,Gilles Arnaud Bailly,0.846,0.835,W
+2026-10-17,Nishesh Basavareddy,Edas Butvilas,0.637,0.633,W
+2026-10-17,Andrea Guerrieri,Kimmer Coppejans,0.557,0.568,W
+2026-10-17,Gianluca Cadenasso,Massimo Giunta,0.561,0.551,W
+2026-10-17,Matej Dodig,Francesco Passaro,0.595,0.605,L
+2026-10-17,Bianca Andreescu,Lucie Havlickova,0.583,0.585,W
+2026-10-17,Elena Bertea,Tilwith Di Girolami,0.711,0.694,L
+2026-10-17,Alisa Oktiabreva,Alice Tubello,0.748,0.739,W
 2026-10-16,Martin Landaluce,Keegan Smith,0.749,0.732,W
 2026-10-16,Rafael Jodar,Casper Ruud,0.512,0.535,W
 2026-10-16,Arribage/Olivetti,Cabral/Tracy,0.548,0.540,L
