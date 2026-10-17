@@ -1,4 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-16,Northland,Otago,0.531,0.390,W
+2026-10-16,Dragons,USA Perpignan,0.629,,W
+2026-10-16,Edinburgh,RC Toulonnais,0.661,,L
+2026-10-16,Beziers,Aurillac,0.748,0.687,L
+2026-10-16,Colomiers,Narbonne,0.893,0.936,W
+2026-10-16,Nevers,Agen,0.508,0.658,L
+2026-10-16,US Dax,Montauban,0.888,0.720,W
+2026-10-16,US Oyonnax,Valence Romans,0.871,,W
+2026-10-16,Biarritz Olympique,Angouleme,0.803,0.827,VOID
+2026-10-16,Gloucester,Bordeaux Begles,0.561,,VOID
 2026-10-11,Exeter Chiefs,Newcastle Red Bulls,0.952,0.811,W
 2026-10-11,Sale Sharks,Harlequins,0.670,0.797,W
 2026-10-11,Stade Toulousain,Aviron Bayonnais,0.930,0.797,W
