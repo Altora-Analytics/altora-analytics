@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-17,Karel Sedláček,Martin Schindler,0.595,0.548,L
+2026-10-17,Wessel Nijman,Jeffrey de Graaf,0.658,0.679,W
+2026-10-17,Luke Woodhouse,Andrew Gilding,0.645,0.625,W
+2026-10-17,Ross Smith,Ryan Joyce,0.647,0.699,W
+2026-10-17,Danny Noppert,Dave Chisnall,0.659,0.657,W
+2026-10-17,Dirk van Duijvenbode,Ryan Searle,0.505,0.509,L
+2026-10-17,Brendan Dolan,Heine Uuldriks,0.553,0.587,W
+2026-10-17,Niels Zonneveld,Krzysztof Ratajski,0.529,0.518,W
 2026-10-16,Karel Sedláček,Callan Rydz,0.537,0.545,W
 2026-10-16,Cameron Menzies,Nick Kenny,0.678,0.687,W
 2026-10-16,Jeffrey de Graaf,Mickey Mansell,0.506,0.518,W
