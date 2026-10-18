@@ -1,9 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-18,Canterbury,Taranaki,0.604,,W
 2026-10-17,Stade Rochelais,Lions,0.831,0.731,W
+2026-10-17,Scarlets,Newcastle Red Bulls,0.874,,W
 2026-10-17,Ulster,Zebre,0.682,,W
+2026-10-17,Bath,Montpellier,0.756,0.797,L
 2026-10-17,Leinster,Clermont,0.562,0.756,W
+2026-10-17,Munster,Racing 92,0.716,0.760,W
 2026-10-17,Glasgow Warriors,Sale Sharks,0.510,,W
 2026-10-17,Stormers,Bristol,0.814,0.959,W
+2026-10-17,CA Brive,Grenoble FC,0.844,,L
 2026-10-17,Connacht,Saracens,0.650,,W
 2026-10-17,Lyon,Sharks,0.714,,VOID
 2026-10-16,Northland,Otago,0.531,0.390,W
