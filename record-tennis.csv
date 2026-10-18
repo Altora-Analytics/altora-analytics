@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-18,Annika Penickova,Nao Nishino,0.704,0.695,W
+2026-10-18,Mary Stoiana,Sayaka Ishii,0.912,0.853,W
+2026-10-18,Daria Snigur,Katarzyna Kawa,0.819,0.815,L
+2026-10-18,Emerson Jones,Taylah Preston,0.503,0.506,W
+2026-10-18,Claire Liu,Maddison Inglis,0.631,0.631,W
 2026-10-17,Alexander Zverev,Alejandro Davidovich Fokina,0.787,0.764,L
 2026-10-17,Miedler/Oberleitner,Schnaitter/Wallner,0.594,0.611,W
 2026-10-17,Annika Penickova,Duru Soke,0.704,0.694,W
@@ -52,6 +57,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-17,Bianca Andreescu,Lucie Havlickova,0.583,0.585,W
 2026-10-17,Elena Bertea,Tilwith Di Girolami,0.711,0.694,L
 2026-10-17,Alisa Oktiabreva,Alice Tubello,0.748,0.739,W
+2026-10-17,Hugo Dellien,Juan Manuel La Serna,0.783,0.777,W
+2026-10-17,Thiago Seyboth Wild,Francisco Comesana,0.567,0.581,W
+2026-10-17,Connie Ma,Lea Ma,0.650,0.641,W
 2026-10-16,Martin Landaluce,Keegan Smith,0.749,0.732,W
 2026-10-16,Rafael Jodar,Casper Ruud,0.512,0.535,W
 2026-10-16,Arribage/Olivetti,Cabral/Tracy,0.548,0.540,L
