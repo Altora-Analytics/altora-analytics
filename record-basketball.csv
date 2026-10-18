@@ -298,13 +298,13 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-18,1. Liga,Liberecko,Radotin,match,Liberecko,0.5784,model,1
 2026-09-19,1 Liga,GKS Tychy,Spojnia Stargard,hcap,GKS Tychy -2,0.5074,model,0
 2026-09-19,TBL,Gaziantep,Final Spor,match,Gaziantep,0.8279,model,1
-2026-09-19,BBL,Bonn,Hamburg,match,Bonn,0.6933,model,1
 2026-09-19,NBL,Pardubice,Brno,match,Pardubice,0.808,model,1
+2026-09-19,VTB Super Cup,Lokomotiv Kuban,Igokea,match,Lokomotiv Kuban,0.7626,model,1
 2026-09-19,LKL,Lietkabelis,Juventus,match,Lietkabelis,0.715,model,1
 2026-09-19,WBL Women,QSTA United W,TopKip Lions W,match,TopKip Lions W,0.7497,model,0
 2026-09-19,Superettan,Alvik,Ockelbo,match,Alvik,0.713,model,1
 2026-09-19,BLNO,TNT Towers,Nidaros Jets,hcap,Nidaros Jets +1,0.5398,model,1
-2026-09-19,VTB Super Cup,Lokomotiv Kuban,Igokea,match,Lokomotiv Kuban,0.7626,model,1
+2026-09-19,BBL,Bonn,Hamburg,match,Bonn,0.6933,model,1
 2026-09-19,NBL,Perth,South East Melbourne,hcap,Perth -1.5,0.5459,model,0
 2026-09-19,BBL,Bonn,Hamburg,hcap,Bonn +4.5,0.7555,model,1
 2026-09-19,Superettan,Trelleborg,Wetterbygden Stars,hcap,Trelleborg -1.5,0.5992,model,0
@@ -318,7 +318,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-19,NBA W,Atlanta Dream W,Chicago Sky W,hcap,Atlanta Dream W +6.5,0.8979,model,1
 2026-09-19,TBL,OGM Ormanspor,Goztepe,hcap,Goztepe +4,0.552,model,1
 2026-09-19,LNB Super Cup,Paris,Nanterre,match,Paris,0.6869,model,1
-2026-09-19,1 Liga,Bytom,Krosno,total,Over 164.5,0.7022,model,1
+2026-09-19,TBL,OGM Ormanspor,Goztepe,match,OGM Ormanspor,0.5785,model,0
 2026-09-19,Superettan,Trelleborg,Wetterbygden Stars,match,Trelleborg,0.665,model,0
 2026-09-19,NBA W,Atlanta Dream W,Chicago Sky W,match,Atlanta Dream W,0.6731,model,1
 2026-09-19,BBL,Rostock,Phoenix Hagen,total,Over 169.5,0.5644,model,1
@@ -327,17 +327,17 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-19,BBL,Bonn,Hamburg,total,Over 166.5,0.58,model,1
 2026-09-19,Superettan,Trelleborg,Wetterbygden Stars,total,Over 164.5,0.585,model,0
 2026-09-19,Superettan,Malbas,Eskilstuna,total,Over 165.5,0.5953,model,1
-2026-09-19,Superliga,Rahoveci,Trepca,total,Over 163.5,0.61,model,1
-2026-09-19,Champions League,Promitheas,Vechta,total,Over 179,0.6104,model,0
-2026-09-19,TBL,Gaziantep,Final Spor,total,Over 154,0.6125,model,1
 2026-09-19,NBL,Melbourne United,Adelaide,total,Under 185,0.6058,model,0
+2026-09-19,Superliga,Rahoveci,Trepca,total,Over 163.5,0.61,model,1
+2026-09-19,TBL,Gaziantep,Final Spor,total,Over 154,0.6125,model,1
+2026-09-19,Champions League,Promitheas,Vechta,total,Over 179,0.6104,model,0
 2026-09-19,NBL,Opava,NH Ostrava,total,Over 174,0.6223,model,0
+2026-09-19,1 Liga,GKS Tychy,Spojnia Stargard,total,Over 158.5,0.6171,model,1
 2026-09-19,Superliga,Sigal Prishtina,Peja,total,Over 163.5,0.6361,model,0
 2026-09-19,1 Liga,Poznan,Poli. Opolska,total,Over 162,0.6373,model,1
-2026-09-19,1 Liga,GKS Tychy,Spojnia Stargard,total,Over 158.5,0.6171,model,1
 2026-09-19,TBL,OGM Ormanspor,Goztepe,total,Over 158.5,0.6539,model,0
+2026-09-19,1 Liga,Bytom,Krosno,total,Over 164.5,0.7022,model,1
 2026-09-19,1 Liga,GKS Tychy,Spojnia Stargard,match,GKS Tychy,0.5743,model,0
-2026-09-19,TBL,OGM Ormanspor,Goztepe,match,OGM Ormanspor,0.5785,model,0
 2026-09-19,Champions League,Promitheas,Vechta,match,Vechta,0.6149,model,1
 2026-09-19,Superliga,Bora,Vellaznimi,match,Bora,0.6171,model,1
 2026-09-19,Superettan,Malbas,Eskilstuna,match,Malbas,0.6294,model,0
@@ -449,14 +449,14 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-24,BBL,Ludwigsburg,Rostock,match,Ludwigsburg,0.572,model,1
 2026-09-24,Euroleague,Baskonia,Olympiacos,total,Over 169,0.6384,model,1
 2026-09-24,Euroleague,Barcelona,Anadolu Efes,match,Barcelona,0.5722,model,1
-2026-09-25,LNB,Dijon,Strasbourg,hcap,Dijon -1.5,0.5612,model,1
 2026-09-25,BBL,Hamburg,Chemnitz,hcap,Hamburg +2,0.556,model,1
+2026-09-25,League Cup,Hapoel Jerusalem,Bnei Herzliya,match,Hapoel Jerusalem,0.6985,model,1
 2026-09-25,1. Liga,CZ.ACADEMY,Sokol Prazsky,match,CZ.ACADEMY,0.8009,model,0
 2026-09-25,BBL,Syntainics MBC,Jena,match,Syntainics MBC,0.7801,model,1
-2026-09-25,Basketligan,BC Lulea,Koping Stars,match,BC Lulea,0.7078,model,1
 2026-09-25,Basketligan,Boras,Nassjo,hcap,Boras +6.5,0.9338,model,1
 2026-09-25,B League,Ibaraki Robots,NeoPhoenix,match,NeoPhoenix,0.7121,model,1
-2026-09-25,League Cup,Hapoel Jerusalem,Bnei Herzliya,match,Hapoel Jerusalem,0.6985,model,1
+2026-09-25,Basketligan,BC Lulea,Koping Stars,match,BC Lulea,0.7078,model,1
+2026-09-25,LNB,Dijon,Strasbourg,hcap,Dijon -1.5,0.5612,model,1
 2026-09-25,1. Liga,Pardubice 2,Opava 2,match,Pardubice 2,0.7257,model,1
 2026-09-25,B League,Saga,Hiroshima D.,hcap,Saga -1.5,0.5744,model,0
 2026-09-25,Euroleague,Fenerbahce,Virtus Bologna,hcap,Fenerbahce +4.5,0.9132,model,1
@@ -472,7 +472,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-25,Basketligan,Sodertalje,Sloga Uppsala,hcap,Sodertalje +2.5,0.933,model,1
 2026-09-25,Latvia-Estonian League,Valmiera Glass Via,Ventspils,hcap,Valmiera Glass Via -2.5,0.5916,model,1
 2026-09-25,Latvia-Estonian League,Valmiera Glass Via,Ventspils,match,Valmiera Glass Via,0.6701,model,1
-2026-09-25,Pro B,La Rochelle,ASA,match,La Rochelle,0.6044,model,1
+2026-09-25,B League,Saga,Hiroshima D.,match,Saga,0.6277,model,0
 2026-09-25,Pro A,Giessen,Artland,match,Giessen,0.6531,model,1
 2026-09-25,VTB United League,Zenit Petersburg,Uralmash Ekaterinburg,match,Zenit Petersburg,0.6611,model,1
 2026-09-25,BBL,Trier,Bonn,total,Over 177,0.5771,model,1
@@ -485,27 +485,27 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-25,ZBL W,Trutnov W,Slovanka W,total,Over 147.5,0.6067,model,0
 2026-09-25,1. Liga,Pardubice 2,Opava 2,total,Over 148.25,0.6113,model,0
 2026-09-25,Latvia-Estonian League,Valmiera Glass Via,Ventspils,total,Over 171.5,0.6146,model,1
-2026-09-25,League Cup,Hapoel Jerusalem,Bnei Herzliya,total,Over 177.25,0.6413,model,0
+2026-09-25,KBL Cup,Anyang JungKwanJang,Suwon KT,total,Under 163.5,0.6872,model,1
 2026-09-25,Latvia-Estonian League,Keila Coolbet,Rigas Zelli,total,Over 174,0.6346,model,0
 2026-09-25,B League,Nagasaki,Shimane,total,Over 159.5,0.6375,model,1
+2026-09-25,League Cup,Hapoel Jerusalem,Bnei Herzliya,total,Over 177.25,0.6413,model,0
 2026-09-25,Basketligan,Boras,Nassjo,total,Over 172.25,0.6534,model,0
-2026-09-25,KBL Cup,Anyang JungKwanJang,Suwon KT,total,Under 163.5,0.6872,model,1
 2026-09-25,Pro B,Denain-Voltaire,Ada Blois,match,Denain-Voltaire,0.572,model,1
 2026-09-25,BBL,Trier,Bonn,match,Bonn,0.5741,model,0
 2026-09-25,B League,Kyoto,Shiga,match,Kyoto,0.5917,model,1
+2026-09-25,Pro B,La Rochelle,ASA,match,La Rochelle,0.6044,model,1
 2026-09-25,LNB,Dijon,Strasbourg,match,Dijon,0.6191,model,1
-2026-09-25,B League,Saga,Hiroshima D.,match,Saga,0.6277,model,0
 2026-09-25,VTB United League,Zenit Petersburg,Uralmash Ekaterinburg,total,Under 162.5,0.6342,model,1
 2026-09-25,Pro B,Rouen,Vichy,match,Rouen,0.6447,model,0
 2026-09-26,Pro A,Gottingen,Koln,hcap,Gottingen +2.5,0.6932,model,0
 2026-09-26,Super Cup,Kapfenberg Bulls,Wels,hcap,Kapfenberg Bulls +1.5,0.6886,model,1
 2026-09-26,Serie A2,Cividale,Forli,match,Cividale,0.8416,model,0
+2026-09-26,BBL,Bamberg,Ludwigsburg,match,Bamberg,0.8258,model,0
 2026-09-26,Supercopa Women,Zaragoza W,Valencia W,match,Zaragoza W,0.7465,model,0
-2026-09-26,TBL,Goztepe,Ankara Kolejliler,match,Goztepe,0.7818,model,1
 2026-09-26,Superliga,Rahoveci,Bashkimi,match,Bashkimi,0.7525,model,1
 2026-09-26,Latvia-Estonian League,Parnu,BK Liepaja,match,Parnu,0.7476,model,1
 2026-09-26,1. ZLS Women,ZKK Kraljevo W,Ras W,hcap,ZKK Kraljevo W +1.5,0.7216,model,0
-2026-09-26,BBL,Bamberg,Ludwigsburg,match,Bamberg,0.8258,model,0
+2026-09-26,TBL,Goztepe,Ankara Kolejliler,match,Goztepe,0.7818,model,1
 2026-09-26,Lega A,Reggiana,Trento,hcap,Reggiana +2.5,0.7529,model,0
 2026-09-26,Super Cup,Panathinaikos,PAOK,hcap,Panathinaikos +4.5,0.8033,model,1
 2026-09-26,NBL,Perth,New Zealand Breakers,hcap,Perth +3.5,0.7619,model,1
@@ -513,14 +513,14 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-26,LNB,Nanterre,Pau-Orthez,hcap,Nanterre +3.5,0.791,model,1
 2026-09-26,B League,Brave Thunders,Diamond Dolphins,hcap,Diamond Dolphins +1.5,0.7968,model,1
 2026-09-26,ACB,Bilbao,Manresa,match,Bilbao,0.739,model,1
+2026-09-26,LNB,Chalon/Saone,Limoges,hcap,Chalon/Saone +3.5,0.8117,model,1
 2026-09-26,ACB,Bilbao,Manresa,hcap,Bilbao +3.5,0.8231,model,1
-2026-09-26,LFB W,ESB Villeneuve W,Toulouse W,hcap,ESB Villeneuve W +2.5,0.8237,model,1
 2026-09-26,Super Cup,Olympiacos,AEK Athens,hcap,Olympiacos -2.5,0.8271,model,1
 2026-09-26,BBL,Bamberg,Ludwigsburg,hcap,Bamberg +3.5,0.84,model,0
 2026-09-26,League Cup,Hapoel Tel Aviv,Hapoel Beer Sheva,hcap,Hapoel Tel Aviv +6.5,0.9176,model,1
 2026-09-26,Lega A,Venezia,Cantu,hcap,Venezia +1.5,0.7553,model,1
 2026-09-26,Lega A,Venezia,Cantu,match,Venezia,0.7387,model,1
-2026-09-26,LNB,Chalon/Saone,Limoges,hcap,Chalon/Saone +3.5,0.8117,model,1
+2026-09-26,LFB W,ESB Villeneuve W,Toulouse W,hcap,ESB Villeneuve W +2.5,0.8237,model,1
 2026-09-26,B League,Brave Thunders,Diamond Dolphins,match,Diamond Dolphins,0.7311,model,1
 2026-09-26,Lega A,Reggiana,Trento,match,Reggiana,0.7343,model,0
 2026-09-26,LNB,Gravelines-Dunkerque,Le Mans,total,Over 171.5,0.61,model,1
@@ -568,47 +568,49 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-27,NBL,Adelaide,Cairns Taipans,match,Adelaide,0.7984,model,1
 2026-09-27,NBL,Adelaide,Cairns Taipans,hcap,Adelaide -1.5,0.7627,model,1
 2026-09-27,League Cup,Ironi Eilat,Maccabi Ashdod,match,Ironi Eilat,0.7914,model,1
-2026-09-27,WASL,AlUla,Al Arabi,match,AlUla,0.7364,model,1
+2026-09-27,Superliga,Vellaznimi,Sigal Prishtina,match,Vellaznimi,0.7431,model,0
 2026-09-27,Basketbol Süper Ligi,Trabzonspor,Bursaspor,match,Trabzonspor,0.7549,model,1
 2026-09-27,NBL,Plzen,Srsni Pisek,total,Under 176.5,0.6311,model,1
+2026-09-27,Lega A,Olimpia Milano,Trieste,total,Over 168.5,0.6412,model,0
 2026-09-27,SLB,Sheffield Sharks,Caledonia Gladiators,total,Over 167.5,0.6427,model,1
-2026-09-27,NBL,Sydney,Illawarra Hawks,total,Over 188.5,0.6437,model,1
-2026-09-27,Lega A,Tortona,Verona,total,Under 172,0.6491,model,0
 2026-09-27,ACB,Tenerife,Basket Zaragoza,match,Tenerife,0.7669,model,0
+2026-09-27,Lega A,Tortona,Verona,total,Under 172,0.6491,model,0
+2026-09-27,WBL Women,Leiden W,Den Helder W,total,Over 138,0.6549,model,1
 2026-09-27,Basketbol Süper Ligi,Trabzonspor,Bursaspor,total,Over 163.5,0.6571,model,0
 2026-09-27,B League,Shinshu,Toyama,total,Under 175,0.6591,model,0
 2026-09-27,Basketligaen,Bears Academy,Bakken Bears,total,Under 171.75,0.6657,model,0
 2026-09-27,WASL,Shahrdari Gorgan,Sagesse Beirut,total,Under 173.5,0.672,model,0
 2026-09-27,ACB,Breogan,Joventut Badalona,total,Over 173.5,0.6768,model,1
-2026-09-27,WBL Women,Leiden W,Den Helder W,total,Over 138,0.6549,model,1
+2026-09-27,NBL,Sydney,Illawarra Hawks,total,Over 188.5,0.6437,model,1
 2026-09-27,Superliga,Vellaznimi,Sigal Prishtina,total,Under 157.5,0.6848,model,1
-2026-09-27,KBSL W,Besiktas W,Melikgazi Kayseri W,total,Under 155.25,0.6781,model,1
-2026-09-27,Basketligan,Sloga Uppsala,Uppsala,match,Uppsala,0.749,model,1
-2026-09-27,Superettan,Huddinge,Trelleborg,match,Huddinge,0.7473,model,0
-2026-09-27,Superliga,Vellaznimi,Sigal Prishtina,match,Vellaznimi,0.7431,model,0
-2026-09-27,1 Liga,LKS Lodz,GKS Tychy,match,LKS Lodz,0.7425,model,1
-2026-09-27,Lega A,Olimpia Milano,Trieste,total,Over 168.5,0.6412,model,0
-2026-09-27,Basketbol Süper Ligi,Bahcesehir Kol.,Fenerbahce,match,Fenerbahce,0.727,model,0
-2026-09-27,BBL,Basketball Braunschweig,Rostock,total,Over 167.5,0.6939,model,0
-2026-09-27,ZBL W,KP Brno W,Hradec Kralove W,total,Over 148.25,0.6891,model,0
 2026-09-27,Serie A2,Libertas Livorno,Pistoia,total,Over 156.25,0.6862,model,0
+2026-09-27,ZBL W,KP Brno W,Hradec Kralove W,total,Over 148.25,0.6891,model,0
+2026-09-27,BBL,Basketball Braunschweig,Rostock,total,Over 167.5,0.6939,model,0
+2026-09-27,Basketbol Süper Ligi,Bahcesehir Kol.,Fenerbahce,match,Fenerbahce,0.727,model,0
 2026-09-27,SLB,Sheffield Sharks,Caledonia Gladiators,match,Sheffield Sharks,0.7277,model,1
+2026-09-27,WASL,AlUla,Al Arabi,match,AlUla,0.7364,model,1
+2026-09-27,1 Liga,LKS Lodz,GKS Tychy,match,LKS Lodz,0.7425,model,1
+2026-09-27,Superettan,Huddinge,Trelleborg,match,Huddinge,0.7473,model,0
+2026-09-27,Basketligan,Sloga Uppsala,Uppsala,match,Uppsala,0.749,model,1
+2026-09-27,KBSL W,Besiktas W,Melikgazi Kayseri W,total,Under 155.25,0.6781,model,1
 2026-09-28,WBL Women,Maccabi Haifa W,Maccabi Karmiel W,hcap,Maccabi Haifa W -3.5,0.5605,model,1
 2026-09-28,WBL Women,Maccabi Ramat Gan W,Hapoel Jerusalem W,match,Maccabi Ramat Gan W,0.8667,model,0
 2026-09-28,WBL Women,Maccabi Haifa W,Maccabi Karmiel W,match,Maccabi Haifa W,0.6408,model,1
 2026-09-28,WASL,Kuwait SC,Al-Riyadi,match,Al-Riyadi,0.507,model,1
-2026-09-28,Latvia-Estonian League,Latvijas Universitate,Ventspils,total,Over 177.25,0.665,model,1
+2026-09-28,WASL,Kuwait SC,Al-Riyadi,total,Under 180.5,0.582,model,1
 2026-09-28,WBL Women,Hapoel Petah Tikva W,Elitzur Ramla W,total,Under 154.5,0.5537,model,1
 2026-09-28,WBL Women,Maccabi Ramat Gan W,Hapoel Jerusalem W,total,Under 146,0.5191,model,1
-2026-09-28,WASL,Kuwait SC,Al-Riyadi,total,Under 180.5,0.582,model,1
 2026-09-28,WBL Women,Maccabi Haifa W,Maccabi Karmiel W,total,Under 142.5,0.5076,model,1
-2026-09-29,Korisliiga,KTP Kotka Basket,Bisons Loimaa,total,Over 165.5,0.5727,model,0
+2026-09-28,Latvia-Estonian League,Latvijas Universitate,Ventspils,total,Over 177.25,0.665,model,1
 2026-09-29,Euroleague,Paris,Partizan Mozzart Bet,total,Under 175,0.564,model,1
 2026-09-29,ENBL,Dubrava,CIU,total,Under 163.5,0.5689,model,0
+2026-09-29,Korisliiga,KTP Kotka Basket,Bisons Loimaa,total,Over 165.5,0.5727,model,0
 2026-09-29,Euroleague,Anadolu Efes,Real Madrid,total,Over 172.5,0.5731,model,1
+2026-09-29,Liga Nova KBM,KK Krka Novo mesto,Zlatorog Lasko,total,Under 163.25,0.5966,model,1
 2026-09-29,Eurocup,Le Mans,Aris,total,Over 167.75,0.6022,model,0
-2026-09-29,Eurocup,Venezia,Frankfurt,match,Venezia,0.8014,model,1
-2026-09-29,Basketligan,Umea,Sodertalje,match,Sodertalje,0.8038,model,1
+2026-09-29,Basketligan,Hogsbo,Boras,total,Over 172.5,0.6048,model,1
+2026-09-29,Korisliiga,Kataja,Helsinki Seagulls,total,Under 164,0.6198,model,0
+2026-09-29,Euroleague,Fenerbahce,Bayern,total,Under 166.5,0.6246,model,0
 2026-09-29,NB I A,Szolnoki Olaj,Kaposvari,match,Szolnoki Olaj,0.8276,model,0
 2026-09-29,Euroleague,Zalgiris Kaunas,Olympiacos,hcap,Olympiacos -1.5,0.5632,model,1
 2026-09-29,Eurocup,Neptunas,Trento,hcap,Trento +1.5,0.5765,model,1
@@ -616,8 +618,8 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-29,Euroleague,Paris,Partizan Mozzart Bet,hcap,Partizan Mozzart Bet +1.5,0.6096,model,1
 2026-09-29,WASL,Sagesse Beirut,AlUla,hcap,AlUla +3.5,0.6496,model,0
 2026-09-29,Euroleague,Dubai,Barcelona,hcap,Dubai -1.5,0.6651,model,1
+2026-09-29,Euroleague,Crvena Zvezda Meridianbet,Hapoel Tel Aviv,hcap,Crvena Zvezda Meridianbet -1.5,0.6702,model,0
 2026-09-29,Basketligan,Jamtland,BC Lulea,hcap,Jamtland +2.5,0.6931,model,1
-2026-09-29,League Cup,Hapoel HaEmek,Maccabi Rishon,hcap,Hapoel HaEmek +3.5,0.7081,model,1
 2026-09-29,Basketligan,Umea,Sodertalje,hcap,Sodertalje -2.5,0.718,model,1
 2026-09-29,Korisliiga,KTP Kotka Basket,Bisons Loimaa,hcap,KTP Kotka Basket +4.5,0.7811,model,1
 2026-09-29,Euroleague,Olimpia Milano,Virtus Bologna,hcap,Olimpia Milano +3.5,0.8039,model,1
@@ -625,42 +627,40 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-29,Euroleague,Fenerbahce,Bayern,hcap,Fenerbahce +4.5,0.8304,model,1
 2026-09-29,Euroleague,Valencia,Baskonia,hcap,Valencia +2.5,0.8606,model,1
 2026-09-29,Eurocup,Venezia,Frankfurt,hcap,Venezia +4.5,0.8623,model,1
-2026-09-29,Liga Nova KBM,KK Krka Novo mesto,Zlatorog Lasko,total,Under 163.25,0.5966,model,1
-2026-09-29,Euroleague,Valencia,Baskonia,match,Valencia,0.7827,model,1
-2026-09-29,Premier League W,Armann W,Grindavik W,match,Grindavik W,0.7694,model,1
-2026-09-29,Euroleague,Crvena Zvezda Meridianbet,Hapoel Tel Aviv,hcap,Crvena Zvezda Meridianbet -1.5,0.6702,model,0
-2026-09-29,Euroleague,Dubai,Barcelona,match,Dubai,0.6927,model,1
-2026-09-29,Euroleague,Fenerbahce,Bayern,match,Fenerbahce,0.7299,model,1
-2026-09-29,Basketligan,Hogsbo,Boras,total,Over 172.5,0.6048,model,1
-2026-09-29,Korisliiga,Kataja,Helsinki Seagulls,total,Under 164,0.6198,model,0
 2026-09-29,Eurocup,Venezia,Frankfurt,total,Over 166.25,0.6232,model,1
-2026-09-29,Euroleague,Fenerbahce,Bayern,total,Under 166.5,0.6246,model,0
+2026-09-29,Basketligan,Umea,Sodertalje,match,Sodertalje,0.8038,model,1
+2026-09-29,Eurocup,Venezia,Frankfurt,match,Venezia,0.8014,model,1
+2026-09-29,League Cup,Hapoel HaEmek,Maccabi Rishon,hcap,Hapoel HaEmek +3.5,0.7081,model,1
+2026-09-29,Premier League W,Armann W,Grindavik W,match,Grindavik W,0.7694,model,1
+2026-09-29,Euroleague,Valencia,Baskonia,match,Valencia,0.7827,model,1
 2026-09-29,Latvia-Estonian League,Valmiera Glass Via,Keila Coolbet,total,Over 176,0.6324,model,0
+2026-09-29,Euroleague,Olimpia Milano,Virtus Bologna,total,Over 162.5,0.6424,model,1
 2026-09-29,WASL,Al Arabi,Shahrdari Gorgan,total,Under 174.5,0.655,model,1
 2026-09-29,Basketligan,Umea,Sodertalje,total,Over 162.5,0.6708,model,0
-2026-09-29,Premier League W,KR Reykjavik W,Stjarnan W,total,Over 153,0.7132,model,1
 2026-09-29,WASL,Sagesse Beirut,AlUla,total,Under 182.5,0.7371,model,0
-2026-09-29,Euroleague,Olimpia Milano,Virtus Bologna,total,Over 162.5,0.6424,model,1
 2026-09-29,League Cup,Hapoel HaEmek,Maccabi Rishon,match,Hapoel HaEmek,0.5621,model,1
-2026-09-29,Premier League W,KR Reykjavik W,Stjarnan W,match,KR Reykjavik W,0.6897,model,1
-2026-09-29,Euroleague,Crvena Zvezda Meridianbet,Hapoel Tel Aviv,match,Crvena Zvezda Meridianbet,0.6824,model,0
-2026-09-29,Basketligan,Jamtland,BC Lulea,match,Jamtland,0.6606,model,1
-2026-09-29,Korisliiga,Kataja,Helsinki Seagulls,match,Kataja,0.6512,model,1
-2026-09-29,Euroleague,Olimpia Milano,Virtus Bologna,match,Olimpia Milano,0.6904,model,1
-2026-09-29,Eurocup,Tofas,Chemnitz,match,Tofas,0.5937,model,1
 2026-09-29,Eurocup,Neptunas,Trento,match,Trento,0.568,model,1
+2026-09-29,Premier League W,KR Reykjavik W,Stjarnan W,total,Over 153,0.7132,model,1
 2026-09-29,Basketligan,Nassjo,Norrkoping,match,Norrkoping,0.6419,model,1
-2026-09-30,Eurocup,Tenerife,Turk Telekom,hcap,Tenerife +1.5,0.5927,model,1
-2026-09-30,Eurocup,Siauliai,London Lions,match,London Lions,0.7179,model,0
-2026-09-30,Eurocup,PAOK,Manresa,match,PAOK,0.7478,model,1
-2026-09-30,Extraliga,BKM Lucenec,Slovan Bratislava,match,Slovan Bratislava,0.7486,model,1
-2026-09-30,VTB United League,Saratov,Uralmash Ekaterinburg,match,Uralmash Ekaterinburg,0.7721,model,1
-2026-09-30,SB League,Neuchatel,Lugano Tigers,match,Neuchatel,0.8249,model,1
-2026-09-30,Eurocup,San Pablo Burgos,Cedevita Olimpija,hcap,San Pablo Burgos +0.5,0.5642,model,1
-2026-09-30,NBL,Decin,Brno,hcap,Decin -2,0.5758,model,1
+2026-09-29,Korisliiga,Kataja,Helsinki Seagulls,match,Kataja,0.6512,model,1
+2026-09-29,Basketligan,Jamtland,BC Lulea,match,Jamtland,0.6606,model,1
+2026-09-29,Euroleague,Crvena Zvezda Meridianbet,Hapoel Tel Aviv,match,Crvena Zvezda Meridianbet,0.6824,model,0
+2026-09-29,Premier League W,KR Reykjavik W,Stjarnan W,match,KR Reykjavik W,0.6897,model,1
+2026-09-29,Euroleague,Olimpia Milano,Virtus Bologna,match,Olimpia Milano,0.6904,model,1
+2026-09-29,Euroleague,Dubai,Barcelona,match,Dubai,0.6927,model,1
+2026-09-29,Eurocup,Tofas,Chemnitz,match,Tofas,0.5937,model,1
+2026-09-29,Euroleague,Fenerbahce,Bayern,match,Fenerbahce,0.7299,model,1
+2026-09-30,NBL,New Zealand Breakers,Cairns Taipans,match,New Zealand Breakers,0.7157,model,1
 2026-09-30,NBL,Usti n. Labem,Opava,hcap,Usti n. Labem -2.5,0.5883,model,1
+2026-09-30,NBL,Decin,Brno,hcap,Decin -2,0.5758,model,1
+2026-09-30,Eurocup,San Pablo Burgos,Cedevita Olimpija,hcap,San Pablo Burgos +0.5,0.5642,model,1
+2026-09-30,Eurocup,PAOK,Manresa,match,PAOK,0.7478,model,1
+2026-09-30,VTB United League,Saratov,Uralmash Ekaterinburg,match,Uralmash Ekaterinburg,0.7721,model,1
+2026-09-30,Extraliga,BKM Lucenec,Slovan Bratislava,match,Slovan Bratislava,0.7486,model,1
+2026-09-30,Eurocup,Tenerife,Turk Telekom,hcap,Tenerife +1.5,0.5927,model,1
+2026-09-30,SB League,Neuchatel,Lugano Tigers,match,Neuchatel,0.8249,model,1
 2026-09-30,NBL,NH Ostrava,Hradec Kralove,hcap,NH Ostrava +3.5,0.6128,model,1
-2026-09-30,Euroleague,Panathinaikos,Lyon-Villeurbanne,hcap,Panathinaikos +6.5,0.9259,model,1
+2026-09-30,SB League,Neuchatel,Lugano Tigers,hcap,Neuchatel +4.5,0.857,model,1
 2026-09-30,NBL,Srsni Pisek,Pardubice,hcap,Pardubice +1.5,0.6524,model,1
 2026-09-30,ENBL,Bristol Flyers,Tindastoll,hcap,Tindastoll -1.5,0.6563,model,1
 2026-09-30,SB League,SAM Massagno,Lausanne Basket,hcap,Lausanne Basket +2.5,0.6587,model,0
@@ -669,13 +669,12 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-30,Eurocup,Siauliai,London Lions,hcap,London Lions -0.5,0.7345,model,0
 2026-09-30,NBL,New Zealand Breakers,Cairns Taipans,hcap,New Zealand Breakers +2.5,0.7865,model,1
 2026-09-30,Eurocup,PAOK,Manresa,hcap,PAOK +4.5,0.8353,model,1
-2026-09-30,SB League,Neuchatel,Lugano Tigers,hcap,Neuchatel +4.5,0.857,model,1
-2026-09-30,NBL,New Zealand Breakers,Cairns Taipans,match,New Zealand Breakers,0.7157,model,1
+2026-09-30,Euroleague,Panathinaikos,Lyon-Villeurbanne,hcap,Panathinaikos +6.5,0.9259,model,1
+2026-09-30,Eurocup,Slask Wroclaw,Buducnost,match,Buducnost,0.7097,model,1
 2026-09-30,Eurocup,Rigas Zelli,Tortona,hcap,Rigas Zelli +2.5,0.651,model,1
 2026-09-30,Extraliga,Iskra Svit,Kosice Wolves,match,Iskra Svit,0.7096,model,0
-2026-09-30,Eurocup,Slask Wroclaw,Buducnost,match,Buducnost,0.7097,model,1
-2026-09-30,ENBL,Fyllingen,Spartak Pleven,total,Over 168.25,0.6306,model,0
-2026-09-30,Eurocup,Tenerife,Turk Telekom,total,Under 170.5,0.5995,model,1
+2026-09-30,Eurocup,Siauliai,London Lions,match,London Lions,0.7179,model,0
+2026-09-30,NBL,Decin,Brno,match,Decin,0.6961,model,1
 2026-09-30,Eurocup,Lietkabelis,KK Bosna,total,Under 166.5,0.6061,model,1
 2026-09-30,WASL,Al-Riyadi,Al Ittihad,total,Under 181.5,0.612,model,1
 2026-09-30,Premijer liga,Zabok,Cibona,total,Under 159,0.622,model,0
@@ -686,20 +685,20 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-30,Romanian Cup,CSM Targu Mures,Municipal Galati,total,Over 168.5,0.6494,model,1
 2026-09-30,NBL,Sydney,Brisbane Bullets,total,Under 193.5,0.6535,model,1
 2026-09-30,NBL,Srsni Pisek,Pardubice,total,Under 172.5,0.6706,model,0
-2026-09-30,NBL,Usti n. Labem,Opava,match,Usti n. Labem,0.7034,model,1
+2026-09-30,ENBL,Fyllingen,Spartak Pleven,total,Over 168.25,0.6306,model,0
 2026-09-30,Euroleague,Maccabi Tel Aviv,Besiktas,total,Under 174.5,0.681,model,0
 2026-09-30,Eurocup,Slask Wroclaw,Buducnost,total,Over 168.25,0.6771,model,1
 2026-09-30,ENBL,Bristol Flyers,Tindastoll,match,Tindastoll,0.6926,model,1
+2026-09-30,Eurocup,Tenerife,Turk Telekom,total,Under 170.5,0.5995,model,1
 2026-09-30,FIBA Europe Cup,BC Prievidza,Samobor,match,BC Prievidza,0.6823,model,1
 2026-09-30,Euroleague,Maccabi Tel Aviv,Besiktas,match,Maccabi Tel Aviv,0.6773,model,0
-2026-09-30,Extraliga,Spisski Rytieri,BC Komarno,match,Spisski Rytieri,0.6514,model,1
-2026-09-30,NBL,Decin,Brno,match,Decin,0.6961,model,1
+2026-09-30,NBL,Usti n. Labem,Opava,match,Usti n. Labem,0.7034,model,1
+2026-09-30,Premier League W,Valur W,Njardvik W,match,Njardvik W,0.6295,model,0
 2026-09-30,NBL,Srsni Pisek,Pardubice,match,Pardubice,0.6241,model,1
 2026-09-30,Eurocup,San Pablo Burgos,Cedevita Olimpija,total,Over 170.5,0.7052,model,0
 2026-09-30,Romanian Cup,Petrolul Ploiesti,SCM Timisoara,total,Over 154.5,0.7042,model,1
-2026-09-30,Premier League W,Valur W,Njardvik W,match,Njardvik W,0.6295,model,0
-2026-10-01,WASL,Shahrdari Gorgan,AlUla,match,AlUla,0.6871,model,1
-2026-10-01,Euroleague,Virtus Bologna,Olympiacos,hcap,Olympiacos -4.5,0.7288,model,0
+2026-09-30,Extraliga,Spisski Rytieri,BC Komarno,match,Spisski Rytieri,0.6514,model,1
+2026-10-01,Euroleague,Crvena Zvezda Meridianbet,Anadolu Efes,match,Crvena Zvezda Meridianbet,0.6062,model,1
 2026-10-01,Euroleague,Hapoel Tel Aviv,Real Madrid,hcap,Real Madrid +1.5,0.673,model,0
 2026-10-01,BBL,Jena,Vechta,hcap,Vechta -2.5,0.6518,model,0
 2026-10-01,WASL,Shahrdari Gorgan,AlUla,hcap,AlUla +2.5,0.6298,model,1
@@ -708,72 +707,73 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-01,Euroleague,Crvena Zvezda Meridianbet,Anadolu Efes,hcap,Crvena Zvezda Meridianbet -1.5,0.511,model,1
 2026-10-01,Euroleague,Virtus Bologna,Olympiacos,match,Olympiacos,0.7624,model,0
 2026-10-01,BBL,Jena,Vechta,match,Vechta,0.7083,model,0
+2026-10-01,WASL,Shahrdari Gorgan,AlUla,match,AlUla,0.6871,model,1
+2026-10-01,Euroleague,Virtus Bologna,Olympiacos,hcap,Olympiacos -4.5,0.7288,model,0
 2026-10-01,Euroleague,Hapoel Tel Aviv,Real Madrid,match,Real Madrid,0.5946,model,0
-2026-10-01,Euroleague,Paris,Zalgiris Kaunas,total,Under 178.5,0.5964,model,1
-2026-10-01,EuroCup Women,Chomutov W,Chartres W,match,Chartres W,0.5626,model,1
-2026-10-01,Euroleague,Crvena Zvezda Meridianbet,Anadolu Efes,match,Crvena Zvezda Meridianbet,0.6062,model,1
-2026-10-01,EuroCup Women,Ferrol W,Beroe W,total,Under 145.5,0.5401,model,1
-2026-10-01,NBL,Tasmania JackJumpers,Melbourne United,total,Under 183,0.5535,model,1
-2026-10-01,Euroleague,Hapoel Tel Aviv,Real Madrid,total,Under 175.5,0.573,model,0
-2026-10-01,BBL,Jena,Vechta,total,Over 169,0.5952,model,0
-2026-10-01,Euroleague,Virtus Bologna,Olympiacos,total,Over 168.5,0.5123,model,1
-2026-10-01,WASL,Al Arabi,Sagesse Beirut,total,Under 183,0.637,model,1
-2026-10-01,Euroleague,Crvena Zvezda Meridianbet,Anadolu Efes,total,Over 167.5,0.6593,model,0
-2026-10-01,EuroCup Women,Chomutov W,Chartres W,total,Over 142.5,0.6636,model,0
 2026-10-01,NBL,Tasmania JackJumpers,Melbourne United,match,Melbourne United,0.539,model,0
-2026-10-02,BNXT League,Kortrijk,Donar Groningen,match,Kortrijk,0.7217,model,0
-2026-10-02,Superleague,MZT Skopje,MKK Kumanovo,match,MZT Skopje,0.726,model,1
-2026-10-02,Energa Basket Liga,Czarni Slupsk,Legia,match,Legia,0.7466,model,1
-2026-10-02,SLB,Newcastle Eagles,Caledonia Gladiators,match,Newcastle Eagles,0.7832,model,1
-2026-10-02,Pro B,Nantes,Quimper,match,Nantes,0.8332,model,1
-2026-10-02,Pro B,Hyeres-Toulon,La Rochelle,hcap,Hyeres-Toulon +1.5,0.6775,model,1
+2026-10-01,EuroCup Women,Chomutov W,Chartres W,total,Over 142.5,0.6636,model,0
+2026-10-01,Euroleague,Crvena Zvezda Meridianbet,Anadolu Efes,total,Over 167.5,0.6593,model,0
+2026-10-01,WASL,Al Arabi,Sagesse Beirut,total,Under 183,0.637,model,1
+2026-10-01,Euroleague,Paris,Zalgiris Kaunas,total,Under 178.5,0.5964,model,1
+2026-10-01,BBL,Jena,Vechta,total,Over 169,0.5952,model,0
+2026-10-01,Euroleague,Hapoel Tel Aviv,Real Madrid,total,Under 175.5,0.573,model,0
+2026-10-01,NBL,Tasmania JackJumpers,Melbourne United,total,Under 183,0.5535,model,1
+2026-10-01,EuroCup Women,Ferrol W,Beroe W,total,Under 145.5,0.5401,model,1
+2026-10-01,Euroleague,Virtus Bologna,Olympiacos,total,Over 168.5,0.5123,model,1
+2026-10-01,EuroCup Women,Chomutov W,Chartres W,match,Chartres W,0.5626,model,1
 2026-10-02,Basketligan,Uppsala,Hogsbo,hcap,Uppsala -2,0.6801,model,1
+2026-10-02,Pro B,Hyeres-Toulon,La Rochelle,hcap,Hyeres-Toulon +1.5,0.6775,model,1
+2026-10-02,Pro B,Nantes,Quimper,match,Nantes,0.8332,model,1
+2026-10-02,BNXT League,Kortrijk,Donar Groningen,match,Kortrijk,0.7217,model,0
+2026-10-02,BNXT League,Rotterdam,Leiden,match,Leiden,0.7543,model,1
+2026-10-02,Energa Basket Liga,Czarni Slupsk,Legia,match,Legia,0.7466,model,1
+2026-10-02,Superleague,MZT Skopje,MKK Kumanovo,match,MZT Skopje,0.726,model,1
 2026-10-02,B League,Chiba,Alvark,hcap,Chiba +4,0.6876,model,0
+2026-10-02,SLB,Newcastle Eagles,Caledonia Gladiators,match,Newcastle Eagles,0.7832,model,1
 2026-10-02,BNXT League,Kortrijk,Donar Groningen,hcap,Kortrijk -2.5,0.691,model,0
-2026-10-02,NBL,Perth,South East Melbourne,hcap,Perth +3.5,0.7009,model,1
-2026-10-02,Korisliiga,Helsinki Seagulls,Lahti Basketball,match,Helsinki Seagulls,0.7153,model,1
+2026-10-02,Euroleague,Besiktas,Barcelona,hcap,Besiktas +4.5,0.7512,model,0
+2026-10-02,Energa Basket Liga,Czarni Slupsk,Legia,hcap,Legia -1.5,0.7155,model,1
 2026-10-02,Euroleague,Lyon-Villeurbanne,Valencia,hcap,Valencia +1.5,0.7215,model,1
 2026-10-02,BNXT League,Rotterdam,Leiden,hcap,Leiden -1.5,0.7367,model,1
 2026-10-02,Pro B,St. Chamond,Caen,hcap,St. Chamond +2.5,0.7477,model,0
-2026-10-02,Euroleague,Besiktas,Barcelona,hcap,Besiktas +4.5,0.7512,model,0
 2026-10-02,Basketligaen,Svendborg,Vejen,hcap,Svendborg -4.5,0.7607,model,1
 2026-10-02,SLB,Newcastle Eagles,Caledonia Gladiators,hcap,Newcastle Eagles +4.5,0.8426,model,1
 2026-10-02,Euroleague,Panathinaikos,Maccabi Tel Aviv,hcap,Panathinaikos +5.5,0.8562,model,1
 2026-10-02,BNXT League,Limburg,Mechelen,hcap,Limburg +2.5,0.8764,model,0
 2026-10-02,Premijer liga,Split,Kvarner,hcap,Split +6.5,0.9228,model,1
-2026-10-02,Pro B,Nantes,Quimper,hcap,Nantes +4.5,0.9234,model,1
-2026-10-02,Energa Basket Liga,Czarni Slupsk,Legia,hcap,Legia -1.5,0.7155,model,1
+2026-10-02,Korisliiga,Helsinki Seagulls,Lahti Basketball,match,Helsinki Seagulls,0.7153,model,1
+2026-10-02,NBL,Perth,South East Melbourne,hcap,Perth +3.5,0.7009,model,1
 2026-10-02,Pro A,Nurnberger,Koblenz,match,Nurnberger,0.7148,model,1
-2026-10-02,BNXT League,Rotterdam,Leiden,match,Leiden,0.7543,model,1
+2026-10-02,Pro B,Nantes,Quimper,hcap,Nantes +4.5,0.9234,model,1
 2026-10-02,Basketligan,Uppsala,Hogsbo,match,Uppsala,0.7022,model,1
 2026-10-02,Basketligan,Koping Stars,Boras,match,Boras,0.7051,model,1
+2026-10-02,Pro A,Artland,Gottingen,total,Under 174,0.5951,model,1
 2026-10-02,Euroleague,Besiktas,Barcelona,total,Over 166.5,0.5976,model,1
 2026-10-02,Premijer liga,Split,Kvarner,total,Over 161.25,0.6003,model,1
-2026-10-02,BNXT League,Limburg,Mechelen,total,Over 163.5,0.6044,model,1
+2026-10-02,Euroleague,Fenerbahce,Dubai,total,Under 166.5,0.6055,model,1
 2026-10-02,Pro A,Crailsheim Merlins,Tubingen,total,Over 165,0.6269,model,0
 2026-10-02,Energa Basket Liga,Trefl Sopot,Dziki Warszawa,total,Over 173.5,0.6398,model,0
 2026-10-02,B League,Chiba,Alvark,total,Over 163,0.6464,model,1
 2026-10-02,Superleague,Batumi,Kutaisi,total,Over 165.5,0.6467,model,0
 2026-10-02,Primera FEB,Tizona Burgos,Albacete,total,Under 168.5,0.6493,model,0
 2026-10-02,NBL,Illawarra Hawks,Adelaide,total,Over 186,0.6697,model,1
-2026-10-02,1. Liga,MS Academy,Brno U23,total,Over 162.5,0.6712,model,0
-2026-10-02,Euroleague,Fenerbahce,Dubai,total,Under 166.5,0.6055,model,1
-2026-10-02,1. Liga,Opava 2,Basketbal Olomouc,total,Over 147.5,0.6789,model,1
+2026-10-02,BNXT League,Limburg,Mechelen,total,Over 163.5,0.6044,model,1
 2026-10-02,Euroleague,Lyon-Villeurbanne,Valencia,total,Over 167.5,0.6758,model,1
+2026-10-02,1. Liga,MS Academy,Brno U23,total,Over 162.5,0.6712,model,0
 2026-10-02,Pro B,St. Chamond,Caen,match,St. Chamond,0.6815,model,0
 2026-10-02,Tauihi Women,Mid-North Whai W,Southern Hoiho W,match,Mid-North Whai W,0.6765,model,0
-2026-10-02,Pro A,Artland,Gottingen,total,Under 174,0.5951,model,1
+2026-10-02,Euroleague,Lyon-Villeurbanne,Valencia,match,Valencia,0.6335,model,1
 2026-10-02,Pro B,Hyeres-Toulon,La Rochelle,match,Hyeres-Toulon,0.6496,model,1
-2026-10-02,Euroleague,Fenerbahce,Dubai,match,Fenerbahce,0.6252,model,1
 2026-10-02,Pro A,Bayreuth,PS Karlsruhe,match,Bayreuth,0.6169,model,0
 2026-10-02,Basketligan,Koping Stars,Boras,total,Over 178,0.699,model,0
 2026-10-02,Top Division Women,Namur W,Lummen W,total,Under 141.5,0.6882,model,0
-2026-10-02,Euroleague,Lyon-Villeurbanne,Valencia,match,Valencia,0.6335,model,1
+2026-10-02,1. Liga,Opava 2,Basketbal Olomouc,total,Over 147.5,0.6789,model,1
+2026-10-02,Euroleague,Fenerbahce,Dubai,match,Fenerbahce,0.6252,model,1
+2026-10-03,NB I A,NKA Pecs,Szolnoki Olaj,hcap,Szolnoki Olaj -1.5,0.6874,blend,1
+2026-10-03,Latvia-Estonian League,BC Kalev/Cramo,Parnu,hcap,BC Kalev/Cramo +1.5,0.7139,blend,1
 2026-10-03,LPB,Benfica,Sporting CP,hcap,Benfica -2.5,0.6895,blend,1
-2026-10-03,LNB,Limoges,Saint Quentin,hcap,Limoges -2.5,0.7218,blend,1
 2026-10-03,Primera FEB,Zamora,Estudiantes,hcap,Estudiantes +1.5,0.6915,blend,1
 2026-10-03,Korisliiga,Pyrinto Tampere,Salon Vilpas,hcap,Salon Vilpas -1.5,0.7094,blend,1
-2026-10-03,Latvia-Estonian League,BC Kalev/Cramo,Parnu,hcap,BC Kalev/Cramo +1.5,0.7139,blend,1
 2026-10-03,Liga Nova KBM,Tajfun Sentjur,Sencur,hcap,Sencur +2.5,0.7341,blend,1
 2026-10-03,B League,Gunma,Ibaraki Robots,hcap,Gunma +3.5,0.8088,blend,1
 2026-10-03,NBL,Melbourne United,Cairns Taipans,hcap,Melbourne United +2.5,0.7609,blend,0
@@ -781,278 +781,278 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-03,LKL,Neptunas,Nevezis,hcap,Neptunas +4.5,0.7725,blend,1
 2026-10-03,ACB,Joventut Badalona,MoraBanc Andorra,hcap,Joventut Badalona +3.5,0.7929,blend,0
 2026-10-03,SB League,Lausanne Basket,BBC Monthey,hcap,Lausanne Basket -2.5,0.9025,blend,1
-2026-10-03,NB I A,NKA Pecs,Szolnoki Olaj,hcap,Szolnoki Olaj -1.5,0.6874,blend,1
-2026-10-03,Basket League,AS Karditsas,Aris,hcap,Aris +2.5,0.7483,blend,0
 2026-10-03,ABA League,Cedevita Olimpija,Cibona,hcap,Cedevita Olimpija +2.5,0.6844,blend,1
-2026-10-03,Korisliiga,Pyrinto Tampere,Salon Vilpas,match,Salon Vilpas,0.7797,blend,1
-2026-10-03,KBSL W,CBK Mersin W,Ormanspor W,match,CBK Mersin W,0.8162,blend,1
-2026-10-03,Basketbol Süper Ligi,Bursaspor,Turk Telekom,match,Turk Telekom,0.7203,blend,1
+2026-10-03,Basket League,AS Karditsas,Aris,hcap,Aris +2.5,0.7483,blend,0
 2026-10-03,Liga Nova KBM,Polzela,Rogaska,hcap,Polzela +2.5,0.6817,blend,1
+2026-10-03,LNB,Limoges,Saint Quentin,hcap,Limoges -2.5,0.7218,blend,1
+2026-10-03,Superettan,Malbas,Ockelbo,match,Malbas,0.7909,blend,0
+2026-10-03,KBSL W,CBK Mersin W,Ormanspor W,match,CBK Mersin W,0.8162,blend,1
+2026-10-03,B League,Shiga,Ryukyu,match,Ryukyu,0.721,blend,1
 2026-10-03,Super Cup,Balkan,Cherno More,match,Balkan,0.7228,blend,1
 2026-10-03,Latvia-Estonian League,BC Kalev/Cramo,Parnu,match,BC Kalev/Cramo,0.7339,blend,1
 2026-10-03,ABA League,Igokea,Slovan Bratislava,match,Igokea,0.7488,blend,1
-2026-10-03,NKL,Kauno Atletas,Jurbarkas,match,Jurbarkas,0.7492,blend,1
 2026-10-03,LNB,Limoges,Saint Quentin,match,Limoges,0.755,blend,1
-2026-10-03,B League,Shiga,Ryukyu,match,Ryukyu,0.721,blend,1
-2026-10-03,LFB W,Landes W,ESB Villeneuve W,match,Landes W,0.7614,blend,1
+2026-10-03,ABA League,Cedevita Olimpija,Cibona,match,Cedevita Olimpija,0.7596,blend,1
+2026-10-03,NKL,Kauno Atletas,Jurbarkas,match,Jurbarkas,0.7492,blend,1
+2026-10-03,Basketbol Süper Ligi,Bursaspor,Turk Telekom,match,Turk Telekom,0.7203,blend,1
 2026-10-03,Basket League,AS Karditsas,Aris,match,Aris,0.7625,blend,0
 2026-10-03,Basket League,AEK Athens,Maroussi,match,AEK Athens,0.776,blend,1
+2026-10-03,Korisliiga,Pyrinto Tampere,Salon Vilpas,match,Salon Vilpas,0.7797,blend,1
 2026-10-03,LPB,Benfica,Sporting CP,match,Benfica,0.7817,blend,1
 2026-10-03,NBL,Melbourne United,Cairns Taipans,match,Melbourne United,0.7875,blend,0
-2026-10-03,Superettan,Malbas,Ockelbo,match,Malbas,0.7909,blend,0
-2026-10-03,ABA League,Cedevita Olimpija,Cibona,match,Cedevita Olimpija,0.7596,blend,1
+2026-10-03,LFB W,Landes W,ESB Villeneuve W,match,Landes W,0.7614,blend,1
+2026-10-04,Pro A,Gottingen,Wolmirstedt,hcap,Gottingen -1.5,0.6923,blend,0
 2026-10-04,B League,Altiri Chiba,Brave Thunders,hcap,Altiri Chiba -1.5,0.6657,blend,0
+2026-10-04,B League,Shiga,Ryukyu,hcap,Ryukyu -3.5,0.67,blend,0
 2026-10-04,NBL,Usti n. Labem,Brno,hcap,Usti n. Labem +3.5,0.6771,blend,1
 2026-10-04,Primera FEB,Gipuzkoa,Ourense,hcap,Gipuzkoa +2.5,0.6883,blend,0
-2026-10-04,Pro A,Gottingen,Wolmirstedt,hcap,Gottingen -1.5,0.6923,blend,0
 2026-10-04,Energa Basket Liga,GTK Gliwice,Dabrowa Gornicza,hcap,Dabrowa Gornicza +2.5,0.6938,blend,1
-2026-10-04,B League,Saga,NeoPhoenix,hcap,NeoPhoenix +2.5,0.7404,blend,1
+2026-10-04,BBL,Bayern,Oldenburg,hcap,Bayern +3.5,0.7881,blend,1
 2026-10-04,Liga A,Gimnasia,La Union,hcap,Gimnasia +1.5,0.7211,blend,1
+2026-10-04,B League,Saga,NeoPhoenix,hcap,NeoPhoenix +2.5,0.7404,blend,1
 2026-10-04,ACB,Obradoiro CAB,Real Madrid,hcap,Real Madrid +1.5,0.7536,blend,1
 2026-10-04,ACB,Baskonia,Basquet Girona,hcap,Baskonia +4.5,0.7605,blend,1
 2026-10-04,B League,Gunma,Ibaraki Robots,hcap,Gunma +1.5,0.7753,blend,1
-2026-10-04,BBL,Bayern,Oldenburg,hcap,Bayern +3.5,0.7881,blend,1
 2026-10-04,KBL,Suwon KT,Seoul Thunders,hcap,Suwon KT +4.5,0.6553,blend,0
 2026-10-04,B League,Osaka,SeaHorses Mikawa,hcap,SeaHorses Mikawa -1.5,0.7026,blend,1
 2026-10-04,VTB United League,Samara,Dynamo Vladivostok,hcap,Dynamo Vladivostok -1.5,0.6536,blend,1
-2026-10-04,B League,Shiga,Ryukyu,hcap,Ryukyu -3.5,0.67,blend,0
+2026-10-04,First League,BKK Radnicki,Kolubara,match,BKK Radnicki,0.7359,blend,0
 2026-10-04,B League,Gunma,Ibaraki Robots,match,Gunma,0.7799,blend,1
-2026-10-04,Pro A,Giessen,Bochum,match,Giessen,0.8111,blend,1
 2026-10-04,B League,Toyama,Utsunomiya Brex,match,Utsunomiya Brex,0.688,blend,1
 2026-10-04,Primera FEB,Gipuzkoa,Ourense,match,Gipuzkoa,0.6908,blend,0
 2026-10-04,Superliga,Peja,Vellaznimi,match,Peja,0.6946,blend,0
+2026-10-04,Pro A,Giessen,Bochum,match,Giessen,0.8111,blend,1
 2026-10-04,B League,Shiga,Ryukyu,match,Ryukyu,0.7118,blend,0
 2026-10-04,LFB Women,Sporting CP W,Benfica W,match,Benfica W,0.719,blend,1
-2026-10-04,Liga A,Gimnasia,La Union,match,Gimnasia,0.7253,blend,1
 2026-10-04,B League,Altiri Chiba,Brave Thunders,match,Altiri Chiba,0.6984,blend,0
+2026-10-04,Pro A,Gottingen,Wolmirstedt,match,Gottingen,0.7258,blend,0
 2026-10-04,Pro A,PS Karlsruhe,Crailsheim Merlins,match,Crailsheim Merlins,0.7304,blend,1
 2026-10-04,NBL,Usti n. Labem,Brno,match,Usti n. Labem,0.7307,blend,1
 2026-10-04,B League,Osaka,SeaHorses Mikawa,match,SeaHorses Mikawa,0.7328,blend,1
-2026-10-04,First League,BKK Radnicki,Kolubara,match,BKK Radnicki,0.7359,blend,0
 2026-10-04,B League,Saga,NeoPhoenix,match,NeoPhoenix,0.739,blend,1
 2026-10-04,Premijer liga,Samobor,Alkar,match,Samobor,0.7678,blend,0
-2026-10-04,Pro A,Gottingen,Wolmirstedt,match,Gottingen,0.7258,blend,0
-2026-10-05,ABA League,Zadar,Studentski Centar,hcap,Zadar +1.5,0.6158,blend,1
+2026-10-04,Liga A,Gimnasia,La Union,match,Gimnasia,0.7253,blend,1
 2026-10-05,Lega A,Verona,Olimpia Milano,hcap,Olimpia Milano +2.5,0.7361,blend,0
 2026-10-05,Energa Basket Liga,Anwil Wloclawek,Gornik Walbrzych,hcap,Anwil Wloclawek -1.5,0.7338,blend,0
 2026-10-05,BBL,Vechta,Basketball Braunschweig,hcap,Vechta -2.5,0.6756,blend,0
 2026-10-05,KBL,KoGas,Anyang JungKwanJang,hcap,Anyang JungKwanJang +1.5,0.6466,blend,1
+2026-10-05,ABA League,Zadar,Studentski Centar,hcap,Zadar +1.5,0.6158,blend,1
 2026-10-05,Basketbol Süper Ligi,Besiktas,Trabzonspor,hcap,Besiktas +1.5,0.6338,blend,1
 2026-10-05,Lega A,Cantu,Udine,hcap,Cantu +1.5,0.5288,blend,1
-2026-10-05,Energa Basket Liga,Anwil Wloclawek,Gornik Walbrzych,match,Anwil Wloclawek,0.7611,blend,1
+2026-10-05,LFB Women,Gdessa Barreiro W,Quinta Dos Lombos W,match,Quinta Dos Lombos W,0.684,blend,1
 2026-10-05,Lega A,Verona,Olimpia Milano,match,Olimpia Milano,0.7604,blend,0
 2026-10-05,BBL,Vechta,Basketball Braunschweig,match,Vechta,0.7037,blend,0
-2026-10-05,LFB Women,Gdessa Barreiro W,Quinta Dos Lombos W,match,Quinta Dos Lombos W,0.684,blend,1
 2026-10-05,Basketbol Süper Ligi,Besiktas,Trabzonspor,match,Besiktas,0.6651,blend,1
 2026-10-05,KBL,KoGas,Anyang JungKwanJang,match,Anyang JungKwanJang,0.6341,blend,1
 2026-10-05,ABA League,Zadar,Studentski Centar,match,Zadar,0.5783,blend,1
 2026-10-05,Lega A,Cantu,Udine,match,Cantu,0.5577,blend,0
+2026-10-05,Energa Basket Liga,Anwil Wloclawek,Gornik Walbrzych,match,Anwil Wloclawek,0.7611,blend,1
+2026-10-06,French Cup,Poitiers,Orleans,hcap,Poitiers +1.5,0.557,blend,1
 2026-10-06,Korisliiga,UU-Korihait Uusikaupunki,Helsinki Seagulls,hcap,UU-Korihait Uusikaupunki +4.5,0.5645,blend,1
-2026-10-06,Champions League,Strasbourg,Legia,hcap,Strasbourg +1.5,0.5907,blend,1
 2026-10-06,Champions League,Hapoel Holon,Cholet,hcap,Cholet -1.5,0.5925,blend,1
 2026-10-06,Eurocup,Frankfurt,Siauliai,hcap,Frankfurt +1.5,0.6097,blend,1
 2026-10-06,Eurocup,JL Bourg,Tofas,hcap,JL Bourg +1.5,0.6499,blend,0
 2026-10-06,VTB United League,Enisey,Saratov,hcap,Enisey +1.5,0.6551,blend,0
-2026-10-06,KBL,Suwon KT,LG Sakers,hcap,LG Sakers +1.5,0.684,blend,0
-2026-10-06,Korisliiga,Honka,Pyrinto Tampere,hcap,Honka +2.5,0.6798,blend,1
-2026-10-06,French Cup,Poitiers,Orleans,hcap,Poitiers +1.5,0.557,blend,1
 2026-10-06,Korisliiga,Karhu Basket,Bisons Loimaa,hcap,Karhu Basket +1.5,0.6844,blend,1
+2026-10-06,Korisliiga,Honka,Pyrinto Tampere,hcap,Honka +2.5,0.6798,blend,1
+2026-10-06,KBL,Suwon KT,LG Sakers,hcap,LG Sakers +1.5,0.684,blend,0
+2026-10-06,Liga A,Platense,La Union,hcap,Platense -1.5,0.5466,blend,0
 2026-10-06,Eurocup,Trento,Slask Wroclaw,hcap,Trento +3.5,0.723,blend,0
 2026-10-06,French Cup,Hyeres-Toulon,Fos-sur-Mer,hcap,Hyeres-Toulon +4.5,0.7476,blend,1
 2026-10-06,Champions League,Rytas,Sabah Baku,hcap,Rytas +3.5,0.8253,blend,1
 2026-10-06,Eurocup,Rostock,Rigas Zelli,hcap,Rostock +4.5,0.6759,blend,1
-2026-10-06,Liga A,Platense,La Union,hcap,Platense -1.5,0.5466,blend,0
-2026-10-06,VTB United League,Enisey,Saratov,match,Enisey,0.6658,blend,0
-2026-10-06,Premier League,Samaheej,Al Muharraq,match,Al Muharraq,0.7902,blend,1
 2026-10-06,BNXT League,Donar Groningen,Leuven Bears,hcap,Donar Groningen -2,0.5197,blend,1
+2026-10-06,Champions League,Strasbourg,Legia,hcap,Strasbourg +1.5,0.5907,blend,1
+2026-10-06,French Cup,Hyeres-Toulon,Fos-sur-Mer,match,Hyeres-Toulon,0.7871,blend,1
 2026-10-06,Liga A,Platense,La Union,match,Platense,0.5825,blend,0
+2026-10-06,Premier League,Samaheej,Al Muharraq,match,Al Muharraq,0.7902,blend,1
 2026-10-06,Eurocup,London Lions,Tenerife,match,Tenerife,0.5906,blend,0
 2026-10-06,Premier League W,Valur W,KR Reykjavik W,match,Valur W,0.6093,blend,0
 2026-10-06,First League,KK Metalac,Cacak 94,match,KK Metalac,0.6201,blend,0
-2026-10-06,Eurocup,Frankfurt,Siauliai,match,Frankfurt,0.6284,blend,1
-2026-10-06,Champions League,Hapoel Holon,Cholet,match,Cholet,0.6313,blend,1
 2026-10-06,Champions League,Strasbourg,Legia,match,Strasbourg,0.6216,blend,1
+2026-10-06,Champions League,Hapoel Holon,Cholet,match,Cholet,0.6313,blend,1
+2026-10-06,Eurocup,Frankfurt,Siauliai,match,Frankfurt,0.6284,blend,1
+2026-10-06,VTB United League,Enisey,Saratov,match,Enisey,0.6658,blend,0
 2026-10-06,KBL,Suwon KT,LG Sakers,match,LG Sakers,0.6901,blend,0
 2026-10-06,Korisliiga,Honka,Pyrinto Tampere,match,Honka,0.6966,blend,1
 2026-10-06,Korisliiga,Karhu Basket,Bisons Loimaa,match,Karhu Basket,0.7114,blend,0
 2026-10-06,Eurocup,Rostock,Rigas Zelli,match,Rostock,0.7217,blend,1
 2026-10-06,Eurocup,Trento,Slask Wroclaw,match,Trento,0.769,blend,0
-2026-10-06,French Cup,Hyeres-Toulon,Fos-sur-Mer,match,Hyeres-Toulon,0.7871,blend,1
 2026-10-06,Eurocup,JL Bourg,Tofas,match,JL Bourg,0.6401,blend,0
-2026-10-07,VTB United League,Zenit Petersburg,Parma Perm,hcap,Zenit Petersburg +1.5,0.6367,blend,1
-2026-10-07,TBL,Buyukcekmece,iLab Basketbol,hcap,Buyukcekmece -1.5,0.5924,blend,1
+2026-10-07,Eurocup,Chemnitz,Neptunas,hcap,Chemnitz +3.5,0.6506,blend,1
 2026-10-07,Eurocup,Manresa,Ulm,hcap,Manresa +3,0.595,blend,1
 2026-10-07,Eurocup,Tortona,Le Mans,hcap,Tortona +3.5,0.5985,blend,1
 2026-10-07,Champions League,Spartak Subotica,Vechta,hcap,Spartak Subotica +1.5,0.6253,blend,1
-2026-10-07,Eurocup,Chemnitz,Neptunas,hcap,Chemnitz +3.5,0.6506,blend,1
+2026-10-07,VTB United League,Zenit Petersburg,Parma Perm,hcap,Zenit Petersburg +1.5,0.6367,blend,1
+2026-10-07,Champions League,Antwerp Giants,Szombathely,hcap,Antwerp Giants +1.5,0.6625,blend,1
 2026-10-07,Champions League,Murcia,Varese,hcap,Murcia +4.5,0.8382,blend,1
-2026-10-07,B League,Sendai,Altiri Chiba,hcap,Sendai -1.5,0.6652,blend,1
 2026-10-07,LFB W,ESB Villeneuve W,Landerneau Bretagne W,hcap,ESB Villeneuve W +3.5,0.678,blend,0
 2026-10-07,KBL,KCC Egis,KoGas,hcap,KCC Egis +3.5,0.685,blend,1
 2026-10-07,Euroleague,Paris,Lyon-Villeurbanne,hcap,Paris +3.5,0.6888,blend,1
 2026-10-07,Champions League,Trabzonspor,Nanterre,hcap,Trabzonspor +2.5,0.6906,blend,1
-2026-10-07,Korisliiga,Lahti Basketball,Kataja,hcap,Kataja -1,0.5684,blend,0
-2026-10-07,Champions League,Antwerp Giants,Szombathely,hcap,Antwerp Giants +1.5,0.6625,blend,1
-2026-10-07,B League,Osaka,Yokohama,hcap,Yokohama +2,0.5649,blend,1
 2026-10-07,B League,Ibaraki Robots,Hiroshima D.,hcap,Hiroshima D. +2.5,0.7284,blend,1
-2026-10-07,Champions League,Juventus,Unicaja,match,Unicaja,0.7549,blend,1
+2026-10-07,TBL,Buyukcekmece,iLab Basketbol,hcap,Buyukcekmece -1.5,0.5924,blend,1
+2026-10-07,B League,Sendai,Altiri Chiba,hcap,Sendai -1.5,0.6652,blend,1
+2026-10-07,Korisliiga,Lahti Basketball,Kataja,hcap,Kataja -1,0.5684,blend,0
+2026-10-07,LFB W,Tronche Meylan W,Toulouse W,match,Tronche Meylan W,0.6609,blend,1
+2026-10-07,Liga Femenina W,Gernika Bizkaia W,Zaragoza W,match,Zaragoza W,0.755,blend,1
+2026-10-07,B League,Osaka,Yokohama,hcap,Yokohama +2,0.5649,blend,1
 2026-10-07,VTB United League,Zenit Petersburg,Parma Perm,match,Zenit Petersburg,0.6335,blend,1
 2026-10-07,LFB W,Angers W,Lattes Montpellier W,match,Lattes Montpellier W,0.6466,blend,1
 2026-10-07,Champions League,Spartak Subotica,Vechta,match,Spartak Subotica,0.6531,blend,1
 2026-10-07,Champions League,Antwerp Giants,Szombathely,match,Antwerp Giants,0.6563,blend,1
-2026-10-07,LFB W,Tronche Meylan W,Toulouse W,match,Tronche Meylan W,0.6609,blend,1
-2026-10-07,Eurocup,Chemnitz,Neptunas,match,Chemnitz,0.6676,blend,1
 2026-10-07,Euroleague,Paris,Lyon-Villeurbanne,match,Paris,0.6781,blend,0
-2026-10-07,Liga Femenina W,Gernika Bizkaia W,Zaragoza W,match,Zaragoza W,0.755,blend,1
-2026-10-07,Premier League W,Njardvik W,Keflavik W,match,Njardvik W,0.6878,blend,1
+2026-10-07,LFB W,ESB Villeneuve W,Landerneau Bretagne W,match,ESB Villeneuve W,0.685,blend,0
+2026-10-07,Eurocup,Chemnitz,Neptunas,match,Chemnitz,0.6676,blend,1
 2026-10-07,KBL,KCC Egis,KoGas,match,KCC Egis,0.6896,blend,1
 2026-10-07,B League,Ibaraki Robots,Hiroshima D.,match,Hiroshima D.,0.7035,blend,1
 2026-10-07,Champions League,Trabzonspor,Nanterre,match,Trabzonspor,0.7162,blend,1
 2026-10-07,Liga Femenina W,Valencia W,Perfumerias Avenida W,match,Valencia W,0.7192,blend,1
 2026-10-07,B League,Sendai,Altiri Chiba,match,Sendai,0.7209,blend,1
-2026-10-07,LFB W,ESB Villeneuve W,Landerneau Bretagne W,match,ESB Villeneuve W,0.685,blend,0
-2026-10-08,Extraliga W,Slovan Bratislava W,Young Angels Kosice W,hcap,Slovan Bratislava W +2.5,0.5307,blend,0
+2026-10-07,Champions League,Juventus,Unicaja,match,Unicaja,0.7549,blend,1
+2026-10-07,Premier League W,Njardvik W,Keflavik W,match,Njardvik W,0.6878,blend,1
+2026-10-08,Basketligaen,Vejen,Vaerlose,hcap,Vejen -1.5,0.5608,blend,1
 2026-10-08,Premier league,Valur,Stjarnan,hcap,Stjarnan +2,0.5312,blend,0
+2026-10-08,KBL,Wonju DB,LG Sakers,hcap,Wonju DB -2,0.544,blend,0
 2026-10-08,NBL,Cairns Taipans,Brisbane Bullets,hcap,Cairns Taipans -1.5,0.5515,blend,1
 2026-10-08,I Divisioona A,Pyrinto Akatemia,Raholan Pyrkiva,hcap,Raholan Pyrkiva +2,0.5605,blend,1
-2026-10-08,Basketligaen,Vejen,Vaerlose,hcap,Vejen -1.5,0.5608,blend,1
 2026-10-08,B League,Nagasaki,Shinshu,hcap,Nagasaki +1.5,0.5654,blend,1
-2026-10-08,Euroleague,Bayern,Virtus Bologna,hcap,Bayern +3.5,0.6913,blend,0
+2026-10-08,B League,Alvark,Saga,hcap,Alvark +3.5,0.8032,blend,1
 2026-10-08,Euroleague,Panathinaikos,Fenerbahce,hcap,Panathinaikos -1.5,0.6095,blend,1
 2026-10-08,B League,Akita,Brave Thunders,hcap,Brave Thunders +1.5,0.6149,blend,1
-2026-10-08,Liga Femenina W,Estepona W,Ensino W,hcap,Estepona W -2,0.5269,blend,1
+2026-10-08,Extraliga W,Slovan Bratislava W,Young Angels Kosice W,hcap,Slovan Bratislava W +2.5,0.5307,blend,0
+2026-10-08,Euroleague,Bayern,Virtus Bologna,hcap,Bayern +3.5,0.6913,blend,0
 2026-10-08,Euroleague,Dubai,Crvena Zvezda Meridianbet,hcap,Dubai +3.5,0.6933,blend,0
 2026-10-08,Euroleague,Real Madrid,Partizan Mozzart Bet,hcap,Real Madrid +4.5,0.7218,blend,1
-2026-10-08,B League,Alvark,Saga,hcap,Alvark +3.5,0.8032,blend,1
 2026-10-08,Liga Femenina W,Araski W,Estudiantes W,hcap,Estudiantes W +1,0.5809,blend,1
-2026-10-08,B League,Ryukyu,Gunma,hcap,Ryukyu +4.5,0.5266,blend,0
-2026-10-08,KBL,Wonju DB,LG Sakers,hcap,Wonju DB -2,0.544,blend,0
-2026-10-08,Liga Femenina W,Jairis W,Ferrol W,match,Jairis W,0.7706,blend,1
+2026-10-08,Liga Femenina W,Estepona W,Ensino W,hcap,Estepona W -2,0.5269,blend,1
+2026-10-08,Liga Femenina W,Araski W,Estudiantes W,match,Estudiantes W,0.5862,blend,1
 2026-10-08,Euroleague,Real Madrid,Partizan Mozzart Bet,match,Real Madrid,0.7802,blend,1
+2026-10-08,Euroleague,Maccabi Tel Aviv,Olimpia Milano,match,Maccabi Tel Aviv,0.556,blend,1
 2026-10-08,B League,Nagasaki,Shinshu,match,Nagasaki,0.5583,blend,1
 2026-10-08,KBL,Wonju DB,LG Sakers,match,Wonju DB,0.565,blend,0
 2026-10-08,Premier league,Valur,Stjarnan,match,Stjarnan,0.5749,blend,0
-2026-10-08,Liga Femenina W,Araski W,Estudiantes W,match,Estudiantes W,0.5862,blend,1
 2026-10-08,Liga Femenina W,Estepona W,Ensino W,match,Estepona W,0.5984,blend,1
 2026-10-08,I Divisioona A,Pyrinto Akatemia,Raholan Pyrkiva,match,Raholan Pyrkiva,0.599,blend,1
-2026-10-08,Euroleague,Maccabi Tel Aviv,Olimpia Milano,match,Maccabi Tel Aviv,0.556,blend,1
-2026-10-08,B League,Akita,Brave Thunders,match,Brave Thunders,0.6253,blend,1
+2026-10-08,TBL,Mersin SK,Gaziantep,match,Mersin SK,0.6141,blend,1
+2026-10-08,B League,Ryukyu,Gunma,hcap,Ryukyu +4.5,0.5266,blend,0
 2026-10-08,Euroleague,Panathinaikos,Fenerbahce,match,Panathinaikos,0.6271,blend,1
 2026-10-08,Basketligaen,Vejen,Vaerlose,match,Vejen,0.636,blend,1
 2026-10-08,Euroleague,Bayern,Virtus Bologna,match,Bayern,0.6756,blend,0
 2026-10-08,NKL,Telsiai,Mazeikiai,match,Telsiai,0.6944,blend,1
 2026-10-08,Euroleague,Dubai,Crvena Zvezda Meridianbet,match,Dubai,0.7053,blend,0
-2026-10-08,TBL,Mersin SK,Gaziantep,match,Mersin SK,0.6141,blend,1
-2026-10-09,B League,Altiri Chiba,Osaka,hcap,Altiri Chiba +4.5,0.6201,blend,1
+2026-10-08,Liga Femenina W,Jairis W,Ferrol W,match,Jairis W,0.7706,blend,1
+2026-10-08,B League,Akita,Brave Thunders,match,Brave Thunders,0.6253,blend,1
 2026-10-09,Governors Cup,Blackwater Bossing,Magnolia Hotshots,hcap,Magnolia Hotshots -2,0.6352,blend,1
 2026-10-09,Pro B,Chalons-Reims,Aix Maurienne,hcap,Chalons-Reims -2.5,0.648,blend,1
 2026-10-09,Basketligan,Boras,BC Lulea,hcap,Boras +3.5,0.6778,blend,0
 2026-10-09,B League,Ibaraki Robots,Utsunomiya Brex,hcap,Utsunomiya Brex +1.5,0.6855,blend,1
 2026-10-09,Pro B,Vichy,Evreux,hcap,Vichy -1.5,0.69,blend,0
-2026-10-09,Energa Basket Liga,Bydgoszcz,GTK Gliwice,hcap,Bydgoszcz -1.5,0.7457,blend,0
-2026-10-09,Korisliiga,Helsinki Seagulls,Bisons Loimaa,hcap,Helsinki Seagulls +1.5,0.7215,blend,1
-2026-10-09,Premijer liga,Cibona,Samobor,hcap,Cibona +2.5,0.7329,blend,0
+2026-10-09,LNB,Dijon,Limoges,hcap,Dijon +2.5,0.7016,blend,1
 2026-10-09,Korisliiga,KTP Kotka Basket,Pyrinto Tampere,hcap,KTP Kotka Basket +4.5,0.7522,blend,1
+2026-10-09,Premijer liga,Cibona,Samobor,hcap,Cibona +2.5,0.7329,blend,0
+2026-10-09,Energa Basket Liga,Bydgoszcz,GTK Gliwice,hcap,Bydgoszcz -1.5,0.7457,blend,0
 2026-10-09,Euroleague,Olympiacos,Anadolu Efes,hcap,Olympiacos +4.5,0.7898,blend,1
 2026-10-09,BBL,Bonn,Jena,hcap,Bonn +2.5,0.8171,blend,1
-2026-10-09,Latvia-Estonian League,Tartu Ulikool,Rigas Zelli,hcap,Rigas Zelli +1.5,0.6082,blend,1
-2026-10-09,LNB,Dijon,Limoges,hcap,Dijon +2.5,0.7016,blend,1
-2026-10-09,Pro B,La Rochelle,St. Chamond,hcap,La Rochelle +1.5,0.6021,blend,0
 2026-10-09,BNXT League,Den Bosch,Rotterdam,hcap,Den Bosch +4.5,0.8565,blend,1
-2026-10-09,Premier league,Njardvik,Tindastoll,match,Tindastoll,0.7956,blend,1
-2026-10-09,KBL,Seoul Thunders,Anyang JungKwanJang,match,Anyang JungKwanJang,0.628,blend,0
+2026-10-09,B League,Altiri Chiba,Osaka,hcap,Altiri Chiba +4.5,0.6201,blend,1
+2026-10-09,Korisliiga,Helsinki Seagulls,Bisons Loimaa,hcap,Helsinki Seagulls +1.5,0.7215,blend,1
+2026-10-09,Latvia-Estonian League,Tartu Ulikool,Rigas Zelli,hcap,Rigas Zelli +1.5,0.6082,blend,1
+2026-10-09,Pro B,La Rochelle,St. Chamond,hcap,La Rochelle +1.5,0.6021,blend,0
 2026-10-09,Euroleague,Olympiacos,Anadolu Efes,match,Olympiacos,0.8055,blend,1
 2026-10-09,Latvia-Estonian League,Tartu Ulikool,Rigas Zelli,match,Rigas Zelli,0.6326,blend,1
 2026-10-09,1. Liga,Pardubice 2,Novy Jicin,match,Novy Jicin,0.6536,blend,1
 2026-10-09,Basketligan,Boras,BC Lulea,match,Boras,0.6816,blend,0
+2026-10-09,Pro B,Chalons-Reims,Aix Maurienne,match,Chalons-Reims,0.6818,blend,1
 2026-10-09,Governors Cup,Blackwater Bossing,Magnolia Hotshots,match,Magnolia Hotshots,0.6943,blend,1
 2026-10-09,B League,Ibaraki Robots,Utsunomiya Brex,match,Utsunomiya Brex,0.7003,blend,1
-2026-10-09,Pro B,Chalons-Reims,Aix Maurienne,match,Chalons-Reims,0.6818,blend,1
-2026-10-09,Premijer liga,Cibona,Samobor,match,Cibona,0.7297,blend,0
+2026-10-09,Pro B,Vichy,Evreux,match,Vichy,0.7262,blend,0
+2026-10-09,KBL,Seoul Thunders,Anyang JungKwanJang,match,Anyang JungKwanJang,0.628,blend,0
 2026-10-09,LNB,Dijon,Limoges,match,Dijon,0.7309,blend,1
 2026-10-09,Pro A,Crailsheim Merlins,Giessen,match,Crailsheim Merlins,0.7332,blend,1
 2026-10-09,Energa Basket Liga,Bydgoszcz,GTK Gliwice,match,Bydgoszcz,0.7471,blend,0
 2026-10-09,Korisliiga,KTP Kotka Basket,Pyrinto Tampere,match,KTP Kotka Basket,0.7796,blend,1
 2026-10-09,Korisliiga,Helsinki Seagulls,Bisons Loimaa,match,Helsinki Seagulls,0.781,blend,1
-2026-10-09,Pro B,Vichy,Evreux,match,Vichy,0.7262,blend,0
-2026-10-10,Primera FEB,Oviedo,Fibwi Palma,hcap,Oviedo +4.5,0.759,blend,1
+2026-10-09,Premier league,Njardvik,Tindastoll,match,Tindastoll,0.7956,blend,1
+2026-10-09,Premijer liga,Cibona,Samobor,match,Cibona,0.7297,blend,0
 2026-10-10,LFB W,Lattes Montpellier W,ESB Villeneuve W,hcap,Lattes Montpellier W +4.5,0.7341,blend,1
 2026-10-10,LKL,Rytas,Neptunas,hcap,Rytas +1.5,0.7428,blend,1
 2026-10-10,Korisliiga,Salon Vilpas,UU-Korihait Uusikaupunki,hcap,Salon Vilpas +3.5,0.7567,blend,1
 2026-10-10,B League,Brave Thunders,Alvark,hcap,Alvark +2.5,0.7569,blend,1
+2026-10-10,Primera FEB,Oviedo,Fibwi Palma,hcap,Oviedo +4.5,0.759,blend,1
 2026-10-10,LNB,Cholet,Pau-Orthez,hcap,Cholet +4.5,0.7662,blend,1
-2026-10-10,LFB W,Landes W,Tronche Meylan W,hcap,Landes W -2.5,0.9055,blend,1
+2026-10-10,ACB,Unicaja,MoraBanc Andorra,hcap,Unicaja +2.5,0.8249,blend,1
 2026-10-10,Basketligaen,Bakken Bears,Randers,hcap,Bakken Bears +2.5,0.7941,blend,1
 2026-10-10,BNXT League,Antwerp Giants,Kortrijk,hcap,Antwerp Giants +4.5,0.8235,blend,1
-2026-10-10,ACB,Unicaja,MoraBanc Andorra,hcap,Unicaja +2.5,0.8249,blend,1
 2026-10-10,Primera FEB,Granada,Tizona Burgos,hcap,Granada -4.5,0.8482,blend,0
 2026-10-10,Super League,Maccabi Tel Aviv,Galil Elyon,hcap,Maccabi Tel Aviv +2.5,0.8963,blend,1
+2026-10-10,Basket League,Promitheas,Panathinaikos,hcap,Panathinaikos +2.5,0.9084,blend,1
 2026-10-10,LNB,Chalon/Saone,Nancy,hcap,Chalon/Saone -2.5,0.734,blend,1
 2026-10-10,LNB,Nanterre,Gravelines-Dunkerque,hcap,Nanterre +4.5,0.7742,blend,1
 2026-10-10,B League,Shinshu,NeoPhoenix,hcap,NeoPhoenix +2.5,0.7315,blend,1
-2026-10-10,Basket League,Promitheas,Panathinaikos,hcap,Panathinaikos +2.5,0.9084,blend,1
+2026-10-10,LFB W,Landes W,Tronche Meylan W,hcap,Landes W -2.5,0.9055,blend,1
 2026-10-10,LKL,Lietkabelis,Jonava,match,Lietkabelis,0.794,blend,0
 2026-10-10,LNB,Nanterre,Gravelines-Dunkerque,match,Nanterre,0.7958,blend,1
-2026-10-10,Premijer liga,Dubrava,Split,match,Split,0.7403,blend,1
 2026-10-10,B League,Shinshu,NeoPhoenix,match,NeoPhoenix,0.7407,blend,1
+2026-10-10,Premijer liga,Dubrava,Split,match,Split,0.7403,blend,1
 2026-10-10,Divizia A,Petrolul Ploiesti,Valcea,match,Valcea,0.7415,blend,1
 2026-10-10,KBSL W,Botas W,Nesibe Aydin W,match,Botas W,0.7513,blend,0
 2026-10-10,Basketbol Süper Ligi,Cayirova,Fenerbahce,match,Fenerbahce,0.7613,blend,1
 2026-10-10,LNB,Chalon/Saone,Nancy,match,Chalon/Saone,0.7621,blend,1
 2026-10-10,Divizia A,CSM Oradea,Arges Pitesti,match,CSM Oradea,0.7525,blend,1
 2026-10-10,Pro A,Heidelberg,Wolmirstedt,match,Heidelberg,0.7712,blend,0
-2026-10-10,B League,Brave Thunders,Alvark,match,Alvark,0.7665,blend,1
+2026-10-10,B League,Hiroshima D.,Shiga,match,Hiroshima D.,0.7773,blend,1
+2026-10-10,LFB W,Toulouse W,Charnay Bourgogne Sud W,match,Charnay Bourgogne Sud W,0.7773,blend,1
+2026-10-10,TBL,MKE Ankaragucu,Goztepe,match,Goztepe,0.779,blend,0
 2026-10-10,BNXT League,Oostende,Zwolle,match,Oostende,0.7892,blend,1
 2026-10-10,NBL,Minyor,Shumen,match,Minyor,0.7938,blend,1
-2026-10-10,LFB W,Toulouse W,Charnay Bourgogne Sud W,match,Charnay Bourgogne Sud W,0.7773,blend,1
-2026-10-10,B League,Hiroshima D.,Shiga,match,Hiroshima D.,0.7773,blend,1
-2026-10-10,TBL,MKE Ankaragucu,Goztepe,match,Goztepe,0.779,blend,0
-2026-10-11,ACB,Murcia,Tenerife,hcap,Murcia +3.5,0.671,blend,0
+2026-10-10,B League,Brave Thunders,Alvark,match,Alvark,0.7665,blend,1
+2026-10-11,Liga Femenina W,Perfumerias Avenida W,Gernika Bizkaia W,hcap,Perfumerias Avenida W +2.5,0.7266,blend,1
 2026-10-11,NBL,Srsni Pisek,NH Ostrava,hcap,Srsni Pisek +2.5,0.6733,blend,0
 2026-10-11,B League,Ibaraki Robots,Diamond Dolphins,hcap,Diamond Dolphins +1.5,0.6781,blend,1
+2026-10-11,ACB,Bilbao,San Pablo Burgos,hcap,Bilbao +3.5,0.685,blend,1
 2026-10-11,ACB,Obradoiro CAB,Forca Lleida,hcap,Obradoiro CAB +3.5,0.699,blend,1
-2026-10-11,Liga Femenina W,Perfumerias Avenida W,Gernika Bizkaia W,hcap,Perfumerias Avenida W +2.5,0.7266,blend,1
 2026-10-11,LNB,Lyon-Villeurbanne,Roanne,hcap,Lyon-Villeurbanne -2.5,0.7334,blend,1
-2026-10-11,Primera FEB,Estudiantes,Gipuzkoa,hcap,Estudiantes +4.5,0.7436,blend,1
-2026-10-11,Serie A2,Avellino Basket,Forli,hcap,Avellino Basket -1.5,0.6683,blend,1
-2026-10-11,LNB,Paris,Strasbourg,hcap,Paris +2.5,0.8096,blend,1
-2026-10-11,Energa Basket Liga,Dziki Warszawa,Lublin,hcap,Dziki Warszawa +6.5,0.8222,blend,1
-2026-10-11,Lega A,Olimpia Milano,Treviso,hcap,Olimpia Milano -2.5,0.8349,blend,1
-2026-10-11,B League,Utsunomiya Brex,Akita,hcap,Utsunomiya Brex +4.5,0.8612,blend,0
 2026-10-11,NBL,Usti n. Labem,Olomoucko,hcap,Usti n. Labem -2.5,0.8891,blend,1
 2026-10-11,Energa Basket Liga,Anwil Wloclawek,Czarni Slupsk,hcap,Anwil Wloclawek +1.5,0.7445,blend,1
 2026-10-11,LNB,Saint Quentin,Le Mans,hcap,Le Mans +2.5,0.7465,blend,1
-2026-10-11,ACB,Bilbao,San Pablo Burgos,hcap,Bilbao +3.5,0.685,blend,1
-2026-10-11,ABA League,Cluj-Napoca,Dubai,match,Dubai,0.771,blend,1
+2026-10-11,LNB,Paris,Strasbourg,hcap,Paris +2.5,0.8096,blend,1
+2026-10-11,Energa Basket Liga,Dziki Warszawa,Lublin,hcap,Dziki Warszawa +6.5,0.8222,blend,1
+2026-10-11,Lega A,Olimpia Milano,Treviso,hcap,Olimpia Milano -2.5,0.8349,blend,1
+2026-10-11,ACB,Murcia,Tenerife,hcap,Murcia +3.5,0.671,blend,0
+2026-10-11,Primera FEB,Estudiantes,Gipuzkoa,hcap,Estudiantes +4.5,0.7436,blend,1
+2026-10-11,Serie A2,Avellino Basket,Forli,hcap,Avellino Basket -1.5,0.6683,blend,1
+2026-10-11,B League,Utsunomiya Brex,Akita,hcap,Utsunomiya Brex +4.5,0.8612,blend,0
 2026-10-11,1. Liga,Jindrichuv Hradec,Radotin,match,Jindrichuv Hradec,0.7739,blend,1
-2026-10-11,B League,Ibaraki Robots,Diamond Dolphins,match,Diamond Dolphins,0.7029,blend,1
 2026-10-11,Segunda FEB,Castello,CB Zaragoza,match,Castello,0.7048,blend,0
 2026-10-11,Serie A2,Avellino Basket,Forli,match,Avellino Basket,0.7048,blend,1
 2026-10-11,First League,OKK Beograd,Radnicki,match,OKK Beograd,0.7331,blend,0
 2026-10-11,Liga Femenina W,Perfumerias Avenida W,Gernika Bizkaia W,match,Perfumerias Avenida W,0.7421,blend,1
 2026-10-11,1 Liga,Lancut,Bytom,match,Lancut,0.7423,blend,0
-2026-10-11,TBL,Fenerbahce 2,Mersin SK,match,Mersin SK,0.8065,blend,1
-2026-10-11,LNB,Saint Quentin,Le Mans,match,Le Mans,0.7529,blend,1
-2026-10-11,VTB United League,CSKA Moscow,Lokomotiv Kuban,match,CSKA Moscow,0.7539,blend,1
-2026-10-11,Energa Basket Liga,Anwil Wloclawek,Czarni Slupsk,match,Anwil Wloclawek,0.7594,blend,1
-2026-10-11,LNB,Lyon-Villeurbanne,Roanne,match,Lyon-Villeurbanne,0.7601,blend,1
-2026-10-11,Serie A2,Sebastiani Rieti,Pistoia,match,Sebastiani Rieti,0.7616,blend,1
-2026-10-11,DBBL Women,TK Hannover W,Eigner Angels Nordlingen W,match,TK Hannover W,0.7661,blend,0
 2026-10-11,BBL,Frankfurt,Hamburg,match,Frankfurt,0.7517,blend,1
+2026-10-11,B League,Ibaraki Robots,Diamond Dolphins,match,Diamond Dolphins,0.7029,blend,1
+2026-10-11,VTB United League,CSKA Moscow,Lokomotiv Kuban,match,CSKA Moscow,0.7539,blend,1
+2026-10-11,LNB,Saint Quentin,Le Mans,match,Le Mans,0.7529,blend,1
+2026-10-11,ABA League,Cluj-Napoca,Dubai,match,Dubai,0.771,blend,1
+2026-10-11,DBBL Women,TK Hannover W,Eigner Angels Nordlingen W,match,TK Hannover W,0.7661,blend,0
+2026-10-11,TBL,Fenerbahce 2,Mersin SK,match,Mersin SK,0.8065,blend,1
+2026-10-11,LNB,Lyon-Villeurbanne,Roanne,match,Lyon-Villeurbanne,0.7601,blend,1
+2026-10-11,Energa Basket Liga,Anwil Wloclawek,Czarni Slupsk,match,Anwil Wloclawek,0.7594,blend,1
+2026-10-11,Serie A2,Sebastiani Rieti,Pistoia,match,Sebastiani Rieti,0.7616,blend,1
 2026-10-12,Premier League W,KR Reykjavik W,Njardvik W,hcap,KR Reykjavik W -1.5,0.5228,blend,0
 2026-10-12,Premier League W,Tindastoll W,Grindavik W,hcap,Grindavik W +3.5,0.5318,blend,1
 2026-10-12,B League,Shiga,Shinshu,hcap,Shiga +4.5,0.5384,blend,1
 2026-10-12,First League,Cacak 94,Borac Zemun,hcap,Cacak 94 +1.5,0.5648,blend,0
 2026-10-12,First League,Kolubara,Dynamic,hcap,Kolubara -1.5,0.5715,blend,1
 2026-10-12,KBL,Mobis Phoebus,Wonju DB,hcap,Wonju DB +1,0.5908,blend,0
+2026-10-12,B League,Yokohama,Chiba,hcap,Chiba +1.5,0.6154,blend,0
 2026-10-12,Energa Basket Liga,Ostrow Wielkopolski,Gornik Walbrzych,hcap,Ostrow Wielkopolski +3.5,0.6418,blend,0
-2026-10-12,Liga A,Argentino,Gimnasia,hcap,Gimnasia -3.5,0.638,blend,1
-2026-10-12,Super League,Bnei Herzliya,Maccabi Ironi Ramat Gan,hcap,Bnei Herzliya -1.5,0.6884,blend,0
 2026-10-12,B League,Saga,Gunma,hcap,Gunma +1.5,0.7249,blend,1
 2026-10-12,Basketbol Süper Ligi,Galatasaray,Bursaspor,hcap,Galatasaray +1.5,0.7385,blend,0
 2026-10-12,ABA League,Cibona,Slovan Bratislava,hcap,Cibona +4.5,0.7396,blend,0
-2026-10-12,B League,Yokohama,Chiba,hcap,Chiba +1.5,0.6154,blend,0
 2026-10-12,NBL,Levski,Cherno More,match,Cherno More,0.7729,blend,1
+2026-10-12,Liga A,Argentino,Gimnasia,hcap,Gimnasia -3.5,0.638,blend,1
+2026-10-12,Super League,Bnei Herzliya,Maccabi Ironi Ramat Gan,hcap,Bnei Herzliya -1.5,0.6884,blend,0
 2026-10-12,WBL Women,Maccabi Haifa W,Maccabi Ashdod W,match,Maccabi Ashdod W,0.7648,blend,1
 2026-10-12,Basketbol Süper Ligi,Galatasaray,Bursaspor,match,Galatasaray,0.7487,blend,0
 2026-10-12,First League,Sloga,Tamis,match,Sloga,0.7498,blend,1
@@ -1068,110 +1068,110 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-12,Super League,Bnei Herzliya,Maccabi Ironi Ramat Gan,match,Bnei Herzliya,0.7039,blend,0
 2026-10-12,B League,Saga,Gunma,match,Gunma,0.7214,blend,1
 2026-10-12,Premier League W,KR Reykjavik W,Njardvik W,match,KR Reykjavik W,0.6096,blend,0
-2026-10-13,Euroleague,Olimpia Milano,Real Madrid,hcap,Real Madrid -2.5,0.615,blend,1
-2026-10-13,Euroleague,Lyon-Villeurbanne,Crvena Zvezda Meridianbet,hcap,Crvena Zvezda Meridianbet +1.5,0.5763,blend,1
+2026-10-13,Eurocup,Trento,Chemnitz,hcap,Trento +4.5,0.6598,blend,0
 2026-10-13,Eurocup,Neptunas,JL Bourg,hcap,JL Bourg -1,0.5764,blend,0
 2026-10-13,Basketligan,Jamtland,Boras,hcap,Jamtland -2.5,0.6112,blend,0
 2026-10-13,Champions League,Varese,Peristeri,hcap,Varese +4.5,0.6127,blend,1
-2026-10-13,Eurocup,Trento,Chemnitz,hcap,Trento +4.5,0.6598,blend,0
-2026-10-13,Basketligan,Sloga Uppsala,Norrkoping,hcap,Norrkoping -4.5,0.827,blend,1
-2026-10-13,Euroleague,Fenerbahce,Zalgiris Kaunas,hcap,Fenerbahce -2.5,0.6864,blend,1
+2026-10-13,Euroleague,Olimpia Milano,Real Madrid,hcap,Real Madrid -2.5,0.615,blend,1
+2026-10-13,Euroleague,Barcelona,Maccabi Tel Aviv,hcap,Barcelona +3.5,0.662,blend,1
+2026-10-13,Eurocup,Bahcesehir Kol.,Manresa,hcap,Bahcesehir Kol. +6.5,0.8043,blend,1
+2026-10-13,Euroleague,Lyon-Villeurbanne,Crvena Zvezda Meridianbet,hcap,Crvena Zvezda Meridianbet +1.5,0.5763,blend,1
 2026-10-13,Basketligan,Sodertalje,Hogsbo,hcap,Sodertalje -2.5,0.7438,blend,1
 2026-10-13,Champions League,Alba Berlin,Igokea,hcap,Alba Berlin +1.5,0.7683,blend,1
 2026-10-13,Eurocup,Lietkabelis,PAOK,hcap,PAOK +2.5,0.7695,blend,0
-2026-10-13,Eurocup,Bahcesehir Kol.,Manresa,hcap,Bahcesehir Kol. +6.5,0.8043,blend,1
-2026-10-13,Governors Cup,Meralco Bolts,Blackwater Bossing,hcap,Meralco Bolts -1.5,0.5741,blend,1
-2026-10-13,Euroleague,Barcelona,Maccabi Tel Aviv,hcap,Barcelona +3.5,0.662,blend,1
-2026-10-13,Euroleague,Valencia,Olympiacos,hcap,Olympiacos +1.5,0.5684,blend,1
 2026-10-13,Basketligan,BC Lulea,Nassjo,hcap,BC Lulea +3.5,0.7711,blend,1
-2026-10-13,Champions League,Alba Berlin,Igokea,match,Alba Berlin,0.7945,blend,1
+2026-10-13,Basketligan,Sloga Uppsala,Norrkoping,hcap,Norrkoping -4.5,0.827,blend,1
+2026-10-13,Euroleague,Fenerbahce,Zalgiris Kaunas,hcap,Fenerbahce -2.5,0.6864,blend,1
+2026-10-13,Governors Cup,Meralco Bolts,Blackwater Bossing,hcap,Meralco Bolts -1.5,0.5741,blend,1
+2026-10-13,Eurocup,Trento,Chemnitz,match,Trento,0.6396,blend,0
 2026-10-13,Eurocup,Lietkabelis,PAOK,match,PAOK,0.8013,blend,0
+2026-10-13,Champions League,Nanterre,Rytas,match,Nanterre,0.5774,blend,1
 2026-10-13,Euroleague,Partizan Mozzart Bet,Panathinaikos,match,Panathinaikos,0.5797,blend,1
 2026-10-13,Governors Cup,Meralco Bolts,Blackwater Bossing,match,Meralco Bolts,0.5921,blend,1
-2026-10-13,Champions League,Nanterre,Rytas,match,Nanterre,0.5774,blend,1
 2026-10-13,Basketligan,Koping Stars,Uppsala,match,Koping Stars,0.5968,blend,0
-2026-10-13,Eurocup,Neptunas,JL Bourg,match,JL Bourg,0.6308,blend,0
-2026-10-13,Eurocup,Trento,Chemnitz,match,Trento,0.6396,blend,0
 2026-10-13,Basketligan,Jamtland,Boras,match,Jamtland,0.6258,blend,0
-2026-10-13,Euroleague,Barcelona,Maccabi Tel Aviv,match,Barcelona,0.7001,blend,1
+2026-10-13,Eurocup,Neptunas,JL Bourg,match,JL Bourg,0.6308,blend,0
+2026-10-13,Euroleague,Olimpia Milano,Real Madrid,match,Real Madrid,0.64,blend,1
+2026-10-13,Euroleague,Valencia,Olympiacos,hcap,Olympiacos +1.5,0.5684,blend,1
 2026-10-13,QBL,Al Ahli,Al Gharafa,match,Al Ahli,0.7117,blend,0
 2026-10-13,Euroleague,Fenerbahce,Zalgiris Kaunas,match,Fenerbahce,0.7212,blend,1
 2026-10-13,Basketligan,Sodertalje,Hogsbo,match,Sodertalje,0.7348,blend,1
 2026-10-13,LNB,Colonias Gold,Olimpia Kings,match,Olimpia Kings,0.745,blend,0
 2026-10-13,LNB,Espanol de Talca,Las Animas,match,Las Animas,0.7642,blend,0
-2026-10-13,Euroleague,Olimpia Milano,Real Madrid,match,Real Madrid,0.64,blend,1
-2026-10-14,Euroleague,Hapoel Tel Aviv,Besiktas,hcap,Hapoel Tel Aviv +1.5,0.6777,blend,1
+2026-10-13,Champions League,Alba Berlin,Igokea,match,Alba Berlin,0.7945,blend,1
+2026-10-13,Euroleague,Barcelona,Maccabi Tel Aviv,match,Barcelona,0.7001,blend,1
+2026-10-14,Euroleague Women,Zaragoza W,Landes W,hcap,Zaragoza W -2,0.6279,blend,0
 2026-10-14,Korisliiga,Lahti Basketball,Kouvot Kouvola,hcap,Lahti Basketball -1.5,0.655,blend,1
 2026-10-14,Eurocup,Le Mans,Rostock,hcap,Le Mans -1.5,0.6668,blend,1
 2026-10-14,Euroleague,Paris,Virtus Bologna,hcap,Paris +2.5,0.67,blend,1
 2026-10-14,Champions League,Spartak Subotica,Hapoel Holon,hcap,Spartak Subotica -2.5,0.6732,blend,0
-2026-10-14,Euroleague,Anadolu Efes,Bayern,hcap,Anadolu Efes +3.5,0.6943,blend,0
-2026-10-14,Champions League,Trabzonspor,Sabah Baku,hcap,Trabzonspor +4.5,0.8417,blend,1
+2026-10-14,Euroleague,Hapoel Tel Aviv,Besiktas,hcap,Hapoel Tel Aviv +1.5,0.6777,blend,1
+2026-10-14,Champions League,Cholet,Vechta,hcap,Cholet +3.5,0.7815,blend,1
 2026-10-14,Korisliiga,Salon Vilpas,KTP Kotka Basket,hcap,Salon Vilpas +4.5,0.7482,blend,0
 2026-10-14,Euroleague Women,Crvena zvezda W,Mechelen W,hcap,Crvena zvezda W +4.5,0.7736,blend,1
-2026-10-14,Champions League,Cholet,Vechta,hcap,Cholet +3.5,0.7815,blend,1
 2026-10-14,NBL,Sydney,New Zealand Breakers,hcap,Sydney +4.5,0.7826,blend,1
 2026-10-14,Eurocup,Aris,Tortona,hcap,Aris +7.5,0.7984,blend,1
-2026-10-14,Euroleague Women,Zaragoza W,Landes W,hcap,Zaragoza W -2,0.6279,blend,0
-2026-10-14,Eurocup,Slask Wroclaw,Basket Napoli,hcap,Basket Napoli +2.5,0.7306,blend,1
+2026-10-14,Champions League,Trabzonspor,Sabah Baku,hcap,Trabzonspor +4.5,0.8417,blend,1
 2026-10-14,Eurocup,Ulm,KK Bosna,hcap,Ulm -2.5,0.6275,blend,1
-2026-10-14,Euroleague Women,USK Prague W,Bourges W,match,USK Prague W,0.7158,blend,1
-2026-10-14,EASL,Alvark,Xac Broncos,match,Alvark,0.7889,blend,1
-2026-10-14,Higher League,Tigers-KazATU,Karaganda,match,Karaganda,0.6483,blend,0
+2026-10-14,Eurocup,Slask Wroclaw,Basket Napoli,hcap,Basket Napoli +2.5,0.7306,blend,1
+2026-10-14,Eurocup,Siauliai,Cluj-Napoca,hcap,Cluj-Napoca -1.5,0.6017,blend,1
+2026-10-14,Euroleague,Anadolu Efes,Bayern,hcap,Anadolu Efes +3.5,0.6943,blend,0
+2026-10-14,NBL,Sydney,New Zealand Breakers,match,Sydney,0.781,blend,0
 2026-10-14,Eurocup,San Pablo Burgos,Hapoel Jerusalem,match,Hapoel Jerusalem,0.6558,blend,1
 2026-10-14,Euroleague,Paris,Virtus Bologna,match,Paris,0.6563,blend,0
-2026-10-14,Eurocup,Siauliai,Cluj-Napoca,hcap,Cluj-Napoca -1.5,0.6017,blend,1
-2026-10-14,Champions League,Spartak Subotica,Hapoel Holon,match,Spartak Subotica,0.6784,blend,0
+2026-10-14,ENBL,CIU,Lausanne Basket,match,CIU,0.6667,blend,1
 2026-10-14,Eurocup,Le Mans,Rostock,match,Le Mans,0.6888,blend,1
 2026-10-14,King Mindaugas Cup,Nevezis,Gargzdai,match,Gargzdai,0.6896,blend,1
-2026-10-14,ENBL,CIU,Lausanne Basket,match,CIU,0.6667,blend,1
+2026-10-14,Euroleague Women,Zaragoza W,Landes W,match,Zaragoza W,0.6904,blend,1
+2026-10-14,Champions League,Spartak Subotica,Hapoel Holon,match,Spartak Subotica,0.6784,blend,0
 2026-10-14,Euroleague,Hapoel Tel Aviv,Besiktas,match,Hapoel Tel Aviv,0.6985,blend,1
 2026-10-14,Korisliiga,Lahti Basketball,Kouvot Kouvola,match,Lahti Basketball,0.7023,blend,1
 2026-10-14,Euroleague,Anadolu Efes,Bayern,match,Anadolu Efes,0.7026,blend,0
 2026-10-14,EASL,Nagasaki,KCC Egis,match,Nagasaki,0.7095,blend,0
+2026-10-14,Euroleague Women,USK Prague W,Bourges W,match,USK Prague W,0.7158,blend,1
 2026-10-14,Superettan,IK Eos,Malbas,match,IK Eos,0.7444,blend,1
-2026-10-14,NBL,Sydney,New Zealand Breakers,match,Sydney,0.781,blend,0
-2026-10-14,Euroleague Women,Zaragoza W,Landes W,match,Zaragoza W,0.6904,blend,1
+2026-10-14,Higher League,Tigers-KazATU,Karaganda,match,Karaganda,0.6483,blend,0
+2026-10-14,EASL,Alvark,Xac Broncos,match,Alvark,0.7889,blend,1
+2026-10-15,Euroleague Women,Galatasaray W,Schio W,hcap,Galatasaray W +2.5,0.6573,blend,0
 2026-10-15,Euroleague,Real Madrid,Lyon-Villeurbanne,hcap,Real Madrid +6.5,0.8218,blend,1
-2026-10-15,Euroleague,Valencia,Maccabi Tel Aviv,hcap,Valencia +1.5,0.684,blend,0
 2026-10-15,Premier league,KR Basket,Njardvik,hcap,KR Basket +4.5,0.8125,blend,1
 2026-10-15,Eurocup,London Lions,Frankfurt,hcap,London Lions +4.5,0.7772,blend,0
 2026-10-15,Euroleague,Fenerbahce,Partizan Mozzart Bet,hcap,Fenerbahce +4.5,0.7528,blend,1
 2026-10-15,NBL,Brisbane Bullets,South East Melbourne,hcap,South East Melbourne -3.5,0.6902,blend,0
-2026-10-15,Euroleague Women,Galatasaray W,Schio W,hcap,Galatasaray W +2.5,0.6573,blend,0
-2026-10-15,Euroleague,Olimpia Milano,Dubai,match,Dubai,0.5477,blend,1
-2026-10-15,KBL,Seoul Thunders,LG Sakers,hcap,LG Sakers +1,0.5178,blend,0
+2026-10-15,Euroleague,Valencia,Maccabi Tel Aviv,hcap,Valencia +1.5,0.684,blend,0
+2026-10-15,Euroleague,Olimpia Milano,Dubai,hcap,Dubai +1.5,0.5714,blend,1
 2026-10-15,NKL,Vilkaviskis,Silute,match,Vilkaviskis,0.749,blend,0
 2026-10-15,NBL,Brisbane Bullets,South East Melbourne,match,South East Melbourne,0.7297,blend,0
 2026-10-15,Euroleague,Valencia,Maccabi Tel Aviv,match,Valencia,0.6781,blend,0
 2026-10-15,Euroleague Women,Galatasaray W,Schio W,match,Galatasaray W,0.678,blend,0
 2026-10-15,I Divisioona A,Huima,Lappeenranta,match,Huima,0.6721,blend,1
+2026-10-15,Euroleague,Olimpia Milano,Dubai,match,Dubai,0.5477,blend,1
 2026-10-15,KBL,Seoul Thunders,LG Sakers,match,LG Sakers,0.5112,blend,0
-2026-10-15,Euroleague,Olimpia Milano,Dubai,hcap,Dubai +1.5,0.5714,blend,1
+2026-10-15,KBL,Seoul Thunders,LG Sakers,hcap,LG Sakers +1,0.5178,blend,0
 2026-10-16,B League,Yokohama,Ryukyu,hcap,Ryukyu +2.5,0.6356,blend,1
 2026-10-16,SLB,Caledonia Gladiators,Sheffield Sharks,hcap,Sheffield Sharks -1.5,0.6433,blend,0
 2026-10-16,Pro B,Vichy,Caen,hcap,Vichy -2.5,0.6535,blend,1
 2026-10-16,Pro A,Tubingen,Bochum,hcap,Tubingen +2.5,0.6623,blend,1
 2026-10-16,Euroleague,Zalgiris Kaunas,Anadolu Efes,hcap,Zalgiris Kaunas -1.5,0.6712,blend,0
 2026-10-16,Pro A,Wolmirstedt,Koblenz,hcap,Wolmirstedt -1.5,0.6781,blend,1
-2026-10-16,Euroleague,Crvena Zvezda Meridianbet,Paris,hcap,Crvena Zvezda Meridianbet +4.5,0.7242,blend,1
+2026-10-16,Korisliiga,Honka,Lahti Basketball,hcap,Honka -2.5,0.6339,blend,1
 2026-10-16,Pro B,St. Chamond,Evreux,hcap,St. Chamond +1.5,0.6873,blend,1
 2026-10-16,Basketligan,Hogsbo,Jamtland,hcap,Jamtland -1.5,0.6978,blend,1
-2026-10-16,Korisliiga,Honka,Lahti Basketball,hcap,Honka -2.5,0.6339,blend,1
+2026-10-16,Euroleague,Crvena Zvezda Meridianbet,Paris,hcap,Crvena Zvezda Meridianbet +4.5,0.7242,blend,1
+2026-10-16,Pro B,Denain-Voltaire,Aix Maurienne,hcap,Denain-Voltaire +1.5,0.7356,blend,1
 2026-10-16,Euroleague,Panathinaikos,Hapoel Tel Aviv,hcap,Panathinaikos +3.5,0.7543,blend,0
 2026-10-16,Premier league,Stjarnan,Hottur,hcap,Stjarnan +4.5,0.8298,blend,0
 2026-10-16,Korisliiga,Kouvot Kouvola,Kataja,hcap,Kataja +1.5,0.685,blend,0
 2026-10-16,Energa Basket Liga,Legia,Anwil Wloclawek,hcap,Legia -2.5,0.6115,blend,0
-2026-10-16,Pro B,Denain-Voltaire,Aix Maurienne,hcap,Denain-Voltaire +1.5,0.7356,blend,1
+2026-10-16,1. Liga,Litomerice,USK Prague B,match,Litomerice,0.6795,blend,0
 2026-10-16,Superleague,MZT Skopje,TFT Skopje,match,MZT Skopje,0.7527,blend,1
+2026-10-16,NBL,Tasmania JackJumpers,Adelaide,hcap,Tasmania JackJumpers +1.5,0.6047,blend,0
 2026-10-16,SLB,Caledonia Gladiators,Sheffield Sharks,match,Sheffield Sharks,0.6595,blend,0
 2026-10-16,Pro A,Tubingen,Bochum,match,Tubingen,0.6686,blend,1
 2026-10-16,Pro B,Vichy,Caen,match,Vichy,0.6701,blend,1
-2026-10-16,Korisliiga,Honka,Lahti Basketball,match,Honka,0.676,blend,1
-2026-10-16,NBL,Tasmania JackJumpers,Adelaide,hcap,Tasmania JackJumpers +1.5,0.6047,blend,0
 2026-10-16,1. Liga,Opava 2,MS Academy,match,Opava 2,0.6861,blend,0
 2026-10-16,Euroleague,Zalgiris Kaunas,Anadolu Efes,match,Zalgiris Kaunas,0.6885,blend,0
-2026-10-16,1. Liga,Litomerice,USK Prague B,match,Litomerice,0.6795,blend,0
+2026-10-16,Korisliiga,Honka,Lahti Basketball,match,Honka,0.676,blend,1
 2026-10-16,Pro B,St. Chamond,Evreux,match,St. Chamond,0.7134,blend,1
 2026-10-16,Pro B,Fos-sur-Mer,Antibes,match,Antibes,0.7207,blend,0
 2026-10-16,Basketligan,Hogsbo,Jamtland,match,Jamtland,0.7223,blend,1
@@ -1179,35 +1179,44 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-16,Euroleague,Crvena Zvezda Meridianbet,Paris,match,Crvena Zvezda Meridianbet,0.7485,blend,1
 2026-10-16,Pro B,Denain-Voltaire,Aix Maurienne,match,Denain-Voltaire,0.7502,blend,1
 2026-10-16,Pro A,Wolmirstedt,Koblenz,match,Wolmirstedt,0.6982,blend,1
-2026-10-17,NBL,Beroe,Lok. Plovdiv,hcap,Lok. Plovdiv -2.5,0.6922,blend,1
+2026-10-17,NB I A,Soproni KC,Szolnoki Olaj,hcap,Szolnoki Olaj +1.5,0.7245,blend,0
 2026-10-17,Pro A,Giessen,Koln,hcap,Giessen +1.5,0.7056,blend,0
 2026-10-17,Korisliiga,Bisons Loimaa,Salon Vilpas,hcap,Salon Vilpas -1.5,0.7061,blend,1
 2026-10-17,Pro B,Ada Blois,La Rochelle,hcap,Ada Blois +2.5,0.7094,blend,1
 2026-10-17,Liga Nova KBM,Gorica,Sencur,hcap,Sencur +2.5,0.7219,blend,1
-2026-10-17,NB I A,Soproni KC,Szolnoki Olaj,hcap,Szolnoki Olaj +1.5,0.7245,blend,0
-2026-10-17,SB League,Sdent BBC Nyon,BBC Monthey,hcap,Sdent BBC Nyon -4.5,0.8702,blend,1
-2026-10-17,Basket League,Kolossos Rhodes,PAOK,hcap,PAOK +1.5,0.7317,blend,1
+2026-10-17,Energa Basket Liga,GTK Gliwice,Zielona Gora,hcap,Zielona Gora +2.5,0.7261,blend,1
+2026-10-17,Latvia-Estonian League,Keila KK,Tartu Ulikool,hcap,Tartu Ulikool +4.5,0.897,blend,1
 2026-10-17,BNXT League,Den Bosch,Antwerp Giants,hcap,Antwerp Giants -2.5,0.7905,blend,1
 2026-10-17,Basket League,Aris,Maroussi,hcap,Aris +6.5,0.8124,blend,1
 2026-10-17,NBB,Unifacisa,Osasco,hcap,Unifacisa +6.5,0.8224,blend,1
 2026-10-17,NBL,Pardubice,Decin,hcap,Pardubice -4.5,0.8479,blend,0
+2026-10-17,SB League,Sdent BBC Nyon,BBC Monthey,hcap,Sdent BBC Nyon -4.5,0.8702,blend,1
+2026-10-17,NBL,Beroe,Lok. Plovdiv,hcap,Lok. Plovdiv -2.5,0.6922,blend,1
+2026-10-17,Basket League,Kolossos Rhodes,PAOK,hcap,PAOK +1.5,0.7317,blend,1
 2026-10-17,CBA,Sichuan,Tianjin,hcap,Tianjin -1.5,0.6855,blend,0
-2026-10-17,Energa Basket Liga,GTK Gliwice,Zielona Gora,hcap,Zielona Gora +2.5,0.7261,blend,1
-2026-10-17,BNXT League,Leiden,Okapi Aalst,hcap,Okapi Aalst +2.5,0.6837,blend,0
-2026-10-17,Serie A2,Brindisi,Basket Torino,match,Brindisi,0.7603,blend,0
-2026-10-17,NB I A,Soproni KC,Szolnoki Olaj,match,Szolnoki Olaj,0.7925,blend,0
 2026-10-17,NKL,Suduva-Mantinga,Omega-Tauras,match,Suduva-Mantinga,0.7917,blend,0
-2026-10-17,Basket League,AEK Athens,Mykonos,match,AEK Athens,0.7911,blend,1
-2026-10-17,Basketbol Süper Ligi,Bursaspor,Bahcesehir Kol.,match,Bahcesehir Kol.,0.7816,blend,1
-2026-10-17,SLB Women,Sheffield Hatters W,Oaklands Wolves W,match,Sheffield Hatters W,0.7791,blend,0
-2026-10-17,Korisliiga,Bisons Loimaa,Salon Vilpas,match,Salon Vilpas,0.7708,blend,1
-2026-10-17,Extraliga,BC Prievidza,Nitra Blue Wings,match,BC Prievidza,0.7553,blend,1
-2026-10-17,NBL,Beroe,Lok. Plovdiv,match,Lok. Plovdiv,0.7419,blend,1
-2026-10-17,Basket League,Kolossos Rhodes,PAOK,match,PAOK,0.7418,blend,1
-2026-10-17,Pro A,Giessen,Koln,match,Giessen,0.7366,blend,0
-2026-10-17,B League,Altiri Chiba,Hiroshima D.,match,Hiroshima D.,0.7275,blend,1
-2026-10-17,A2,Sofadon,Psychikou,match,Sofadon,0.727,blend,0
-2026-10-17,Pro B,Ada Blois,La Rochelle,match,Ada Blois,0.7251,blend,1
-2026-10-17,Liga Femenina W,Araski W,Uni Girona W,match,Uni Girona W,0.7031,blend,1
 2026-10-17,ZBL W,KP Brno W,USK Prague W,match,USK Prague W,0.9155,blend,1
-2026-10-17,Latvia-Estonian League,Keila KK,Tartu Ulikool,hcap,Tartu Ulikool +4.5,0.897,blend,1
+2026-10-17,Liga Femenina W,Araski W,Uni Girona W,match,Uni Girona W,0.7031,blend,1
+2026-10-17,Pro B,Ada Blois,La Rochelle,match,Ada Blois,0.7251,blend,1
+2026-10-17,BNXT League,Leiden,Okapi Aalst,hcap,Okapi Aalst +2.5,0.6837,blend,0
+2026-10-17,B League,Altiri Chiba,Hiroshima D.,match,Hiroshima D.,0.7275,blend,1
+2026-10-17,Pro A,Giessen,Koln,match,Giessen,0.7366,blend,0
+2026-10-17,Basket League,Kolossos Rhodes,PAOK,match,PAOK,0.7418,blend,1
+2026-10-17,NBL,Beroe,Lok. Plovdiv,match,Lok. Plovdiv,0.7419,blend,1
+2026-10-17,A2,Sofadon,Psychikou,match,Sofadon,0.727,blend,0
+2026-10-17,Serie A2,Brindisi,Basket Torino,match,Brindisi,0.7603,blend,0
+2026-10-17,Korisliiga,Bisons Loimaa,Salon Vilpas,match,Salon Vilpas,0.7708,blend,1
+2026-10-17,SLB Women,Sheffield Hatters W,Oaklands Wolves W,match,Sheffield Hatters W,0.7791,blend,0
+2026-10-17,Basketbol Süper Ligi,Bursaspor,Bahcesehir Kol.,match,Bahcesehir Kol.,0.7816,blend,1
+2026-10-17,Basket League,AEK Athens,Mykonos,match,AEK Athens,0.7911,blend,1
+2026-10-17,NB I A,Soproni KC,Szolnoki Olaj,match,Szolnoki Olaj,0.7925,blend,0
+2026-10-17,Extraliga,BC Prievidza,Nitra Blue Wings,match,BC Prievidza,0.7553,blend,1
+2026-10-18,ABA League,KK Bosna,Partizan Mozzart Bet,hcap,Partizan Mozzart Bet -1.5,0.6847,blend,1
+2026-10-18,B League,Kyoto,Saga,hcap,Kyoto -2.5,0.6938,blend,1
+2026-10-18,German Cup,Ludwigsburg,Vechta,hcap,Ludwigsburg +1.5,0.7112,blend,0
+2026-10-18,ABA League,Buducnost,Slovan Bratislava,hcap,Buducnost +4.5,0.7394,blend,1
+2026-10-18,NBB,Flamengo,Bauru,hcap,Flamengo +4.5,0.7408,blend,1
+2026-10-18,NBL,Melbourne United,Illawarra Hawks,hcap,Melbourne United +4.5,0.7432,blend,1
+2026-10-18,ACB,Real Madrid,Bilbao,hcap,Real Madrid +4.5,0.7812,blend,1
+2026-10-18,LNB,Paris,Boulazac,hcap,Paris +4.5,0.8041,blend,1
+2026-10-18,Basketbol Süper Ligi,Fenerbahce,Petkim Spor,hcap,Fenerbahce +4.5,0.8595,blend,0
