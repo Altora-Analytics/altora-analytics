@@ -10,18 +10,48 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-18,Gabriel Diallo,Rei Sakamoto,0.518,0.524,L
 2026-10-18,Alina Korneeva,Han Shi,0.753,0.738,L
 2026-10-18,Millen Hurrion,Koki Matsuda,0.612,0.597,L
+2026-10-18,Kasidit Samrej,Naoya Honda,0.611,0.615,W
 2026-10-18,Kamilla Rakhimova,Tatiana Prozorova,0.550,0.557,W
 2026-10-18,Luca Castelnuovo,Egor Pleshivtsev,0.718,0.700,W
 2026-10-18,Mitsuki Wei Kang Leong,Fumin Jiang,0.912,0.894,W
 2026-10-18,Yaroslav Demin,Alexander Binda,0.517,0.511,W
 2026-10-18,Mattia Bellucci,Martin Landaluce,0.609,0.609,W
 2026-10-18,Roman Safiullin,Ilia Simakin,0.780,0.772,W
+2026-10-18,Rafael Jodar,Alejandro Davidovich Fokina,0.555,0.559,L
+2026-10-18,Gianluca Cadenasso,Radu Mihai Papoe,0.521,0.521,W
+2026-10-18,Aleksandr Shevchenko,Stefanos Sakellaridis,0.618,0.603,L
+2026-10-18,Sonay Kartal,Maja Chwalinska,0.519,0.535,L
+2026-10-18,Federico Cina,Remy Bertola,0.563,0.575,W
+2026-10-18,Clement Chidekh,Gauthier Onclin,0.739,0.729,W
+2026-10-18,Bianca Andreescu,Dominika Salkova,0.699,0.689,W
+2026-10-18,Jacob Fearnley,Damir Dzumhur,0.693,0.685,L
+2026-10-18,Mika Brunold,Matteo Martineau,0.601,0.603,W
+2026-10-18,Clara Burel,Leyre Romero Gormaz,0.700,0.701,W
+2026-10-18,Zsombor Piros,Francesco Passaro,0.528,0.518,L
 2026-10-18,Daniel Siniakov,Matteo Sciahbasi,0.655,0.659,W
 2026-10-18,Sergi Perez Contri,Sebastian Gima,0.609,0.589,W
 2026-10-18,Alexander Ritschard,Joao Silva,0.945,0.911,W
 2026-10-18,Ben Hassan,Szymon Kielan,0.895,0.874,W
+2026-10-18,Jurij Rodionov,Pierre-Hugues Herbert,0.533,0.549,L
 2026-10-18,Otto Virtanen,Vitaliy Sachko,0.709,0.670,L
+2026-10-18,Filip Misolic,Dominik Recek,0.854,0.793,W
+2026-10-18,Abdullah Shelbayh,Pedro Rodenas,0.611,0.617,L
+2026-10-18,Andrej Martin,Tiago Cacao,0.624,0.627,W
+2026-10-18,Alex Marti Pujolras,Jakub Vrba,0.702,0.691,W
+2026-10-18,Kyrian Jacquet,Sascha Gueymard Wayenbu,0.592,0.579,W
+2026-10-18,Dusan Lajovic,Maxim Mrva,0.555,0.549,L
+2026-10-18,Pierluigi Basile,Federico Iannaccone,0.513,0.506,W
+2026-10-18,Ivan Gakhov,Joao Domingues,0.601,0.620,L
+2026-10-18,Valentin Royer,Clement Tabur,0.564,0.574,L
+2026-10-18,Borna Gojo,Francesco Maestrelli,0.650,0.651,W
+2026-10-18,Carlos Taberner,Goncalo Marques,0.930,0.892,W
+2026-10-18,Patrick Schoen,Francisco Rocha,0.828,0.819,W
+2026-10-18,Nicolai Budkov Kjaer,Ugo Blanchet,0.596,0.613,W
+2026-10-18,Nishesh Basavareddy,Aziz Dougaz,0.837,0.808,W
+2026-10-18,Pavel Lagutin,Yanaki Milev,0.726,0.702,L
+2026-10-18,Martin Damm Jr,Andrea Guerrieri,0.719,0.699,L
 2026-10-18,Alisa Oktiabreva,Tilwith Di Girolami,0.878,0.866,W
+2026-10-18,Botic Van de Zandschulp,Kamil Majchrzak,0.597,0.598,VOID
 2026-10-18,Aliaksandra Sasnovich,Anhelina Kalinina,0.565,0.577,VOID
 2026-10-17,Alexander Zverev,Alejandro Davidovich Fokina,0.787,0.764,L
 2026-10-17,Miedler/Oberleitner,Schnaitter/Wallner,0.594,0.611,W
