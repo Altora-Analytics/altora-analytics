@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-19,Lanlana Tararudee,Kaitlin Quevedo,0.626,0.618,W
+2026-10-19,Liudmila Samsonova,Lilli Tagger,0.564,0.573,L
+2026-10-19,Viktorija Golubic,Mai Hontama,0.724,0.720,W
+2026-10-19,Sonay Kartal,Kimberly Birrell,0.664,0.648,VOID
 2026-10-18,Annika Penickova,Nao Nishino,0.704,0.695,W
 2026-10-18,Mary Stoiana,Sayaka Ishii,0.912,0.853,W
 2026-10-18,Daria Snigur,Katarzyna Kawa,0.819,0.815,L
@@ -51,6 +55,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-18,Pavel Lagutin,Yanaki Milev,0.726,0.702,L
 2026-10-18,Martin Damm Jr,Andrea Guerrieri,0.719,0.699,L
 2026-10-18,Alisa Oktiabreva,Tilwith Di Girolami,0.878,0.866,W
+2026-10-18,Thiago Seyboth Wild,Hugo Dellien,0.621,0.627,W
 2026-10-18,Botic Van de Zandschulp,Kamil Majchrzak,0.597,0.598,VOID
 2026-10-18,Aliaksandra Sasnovich,Anhelina Kalinina,0.565,0.577,VOID
 2026-10-17,Alexander Zverev,Alejandro Davidovich Fokina,0.787,0.764,L
