@@ -1,6 +1,17 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-18,Xiao Guodong,Sam Craigie,0.628,0.630,L
 2026-10-18,SI Jiahui,Wang Xinbo,0.630,0.629,L
+2026-10-18,Aaron Hill,Thepchaiya Un-Nooh,0.524,0.499,L
+2026-10-18,Anthony McGill,Stephen Maguire,0.563,0.548,W
+2026-10-18,Jack Lisowski,Huang Jiahao,0.722,0.790,W
+2026-10-18,Gary Wilson,Mateusz Baranowski,0.718,0.710,L
+2026-10-18,Mark Selby,Louis Heathcote,0.798,0.781,L
+2026-10-18,Hossein Vafaei,Matthew Selt,0.612,0.595,L
+2026-10-18,Joe OConnor,Matthew Stevens,0.629,0.643,W
+2026-10-18,Neil Robertson,Ricky Walden,0.653,0.670,L
+2026-10-18,Ali Carter,Xu Si,0.627,0.633,L
+2026-10-18,Shaun Murphy,Liam Davies,0.643,0.679,L
+2026-10-18,Elliot Slessor,He Guoqiang,0.621,0.560,VOID
 2026-10-04,Wu Yize,Yuan Sijun,0.774,0.804,W
 2026-10-03,Yuan Sijun,Jimmy Robertson,0.583,0.563,W
 2026-10-03,Judd Trump,Wu Yize,0.633,0.647,L
