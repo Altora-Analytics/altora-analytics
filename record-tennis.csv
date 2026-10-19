@@ -2,6 +2,18 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-19,Lanlana Tararudee,Kaitlin Quevedo,0.626,0.618,W
 2026-10-19,Liudmila Samsonova,Lilli Tagger,0.564,0.573,L
 2026-10-19,Viktorija Golubic,Mai Hontama,0.724,0.720,W
+2026-10-19,Ashlyn Krueger,Janice Tjen,0.535,0.546,W
+2026-10-19,Elise Mertens,Leylah Fernandez,0.549,0.566,L
+2026-10-19,Andre Ilagan,Mert Alkaya,0.631,0.645,W
+2026-10-19,Talia Gibson,Harriet Dart,0.539,0.550,W
+2026-10-19,Khumoyun Sultanov,Saba Purtseladze,0.611,0.624,W
+2026-10-19,Omar Jasika,Koki Matsuda,0.764,0.749,L
+2026-10-19,Catherine Mcnally,Sinja Kraus,0.693,0.686,L
+2026-10-19,Semen Pankin,Dominik Palan,0.594,0.606,L
+2026-10-19,Max Purcell,Evan Zhu,0.829,0.781,W
+2026-10-19,Luca Castelnuovo,Mitsuki Wei Kang Leong,0.573,0.564,W
+2026-10-19,Sorana Cirstea ,Han Shi,0.725,0.717,W
+2026-10-19,Kasidit Samrej,Yaroslav Demin,0.504,0.511,L
 2026-10-19,Sonay Kartal,Kimberly Birrell,0.664,0.648,VOID
 2026-10-18,Annika Penickova,Nao Nishino,0.704,0.695,W
 2026-10-18,Mary Stoiana,Sayaka Ishii,0.912,0.853,W
@@ -12,6 +24,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-18,Claire Liu,Maddison Inglis,0.631,0.631,W
 2026-10-18,Nikoloz Basilashvili,Adam Walton,0.555,0.559,W
 2026-10-18,Gabriel Diallo,Rei Sakamoto,0.518,0.524,L
+2026-10-18,Thiago Agustin Tirante,Facundo Diaz Acosta,0.706,0.680,L
 2026-10-18,Alina Korneeva,Han Shi,0.753,0.738,L
 2026-10-18,Millen Hurrion,Koki Matsuda,0.612,0.597,L
 2026-10-18,Kasidit Samrej,Naoya Honda,0.611,0.615,W
