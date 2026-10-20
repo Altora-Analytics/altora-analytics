@@ -1,6 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-20,Claire Liu,Magda Linette,0.627,0.611,L
+2026-10-20,Ann Li,Emerson Jones,0.722,0.716,W
+2026-10-20,Yi Zhou,Koki Matsuda,0.842,0.801,W
+2026-10-20,Kimberly Birrell,Kayla Day,0.601,0.610,VOID
 2026-10-19,Lanlana Tararudee,Kaitlin Quevedo,0.626,0.618,W
 2026-10-19,Liudmila Samsonova,Lilli Tagger,0.564,0.573,L
+2026-10-19,Tereza Valentova,Shuai Zhang,0.697,0.694,W
 2026-10-19,Viktorija Golubic,Mai Hontama,0.724,0.720,W
 2026-10-19,Ashlyn Krueger,Janice Tjen,0.535,0.546,W
 2026-10-19,Alexandra Eala,Diane Parry,0.744,0.729,W
@@ -25,6 +30,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-19,Sorana Cirstea ,Han Shi,0.725,0.717,W
 2026-10-19,Aliaksandra Sasnovich,Daria Kasatkina,0.561,0.550,W
 2026-10-19,Marie Bouzkova,Kamilla Rakhimova,0.721,0.710,W
+2026-10-19,Marcelo Tomas Barrios V,Nicolas Jarry,0.690,0.675,L
+2026-10-19,Daniel Elahi Galan,Juan Pablo Varillas,0.505,0.500,L
+2026-10-19,Gonzalo Bueno,Hernan Casanova,0.591,0.595,W
 2026-10-19,Kasidit Samrej,Yaroslav Demin,0.504,0.511,L
 2026-10-19,Filip Misolic,Daniel Siniakov,0.815,0.767,W
 2026-10-19,Sergi Perez Contri,Dimitris Sakellaridis,0.786,0.748,L
@@ -32,6 +40,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-19,Stefanos Sakellaridis,Mikhail Kukushkin,0.665,0.662,L
 2026-10-19,Nikoloz Basilashvili,Marin Cilic,0.534,0.540,W
 2026-10-19,Pierre-Hugues Herbert,Maxim Mrva,0.570,0.564,W
+2026-10-19,Patrick Maloney,Luciano Emanuel Ambrogi,0.773,0.768,W
+2026-10-19,Daniel Milavsky,Govind Nanda,0.759,0.723,W
+2026-10-19,Jenson Brooksby,Mitchell Krueger,0.870,0.820,W
+2026-10-19,Mees Rottgering,Max Hans Rehberg,0.545,0.549,W
+2026-10-19,Timo Legout,Edward Winter,0.754,0.736,W
 2026-10-19,Izan Almazan Valiente,Alex Marti Pujolras,0.539,0.556,L
 2026-10-19,Ben Hassan,Pedro Rodenas,0.633,0.639,W
 2026-10-19,Joao Domingues,Vasco Leote Prata,0.792,0.783,W
@@ -46,7 +59,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-19,Yannick Hanfmann,Martin Damm Jr,0.524,0.534,L
 2026-10-19,Alejo Sanchez Quilez,Kai Wehnelt,0.746,0.722,W
 2026-10-19,Alex Michelsen,Andrea Guerrieri,0.836,0.827,W
+2026-10-19,Alan Magadan,Daniel Salazar Martinez,0.605,0.596,L
+2026-10-19,Mateus Alves,Jose Pereira,0.814,0.756,L
 2026-10-19,Duncan Chan,Gavin Young,0.592,0.604,L
+2026-10-19,Alex Hernandez,Franco Ribero,0.656,0.638,L
+2026-10-19,Felipe Meligeni Alves,Juan Sebastian Gomez,0.952,0.897,W
+2026-10-19,Santiago Rodriguez Tave,Sergio Luis Hernandez R,0.826,0.793,W
+2026-10-19,Kaylan Bigun,Patrick Zahraj,0.555,0.549,W
+2026-10-19,Michael Antonius,Albert Pedrico Kravtsov,0.646,0.636,L
 2026-10-19,Sonay Kartal,Kimberly Birrell,0.664,0.648,VOID
 2026-10-19,Xiyu Wang,Sara Bejlek,0.507,0.502,VOID
 2026-10-18,Annika Penickova,Nao Nishino,0.704,0.695,W
