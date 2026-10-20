@@ -1,6 +1,16 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-19,Pang Junxu,Alfie Burden,0.666,0.732,W
 2026-10-19,Chris Wakelin,Jamie Jones,0.739,0.751,L
+2026-10-19,Barry Hawkins,Daniel Wells,0.684,0.696,L
+2026-10-19,Luca Brecel,Lei Peifan,0.574,0.588,W
+2026-10-19,Kyren Wilson,Ben Mertens,0.772,0.751,W
+2026-10-19,David Gilbert,Oliver Sykes,0.769,0.752,W
+2026-10-19,Ronnie O'Sullivan,Ka Wai Cheung,0.795,0.776,L
+2026-10-19,Jak Jones,Tom Ford,0.634,0.657,W
+2026-10-19,Stuart Bingham,Yao Pengcheng,0.674,0.681,W
+2026-10-19,Judd Trump,Martin O'Donnell,0.832,0.872,L
+2026-10-19,Zhang Anda,Liam Pullen,0.693,0.707,W
+2026-10-19,John Higgins,Liam Highfield,0.644,0.664,W
 2026-10-18,Xiao Guodong,Sam Craigie,0.628,0.630,L
 2026-10-18,SI Jiahui,Wang Xinbo,0.630,0.629,L
 2026-10-18,Aaron Hill,Thepchaiya Un-Nooh,0.524,0.499,L
