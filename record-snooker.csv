@@ -1,6 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-20,Chang Bingyu,Ryan Day,0.748,0.747,L
 2026-10-20,Mark Williams,Robbie Williams,0.673,0.738,W
+2026-10-20,Mark Allen,Jordan Brown,0.724,0.719,L
+2026-10-20,Zhou Yuelong,Michael Holt,0.686,0.707,L
+2026-10-20,Noppon Saengkham,Thanawat Tirapongpaiboon,0.634,0.658,W
+2026-10-20,Zhao Xintong,Gao Yang,0.830,0.839,L
+2026-10-20,Wang Xinbo,Mateusz Baranowski,0.657,0.671,L
+2026-10-20,Kyren Wilson,Thepchaiya Un-Nooh,0.694,0.687,W
+2026-10-20,Matthew Selt,Louis Heathcote,0.551,0.569,W
+2026-10-20,Jack Lisowski,Anthony McGill,0.506,0.527,L
+2026-10-20,Joe OConnor,Ricky Walden,0.536,0.530,L
 2026-10-19,Pang Junxu,Alfie Burden,0.666,0.732,W
 2026-10-19,Chris Wakelin,Jamie Jones,0.739,0.751,L
 2026-10-19,Barry Hawkins,Daniel Wells,0.684,0.696,L
