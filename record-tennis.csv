@@ -1,11 +1,17 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Talia Gibson,Sinja Kraus,0.574,0.582,W
 2026-10-21,Ashlyn Krueger,Lanlana Tararudee,0.559,0.567,W
+2026-10-21,Leylah Fernandez,Aliaksandra Sasnovich,0.696,0.662,W
+2026-10-21,Nikoloz Basilashvili,Facundo Diaz Acosta,0.627,0.640,W
 2026-10-21,Tereza Valentova,Lilli Tagger,0.503,0.513,L
 2026-10-21,Jay Friend,James McCabe,0.656,0.647,W
 2026-10-21,Marie Bouzkova,Anastasia Zakharova,0.807,0.793,W
 2026-10-21,Viktorija Golubic,Katie Boulter,0.510,0.497,L
 2026-10-21,Andre Ilagan,Khumoyun Sultanov,0.572,0.568,W
+2026-10-21,Coleman Wong,Kasidit Samrej,0.885,0.854,W
+2026-10-21,Ayla Aksu,Dalayna Hewitt,0.819,0.803,L
+2026-10-21,Harmony Tan,Zongyu Li,0.798,0.784,W
+2026-10-21,Dominika Salkova,Viktoria Morvayova,0.802,0.788,VOID
 2026-10-20,Mary Stoiana,Oleksandra Oliynykova,0.722,0.685,W
 2026-10-20,Claire Liu,Magda Linette,0.627,0.611,L
 2026-10-20,Ann Li,Emerson Jones,0.722,0.716,W
@@ -149,6 +155,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-18,Nikoloz Basilashvili,Adam Walton,0.555,0.559,W
 2026-10-18,Terence Atmane,Rinky Hijikata,0.509,0.499,W
 2026-10-18,Adrian Mannarino,Aleksandar Vukic,0.678,0.649,W
+2026-10-18,Tomas Machac,Zangar Nurlanuly,0.949,0.922,W
 2026-10-18,Gabriel Diallo,Rei Sakamoto,0.518,0.524,L
 2026-10-18,Thiago Agustin Tirante,Facundo Diaz Acosta,0.706,0.680,L
 2026-10-18,Alina Korneeva,Han Shi,0.753,0.738,L
