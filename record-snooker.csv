@@ -1,4 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-21,Xu Si,Sam Craigie,0.540,0.527,L
+2026-10-21,John Higgins,Jak Jones,0.639,0.537,L
+2026-10-21,Elliot Slessor,Jamie Jones,0.630,0.668,W
+2026-10-21,Stuart Bingham,Ka Wai Cheung,0.710,0.698,L
+2026-10-21,Liam Davies,Pang Junxu,0.533,0.518,L
+2026-10-21,Luca Brecel,Martin O'Donnell,0.607,0.693,L
+2026-10-21,Daniel Wells,Ryan Day,0.530,0.480,W
+2026-10-21,Mark Williams,Zhang Anda,0.526,0.512,W
+2026-10-21,Noppon Saengkham,Scott Donaldson,0.614,0.599,L
+2026-10-21,David Gilbert,Gao Yang,0.590,0.640,W
+2026-10-21,Michael Holt,Jordan Brown,0.597,0.575,L
 2026-10-20,Chang Bingyu,Ryan Day,0.748,0.747,L
 2026-10-20,Mark Williams,Robbie Williams,0.673,0.738,W
 2026-10-20,Mark Allen,Jordan Brown,0.724,0.719,L
