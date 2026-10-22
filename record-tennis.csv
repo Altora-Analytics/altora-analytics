@@ -1,4 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-22,Kayla Day,Antonia Ruzic,0.508,0.500,L
+2026-10-22,Ann Li,Zeynep Sonmez,0.643,0.635,W
 2026-10-21,Talia Gibson,Sinja Kraus,0.574,0.582,W
 2026-10-21,Ashlyn Krueger,Lanlana Tararudee,0.559,0.567,W
 2026-10-21,Leylah Fernandez,Aliaksandra Sasnovich,0.696,0.662,W
@@ -17,20 +19,28 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Matej Dodig,Marco Cecchinato,0.734,0.716,W
 2026-10-21,Stefanos Tsitsipas,Mikhail Kukushkin,0.959,0.927,W
 2026-10-21,Tallon Griekspoor,Mariano Navone,0.583,0.585,W
+2026-10-21,Marco Trungelliti,Carlo Alberto Caniato,0.631,0.617,W
 2026-10-21,Marta Kostyuk,Ekaterina Alexandrova,0.584,0.593,L
 2026-10-21,Alicia Dudeney,Tessa Johanna Brockmann,0.746,0.718,W
 2026-10-21,Jacob Fearnley,Clement Chidekh,0.526,0.517,L
 2026-10-21,Noma Noha Akugue,Julia Avdeeva,0.597,0.611,W
 2026-10-21,Felix Balshaw,Corentin Moutet,0.534,0.545,L
+2026-10-21,Jenson Brooksby,Timo Legout,0.745,0.719,W
+2026-10-21,Jan-Lennard Struff,Gauthier Onclin,0.753,0.742,W
 2026-10-21,Ayla Aksu,Dalayna Hewitt,0.819,0.803,L
 2026-10-21,Susan Bandecchi,Elena Malygina,0.600,0.611,W
 2026-10-21,Juan Manuel La Serna,Juan Bautista Torres,0.567,0.578,W
+2026-10-21,Gustavo Heide,Juan Pablo Varillas,0.702,0.670,W
+2026-10-21,Mees Rottgering,Cosme Rolland De Ravel,0.695,0.696,W
+2026-10-21,Tommy Paul,Benjamin Bonzi,0.733,0.722,W
 2026-10-21,Harmony Tan,Zongyu Li,0.798,0.784,W
 2026-10-21,Victoria Jimenez Kasintseva,Oceane Babel,0.742,0.723,W
 2026-10-21,Darwin Blanch,Daniel Milavsky,0.691,0.665,W
 2026-10-21,Linea Bajraliu,Carson Tanguilig,0.558,0.562,W
 2026-10-21,Reese Brantmeier,Carolyn Ansari,0.892,0.874,W
 2026-10-21,Kenta   Miyoshi,Patrick Maloney,0.561,0.574,L
+2026-10-21,Clervie Ngounoue,Sara Saito,0.721,0.697,L
+2026-10-21,Kajsa Rinaldo Persson,Clemence Mercier,0.902,0.879,L
 2026-10-21,Dominika Salkova,Viktoria Morvayova,0.802,0.788,VOID
 2026-10-20,Mary Stoiana,Oleksandra Oliynykova,0.722,0.685,W
 2026-10-20,Claire Liu,Magda Linette,0.627,0.611,L
