@@ -7,6 +7,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-22,Bhambri/Seggerman,Donski/Pieczonka,0.520,0.535,W
 2026-10-22,Belinda Bencic,Katarzyna Kawa,0.919,0.892,L
 2026-10-22,Keegan Smith,Fajing Sun,0.632,0.621,W
+2026-10-22,Mattia Bellucci,Terence Atmane,0.507,0.518,L
+2026-10-22,Lammons/Withrow,Kubler/Peers,0.509,0.529,W
+2026-10-22,Arribage/Olivetti,Gonzalez/Jebens,0.679,0.673,W
+2026-10-22,Lucie Havlickova,Dalayna Hewitt,0.877,0.858,L
 2026-10-22,Tristan Schoolkate,Cruz Hewitt,0.746,0.731,VOID
 2026-10-21,Talia Gibson,Sinja Kraus,0.574,0.582,W
 2026-10-21,Ashlyn Krueger,Lanlana Tararudee,0.559,0.567,W
@@ -14,6 +18,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Andrey Rublev,Adrian Mannarino,0.751,0.746,L
 2026-10-21,Nikoloz Basilashvili,Facundo Diaz Acosta,0.627,0.640,W
 2026-10-21,Francisco Cerundolo,Martin Damm Jr,0.614,0.631,W
+2026-10-21,Francesco Forti,Federico Bondioli,0.585,0.585,W
 2026-10-21,Elmer Moller,Max Alcalà Gurri,0.502,0.500,W
 2026-10-21,Lorenzo Musetti,Moise Kouame,0.764,0.752,W
 2026-10-21,Tereza Valentova,Lilli Tagger,0.503,0.513,L
@@ -22,9 +27,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Viktorija Golubic,Katie Boulter,0.510,0.497,L
 2026-10-21,Andre Ilagan,Khumoyun Sultanov,0.572,0.568,W
 2026-10-21,Sorana Cirstea ,Sara Bejlek,0.692,0.677,L
+2026-10-21,Diana Shnaider,Alexandra Eala,0.585,0.589,W
 2026-10-21,Coleman Wong,Kasidit Samrej,0.885,0.854,W
 2026-10-21,Matej Dodig,Marco Cecchinato,0.734,0.716,W
 2026-10-21,Stefanos Tsitsipas,Mikhail Kukushkin,0.959,0.927,W
+2026-10-21,Oriol Roca Batalla,Dimitris Sakellaridis,0.864,0.823,W
 2026-10-21,Tallon Griekspoor,Mariano Navone,0.583,0.585,W
 2026-10-21,Marco Trungelliti,Carlo Alberto Caniato,0.631,0.617,W
 2026-10-21,Marta Kostyuk,Ekaterina Alexandrova,0.584,0.593,L
