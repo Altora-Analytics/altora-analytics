@@ -4,14 +4,35 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-22,Ann Li,Zeynep Sonmez,0.643,0.635,W
 2026-10-22,Iva Jovic,Jasmine Paolini,0.678,0.654,W
 2026-10-22,Katerina Siniakova,Magda Linette,0.636,0.647,W
+2026-10-22,Yibing Wu,Jie Cui,0.825,0.806,L
 2026-10-22,Bhambri/Seggerman,Donski/Pieczonka,0.520,0.535,W
 2026-10-22,Belinda Bencic,Katarzyna Kawa,0.919,0.892,L
 2026-10-22,Keegan Smith,Fajing Sun,0.632,0.621,W
+2026-10-22,Matthew William Donald,Henry Searle,0.515,0.523,W
+2026-10-22,Borna Gojo,Daniel Altmaier,0.518,0.538,L
+2026-10-22,Svyatoslav Gulin,Andrej Martin,0.594,0.604,W
+2026-10-22,Jiri Lehecka,Raphael Collignon,0.752,0.745,W
+2026-10-22,Valentin Vacherot,Luca Van Assche,0.558,0.561,L
+2026-10-22,Felipe Meligeni Alves,Diego Dedura-Palomero,0.513,0.533,W
 2026-10-22,Mattia Bellucci,Terence Atmane,0.507,0.518,L
+2026-10-22,Karen Khachanov,Tomas Machac,0.715,0.696,W
 2026-10-22,Lammons/Withrow,Kubler/Peers,0.509,0.529,W
+2026-10-22,Zizou Bergs,Damir Dzumhur,0.797,0.772,W
+2026-10-22,Filippo Romano,Yanaki Milev,0.524,0.513,W
+2026-10-22,Alex Michelsen,David Goffin,0.906,0.878,W
+2026-10-22,Francisco Comesana,Carlos Maria Zarate,0.857,0.842,L
 2026-10-22,Arribage/Olivetti,Gonzalez/Jebens,0.679,0.673,W
+2026-10-22,Andreozzi/Guinard,Barrientos/Pel,0.686,0.653,L
+2026-10-22,Flavio Cobolli,Stan Wawrinka,0.732,0.710,W
 2026-10-22,Lucie Havlickova,Dalayna Hewitt,0.877,0.858,L
+2026-10-22,Alicia Dudeney,Susan Bandecchi,0.521,0.522,W
+2026-10-22,Manon Leonard,Sada Nahimana,0.685,0.658,W
+2026-10-22,Harmony Tan,Lian Tran,0.952,0.897,W
+2026-10-22,Jessika Ponchet,Victoria Jimenez Kasintseva,0.554,0.564,W
+2026-10-22,Tatjana Maria,Anastasia Kulikova,0.971,0.928,W
 2026-10-22,Tristan Schoolkate,Cruz Hewitt,0.746,0.731,VOID
+2026-10-22,Alexander Bublik,Fabian Marozsan,0.733,0.717,VOID
+2026-10-22,Francesco Passaro,Andrea Pellegrino,0.706,0.693,VOID
 2026-10-21,Talia Gibson,Sinja Kraus,0.574,0.582,W
 2026-10-21,Ashlyn Krueger,Lanlana Tararudee,0.559,0.567,W
 2026-10-21,Leylah Fernandez,Aliaksandra Sasnovich,0.696,0.662,W
@@ -29,17 +50,24 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Sorana Cirstea ,Sara Bejlek,0.692,0.677,L
 2026-10-21,Diana Shnaider,Alexandra Eala,0.585,0.589,W
 2026-10-21,Coleman Wong,Kasidit Samrej,0.885,0.854,W
+2026-10-21,Daniil Medvedev,Sho Shimabukuro,0.919,0.896,W
+2026-10-21,Filip Misolic,Izan Almazan Valiente,0.724,0.708,W
 2026-10-21,Matej Dodig,Marco Cecchinato,0.734,0.716,W
 2026-10-21,Stefanos Tsitsipas,Mikhail Kukushkin,0.959,0.927,W
+2026-10-21,Max Houkes,Michele Ribecai,0.577,0.584,L
 2026-10-21,Oriol Roca Batalla,Dimitris Sakellaridis,0.864,0.823,W
+2026-10-21,Andrej Nedic,Alex Marti Pujolras,0.704,0.663,L
 2026-10-21,Tallon Griekspoor,Mariano Navone,0.583,0.585,W
 2026-10-21,Marco Trungelliti,Carlo Alberto Caniato,0.631,0.617,W
+2026-10-21,Alexander Ritschard,Raul Brancaccio,0.806,0.791,W
 2026-10-21,Marta Kostyuk,Ekaterina Alexandrova,0.584,0.593,L
 2026-10-21,Alicia Dudeney,Tessa Johanna Brockmann,0.746,0.718,W
 2026-10-21,Jacob Fearnley,Clement Chidekh,0.526,0.517,L
 2026-10-21,Noma Noha Akugue,Julia Avdeeva,0.597,0.611,W
 2026-10-21,Felix Balshaw,Corentin Moutet,0.534,0.545,L
 2026-10-21,Jenson Brooksby,Timo Legout,0.745,0.719,W
+2026-10-21,Taylor Fritz,Pierre-Hugues Herbert,0.835,0.827,W
+2026-10-21,Sumit Nagal,Ben Hassan,0.582,0.575,W
 2026-10-21,Jan-Lennard Struff,Gauthier Onclin,0.753,0.742,W
 2026-10-21,Ayla Aksu,Dalayna Hewitt,0.819,0.803,L
 2026-10-21,Susan Bandecchi,Elena Malygina,0.600,0.611,W
@@ -49,6 +77,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Tommy Paul,Benjamin Bonzi,0.733,0.722,W
 2026-10-21,Harmony Tan,Zongyu Li,0.798,0.784,W
 2026-10-21,Victoria Jimenez Kasintseva,Oceane Babel,0.742,0.723,W
+2026-10-21,Gonzalo Bueno,Santiago Rodriguez Tave,0.662,0.646,L
 2026-10-21,Darwin Blanch,Daniel Milavsky,0.691,0.665,W
 2026-10-21,Linea Bajraliu,Carson Tanguilig,0.558,0.562,W
 2026-10-21,Reese Brantmeier,Carolyn Ansari,0.892,0.874,W
@@ -56,6 +85,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Clervie Ngounoue,Sara Saito,0.721,0.697,L
 2026-10-21,Kajsa Rinaldo Persson,Clemence Mercier,0.902,0.879,L
 2026-10-21,Arthur Fils,Jaume Munar,0.728,0.725,VOID
+2026-10-21,Elena Rybakina,Polina Kudermetova,0.897,0.872,VOID
 2026-10-21,Dominika Salkova,Viktoria Morvayova,0.802,0.788,VOID
 2026-10-20,Mary Stoiana,Oleksandra Oliynykova,0.722,0.685,W
 2026-10-20,Claire Liu,Magda Linette,0.627,0.611,L
