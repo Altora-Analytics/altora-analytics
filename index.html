@@ -244,6 +244,9 @@
   .sp.trd .em{margin:0;font-size:30px} .sp.trd .bx{flex:1}
   @media(max-width:760px){.sp-3,.sp-4{grid-template-columns:repeat(2,1fr)}}
   @media(max-width:430px){.sp-3,.sp-4{grid-template-columns:1fr};.sp.trd{flex-direction:column;text-align:center}}
+  .board-cta{display:inline-block;margin:22px auto 0;background:#2ea8e6;color:#fff;text-decoration:none;font-weight:800;font-size:17px;padding:14px 30px;border-radius:999px;box-shadow:0 4px 18px rgba(46,168,230,.35)}
+  .board-cta:hover{background:#43b4ee}
+  .board-cta:focus-visible{outline:2px solid #fff;outline-offset:2px}
 </style>
 </head>
 <body>
@@ -287,7 +290,8 @@
 
     <div class="trust" role="list"><div role="listitem"><b>859k+</b><span>matches in our database</span></div><div role="listitem"><b>591</b><span>competitions · 8 sports</span></div><div role="listitem"><b>39,172</b><span>predictions published</span></div><div role="listitem"><b>0</b><span>ever deleted</span></div><div role="listitem"><b>100%</b><span>published before the event</span></div><div role="listitem"><b>Free</b><span>model predictions · every day</span></div></div>
 
-    <a href="board.html" style="color:var(--blue,#57a9df);font-weight:700;text-decoration:none">Today's board &#8594;</a> &middot; <a class="record-cta" href="record.html">VIEW THE RECORD →</a>
+    <div style="text-align:center"><a class="board-cta" href="board.html">Today&#8217;s board &#8594;</a></div>
+    <a class="record-cta" href="record.html">VIEW THE RECORD →</a>
   </header>
 
   <!-- ================= SPORT HUB ================= -->
