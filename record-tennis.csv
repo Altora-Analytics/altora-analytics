@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-23,Ann Li,Lilli Tagger,0.536,0.563,W
 2026-10-22,Mary Stoiana,Moyuka Uchijima,0.607,0.618,W
 2026-10-22,Kayla Day,Antonia Ruzic,0.508,0.500,L
 2026-10-22,Ann Li,Zeynep Sonmez,0.643,0.635,W
@@ -13,6 +14,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-22,Svyatoslav Gulin,Andrej Martin,0.594,0.604,W
 2026-10-22,Jiri Lehecka,Raphael Collignon,0.752,0.745,W
 2026-10-22,Valentin Vacherot,Luca Van Assche,0.558,0.561,L
+2026-10-22,Brandon Nakashima,Kyrian Jacquet,0.670,0.651,W
 2026-10-22,Felipe Meligeni Alves,Diego Dedura-Palomero,0.513,0.533,W
 2026-10-22,Mattia Bellucci,Terence Atmane,0.507,0.518,L
 2026-10-22,Karen Khachanov,Tomas Machac,0.715,0.696,W
@@ -21,6 +23,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-22,Filippo Romano,Yanaki Milev,0.524,0.513,W
 2026-10-22,Alex Michelsen,David Goffin,0.906,0.878,W
 2026-10-22,Francisco Comesana,Carlos Maria Zarate,0.857,0.842,L
+2026-10-22,Gabriel Debru,Alex Rybakov,0.534,0.551,W
+2026-10-22,Jeffrey John Wolf,Sander Jong,0.758,0.728,L
+2026-10-22,Igor Marcondes,Erik Arutiunian,0.568,0.550,L
 2026-10-22,Arribage/Olivetti,Gonzalez/Jebens,0.679,0.673,W
 2026-10-22,Andreozzi/Guinard,Barrientos/Pel,0.686,0.653,L
 2026-10-22,Flavio Cobolli,Stan Wawrinka,0.732,0.710,W
@@ -30,6 +35,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-22,Harmony Tan,Lian Tran,0.952,0.897,W
 2026-10-22,Jessika Ponchet,Victoria Jimenez Kasintseva,0.554,0.564,W
 2026-10-22,Tatjana Maria,Anastasia Kulikova,0.971,0.928,W
+2026-10-22,Sara Saito,Linea Bajraliu,0.518,0.505,W
 2026-10-22,Tristan Schoolkate,Cruz Hewitt,0.746,0.731,VOID
 2026-10-22,Alexander Bublik,Fabian Marozsan,0.733,0.717,VOID
 2026-10-22,Francesco Passaro,Andrea Pellegrino,0.706,0.693,VOID
@@ -71,6 +77,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-21,Jan-Lennard Struff,Gauthier Onclin,0.753,0.742,W
 2026-10-21,Ayla Aksu,Dalayna Hewitt,0.819,0.803,L
 2026-10-21,Susan Bandecchi,Elena Malygina,0.600,0.611,W
+2026-10-21,Matheus Pucinelli De Al,Nicolas Jarry,0.502,0.515,W
 2026-10-21,Juan Manuel La Serna,Juan Bautista Torres,0.567,0.578,W
 2026-10-21,Gustavo Heide,Juan Pablo Varillas,0.702,0.670,W
 2026-10-21,Mees Rottgering,Cosme Rolland De Ravel,0.695,0.696,W
