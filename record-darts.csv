@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-22,Luke Woodhouse,Dirk van Duijvenbode,0.564,0.571,W
+2026-10-22,Danny Noppert,Stephen Bunting,0.544,0.539,L
+2026-10-22,Niels Zonneveld,Cameron Menzies,0.580,0.570,L
+2026-10-22,Gerwyn Price,Rob Cross,0.588,0.607,W
+2026-10-22,James Wade,Damon Heta,0.584,0.591,L
+2026-10-22,Gian van Veen,Andrew Gilding,0.703,0.711,W
+2026-10-22,Ross Smith,Karel Sedláček,0.661,0.635,W
+2026-10-22,Ryan Searle,Kim Huybrechts,0.598,0.594,L
 2026-10-22,Luke Humphries,Ryan Searle,0.752,0.743,VOID
 2026-10-18,Gian van Veen,Brendan Dolan,0.764,0.765,W
 2026-10-18,Ross Smith,Ryan Searle,0.609,0.591,L
