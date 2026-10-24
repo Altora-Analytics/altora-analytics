@@ -3,12 +3,20 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-24,Aliaksandra Sasnovich,Yuliia Starodubtseva,0.552,0.561,W
 2026-10-24,Liudmila Samsonova,Heather    Watson,0.884,0.868,L
 2026-10-24,Alycia Parks,Ena Shibahara,0.555,0.566,W
+2026-10-24,Maya Joint,Viktorija Golubic,0.523,0.525,W
 2026-10-24,Oleksandra Oliynykova,Mai Hontama,0.506,0.525,L
 2026-10-24,Coleman Wong,Yi Zhou,0.648,0.643,W
 2026-10-24,Tristan Schoolkate,Jie Cui,0.681,0.662,W
+2026-10-24,Daria Kasatkina,Yexin Ma,0.827,0.808,W
 2026-10-24,Kimberly Birrell,Aoi Ito,0.695,0.684,W
+2026-10-24,Katerina Siniakova,Katie Boulter,0.588,0.602,W
 2026-10-24,Elena Pridankina,Tyra Caterina Grant,0.547,0.545,W
+2026-10-24,Tatiana Prozorova,Ekaterine Gorgodze,0.841,0.796,W
+2026-10-24,Leylah Fernandez,Marie Bouzkova,0.518,0.496,W
+2026-10-24,Maddison Inglis,Joanna Garland,0.566,0.550,L
 2026-10-24,Miedler/Oberleitner,Balaji/King,0.664,0.658,W
+2026-10-24,Miomir Kecmanovic,Rinky Hijikata,0.612,0.592,L
+2026-10-24,Yannick Hanfmann,Marcos Giron,0.587,0.592,W
 2026-10-24,Tereza Valentova,Xinyu Wang,0.600,0.605,VOID
 2026-10-24,Polina Kudermetova,Alevtina Ibragimova,0.757,0.729,VOID
 2026-10-24,Katarzyna Kawa,Linda Fruhvirtova,0.510,0.530,VOID
@@ -29,6 +37,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-23,Tristan Schoolkate,Keegan Smith,0.603,0.617,W
 2026-10-23,Katerina Siniakova,Mary Stoiana,0.694,0.684,W
 2026-10-23,Iva Jovic,Diana Shnaider,0.504,0.514,L
+2026-10-23,Francesco Forti,Oriol Roca Batalla,0.519,0.529,L
 2026-10-23,Jie Cui,Akira Santillan,0.617,0.635,W
 2026-10-23,Elena Rybakina,Katarzyna Kawa,0.925,0.902,W
 2026-10-23,Bhambri/Seggerman,Lammons/Withrow,0.510,0.501,W
