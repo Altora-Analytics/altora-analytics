@@ -9,17 +9,52 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-24,Tristan Schoolkate,Jie Cui,0.681,0.662,W
 2026-10-24,Daria Kasatkina,Yexin Ma,0.827,0.808,W
 2026-10-24,Kimberly Birrell,Aoi Ito,0.695,0.684,W
+2026-10-24,Kayla Day,Shuai Zhang,0.512,0.501,L
 2026-10-24,Katerina Siniakova,Katie Boulter,0.588,0.602,W
 2026-10-24,Elena Pridankina,Tyra Caterina Grant,0.547,0.545,W
 2026-10-24,Tatiana Prozorova,Ekaterine Gorgodze,0.841,0.796,W
 2026-10-24,Leylah Fernandez,Marie Bouzkova,0.518,0.496,W
 2026-10-24,Maddison Inglis,Joanna Garland,0.566,0.550,L
+2026-10-24,Stefanos Tsitsipas,Nikoloz Basilashvili,0.701,0.690,L
+2026-10-24,Anastasia Zakharova,Ruien Zhang,0.970,0.911,W
+2026-10-24,Sandro Kopp,Filippo Romano,0.518,0.526,L
+2026-10-24,Elena Rybakina,Diana Shnaider,0.635,0.640,W
+2026-10-24,Marco Trungelliti,Alexander Ritschard,0.523,0.534,L
+2026-10-24,Taylor Fritz,Tommy Paul,0.627,0.639,W
+2026-10-24,Titouan Droguet,Joel Schwaerzler,0.601,0.603,W
+2026-10-24,Francisco Cerundolo,Tallon Griekspoor,0.575,0.580,L
+2026-10-24,Elmer Moller,Svyatoslav Gulin,0.689,0.679,L
+2026-10-24,Daniil Medvedev,Alexander Bublik,0.665,0.656,W
+2026-10-24,Doumbia/Stevens,Barrientos/Pel,0.546,0.549,W
 2026-10-24,Miedler/Oberleitner,Balaji/King,0.664,0.658,W
+2026-10-24,Dayana Yastremska,Xiaodi You,0.820,0.811,W
+2026-10-24,Suzan Lamens,Elsa Jacquemot,0.520,0.520,L
+2026-10-24,Jacob Fearnley,Pablo Carreno Busta,0.602,0.601,W
+2026-10-24,Vit Kopriva,Lukas Neumayer,0.521,0.536,L
+2026-10-24,Lorenzo Sonego,Adolfo Daniel Vallejo,0.526,0.514,W
+2026-10-24,Hannah Klugman,Jodie Burrage,0.522,0.537,W
+2026-10-24,Hamad Medjedovic,Alex Molcan,0.608,0.588,L
+2026-10-24,Fabian Marozsan,Sebastian Sorger,0.868,0.832,W
+2026-10-24,Tomas Machac,Corentin Moutet,0.547,0.558,W
+2026-10-24,Thiago Agustin Tirante,Adrian Mannarino,0.537,0.560,L
 2026-10-24,Miomir Kecmanovic,Rinky Hijikata,0.612,0.592,L
 2026-10-24,Yannick Hanfmann,Marcos Giron,0.587,0.592,W
+2026-10-24,Zachary Svajda,Manuel Cerundolo,0.566,0.575,L
+2026-10-24,Jaime Faria,Mika Brunold,0.595,0.570,L
+2026-10-24,Giovanni Mpetshi Perricard,Sebastian Baez,0.543,0.540,W
+2026-10-24,Daniel Altmaier,Henry Bernet,0.583,0.571,W
+2026-10-24,Aleksandar Kovacevic,James Duckworth,0.622,0.606,W
+2026-10-24,Harmony Tan,Mariam Bolkvadze,0.583,0.570,W
+2026-10-24,Manon Leonard,Katarina Zavatska,0.536,0.547,L
+2026-10-24,Felipe Meligeni Alves,Valerio Aboian,0.803,0.749,L
+2026-10-24,Arthur Fils,Jan-Lennard Struff,0.818,0.813,L
+2026-10-24,Kyoka Okamura,Sayaka Ishii,0.697,0.667,L
+2026-10-24,Flavio Cobolli,Lorenzo Musetti,0.520,0.511,L
+2026-10-24,Madison Brengle,Ella McDonald,0.544,0.542,L
 2026-10-24,Tereza Valentova,Xinyu Wang,0.600,0.605,VOID
 2026-10-24,Polina Kudermetova,Alevtina Ibragimova,0.757,0.729,VOID
 2026-10-24,Katarzyna Kawa,Linda Fruhvirtova,0.510,0.530,VOID
+2026-10-24,Frantzen/Galloway,Cerundolo/Michelsen,0.623,0.618,VOID
 2026-10-23,Ashlyn Krueger,Talia Gibson,0.589,0.592,W
 2026-10-23,Coleman Wong,Jay Friend,0.653,0.642,W
 2026-10-23,Marie Bouzkova,Sara Bejlek,0.590,0.598,W
