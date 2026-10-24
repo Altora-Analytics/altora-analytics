@@ -1,4 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-23,Gloucester,Bath,0.590,0.419,W
+2026-10-23,Connacht,Zebre,0.927,0.756,W
+2026-10-23,Sale Sharks,Newcastle Red Bulls,0.705,0.522,L
+2026-10-23,Angouleme,US Dax,0.801,0.838,W
+2026-10-23,Aurillac,Nevers,0.835,0.838,W
+2026-10-23,Grenoble FC,Biarritz Olympique,0.757,,W
+2026-10-23,CA Brive,Narbonne,0.668,0.730,L
+2026-10-23,Provence Rugby,Beziers,0.922,0.958,W
+2026-10-23,Valence Romans,Colomiers,0.692,,W
+2026-10-23,Edinburgh,Lions,0.734,0.743,W
 2026-10-22,US Oyonnax,Montauban,0.775,,L
 2026-10-18,Northampton Saints,Cardiff Rugby,0.914,0.877,W
 2026-10-18,Stade Toulousain,Exeter Chiefs,0.896,0.831,W

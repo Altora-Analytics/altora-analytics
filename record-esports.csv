@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-24,lyon,secret whales,0.586,0.584,W
+2026-10-23,t1,los grandes,0.815,0.809,W
+2026-10-23,geng,invictus gaming,0.769,0.757,W
+2026-10-23,hanwha life esports,top esports,0.760,0.768,W
+2026-10-23,bilibili gaming,koi,0.850,0.829,L
+2026-10-23,anyones legend,karmine corp,0.653,0.657,L
+2026-10-23,team liquid,ctbc flying oyster,0.698,0.696,L
+2026-10-23,dplus kia,g2 esports,0.604,0.600,W
 2026-10-20,parivision,fnatic,0.611,0.641,W
 2026-10-17,team falcons,bb team,0.742,0.730,L
 2026-10-16,100 thieves,sangal,0.650,0.701,W
