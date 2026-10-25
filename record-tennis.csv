@@ -1,4 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-25,Maya Joint,Mai Hontama,0.753,0.740,W
+2026-10-25,Yun Seong Chung,Alexander Donski,0.520,0.510,W
 2026-10-24,Ann Li,Ashlyn Krueger,0.613,0.592,L
 2026-10-24,Aliaksandra Sasnovich,Yuliia Starodubtseva,0.552,0.561,W
 2026-10-24,Liudmila Samsonova,Heather    Watson,0.884,0.868,L
@@ -51,6 +53,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-24,Kyoka Okamura,Sayaka Ishii,0.697,0.667,L
 2026-10-24,Flavio Cobolli,Lorenzo Musetti,0.520,0.511,L
 2026-10-24,Madison Brengle,Ella McDonald,0.544,0.542,L
+2026-10-24,Gustavo Heide,Matheus Pucinelli De Al,0.620,0.604,L
+2026-10-24,Darwin Blanch,Sander Jong,0.775,0.727,W
+2026-10-24,Jenson Brooksby,Gabriel Debru,0.860,0.812,W
+2026-10-24,Aliaksandra Sasnovich,Kamilla Rakhimova,0.535,0.553,W
+2026-10-24,Polina Iatcenko,Alevtina Ibragimova,0.611,0.625,L
+2026-10-24,Alycia Parks,Heather    Watson,0.524,0.539,W
 2026-10-24,Tereza Valentova,Xinyu Wang,0.600,0.605,VOID
 2026-10-24,Polina Kudermetova,Alevtina Ibragimova,0.757,0.729,VOID
 2026-10-24,Katarzyna Kawa,Linda Fruhvirtova,0.510,0.530,VOID
