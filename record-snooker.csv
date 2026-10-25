@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-24,Mark Williams,Jak Jones,0.544,0.533,L
+2026-10-24,Kyren Wilson,Sam Craigie,0.702,0.723,VOID
+2026-10-24,Mark Williams,Jak Jones,0.577,0.526,VOID
 2026-10-23,Elliot Slessor,Sam Craigie,0.533,0.544,L
 2026-10-23,Kyren Wilson,Anthony McGill,0.684,0.688,W
 2026-10-23,Jak Jones,Scott Donaldson,0.659,0.704,W
