@@ -3,6 +3,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-25,Gerwyn Price,Stephen Bunting,0.703,0.708,W
 2026-10-25,Jonny Clayton,Martin Schindler,0.690,0.682,L
 2026-10-25,Luke Littler,Krzysztof Ratajski,0.925,0.912,L
+2026-10-25,Gerwyn Price,Ross Smith,0.662,0.621,L
+2026-10-25,Martin Schindler,Krzysztof Ratajski,0.511,0.522,W
 2026-10-24,Gerwyn Price,Cameron Menzies,0.768,0.753,W
 2026-10-24,Stephen Bunting,Kim Huybrechts,0.590,0.597,W
 2026-10-24,Ross Smith,Damon Heta,0.650,0.637,W
