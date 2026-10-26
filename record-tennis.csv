@@ -1,6 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-26,Marin Cilic,Zhizhen Zhang,0.707,0.671,L
+2026-10-26,Rei Sakamoto,Kasidit Samrej,0.891,0.854,W
 2026-10-26,Elise Mertens,Moyuka Uchijima,0.865,0.845,W
+2026-10-26,Alexandra Eala,Mika Stojsavljevic,0.901,0.877,W
 2026-10-26,Daria Snigur,Anna Bondar,0.685,0.668,L
 2026-10-26,Sinja Kraus,Panna Udvardy,0.647,0.635,W
 2026-10-26,Lloyd Harris,Juncheng Shang,0.606,0.620,W
