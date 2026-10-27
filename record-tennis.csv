@@ -2,6 +2,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-27,Magda Linette,Anastasia Zakharova,0.507,0.520,W
 2026-10-27,Katie Volynets,Dayana Yastremska,0.574,0.559,L
 2026-10-27,Maria Sakkari,Yulia Putintseva,0.593,0.606,L
+2026-10-27,Tereza Valentova,Mia Pohankova,0.689,0.670,L
 2026-10-27,Sorana Cirstea ,Maya Joint,0.706,0.694,L
 2026-10-27,Alexandre Muller,Omar Jasika,0.750,0.702,L
 2026-10-27,Yun Seong Chung,Shintaro Imai,0.595,0.614,W
@@ -11,6 +12,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-27,Petr Bar Biryukov,Semen Pankin,0.506,0.515,W
 2026-10-27,Jake Delaney,Alexander Binda,0.518,0.523,W
 2026-10-27,Yaroslav Demin,Carl Emil Overbeck,0.501,0.519,W
+2026-10-27,Daria Egorova,Valeria Garnevska,0.937,0.906,W
+2026-10-27,Maria Golovina,Radka Zelnickova,0.654,0.640,W
 2026-10-27,Coleman Wong,Beibit Zhukayev,0.856,0.837,VOID
 2026-10-26,Marin Cilic,Zhizhen Zhang,0.707,0.671,L
 2026-10-26,Sho Shimabukuro,Jan Kumstat,0.581,0.554,W
@@ -20,13 +23,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-26,Ekaterina Alexandrova,Ann Li,0.509,0.524,W
 2026-10-26,Elise Mertens,Moyuka Uchijima,0.865,0.845,W
 2026-10-26,Cristina Bucsa,Diane Parry,0.529,0.519,W
+2026-10-26,Naomi Osaka,Jasmine Paolini,0.744,0.741,W
 2026-10-26,Alexandra Eala,Mika Stojsavljevic,0.901,0.877,W
 2026-10-26,Kaitlin Quevedo,Sofia Kenin,0.520,0.519,W
 2026-10-26,Simona Waltert,Jil Teichmann,0.523,0.524,L
 2026-10-26,Daria Snigur,Anna Bondar,0.685,0.668,L
 2026-10-26,Zeynep Sonmez,Sara Sorribes Tormo,0.681,0.681,W
+2026-10-26,Claire Liu,Antonia Ruzic,0.526,0.526,W
 2026-10-26,Sinja Kraus,Panna Udvardy,0.647,0.635,W
+2026-10-26,Janice Tjen,Polina Kudermetova,0.589,0.599,W
 2026-10-26,Lloyd Harris,Juncheng Shang,0.606,0.620,W
+2026-10-26,Jie Cui,Linang Xiao,0.853,0.833,W
 2026-10-26,Keegan Smith,Yu Hsiou Hsu,0.596,0.603,L
 2026-10-26,Hayato Matsuoka,Fajing Sun,0.506,0.526,L
 2026-10-26,Casper Ruud,Dominic Stricker,0.761,0.716,W
