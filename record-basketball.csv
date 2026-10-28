@@ -1157,15 +1157,15 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-16,Euroleague,Zalgiris Kaunas,Anadolu Efes,hcap,Zalgiris Kaunas -1.5,0.6712,blend,0
 2026-10-16,Pro A,Wolmirstedt,Koblenz,hcap,Wolmirstedt -1.5,0.6781,blend,1
 2026-10-16,Euroleague,Crvena Zvezda Meridianbet,Paris,hcap,Crvena Zvezda Meridianbet +4.5,0.7242,blend,1
-2026-10-16,Korisliiga,Honka,Lahti Basketball,hcap,Honka -2.5,0.6339,blend,1
+2026-10-16,Korisliiga,Kouvot Kouvola,Kataja,hcap,Kataja +1.5,0.685,blend,0
 2026-10-16,Pro B,St. Chamond,Evreux,hcap,St. Chamond +1.5,0.6873,blend,1
 2026-10-16,Basketligan,Hogsbo,Jamtland,hcap,Jamtland -1.5,0.6978,blend,1
 2026-10-16,Pro B,Denain-Voltaire,Aix Maurienne,hcap,Denain-Voltaire +1.5,0.7356,blend,1
 2026-10-16,Euroleague,Panathinaikos,Hapoel Tel Aviv,hcap,Panathinaikos +3.5,0.7543,blend,0
 2026-10-16,Premier league,Stjarnan,Hottur,hcap,Stjarnan +4.5,0.8298,blend,0
-2026-10-16,Korisliiga,Kouvot Kouvola,Kataja,hcap,Kataja +1.5,0.685,blend,0
+2026-10-16,Korisliiga,Honka,Lahti Basketball,hcap,Honka -2.5,0.6339,blend,1
 2026-10-16,Energa Basket Liga,Legia,Anwil Wloclawek,hcap,Legia -2.5,0.6115,blend,0
-2026-10-16,Euroleague,Zalgiris Kaunas,Anadolu Efes,match,Zalgiris Kaunas,0.6885,blend,0
+2026-10-16,Pro A,Wolmirstedt,Koblenz,match,Wolmirstedt,0.6982,blend,1
 2026-10-16,Superleague,MZT Skopje,TFT Skopje,match,MZT Skopje,0.7527,blend,1
 2026-10-16,SLB,Caledonia Gladiators,Sheffield Sharks,match,Sheffield Sharks,0.6595,blend,0
 2026-10-16,Pro A,Tubingen,Bochum,match,Tubingen,0.6686,blend,1
@@ -1180,7 +1180,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-16,Euroleague,Panathinaikos,Hapoel Tel Aviv,match,Panathinaikos,0.74,blend,0
 2026-10-16,Euroleague,Crvena Zvezda Meridianbet,Paris,match,Crvena Zvezda Meridianbet,0.7485,blend,1
 2026-10-16,Pro B,Denain-Voltaire,Aix Maurienne,match,Denain-Voltaire,0.7502,blend,1
-2026-10-16,Pro A,Wolmirstedt,Koblenz,match,Wolmirstedt,0.6982,blend,1
+2026-10-16,Euroleague,Zalgiris Kaunas,Anadolu Efes,match,Zalgiris Kaunas,0.6885,blend,0
 2026-10-17,Pro A,Giessen,Koln,hcap,Giessen +1.5,0.7056,blend,0
 2026-10-17,Korisliiga,Bisons Loimaa,Salon Vilpas,hcap,Salon Vilpas -1.5,0.7061,blend,1
 2026-10-17,Pro B,Ada Blois,La Rochelle,hcap,Ada Blois +2.5,0.7094,blend,1
@@ -1493,11 +1493,11 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-26,NBA,Utah Jazz,Memphis Grizzlies,hcap,Utah Jazz +1.5,0.5098,blend,0
 2026-10-26,Basketligan,Norrkoping,Jamtland,hcap,Norrkoping -1.5,0.6448,blend,0
 2026-10-26,Division A,ETHA Engomi,AEL,match,AEL,0.7734,blend,1
-2026-10-26,B League,Yokohama,Hiroshima D.,match,Hiroshima D.,0.7849,blend,1
 2026-10-26,NBA,Utah Jazz,Memphis Grizzlies,match,Utah Jazz,0.5056,blend,0
 2026-10-26,NBA,Charlotte Hornets,Washington Wizards,match,Charlotte Hornets,0.5329,blend,1
 2026-10-26,NBA,Cleveland Cavaliers,Minnesota Timberwolves,match,Cleveland Cavaliers,0.5966,blend,1
 2026-10-26,NBA,Houston Rockets,Atlanta Hawks,match,Houston Rockets,0.637,blend,1
+2026-10-26,B League,Yokohama,Hiroshima D.,match,Hiroshima D.,0.7849,blend,1
 2026-10-26,First League,Mladost Zemun,Radnicki,match,Mladost Zemun,0.6822,blend,1
 2026-10-26,1. ZLS Women,Novosadska Novi Sad W,Mega MIS W,match,Mega MIS W,0.6829,blend,1
 2026-10-26,NBB,Corinthians Paulista,Franca,match,Franca,0.6811,blend,0
@@ -1508,21 +1508,22 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-26,NBA,Miami Heat,Dallas Mavericks,match,Miami Heat,0.7304,blend,0
 2026-10-26,B League,Nagasaki,Ryukyu,match,Ryukyu,0.7536,blend,0
 2026-10-26,NBB,Mogi,Unifacisa,match,Mogi,0.6893,blend,1
-2026-10-27,NBA,Boston Celtics,Brooklyn Nets,hcap,Boston Celtics +5.5,0.7512,blend,1
+2026-10-27,Champions League,Bamberg,Varese,hcap,Bamberg +3.5,0.6641,blend,0
 2026-10-27,CBA,Xinjiang,Zhejiang Chouzhou,hcap,Zhejiang Chouzhou +1.5,0.6688,blend,1
 2026-10-27,Euroleague,Crvena Zvezda Meridianbet,Maccabi Tel Aviv,hcap,Crvena Zvezda Meridianbet +1.5,0.6865,blend,1
 2026-10-27,NBB,Cruzeiro,Brasilia,hcap,Brasilia +2.5,0.7087,blend,1
 2026-10-27,Basketligan,Sodertalje,Uppsala,hcap,Sodertalje +4.5,0.7397,blend,1
-2026-10-27,Euroleague,Baskonia,Real Madrid,hcap,Real Madrid -1.5,0.7528,blend,1
+2026-10-27,NBA,Boston Celtics,Brooklyn Nets,hcap,Boston Celtics +5.5,0.7512,blend,1
 2026-10-27,Euroleague,Panathinaikos,Olimpia Milano,hcap,Panathinaikos +4.5,0.8546,blend,1
+2026-10-27,Basketligan,Nassjo,Sloga Uppsala,hcap,Nassjo +4.5,0.7684,blend,1
 2026-10-27,Liga A,Penarol,San Martin,hcap,Penarol +1.5,0.7719,blend,1
 2026-10-27,Euroleague,Dubai,Paris,hcap,Dubai +4.5,0.7798,blend,0
 2026-10-27,Basketligan,Umea,BC Lulea,hcap,BC Lulea -2.5,0.7928,blend,1
 2026-10-27,Champions League,Murcia,Peristeri,hcap,Murcia +3.5,0.8013,blend,0
 2026-10-27,NBB,Pinheiros,Uniao Corinthians,hcap,Pinheiros +4.5,0.82,blend,1
-2026-10-27,Champions League,Bamberg,Varese,hcap,Bamberg +3.5,0.6641,blend,0
-2026-10-27,Basketligan,Nassjo,Sloga Uppsala,hcap,Nassjo +4.5,0.7684,blend,1
 2026-10-27,FIBA Europe Cup,Dinamo Bucharest,Levice,hcap,Dinamo Bucharest +3.5,0.6503,blend,1
+2026-10-27,Euroleague,Baskonia,Real Madrid,hcap,Real Madrid -1.5,0.7528,blend,1
+2026-10-27,VTB United League,Dynamo Vladivostok,Saratov,hcap,Dynamo Vladivostok +1.5,0.6439,blend,1
 2026-10-27,Euroleague,Baskonia,Real Madrid,match,Real Madrid,0.7495,blend,1
 2026-10-27,Euroleague,Dubai,Paris,match,Dubai,0.8022,blend,0
 2026-10-27,Champions League,Bamberg,Varese,match,Bamberg,0.6389,blend,0
@@ -1531,7 +1532,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-27,VTB United League,Dynamo Vladivostok,Saratov,match,Dynamo Vladivostok,0.6578,blend,1
 2026-10-27,LNB,Colonias Gold,Olimpia Kings,match,Olimpia Kings,0.6722,blend,1
 2026-10-27,NBB,Cruzeiro,Brasilia,match,Brasilia,0.6768,blend,1
-2026-10-27,VTB United League,Dynamo Vladivostok,Saratov,hcap,Dynamo Vladivostok +1.5,0.6439,blend,1
+2026-10-27,NBA,Los Angeles Lakers,Portland Trail Blazers,hcap,Los Angeles Lakers +4.5,0.5866,blend,0
 2026-10-27,Euroleague,Crvena Zvezda Meridianbet,Maccabi Tel Aviv,match,Crvena Zvezda Meridianbet,0.6925,blend,1
 2026-10-27,FIBA Europe Cup,Dinamo Bucharest,Levice,match,Dinamo Bucharest,0.7209,blend,0
 2026-10-27,Basketligan,Sodertalje,Uppsala,match,Sodertalje,0.7718,blend,1
