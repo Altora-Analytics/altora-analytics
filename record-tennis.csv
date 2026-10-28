@@ -1,4 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-28,Yunchaokete Bu,Yun Seong Chung,0.927,0.887,L
+2026-10-28,Ekaterina Alexandrova,Kamilla Rakhimova,0.745,0.731,L
 2026-10-27,Magda Linette,Anastasia Zakharova,0.507,0.520,W
 2026-10-27,Katie Volynets,Dayana Yastremska,0.574,0.559,L
 2026-10-27,Maria Sakkari,Yulia Putintseva,0.593,0.606,L
@@ -6,6 +8,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-27,Sorana Cirstea ,Maya Joint,0.706,0.694,L
 2026-10-27,Adrian Mannarino,Ignacio Buse,0.621,0.607,W
 2026-10-27,Arthur Fils,Giovanni Mpetshi Perricard,0.799,0.783,W
+2026-10-27,Ben Shelton,Aleksandar Kovacevic,0.829,0.818,W
+2026-10-27,Cabral/Tracy,Reymond/Sanchez,0.710,0.689,W
 2026-10-27,Alexandre Muller,Omar Jasika,0.750,0.702,L
 2026-10-27,Yun Seong Chung,Shintaro Imai,0.595,0.614,W
 2026-10-27,Aleksandar Vukic,Christian Langmo,0.818,0.809,W
@@ -20,6 +24,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-27,Borna Gojo,Tom Paris,0.742,0.731,W
 2026-10-27,Michael Geerts,Matisse Bobichon,0.547,0.544,L
 2026-10-27,Felix Balshaw,Ugo Blanchet,0.535,0.542,L
+2026-10-27,Maria Lourdes Carle,Laura Pigossi,0.617,0.604,W
+2026-10-27,Julia Grabher,Carolina Alves,0.793,0.784,W
 2026-10-27,Rebeka Masarova,Julia Riera,0.587,0.588,L
 2026-10-27,Maria Golovina,Radka Zelnickova,0.654,0.640,W
 2026-10-27,Britt Du Pree,Dunja Maric,0.798,0.783,L
@@ -35,7 +41,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-27,Clemence Mercier,Avery Alexander,0.659,0.660,W
 2026-10-27,Lea Ma,Rasheeda Mcadoo,0.895,0.851,W
 2026-10-27,Hiromi Abe,Emma Si Yu Dong,0.677,0.671,W
+2026-10-27,Maks Kasnikowski,James Kent Trotter,0.670,0.662,W
+2026-10-27,Sofia Costoulas,Valeriya Strakhova,0.720,0.713,L
 2026-10-27,Coleman Wong,Beibit Zhukayev,0.856,0.837,VOID
+2026-10-27,Patrick Maloney,Daniil Ostapenkov,0.612,0.606,VOID
 2026-10-26,Marin Cilic,Zhizhen Zhang,0.707,0.671,L
 2026-10-26,Sho Shimabukuro,Jan Kumstat,0.581,0.554,W
 2026-10-26,Rei Sakamoto,Kasidit Samrej,0.891,0.854,W
@@ -61,8 +70,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-26,Tristan Schoolkate,Masamichi Imamura,0.818,0.813,W
 2026-10-26,Hayato Matsuoka,Fajing Sun,0.506,0.526,L
 2026-10-26,Casper Ruud,Dominic Stricker,0.761,0.716,W
+2026-10-26,Moise Kouame,Hugo Grenier,0.695,0.689,W
 2026-10-26,Zsombor Piros,Laslo Djere,0.510,0.504,L
 2026-10-26,Martin Damm Jr,Sascha Gueymard Wayenbu,0.618,0.595,W
+2026-10-26,Juan Manuel La Serna,Nick Hardt,0.597,0.605,L
+2026-10-26,Hugo Dellien,Nicolas Jarry,0.524,0.541,W
+2026-10-26,Juan Pablo Varillas,Rodrigo Pacheco Mendez,0.504,0.523,L
+2026-10-26,Camilo Ugo Carabelli,Federico Coria,0.842,0.782,W
+2026-10-26,Alex Barrena,Gonzalo Bueno,0.529,0.545,L
 2026-10-26,Max Hans Rehberg,Braden Shick,0.593,0.604,W
 2026-10-26,Jeffrey John Wolf,Abdullah Shelbayh,0.629,0.624,W
 2026-10-26,Daniel Milavsky,Harry Wendelken,0.511,0.515,W
@@ -84,7 +99,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-26,Nishesh Basavareddy,Gabriel Diallo,0.568,0.577,L
 2026-10-26,Otto Virtanen,Matteo Martineau,0.685,0.657,W
 2026-10-26,Federico Cina,Shintaro Mochizuki,0.552,0.561,W
+2026-10-26,Lautaro Midon,Gonzalo Villanueva,0.656,0.652,W
+2026-10-26,Juan Carlos Prado Angel,Pedro Boscardin Dias,0.653,0.655,W
+2026-10-26,Diego Dedura,Genaro Alberto Olivieri,0.690,0.659,W
+2026-10-26,Darwin Blanch,Sebastian Gorzny,0.653,0.645,W
 2026-10-26,Andres Martin,Kaylan Bigun,0.552,0.543,L
+2026-10-26,Andres Andrade,Mitchell Krueger,0.574,0.583,L
 2026-10-26,Jenson Brooksby,Bryce Nakashima,0.814,0.808,W
 2026-10-26,Ugo Blanchet,Vadym Ursu,0.879,0.861,W
 2026-10-26,Michael Geerts,Niels Mcdonald,0.552,0.553,W
@@ -100,6 +120,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-26,Ryan Nijboer,Lorenzo Claverie,0.785,0.763,L
 2026-10-26,Gavin Young,Daniil Ostapenkov,0.615,0.596,L
 2026-10-26,Filip Misolic,Alex Hernandez,0.858,0.836,L
+2026-10-26,Lucio Ratti,Mateo Del Pino,0.961,0.902,L
 2026-10-26,Spencer Johnson,Tomasz Berkieta,0.712,0.701,L
 2026-10-26,Miguel Tobon,Daniel Salazar Martinez,0.874,0.840,W
 2026-10-26,Ozan Baris,James Kent Trotter,0.514,0.508,L
@@ -120,6 +141,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-25,Anastasia Zakharova,Teodora Kostovic,0.544,0.562,L
 2026-10-25,Alex Michelsen,Botic Van de Zandschulp,0.708,0.670,W
 2026-10-25,Carlos Alcaraz,Karen Khachanov,0.791,0.778,W
+2026-10-25,Jiri Lehecka,Stan Wawrinka,0.776,0.765,W
 2026-10-25,Jerome Kym,Arthur Rinderknech,0.578,0.579,W
 2026-10-25,Valentin Vacherot,Mariano Navone,0.622,0.625,W
 2026-10-25,Yannick Hanfmann,Rinky Hijikata,0.556,0.567,W
@@ -131,8 +153,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-25,Taylor Fritz,Lorenzo Musetti,0.630,0.639,L
 2026-10-25,Titouan Droguet,Lukas Neumayer,0.751,0.747,L
 2026-10-25,Rafael Jodar,Alejandro Tabilo,0.802,0.787,W
+2026-10-25,Alexander Zverev,Martin Landaluce,0.895,0.880,W
 2026-10-25,Francisco Cerundolo,Cameron Norrie,0.664,0.658,L
 2026-10-25,Matteo Berrettini,Tomas Martin Etcheverry,0.641,0.635,W
+2026-10-25,Flavio Cobolli,Grigor Dimitrov,0.668,0.650,W
 2026-10-25,Holger Rune,Quentin Halys,0.542,0.540,W
 2026-10-25,Learner Tien,Luca Van Assche,0.711,0.692,W
 2026-10-25,Matteo Arnaldi,Luciano Darderi,0.504,0.494,L
