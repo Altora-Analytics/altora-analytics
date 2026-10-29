@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-28,big,fnatic,0.559,0.579,L
+2026-10-28,spirit,natus vincere,0.688,0.660,L
+2026-10-28,t1,koi,0.849,0.831,W
+2026-10-28,invictus gaming,lyon,0.637,0.648,W
 2026-10-27,vitality,natus vincere,0.750,0.683,W
 2026-10-27,mibr,eternal fire,0.657,0.654,W
 2026-10-26,t1,ctbc flying oyster,0.872,0.867,W
