@@ -1,6 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-10-29,Terence Atmane,Taro Daniel,0.627,0.615,W
 2026-10-29,Coleman Wong,Stefanos Sakellaridis,0.610,0.615,W
+2026-10-29,Leylah Fernandez,Elise Mertens,0.516,0.469,W
+2026-10-29,Alibek Kachmazov,Seongchan Hong,0.593,0.588,L
+2026-10-29,Naomi Osaka,Mia Pohankova,0.800,0.781,L
+2026-10-29,Daria Egorova,Eva Bennemann,0.609,0.628,W
+2026-10-29,Mariia Golovina,Dunja Maric,0.596,0.584,W
 2026-10-29,Katerina Siniakova,Claire Liu,0.655,0.653,VOID
 2026-10-28,Kimberly Birrell,Alycia Parks,0.593,0.598,L
 2026-10-28,Paula Badosa,Sinja Kraus,0.717,0.713,W
@@ -18,8 +23,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-28,Harold Mayot,Kaichi Uchida,0.923,0.891,W
 2026-10-28,Maya Joint,Cristina Bucsa,0.547,0.550,W
 2026-10-28,Charles Broom,Yaroslav Demin,0.693,0.667,L
+2026-10-28,Fajing Sun,Petr Bar Biryukov,0.653,0.652,L
 2026-10-28,Diana Shnaider,Aliaksandra Sasnovich,0.765,0.755,W
 2026-10-28,Dayana Yastremska,Han Shi,0.595,0.596,L
+2026-10-28,Zeynep Sonmez,Jil Teichmann,0.657,0.657,L
 2026-10-28,Janice Tjen,Harriet Dart,0.650,0.651,L
 2026-10-28,Mert Alkaya,Hiroki Moriya,0.668,0.656,W
 2026-10-28,Gabriel Diallo,Francesco Maestrelli,0.753,0.744,L
