@@ -1,4 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-10-29,karmine corp,ctbc flying oyster,0.835,0.817,W
+2026-10-29,bilibili gaming,top esports,0.743,0.750,L
 2026-10-28,big,fnatic,0.559,0.579,L
 2026-10-28,spirit,natus vincere,0.688,0.660,L
 2026-10-28,t1,koi,0.849,0.831,W
