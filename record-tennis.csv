@@ -8,8 +8,38 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-31,Alevtina Ibragimova,Mika Stojsavljevic,0.528,0.544,L
 2026-10-31,Emerson Jones,Heather    Watson,0.713,0.686,W
 2026-10-31,Diana Shnaider,Mia Pohankova,0.703,0.696,W
+2026-10-31,Yelyzaveta Kotliar,Zhibek Kulambayeva,0.587,0.592,L
+2026-10-31,Liam Broady,Petr Bar Biryukov,0.670,0.650,L
+2026-10-31,Lilli Tagger,Kaitlin Quevedo,0.668,0.671,W
+2026-10-31,Dino Prizmic,Martin Damm Jr,0.545,0.552,L
+2026-10-31,Carlos Alcaraz,Daniil Medvedev,0.697,0.681,W
+2026-10-31,Anna Blinkova,Noma Noha Akugue,0.694,0.661,L
+2026-10-31,Taylor Fritz,Valentin Vacherot,0.752,0.737,L
+2026-10-31,Alina Charaeva,Elsa Jacquemot,0.594,0.609,W
 2026-10-31,Aliona Falei,Ekaterina Yashina,0.981,0.937,W
+2026-10-31,Viktoria Morvayova,Shrivalli Bhamidipaty,0.781,0.740,W
 2026-10-31,Daria Egorova,Viktoria Hruncakova,0.584,0.577,W
+2026-10-31,Nastasja Schunk,Anna Kubareva,0.617,0.621,W
+2026-10-31,Suzan Lamens,Alicia Dudeney,0.567,0.564,W
+2026-10-31,Andreozzi/Guinard,Miedler/Oberleitner,0.518,0.506,L
+2026-10-31,Hannah Klugman,Fiona Crawley,0.695,0.680,L
+2026-10-31,Julia Grabher,Julia Riera,0.530,0.531,W
+2026-10-31,Zachary Svajda,Thiago Agustin Tirante,0.525,0.508,L
+2026-10-31,Rinky Hijikata,Jaime Faria,0.535,0.533,W
+2026-10-31,Mattia Bellucci,Pablo Carreno Busta,0.551,0.560,W
+2026-10-31,Hugo Gaston,Vit Kopriva,0.664,0.658,L
+2026-10-31,Miomir Kecmanovic,James Duckworth,0.578,0.571,W
+2026-10-31,Aleksandar Kovacevic,Manuel Cerundolo,0.528,0.530,L
+2026-10-31,Tomas Machac,Martin Landaluce,0.647,0.642,W
+2026-10-31,Tallon Griekspoor,Benjamin Bonzi,0.624,0.626,L
+2026-10-31,Yannick Hanfmann,Felix Balshaw,0.606,0.586,W
+2026-10-31,Jaume Munar,Lorenzo Sonego,0.603,0.612,L
+2026-10-31,Damir Dzumhur,Sebastian Baez,0.553,0.556,L
+2026-10-31,Alex Molcan,Daniel Altmaier,0.552,0.554,W
+2026-10-31,Nuno Borges,Adrian Mannarino,0.601,0.607,W
+2026-10-31,Otto Virtanen,Moise Kouame,0.590,0.604,L
+2026-10-31,Jiri Lehecka,Jan-Lennard Struff,0.696,0.673,W
+2026-10-31,Alexander Zverev,Alex De Minaur,0.699,0.691,L
 2026-10-30,Yu Hsiou Hsu,Mert Alkaya,0.547,0.544,W
 2026-10-30,Omar Jasika,Yun Seong Chung,0.615,0.624,W
 2026-10-30,Maya Joint,Kamilla Rakhimova,0.534,0.546,L
