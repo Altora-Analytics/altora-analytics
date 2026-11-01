@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-01,John Higgins,Lyu Haotian,0.748,0.746,W
+2026-11-01,Julien Leclercq,Ashley Carty,0.580,0.592,W
+2026-11-01,Stuart Bingham,Marco Fu,0.606,0.589,L
+2026-11-01,Zhang Anda,Huang Jiahao,0.897,0.911,W
+2026-11-01,Chang Bingyu,Ross Muir,0.849,0.884,W
+2026-11-01,Oliver Lines,Dylan Emery,0.507,,W
+2026-11-01,Mark Williams,Ishpreet Singh Chadha,0.758,,W
 2026-10-31,Zhou Yuelong,Liam Davies,0.609,0.589,L
 2026-10-31,Liu Hongyu,Louis Heathcote,0.575,0.520,W
 2026-10-31,Mark Selby,Jimmy White,0.868,0.928,W
@@ -6,6 +13,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-10-31,Neil Robertson,Jiang Jun,0.672,0.742,W
 2026-10-31,Lei Peifan,Ryan Day,0.535,0.518,L
 2026-10-31,Hossein Vafaei,Stuart Carrington,0.791,0.827,W
+2026-10-31,Jak Jones,Wang Xinbo,0.664,0.713,L
+2026-10-31,SI Jiahui,David Grace,0.714,0.727,W
 2026-10-25,Kyren Wilson,Jak Jones,0.615,0.599,W
 2026-10-24,Mark Williams,Jak Jones,0.544,0.533,L
 2026-10-24,Kyren Wilson,Sam Craigie,0.702,0.723,VOID
