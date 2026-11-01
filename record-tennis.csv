@@ -3,10 +3,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-01,Bianca Andreescu,Carole Monnet,0.814,0.806,W
 2026-11-01,Tatiana Prozorova,Mika Stojsavljevic,0.781,0.751,W
 2026-11-01,Himeno Sakatsume,Elena Pridankina,0.505,0.499,W
+2026-11-01,Terence Atmane,Coleman Wong,0.511,0.506,W
 2026-11-01,Diana Shnaider,Leylah Fernandez,0.584,0.597,W
 2026-11-01,Yaroslav Demin,Petr Bar Biryukov,0.603,0.613,W
 2026-11-01,Luca Staeheli,Masamichi Imamura,0.549,0.556,L
 2026-11-01,Yanki Erel,Yan Cheng Chen,0.902,0.882,W
+2026-11-01,Kaichi Uchida,Alafia Ayeni,0.518,0.524,W
+2026-11-01,Lilli Tagger,Harriet Dart,0.769,0.756,L
+2026-11-01,Kyoka Okamura,Momoko Kobori,0.669,0.643,W
+2026-11-01,Kasidit Samrej,Koki Matsuda,0.593,0.585,W
+2026-11-01,Niels Visker,Faris Zakaria,0.665,0.665,W
+2026-11-01,Radu Albot,Marcus Walters,0.633,0.641,VOID
 2026-10-31,Fiona Ferro,Elizabeth Mandlik,0.788,0.771,W
 2026-10-31,Bianca Andreescu,Alicia Herrero Linana,0.770,0.762,W
 2026-10-31,Leylah Fernandez,Kamilla Rakhimova,0.757,0.720,W
