@@ -9,11 +9,36 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-01,Luca Staeheli,Masamichi Imamura,0.549,0.556,L
 2026-11-01,Yanki Erel,Yan Cheng Chen,0.902,0.882,W
 2026-11-01,Kaichi Uchida,Alafia Ayeni,0.518,0.524,W
+2026-11-01,Omar Jasika,Alexander Donski,0.684,0.679,W
 2026-11-01,Lilli Tagger,Harriet Dart,0.769,0.756,L
 2026-11-01,Kyoka Okamura,Momoko Kobori,0.669,0.643,W
+2026-11-01,Weronika Falkowska,Viktoria Morvayova,0.507,0.519,W
+2026-11-01,Mei Yamaguchi,Zhibek Kulambayeva,0.680,0.652,L
+2026-11-01,Mattia Bellucci,Thiago Agustin Tirante,0.619,0.623,W
+2026-11-01,Rinky Hijikata,Vit Kopriva,0.716,0.687,W
+2026-11-01,Veronika Podrez,Oceane Dodin,0.591,0.588,W
+2026-11-01,Manuel Cerundolo,Miomir Kecmanovic,0.539,0.554,W
+2026-11-01,Benjamin Bonzi,Yannick Hanfmann,0.513,0.539,W
+2026-11-01,Julia Grabher,Alice Tubello,0.569,0.557,L
+2026-11-01,Marek Gengel,Michael Vrbensky,0.538,0.540,L
+2026-11-01,Carlos Alcaraz,Alex De Minaur,0.772,0.764,W
+2026-11-01,Jiri Lehecka,Valentin Vacherot,0.623,0.630,L
 2026-11-01,Kasidit Samrej,Koki Matsuda,0.593,0.585,W
+2026-11-01,Daria Egorova,Nastasja Schunk,0.615,0.599,W
+2026-11-01,Tomas Machac,Sebastian Baez,0.823,0.810,W
 2026-11-01,Niels Visker,Faris Zakaria,0.665,0.665,W
+2026-11-01,Oleg Prihodko,Yannik Kelm,0.551,0.552,L
+2026-11-01,Sebastian Sorger,Matyas Cerny,0.737,0.704,W
+2026-11-01,Giovanni Mpetshi Perricard,Yanis Ghazouani Durand,0.909,0.844,W
+2026-11-01,Nuno Borges,Alex Molcan,0.588,0.588,L
+2026-11-01,Martin Damm Jr,Moise Kouame,0.508,0.514,L
+2026-11-01,Alina Charaeva,Noma Noha Akugue,0.651,0.648,W
+2026-11-01,Andrej Martin,Eero Vasa,0.503,0.523,L
+2026-11-01,Lorenzo Sonego,Adolfo Daniel Vallejo,0.581,0.570,W
+2026-11-01,Manas Dhamne,Loann Massard,0.686,0.657,L
+2026-11-01,Massimo Giunta,Nikita Belozertsev,0.789,0.763,W
 2026-11-01,Radu Albot,Marcus Walters,0.633,0.641,VOID
+2026-11-01,Katrina Scott,Laura Pigossi,0.512,0.507,VOID
 2026-10-31,Fiona Ferro,Elizabeth Mandlik,0.788,0.771,W
 2026-10-31,Bianca Andreescu,Alicia Herrero Linana,0.770,0.762,W
 2026-10-31,Leylah Fernandez,Kamilla Rakhimova,0.757,0.720,W
