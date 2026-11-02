@@ -1,6 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-02,heroic,b8,0.613,0.660,W
 2026-11-02,legacy,themongolz,0.515,0.543,L
+2026-11-02,furia esports,faze clan,0.704,0.694,W
+2026-11-02,bb team,9z team,0.666,0.659,W
+2026-11-02,mouz,tyloo,0.838,0.895,W
 2026-10-31,karmine corp,koi,0.615,0.606,W
 2026-10-31,lyon,los,0.750,0.762,W
 2026-10-31,hanwha life esports,bilibili gaming,0.575,0.591,L
