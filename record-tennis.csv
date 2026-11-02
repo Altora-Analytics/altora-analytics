@@ -1,6 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-02,August Holmgren,Daniel Michalski,0.588,0.580,W
+2026-11-02,Katie Boulter,Viktorija Golubic,0.563,0.576,W
 2026-11-02,Yanki Erel,Masamichi Imamura,0.721,0.713,L
+2026-11-02,Tatiana Prozorova,Claire Liu,0.526,0.527,L
 2026-11-02,Yosuke Watanuki,Mitsuki Wei Kang Leong,0.856,0.808,W
+2026-11-02,Kaichi Uchida,Chun-Chien Hou,0.830,0.793,L
+2026-11-02,Omar Jasika,Kasidit Samrej,0.516,0.531,W
 2026-11-02,Borna Gojo,Zsombor Piros,0.551,0.550,VOID
 2026-11-02,Christian Langmo,Jake Delaney,0.500,0.510,VOID
 2026-11-01,Tatjana Maria,Fiona Ferro,0.501,0.510,W
