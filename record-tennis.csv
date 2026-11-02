@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-02,Yanki Erel,Masamichi Imamura,0.721,0.713,L
+2026-11-02,Yosuke Watanuki,Mitsuki Wei Kang Leong,0.856,0.808,W
+2026-11-02,Borna Gojo,Zsombor Piros,0.551,0.550,VOID
+2026-11-02,Christian Langmo,Jake Delaney,0.500,0.510,VOID
 2026-11-01,Tatjana Maria,Fiona Ferro,0.501,0.510,W
 2026-11-01,Bianca Andreescu,Carole Monnet,0.814,0.806,W
 2026-11-01,Tatiana Prozorova,Mika Stojsavljevic,0.781,0.751,W
@@ -34,11 +38,21 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-01,Martin Damm Jr,Moise Kouame,0.508,0.514,L
 2026-11-01,Alina Charaeva,Noma Noha Akugue,0.651,0.648,W
 2026-11-01,Andrej Martin,Eero Vasa,0.503,0.523,L
+2026-11-01,Jonas Forejtek,Ryan Seggerman,0.617,0.620,W
 2026-11-01,Lorenzo Sonego,Adolfo Daniel Vallejo,0.581,0.570,W
 2026-11-01,Manas Dhamne,Loann Massard,0.686,0.657,L
 2026-11-01,Massimo Giunta,Nikita Belozertsev,0.789,0.763,W
+2026-11-01,Elizabeth Mandlik,Selena Janicijevic,0.630,0.624,L
+2026-11-01,Dylan Dietrich,Liam Draxl,0.694,0.699,W
+2026-11-01,Bianca Andreescu,Tatjana Maria,0.587,0.594,W
+2026-11-01,Rafael Tosetto,Younes Lalami,0.548,0.551,W
+2026-11-01,Joao Schiessl,Gabriel Schenekenberg,0.944,0.917,W
+2026-11-01,Aidan Mayo,Duncan Chan,0.709,0.711,W
+2026-11-01,Kenta   Miyoshi,Dominick Mosejczuk,0.632,0.639,W
+2026-11-01,Luis Felipe Miguel,Federico Zeballos,0.737,0.716,W
 2026-11-01,Radu Albot,Marcus Walters,0.633,0.641,VOID
 2026-11-01,Katrina Scott,Laura Pigossi,0.512,0.507,VOID
+2026-11-01,Filip Misolic,Marcelo Zormann,0.942,0.911,VOID
 2026-10-31,Fiona Ferro,Elizabeth Mandlik,0.788,0.771,W
 2026-10-31,Bianca Andreescu,Alicia Herrero Linana,0.770,0.762,W
 2026-10-31,Leylah Fernandez,Kamilla Rakhimova,0.757,0.720,W
