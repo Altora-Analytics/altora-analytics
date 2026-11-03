@@ -1,9 +1,15 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-03,Keegan Smith,Jake Delaney,0.785,0.755,L
+2026-11-03,James McCabe,Yanki Erel,0.518,0.525,VOID
 2026-11-02,August Holmgren,Daniel Michalski,0.588,0.580,W
 2026-11-02,Katie Boulter,Viktorija Golubic,0.563,0.576,W
 2026-11-02,Mary Stoiana,Venus Williams,0.850,0.837,W
 2026-11-02,Joel Schwaerzler,Jan Kumstat,0.503,0.500,L
 2026-11-02,Aleksandr Shevchenko,Luka Pavlovic,0.634,0.630,L
+2026-11-02,Gonzalo Villanueva,Carlos Maria Zarate,0.595,0.585,L
+2026-11-02,Abdullah Shelbayh,Michael Antonius,0.586,0.578,L
+2026-11-02,Hynek Barton,Jack Kennedy,0.632,0.639,L
+2026-11-02,Murphy Cassone,Nicolas Mejia,0.503,0.506,W
 2026-11-02,Yanki Erel,Masamichi Imamura,0.721,0.713,L
 2026-11-02,Tatiana Prozorova,Claire Liu,0.526,0.527,L
 2026-11-02,Yosuke Watanuki,Mitsuki Wei Kang Leong,0.856,0.808,W
@@ -14,10 +20,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-02,Lorenzo Gagliardo,Ian Luca Vertberger,0.851,0.793,W
 2026-11-02,Tomas Machac,Kyrian Jacquet,0.608,0.592,W
 2026-11-02,Max Houkes,Michael Vrbensky,0.712,0.673,L
+2026-11-02,Nicolas Kicker,Bruno Fernandez,0.854,0.835,W
+2026-11-02,Maximo Zeitune,Lucio Ratti,0.552,0.554,L
+2026-11-02,Gustavo Heide,Guido Ivan Justo,0.770,0.750,W
+2026-11-02,Elmer Moller,Zdenek Kolar,0.745,0.728,W
+2026-11-02,Juan Carlos Prado Angel,Pedro Boscardin Dias,0.707,0.689,W
 2026-11-02,Lucas Poullain,Yannik Kelm,0.745,0.740,W
 2026-11-02,Rinky Hijikata,Luciano Darderi,0.570,0.554,W
 2026-11-02,Casper Ruud,Manuel Cerundolo,0.753,0.713,W
 2026-11-02,Mattia Bellucci,Lorenzo Sonego,0.579,0.580,W
+2026-11-02,Alex Molcan,Titouan Droguet,0.558,0.557,W
 2026-11-02,Giovanni Mpetshi Perricard,Sebastian Sorger,0.838,0.793,W
 2026-11-02,Eero Vasa,Vadym Ursu,0.512,0.534,W
 2026-11-02,Santiago De La Fuente,Ryo Tabata,0.521,0.525,L
@@ -27,14 +39,21 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-02,Matilde Paoletti,Styliani Roussopoulou,0.971,0.962,W
 2026-11-02,Jonas Forejtek,Matthew William Donald,0.645,0.633,W
 2026-11-02,Victor Hugo Remondy Pag,Ivan Dreycopp,0.548,0.546,L
+2026-11-02,Miguel Tobon,Leonardo Storck Franca,0.837,0.819,L
 2026-11-02,Franco Ribero,Nicolas Bruna,0.568,0.566,L
+2026-11-02,Santiago Rodriguez Tave,Wilson Leite,0.855,0.838,W
+2026-11-02,Daniel Elahi Galan,Joao Schiessl,0.784,0.740,W
+2026-11-02,Filip Misolic,Mateus Alves,0.727,0.714,W
+2026-11-02,Eduardo Ribeiro,Luis Felipe Miguel,0.662,0.643,L
 2026-11-02,Borna Gojo,Zsombor Piros,0.551,0.550,VOID
 2026-11-02,Christian Langmo,Jake Delaney,0.500,0.510,VOID
 2026-11-01,Tatjana Maria,Fiona Ferro,0.501,0.510,W
 2026-11-01,Bianca Andreescu,Carole Monnet,0.814,0.806,W
 2026-11-01,Tatiana Prozorova,Mika Stojsavljevic,0.781,0.751,W
+2026-11-01,Karen Khachanov,Denis Shapovalov,0.599,0.603,W
 2026-11-01,Luca Van Assche,Mariano Navone,0.600,0.599,W
 2026-11-01,Hubert Hurkacz,Lorenzo Musetti,0.509,0.521,L
+2026-11-01,Ugo Humbert,Botic Van de Zandschulp,0.614,0.597,W
 2026-11-01,Rafael Jodar,Alejandro Tabilo,0.784,0.775,W
 2026-11-01,Zizou Bergs,Ignacio Buse,0.724,0.710,L
 2026-11-01,Cameron Norrie,Matteo Arnaldi,0.679,0.665,W
