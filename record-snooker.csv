@@ -1,4 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-02,SI Jiahui,Liu Hongyu,0.639,0.654,W
+2026-11-02,John Higgins,Xu Si,0.683,0.676,W
+2026-11-02,Marco Fu,Julien Leclercq,0.596,0.604,W
+2026-11-02,Zhang Anda,Ding Junhui,0.522,0.500,L
+2026-11-02,Neil Robertson,Wang Xinbo,0.727,0.748,L
+2026-11-02,Zhao Xintong,Sam Craigie,0.757,0.781,W
+2026-11-02,Chang Bingyu,Chris Wakelin,0.649,0.651,W
+2026-11-02,Aaron Hill,Daniel Wells,0.588,0.599,W
+2026-11-02,Wu Yize,Stephen Maguire,0.771,0.790,L
+2026-11-02,Kyren Wilson,Ryan Day,0.758,0.759,W
 2026-11-01,John Higgins,Lyu Haotian,0.748,0.746,W
 2026-11-01,Julien Leclercq,Ashley Carty,0.580,0.592,W
 2026-11-01,Stuart Bingham,Marco Fu,0.606,0.589,L

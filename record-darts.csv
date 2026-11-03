@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-02,Nunjo Dewaele,Barry Watson,0.613,0.605,W
+2026-11-02,Steve Lennon,Matt Clark,0.648,0.699,L
+2026-11-02,Justin van der Velden,Maikel Kustermans,0.556,0.535,L
+2026-11-02,Danny Ayres,Ashley Coleman,0.625,,L
+2026-11-02,Jonny Barnes,Conor Heneghan,0.511,,L
+2026-11-02,Michael Huntley,William Borland,0.511,0.443,W
+2026-11-02,Jenson Remory,Stijn Deklerck,0.607,0.612,W
+2026-11-02,Chas Barstow,Daniel Marsden,0.797,,W
 2026-10-25,Ross Smith,Luke Woodhouse,0.555,0.561,W
 2026-10-25,Gerwyn Price,Stephen Bunting,0.703,0.708,W
 2026-10-25,Jonny Clayton,Martin Schindler,0.690,0.682,L
