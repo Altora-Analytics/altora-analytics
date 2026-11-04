@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-04,Zhuoxuan Bai,Caroline Werner,0.696,0.675,W
 2026-11-03,Tereza Valentova,Himeno Sakatsume,0.812,0.796,W
 2026-11-03,Paula Badosa,Elena Pridankina,0.739,0.747,L
 2026-11-03,Polina Kudermetova,Viktoria Morvayova,0.839,0.818,W
@@ -16,13 +17,21 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-03,Jerome Kym,Lucas Poullain,0.853,0.803,W
 2026-11-03,Sascha Gueymard Wayenbu,Eero Vasa,0.863,0.839,W
 2026-11-03,Giovanni Mpetshi Perricard,Martin Krumich,0.751,0.731,W
+2026-11-03,Jonas Forejtek,Kimmer Coppejans,0.593,0.598,L
+2026-11-03,Ben Shelton,Cameron Norrie,0.710,0.708,W
+2026-11-03,Rafael Jodar,Casper Ruud,0.624,0.631,L
 2026-11-03,Lorenzo Joaquin Rodrigu,Federico Aguilar Cardoz,0.688,0.659,L
 2026-11-03,Juan Manuel La Serna,Mateo Del Pino,0.953,0.912,W
 2026-11-03,Juan Estevez,Ryo Tabata,0.694,0.671,L
+2026-11-03,Federico Coria,Ivan Dreycopp,0.738,0.740,W
 2026-11-03,Lucia Cortez Llorca,Sofia Shapatava,0.902,0.877,W
 2026-11-03,Alice Rame,Angelica Raggi,0.629,0.617,L
 2026-11-03,James McCabe,Kasidit Samrej,0.594,0.581,L
+2026-11-03,Luis Guto Miguel,Eduardo Ribeiro,0.603,0.615,L
+2026-11-03,Michael Zheng,James Kent Trotter,0.751,0.742,L
+2026-11-03,Igor Marcondes,Luis Felipe Miguel,0.687,0.678,W
 2026-11-03,James McCabe,Yanki Erel,0.518,0.525,VOID
+2026-11-02,Charles Broom,Liam Broady,0.537,0.546,W
 2026-11-02,August Holmgren,Daniel Michalski,0.588,0.580,W
 2026-11-02,Katie Boulter,Viktorija Golubic,0.563,0.576,W
 2026-11-02,Mary Stoiana,Venus Williams,0.850,0.837,W
@@ -36,18 +45,26 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-02,Mananchaya Sawangkaew,Mai Hontama,0.613,0.614,L
 2026-11-02,Rebecca Sramkova,Moyuka Uchijima,0.584,0.588,L
 2026-11-02,Anastasia Zakharova,Polina Iatcenko,0.628,0.617,W
+2026-11-02,Simona Waltert,Sahaja Yamalapalli,0.907,0.874,W
 2026-11-02,Teodora Kostovic,Oksana Selekhmeteva,0.554,0.561,L
 2026-11-02,Janice Tjen,Katherine Hui,0.875,0.833,W
 2026-11-02,Joel Schwaerzler,Jan Kumstat,0.503,0.500,L
 2026-11-02,Aleksandr Shevchenko,Luka Pavlovic,0.634,0.630,L
+2026-11-02,Dalibor Svrcina,Norbert Gombos,0.712,0.681,W
 2026-11-02,Jurij Rodionov,Stefano Travaglia,0.536,0.558,W
 2026-11-02,Laslo Djere,Edas Butvilas,0.505,0.526,W
 2026-11-02,Philip Henning,Calvin Hemery,0.523,0.525,W
 2026-11-02,Gianluca Cadenasso,Florent Bax,0.509,0.518,W
+2026-11-02,Buvaysar Gadamauri,Pierluigi Basile,0.688,0.653,W
 2026-11-02,Kilian Feldbausch,Raul Brancaccio,0.630,0.643,W
 2026-11-02,Hugo Grenier,Marvin Moeller,0.517,0.519,W
+2026-11-02,Murkel Dellien,Dante Pagani,0.705,0.678,W
+2026-11-02,Valerio Aboian,Alan Magadan,0.707,0.689,W
 2026-11-02,Gonzalo Villanueva,Carlos Maria Zarate,0.595,0.585,L
 2026-11-02,Hernan Casanova,Thiago Cigarran,0.778,0.734,W
+2026-11-02,Dylan Dietrich,Marcos Giron,0.619,0.627,L
+2026-11-02,Harry Wendelken,Andres Andrade,0.539,0.546,L
+2026-11-02,Max Hans Rehberg,Trevor Svajda,0.559,0.569,W
 2026-11-02,Abdullah Shelbayh,Michael Antonius,0.586,0.578,L
 2026-11-02,Hynek Barton,Jack Kennedy,0.632,0.639,L
 2026-11-02,Murphy Cassone,Nicolas Mejia,0.503,0.506,W
@@ -71,6 +88,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-02,Carlo Alberto Caniato,Lorenzo Giustino,0.611,0.617,W
 2026-11-02,Nicolas Kicker,Bruno Fernandez,0.854,0.835,W
 2026-11-02,Maximo Zeitune,Lucio Ratti,0.552,0.554,L
+2026-11-02,Francisco Comesana,Marco Cecchinato,0.665,0.656,L
 2026-11-02,Gustavo Heide,Guido Ivan Justo,0.770,0.750,W
 2026-11-02,Elmer Moller,Zdenek Kolar,0.745,0.728,W
 2026-11-02,Juan Carlos Prado Angel,Pedro Boscardin Dias,0.707,0.689,W
@@ -89,6 +107,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-02,Federico Aguilar Cardoz,Tomas Farjat,0.598,0.594,W
 2026-11-02,Joao Victor Couto Loure,Mateo Del Pino,0.732,0.710,L
 2026-11-02,Justin Boulais,Samuel Heredia,0.785,0.764,W
+2026-11-02,Julia Grabher,Laura Pigossi,0.829,0.781,W
+2026-11-02,Marina Bassols Ribera,Sofia Costoulas,0.586,0.595,W
+2026-11-02,Alice Tubello,Rebeka Masarova,0.523,0.509,W
 2026-11-02,Matilde Paoletti,Styliani Roussopoulou,0.971,0.962,W
 2026-11-02,Jonas Forejtek,Matthew William Donald,0.645,0.633,W
 2026-11-02,Victor Hugo Remondy Pag,Ivan Dreycopp,0.548,0.546,L
