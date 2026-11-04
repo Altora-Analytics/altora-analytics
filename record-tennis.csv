@@ -1,10 +1,19 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-04,Katie Boulter,Claire Liu,0.589,0.595,L
 2026-11-04,Billy Harris,Jan Kumstat,0.516,0.474,L
 2026-11-04,Jiayi Wang,Ha Lee,0.711,0.689,W
 2026-11-04,Zhuoxuan Bai,Caroline Werner,0.696,0.675,W
+2026-11-04,Polina Kudermetova,Oksana Selekhmeteva,0.575,0.576,W
 2026-11-04,Yeonwoo Ku,Yufei Ren,0.718,0.703,W
 2026-11-04,Han Shi,Sakura Hosogi,0.913,0.894,W
+2026-11-04,Thomas Faurel,Loann Massard,0.775,0.729,W
+2026-11-04,Remy Bertola,Leonardo Rossi,0.786,0.758,W
 2026-11-04,Astrid Lew Yan Foon,Lucie Nguyen Tan,0.520,0.510,L
+2026-11-04,Alisa Oktiabreva,Antonia Stoyanov,0.717,0.700,W
+2026-11-04,Raluca Serban,Giorgia Pedone,0.521,0.517,W
+2026-11-04,Mina Hodzic,Isabella Maria Serban,0.556,0.548,W
+2026-11-04,Dalma Galfi,Kira Pavlova,0.719,0.682,W
+2026-11-04,Adrian Andreev,Jacopo Vasami,0.665,0.654,VOID
 2026-11-03,Tereza Valentova,Himeno Sakatsume,0.812,0.796,W
 2026-11-03,Paula Badosa,Elena Pridankina,0.739,0.747,L
 2026-11-03,Polina Kudermetova,Viktoria Morvayova,0.839,0.818,W
