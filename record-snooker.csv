@@ -1,6 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-04,Hossein Vafaei,Fan Zhengyi,0.557,0.567,L
 2026-11-04,Kyren Wilson,Ding Junhui,0.608,0.622,W
+2026-11-04,Zhao Xintong,Chang Bingyu,0.545,0.572,L
+2026-11-04,John Higgins,Marco Fu,0.718,0.704,W
 2026-11-03,Hossein Vafaei,SI Jiahui,0.530,0.508,W
 2026-11-03,Kyren Wilson,Oliver Lines,0.781,0.790,W
 2026-11-03,Chang Bingyu,Yuan Sijun,0.697,0.710,W
