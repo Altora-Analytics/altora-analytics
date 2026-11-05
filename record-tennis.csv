@@ -1,5 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-04,Katie Boulter,Claire Liu,0.589,0.595,L
+2026-11-04,Arthur Fils,Tomas Machac,0.615,0.624,W
 2026-11-04,Billy Harris,Jan Kumstat,0.516,0.474,L
 2026-11-04,August Holmgren,Yuta Shimizu,0.604,0.586,L
 2026-11-04,Aliaksandra Sasnovich,Talia Gibson,0.606,0.621,W
@@ -12,21 +13,30 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-04,Han Shi,Sakura Hosogi,0.913,0.894,W
 2026-11-04,Mattia Bellucci,Arthur Rinderknech,0.552,0.566,L
 2026-11-04,Frances Tiafoe,Quentin Halys,0.575,0.581,L
+2026-11-04,Nishesh Basavareddy,Mika Brunold,0.703,0.668,W
 2026-11-04,Learner Tien,Luca Van Assche,0.657,0.657,L
 2026-11-04,Alex De Minaur,Tomas Martin Etcheverry,0.817,0.804,L
 2026-11-04,Tommy Paul,Daniel Merida,0.808,0.772,W
 2026-11-04,Novak Djokovic,Rinky Hijikata,0.811,0.793,L
 2026-11-04,Matej Dodig,Michal Krajci,0.893,0.874,W
+2026-11-04,Solana Sierra,Leyre Romero Gormaz,0.513,0.521,L
+2026-11-04,Gustavo Heide,Juan Carlos Prado Angel,0.603,0.602,L
 2026-11-04,Karen Khachanov,Nuno Borges,0.652,0.655,L
 2026-11-04,Zsombor Piros,Sascha Gueymard Wayenbu,0.523,0.540,W
+2026-11-04,Jerome Kym,Luka Pavlovic,0.769,0.758,W
 2026-11-04,Thomas Faurel,Loann Massard,0.775,0.729,W
 2026-11-04,Felix Gill,Marcus Walters,0.863,0.813,W
 2026-11-04,Remy Bertola,Leonardo Rossi,0.786,0.758,W
+2026-11-04,Ugo Humbert,Matteo Berrettini,0.527,0.525,L
 2026-11-04,Filippo Romano,Peter Makk,0.598,0.591,L
 2026-11-04,Murphy Cassone,Stefan Kozlov,0.541,0.558,L
 2026-11-04,Juan Manuel La Serna,Hernan Casanova,0.702,0.706,W
 2026-11-04,Taylor Fritz,Alex Molcan,0.805,0.790,W
 2026-11-04,Laura Samson,Carole Monnet,0.597,0.591,L
+2026-11-04,Carlos Alcaraz,Alex Michelsen,0.846,0.830,W
+2026-11-04,Jan-Lennard Struff,Thiago Agustin Tirante,0.676,0.671,W
+2026-11-04,Darwin Blanch,Braden Shick,0.750,0.708,L
+2026-11-04,Marcos Giron,Justin Boulais,0.749,0.734,W
 2026-11-04,Astrid Lew Yan Foon,Lucie Nguyen Tan,0.520,0.510,L
 2026-11-04,Alisa Oktiabreva,Antonia Stoyanov,0.717,0.700,W
 2026-11-04,Raluca Serban,Giorgia Pedone,0.521,0.517,W
@@ -35,6 +45,11 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-04,Veronika Podrez,Katarina Zavatska,0.747,0.726,W
 2026-11-04,Julia Avdeeva,Lisa Zaar,0.687,0.654,L
 2026-11-04,Anna Siskova,Marie Weckerle,0.890,0.871,W
+2026-11-04,Renata Zarazua,Despina Papamichail,0.771,0.769,W
+2026-11-04,Alice Tubello,Marina Bassols Ribera,0.502,0.493,W
+2026-11-04,Miriam Bianca Bulgaru,Natalia Sousa Salazar,0.968,0.954,W
+2026-11-04,Camilo Ugo Carabelli,Igor Marcondes,0.794,0.759,W
+2026-11-04,Sloane Stephens,Carolina Kuhl,0.913,0.889,W
 2026-11-04,Adrian Andreev,Jacopo Vasami,0.665,0.654,VOID
 2026-11-03,Tereza Valentova,Himeno Sakatsume,0.812,0.796,W
 2026-11-03,Paula Badosa,Elena Pridankina,0.739,0.747,L
