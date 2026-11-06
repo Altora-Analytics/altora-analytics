@@ -1,4 +1,5 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-06,Yuta Shimizu,Omar Jasika,0.635,0.625,W
 2026-11-05,Sorana Cirstea ,Mary Stoiana,0.794,0.776,W
 2026-11-05,Alexandra Eala,Tereza Valentova,0.605,0.619,W
 2026-11-05,Gianluca Cadenasso,Jay Clarke,0.504,0.510,L
@@ -7,6 +8,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-05,Lucrezia Stefanini,Simona Waltert,0.647,0.654,W
 2026-11-05,Giovanni Mpetshi Perricard,Dalibor Svrcina,0.571,0.556,L
 2026-11-05,Harold Mayot,Sho Shimabukuro,0.537,0.547,W
+2026-11-05,Nicolai Budkov Kjaer,Kimmer Coppejans,0.722,0.722,L
+2026-11-05,Federico Coria,Valerio Aboian,0.516,0.507,W
+2026-11-05,Max Hans Rehberg,Daniel Milavsky,0.548,0.554,W
 2026-11-05,Carl Emil Overbeck,Kasidit Samrej,0.568,0.564,L
 2026-11-05,Alexandre Muller,Charles Broom,0.551,0.546,W
 2026-11-05,Xinyu Wang,Antonia Ruzic,0.558,0.559,L
@@ -24,11 +28,20 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-05,Heliovaara/Patten,Doumbia/Pel,0.805,0.775,W
 2026-11-05,Tomas Martin Etcheverry,Rinky Hijikata,0.527,0.533,L
 2026-11-05,Nuno Borges,Ignacio Buse,0.521,0.530,W
+2026-11-05,Thiago Seyboth Wild,Franco Roncadelli,0.861,0.842,W
+2026-11-05,Andres Andrade,James Kent Trotter,0.574,0.567,W
+2026-11-05,Facundo Diaz Acosta,Filip Misolic,0.643,0.641,W
+2026-11-05,Elmer Moller,Joao Lucas Reis Da Silv,0.578,0.568,L
+2026-11-05,Thiago Monteiro,Marco Cecchinato,0.515,0.537,L
 2026-11-05,Arribage/Olivetti,Pavlasek/Rikl,0.554,0.567,W
 2026-11-05,Matej Dodig,Tom Gentzsch,0.608,0.610,W
 2026-11-05,Genaro Alberto Olivieri,Ignacio Monzon,0.893,0.871,W
 2026-11-05,Juan Bautista Torres,Ryan Nijboer,0.615,0.598,W
 2026-11-05,Toby Samuel,Jurij Rodionov,0.546,0.549,L
+2026-11-05,Maks Kasnikowski,Michael Antonius,0.699,0.693,W
+2026-11-05,Casper Ruud,Jan-Lennard Struff,0.634,0.629,W
+2026-11-05,Alice Tubello,Leolia Jeanjean,0.513,0.527,W
+2026-11-05,Leyre Romero Gormaz,Carole Monnet,0.630,0.638,W
 2026-11-05,Alisa Oktiabreva,Deborah Chiesa,0.861,0.839,W
 2026-11-05,Joelle Lilly Sophie Steur,Lucie Nguyen Tan,0.776,0.749,L
 2026-11-05,Matilde Paoletti,Martha Matoula,0.614,0.609,L
@@ -37,6 +50,8 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-05,Veronika Podrez,Jessika Ponchet,0.686,0.677,W
 2026-11-05,Caijsa Hennemann,Mariia Golovina,0.737,0.717,W
 2026-11-05,Greet Minnen,Lisa Pigato,0.647,0.635,W
+2026-11-05,Renata Zarazua,Julia Riera,0.512,0.498,L
+2026-11-05,Arthur Fils,Taylor Fritz,0.552,0.549,L
 2026-11-05,Krawietz/Putz,Bonzi/Rinderknech,0.510,0.528,VOID
 2026-11-05,Carlos Alcaraz,Matteo Berrettini,0.844,0.829,VOID
 2026-11-04,Katie Boulter,Claire Liu,0.589,0.595,L
