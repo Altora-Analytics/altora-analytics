@@ -5,6 +5,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-06,Harrison/Skupski,Cash/Nakashima,0.686,0.680,W
 2026-11-06,Oriol Roca Batalla,Nicolas Kicker,0.647,0.635,L
 2026-11-06,Jerome Kym,Nishesh Basavareddy,0.510,0.517,W
+2026-11-06,Camilo Ugo Carabelli,Juan Carlos Prado Angel,0.635,0.623,W
 2026-11-06,Juan Manuel La Serna,Carlos Maria Zarate,0.607,0.605,W
 2026-11-06,Yuta Shimizu,Omar Jasika,0.635,0.625,W
 2026-11-06,Harold Mayot,Jan Kumstat,0.610,0.598,L
@@ -18,16 +19,29 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-06,Tommy Paul,Ben Shelton,0.532,0.547,L
 2026-11-06,Alexandra Eala,Antonia Ruzic,0.788,0.776,W
 2026-11-06,Luca Van Assche,Rinky Hijikata,0.608,0.616,W
+2026-11-06,Clement Chidekh,Marcos Giron,0.612,0.626,W
 2026-11-06,Miedler/Oberleitner,Nouza/Venus,0.664,0.654,W
 2026-11-06,Maxim Mrva,Matteo Martineau,0.539,0.562,L
 2026-11-06,Matej Dodig,Laslo Djere,0.539,0.549,W
+2026-11-06,Francesco Maestrelli,Carlo Alberto Caniato,0.554,0.552,L
 2026-11-06,Dalibor Svrcina,Zsombor Piros,0.555,0.549,W
 2026-11-06,Nuria Brancaccio,Jennifer Ruggeri,0.533,0.543,W
 2026-11-06,Martha Matoula,Lucie Nguyen Tan,0.685,0.676,W
 2026-11-06,Alisa Oktiabreva,Angela Fita Boluda,0.853,0.842,W
 2026-11-06,Caijsa Hennemann,Raluca Serban,0.650,0.651,L
 2026-11-06,Aidan Mayo,Max Hans Rehberg,0.599,0.602,W
+2026-11-06,Leyre Romero Gormaz,Julia Riera,0.551,0.550,W
+2026-11-06,Carlos Alcaraz,Taylor Fritz,0.738,0.724,W
+2026-11-06,Casper Ruud,Nuno Borges,0.684,0.656,W
 2026-11-06,Veronika Podrez,Lisa Zaar,0.812,0.797,W
+2026-11-06,Jurij Rodionov,Kimmer Coppejans,0.726,0.708,W
+2026-11-06,Maks Kasnikowski,Andres Andrade,0.571,0.567,L
+2026-11-06,Facundo Diaz Acosta,Marco Cecchinato,0.720,0.716,W
+2026-11-06,Federico Coria,Juan Pablo Ficovich,0.513,0.531,W
+2026-11-06,Ribeiro/Rodrigues,Kolar/Rodriguez Taverna,0.520,0.520,L
+2026-11-06,Whitney Osuigwe,Yara Bartashevich,0.752,0.747,W
+2026-11-06,Thiago Seyboth Wild,Joao Lucas Reis Da Silv,0.759,0.750,W
+2026-11-06,Janae Preston,Luciana Perry,0.754,0.744,W
 2026-11-05,Sorana Cirstea ,Mary Stoiana,0.794,0.776,W
 2026-11-05,Alexandra Eala,Tereza Valentova,0.605,0.619,W
 2026-11-05,Gianluca Cadenasso,Jay Clarke,0.504,0.510,L
@@ -67,6 +81,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-05,Juan Bautista Torres,Ryan Nijboer,0.615,0.598,W
 2026-11-05,Toby Samuel,Jurij Rodionov,0.546,0.549,L
 2026-11-05,Maks Kasnikowski,Michael Antonius,0.699,0.693,W
+2026-11-05,Stefan Kozlov,Braden Shick,0.550,0.546,W
 2026-11-05,Casper Ruud,Jan-Lennard Struff,0.634,0.629,W
 2026-11-05,Alice Tubello,Leolia Jeanjean,0.513,0.527,W
 2026-11-05,Leyre Romero Gormaz,Carole Monnet,0.630,0.638,W
