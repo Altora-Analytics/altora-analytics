@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-06,Angouleme,Grenoble FC,0.712,,W
+2026-11-06,Aurillac,Montauban,0.838,0.685,W
+2026-11-06,CA Brive,US Dax,0.891,0.931,W
+2026-11-06,Colomiers,Beziers,0.912,0.936,W
+2026-11-06,Provence Rugby,US Oyonnax,0.706,,W
+2026-11-06,Valence Romans,Nevers,0.891,,W
 2026-11-05,Agen,Biarritz Olympique,0.751,0.755,W
 2026-11-01,Section Paloise,Stade Toulousain,0.592,0.685,W
 2026-10-31,Northampton Saints,Gloucester,0.845,0.736,W
