@@ -1,8 +1,30 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-07,Jan Kumstat,Yuta Shimizu,0.598,0.601,W
 2026-11-07,Coleman Wong,Yosuke Watanuki,0.531,0.540,L
+2026-11-07,Janice Tjen,Robin Montgomery,0.618,0.607,W
+2026-11-07,Alexandra Eala,Maria Sakkari,0.542,0.550,W
+2026-11-07,Aleksandr Shevchenko,Viktor Durasovic,0.760,0.731,W
+2026-11-07,Jacob Fearnley,Arthur Nagel,0.839,0.825,W
+2026-11-07,Ben Shelton,Luca Van Assche,0.766,0.759,W
 2026-11-07,Reynolds/Watt,Chandrasekar/Rai,0.680,0.662,W
+2026-11-07,Noma Noha Akugue,Sofya Lansere,0.674,0.676,L
+2026-11-07,Felix Gill,Matteo Martineau,0.567,0.566,L
+2026-11-07,Jerome Kym,Matej Dodig,0.652,0.635,W
+2026-11-07,Harrison/Skupski,Miedler/Oberleitner,0.529,0.532,W
+2026-11-07,Borna Gojo,Mika Brunold,0.623,0.612,W
+2026-11-07,Nikoloz Basilashvili,Francesco Passaro,0.713,0.673,W
+2026-11-07,Damir Dzumhur,Inaki Montes-De La Torr,0.627,0.617,L
+2026-11-07,Lorenzo Sonego,Olle Wallin,0.925,0.878,W
+2026-11-07,Toby Samuel,Karl Friberg,0.911,0.881,W
+2026-11-07,Anastasia Zakharova,Magda Linette,0.526,0.523,L
+2026-11-07,Juan Manuel La Serna,Nicolas Kicker,0.524,0.519,W
+2026-11-07,Kilian Feldbausch,Carlo Alberto Caniato,0.525,0.513,W
+2026-11-07,Dalibor Svrcina,Jurij Rodionov,0.554,0.556,L
 2026-11-07,Alisa Oktiabreva,Martha Matoula,0.845,0.831,L
+2026-11-07,Nuria Brancaccio,Raluca Serban,0.723,0.701,L
+2026-11-07,Veronika Podrez,Tessa Johanna Brockmann,0.753,0.742,W
+2026-11-07,Genaro Alberto Olivieri,Federico Coria,0.506,0.519,W
+2026-11-07,Carlos Alcaraz,Casper Ruud,0.837,0.816,W
 2026-11-06,Maria Sakkari,Aliaksandra Sasnovich,0.568,0.576,W
 2026-11-06,Janice Tjen,Polina Kudermetova,0.640,0.639,W
 2026-11-06,Martyna Kubka,Sofya Lansere,0.619,0.637,L
@@ -18,6 +40,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-06,Coleman Wong,Kasidit Samrej,0.868,0.842,W
 2026-11-06,Magda Linette,Mai Hontama,0.715,0.699,W
 2026-11-06,Jay Clarke,Felix Gill,0.506,0.517,L
+2026-11-06,Anna Blinkova,Yasmine Kabbaj,0.939,0.887,W
 2026-11-06,Lucrezia Stefanini,Anastasia Zakharova,0.535,0.536,L
 2026-11-06,Kilian Feldbausch,Sumit Nagal,0.578,0.571,W
 2026-11-06,Tommy Paul,Ben Shelton,0.532,0.547,L
@@ -39,6 +62,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-06,Casper Ruud,Nuno Borges,0.684,0.656,W
 2026-11-06,Veronika Podrez,Lisa Zaar,0.812,0.797,W
 2026-11-06,Jurij Rodionov,Kimmer Coppejans,0.726,0.708,W
+2026-11-06,Bianca Andreescu,Alice Tubello,0.749,0.732,W
 2026-11-06,Maks Kasnikowski,Andres Andrade,0.571,0.567,L
 2026-11-06,Facundo Diaz Acosta,Marco Cecchinato,0.720,0.716,W
 2026-11-06,Federico Coria,Juan Pablo Ficovich,0.513,0.531,W
