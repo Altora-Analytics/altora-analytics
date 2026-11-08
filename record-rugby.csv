@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-07,Castres Olympique,Racing 92,0.695,0.679,L
+2026-11-07,Stade Toulousain,Clermont,0.907,0.750,W
+2026-11-07,Montpellier,Lyon,0.912,0.895,W
+2026-11-07,RC Toulonnais,Stade Francais Paris,0.742,0.796,W
+2026-11-07,Section Paloise,USA Perpignan,0.910,0.776,W
 2026-11-06,Angouleme,Grenoble FC,0.712,,W
 2026-11-06,Aurillac,Montauban,0.838,0.685,W
 2026-11-06,CA Brive,US Dax,0.891,0.931,W
