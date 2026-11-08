@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-08,Dimitris Sakellaridis,Renta Tokuda,0.529,0.531,L
+2026-11-08,Ryuki Matsuda,Taisei Ichikawa,0.564,0.568,W
+2026-11-08,Moerani Bouzige,Jesse Delaney,0.841,0.793,W
 2026-11-07,Jan Kumstat,Yuta Shimizu,0.598,0.601,W
 2026-11-07,Coleman Wong,Yosuke Watanuki,0.531,0.540,L
 2026-11-07,Janice Tjen,Robin Montgomery,0.618,0.607,W
@@ -25,6 +28,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-07,Veronika Podrez,Tessa Johanna Brockmann,0.753,0.742,W
 2026-11-07,Genaro Alberto Olivieri,Federico Coria,0.506,0.519,W
 2026-11-07,Carlos Alcaraz,Casper Ruud,0.837,0.816,W
+2026-11-07,Camilo Ugo Carabelli,Gonzalo Bueno,0.782,0.747,W
+2026-11-07,Aidan Mayo,Andres Andrade,0.677,0.664,W
+2026-11-07,Thiago Seyboth Wild,Facundo Diaz Acosta,0.552,0.561,W
+2026-11-07,Janae Preston,Ashton Bowers,0.905,0.862,W
 2026-11-06,Maria Sakkari,Aliaksandra Sasnovich,0.568,0.576,W
 2026-11-06,Janice Tjen,Polina Kudermetova,0.640,0.639,W
 2026-11-06,Martyna Kubka,Sofya Lansere,0.619,0.637,L
