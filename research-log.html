@@ -46,6 +46,42 @@
     gets removed is the system working, not failing.</p>
   </header>
 
+  <div class="entry"><span class="dt">November 2026</span><span class="tag ship">Shipped</span>
+    <h3>Goal ratings and league strength now feed our correct-score model</h3>
+    <p>Our correct-score model is the engine behind most of our football numbers: match result,
+    over/under and both-teams-to-score are all read off its scoreline grid. On 8 November it gained
+    two inputs it did not have before: <b>goal ratings</b> (each team's attacking and defensive
+    strength, built from goals and expected goals) and the <b>two-level league strength</b> rating
+    our match result model received in October. Both had already passed separate tests elsewhere;
+    goal ratings have driven our over/under 2.5 numbers since 25 October.</p>
+    <p>The test was set before any result was seen: the new version had to beat the old one on
+    exact-score accuracy in <b>all five</b> walk-forward test periods from July 2024 to November
+    2026. It did, five out of five. After retraining, we checked it again on 11,016 matches that
+    neither version had trained on: it improved exact score, match result, over/under 2.5 and
+    BTTS, in both halves of that period. The gains are small, and the numbers we publish move by
+    about 2 points on average. It is a better model, not a different one, and it does not change
+    our position: we still cannot show that our football models beat the market.</p>
+  </div>
+
+  <div class="entry"><span class="dt">November 2026</span><span class="tag ref">Refuted</span>
+    <h3>Four ideas that did not make our football models better</h3>
+    <p>Each was tested the same way, with the pass mark written down before the run, and each
+    failed. None of them is in the model.</p>
+    <ul>
+      <li><b>Player availability.</b> We collected official line-ups and injury lists for 71,800
+      matches. Bookmakers' prices do react to team news &mdash; about half a point of win chance
+      per missing regular starter &mdash; but adding who was missing did not improve our models in
+      any market, and even knowing the actual line-up barely helped. Our team-strength ratings
+      already carry most of it.</li>
+      <li><b>Head-to-head records.</b> Using the last ten meetings between two teams made the model
+      worse in three of five test periods.</li>
+      <li><b>Fixture congestion, season stage and home/away-only form.</b> No gain beyond the goal
+      ratings above.</li>
+      <li><b>A different scoreline formula.</b> Neither alternative we tried beat our current one in
+      any market, so it stays.</li>
+    </ul>
+  </div>
+
   <div class="entry"><span class="dt">August 2026</span><span class="tag ship">Registered</span>
     <h3>Tennis probability recalibration: deferred to 1 November, and here is why</h3>
     <p>Our settled tennis picks with well-established ratings run about 5 points overconfident
