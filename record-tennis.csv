@@ -1,7 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-08,Yosuke Watanuki,Jan Kumstat,0.638,0.627,W
 2026-11-08,Dimitris Sakellaridis,Renta Tokuda,0.529,0.531,L
 2026-11-08,Ryuki Matsuda,Taisei Ichikawa,0.564,0.568,W
+2026-11-08,Shintaro Imai,Constantin Bittoun Kouz,0.510,0.513,W
 2026-11-08,Moerani Bouzige,Jesse Delaney,0.841,0.793,W
+2026-11-08,Li Tu,Sam Ryan Ziegann,0.876,0.825,VOID
 2026-11-07,Jan Kumstat,Yuta Shimizu,0.598,0.601,W
 2026-11-07,Coleman Wong,Yosuke Watanuki,0.531,0.540,L
 2026-11-07,Janice Tjen,Robin Montgomery,0.618,0.607,W
