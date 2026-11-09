@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-09,Masamichi Imamura,Ryuki Matsuda,0.703,0.680,L
+2026-11-09,Hikaru Shiraishi,Kosuke Ogura,0.770,0.732,W
+2026-11-09,Luca Staeheli,Takuya Kumasaka,0.505,0.534,L
+2026-11-09,Hiroki Moriya,Pavle Marinkov,0.685,0.654,W
+2026-11-09,Thomas Fancutt,Tai Leonard Sach,0.545,0.540,W
+2026-11-09,Chase Ferguson,Sam Ryan Ziegann,0.628,0.643,L
 2026-11-08,Yosuke Watanuki,Jan Kumstat,0.638,0.627,W
 2026-11-08,Dimitris Sakellaridis,Renta Tokuda,0.529,0.531,L
 2026-11-08,Ryuki Matsuda,Taisei Ichikawa,0.564,0.568,W
@@ -8,7 +14,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-08,Manuel Cerundolo,Elias Ymer,0.770,0.759,W
 2026-11-08,Nikoloz Basilashvili,Borna Gojo,0.663,0.655,L
 2026-11-08,Carlos Alcaraz,Ben Shelton,0.767,0.755,W
+2026-11-08,Coco Gauff,Jessica Pegula,0.606,0.587,W
 2026-11-08,Pavlasek/Rikl,Schnaitter/Wallner,0.608,0.615,W
+2026-11-08,Jaume Munar,Thiago Agustin Tirante,0.593,0.597,L
 2026-11-08,Lorenzo Sonego,Inaki Montes-De La Torr,0.775,0.730,W
 2026-11-08,Jack Loge,Cem Ilkel,0.834,0.810,W
 2026-11-08,Oleksii Krutykh,Kai Wehnelt,0.657,0.646,W
@@ -28,8 +36,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-08,Luca Nardi,Alexander Donski,0.862,0.835,W
 2026-11-08,Genaro Alberto Olivieri,Juan Manuel La Serna,0.503,0.494,L
 2026-11-08,Harrison/Skupski,Halys/Herbert,0.522,0.537,L
+2026-11-08,Linda Noskova,Marta Kostyuk,0.544,0.544,W
 2026-11-08,Martha Matoula,Raluca Serban,0.507,0.520,L
 2026-11-08,Veronika Podrez,Anna Siskova,0.641,0.648,W
+2026-11-08,Thiago Seyboth Wild,Camilo Ugo Carabelli,0.520,0.541,L
+2026-11-08,Daniel Milavsky,Luca Wiedenmann,0.798,0.779,W
+2026-11-08,Kaylan Bigun,Giles Hussey,0.590,0.601,L
 2026-11-08,Li Tu,Sam Ryan Ziegann,0.876,0.825,VOID
 2026-11-08,Benjamin Pietri,Faris Zakaria,0.563,0.575,VOID
 2026-11-08,Max Houkes,Robin Catry,0.621,0.608,VOID
