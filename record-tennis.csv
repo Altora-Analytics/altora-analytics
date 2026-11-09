@@ -1,7 +1,13 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-09,Jay Friend,Yusuke Kusuhara,0.928,0.907,W
+2026-11-09,Joel Schwaerzler,Mitsuki Wei Kang Leong,0.750,0.738,W
+2026-11-09,Edward Winter,Alafia Ayeni,0.662,0.657,L
+2026-11-09,Bernard Tomic,Blake Ellis,0.629,0.632,W
 2026-11-09,Masamichi Imamura,Ryuki Matsuda,0.703,0.680,L
 2026-11-09,Hikaru Shiraishi,Kosuke Ogura,0.770,0.732,W
 2026-11-09,Luca Staeheli,Takuya Kumasaka,0.505,0.534,L
+2026-11-09,Keisuke Saitoh,Renta Tokuda,0.533,0.547,L
+2026-11-09,Shintaro Imai,Sho Katayama,0.694,0.686,W
 2026-11-09,Hiroki Moriya,Pavle Marinkov,0.685,0.654,W
 2026-11-09,Thomas Fancutt,Tai Leonard Sach,0.545,0.540,W
 2026-11-09,Chase Ferguson,Sam Ryan Ziegann,0.628,0.643,L
@@ -25,6 +31,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-08,Gabi Adrian Boitan,Alexandre Reco,0.711,0.692,L
 2026-11-08,Lorenzo Angelini,Petros Tsitsipas,0.763,0.714,W
 2026-11-08,Lorenzo Carboni,Leo Raquillet,0.616,0.632,W
+2026-11-08,Janice Tjen,Magda Linette,0.673,0.654,L
 2026-11-08,Alejo Sanchez Quilez,Adrien Gobat,0.592,0.597,L
 2026-11-08,Anna Blinkova,Sofya Lansere,0.760,0.729,L
 2026-11-08,Ugo Blanchet,Adan Freire Da Silva,0.957,0.928,W
