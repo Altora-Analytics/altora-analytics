@@ -1,6 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-09,Jay Friend,Yusuke Kusuhara,0.928,0.907,W
 2026-11-09,Joel Schwaerzler,Mitsuki Wei Kang Leong,0.750,0.738,W
+2026-11-09,Cameron Norrie,James Duckworth,0.701,0.691,W
+2026-11-09,Alex Michelsen,Yannick Hanfmann,0.745,0.738,W
+2026-11-09,Ugo Humbert,Adolfo Daniel Vallejo,0.717,0.684,W
+2026-11-09,Massimo Giunta,Francesco Forti,0.590,0.580,W
+2026-11-09,Henry Searle,Ryan Peniston,0.664,0.661,W
 2026-11-09,Edward Winter,Alafia Ayeni,0.662,0.657,L
 2026-11-09,Bernard Tomic,Blake Ellis,0.629,0.632,W
 2026-11-09,Masamichi Imamura,Ryuki Matsuda,0.703,0.680,L
@@ -11,8 +16,31 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-09,Hiroki Moriya,Pavle Marinkov,0.685,0.654,W
 2026-11-09,Thomas Fancutt,Tai Leonard Sach,0.545,0.540,W
 2026-11-09,Chase Ferguson,Sam Ryan Ziegann,0.628,0.643,L
+2026-11-09,John Echeverria,Guillaume Dalmasso,0.848,0.791,W
+2026-11-09,Mae Malige,Nino Ehrenschneider,0.564,0.565,W
+2026-11-09,Georgii Kravchenko,Johannus Monday,0.530,0.544,L
+2026-11-09,Aziz Dougaz,Bernardo Munk Mesa,0.869,0.856,W
+2026-11-09,Luka Mikrut,Sandro Kopp,0.734,0.720,W
 2026-11-09,Oleksii Krutykh,Oskari Paldanius,0.512,0.538,L
+2026-11-09,Branko Djuric,Nicolas Tepmahc,0.677,0.646,L
+2026-11-09,Pedro Vives Marcos,Yannik Kelm,0.670,0.662,W
+2026-11-09,Tom Gentzsch,Max Houkes,0.735,0.716,W
 2026-11-09,Jack Loge,Odysseas Geladaris,0.917,0.875,W
+2026-11-09,Lorenzo Angelini,Vladyslav Orlov,0.587,0.575,W
+2026-11-09,Maxime Janvier,Semen Pankin,0.587,0.591,W
+2026-11-09,Tomas Machac,Borna Gojo,0.743,0.716,L
+2026-11-09,Lorenzo Carboni,Alexandre Reco,0.683,0.661,W
+2026-11-09,Hugo Grenier,Martin Krumich,0.520,0.518,W
+2026-11-09,Franco Roncadelli,Juan Sebastian Gomez,0.878,0.824,W
+2026-11-09,Carlos Sanchez Jover,Santiago De La Fuente,0.741,0.713,L
+2026-11-09,Timo Legout,Emile Hudd,0.845,0.835,W
+2026-11-09,Johan Nikles,Ryo Tabata,0.613,0.623,L
+2026-11-09,Laura Pigossi,Dalila Jakupovic,0.719,0.694,W
+2026-11-09,Andres Martin,Filip Jeff Planinsek,0.685,0.657,L
+2026-11-09,Marina Bassols Ribera,Maria Herazo Gonzalez,0.959,0.936,W
+2026-11-09,Lui Maxted,Mitchell Krueger,0.501,0.476,W
+2026-11-09,Oriol Roca Batalla,Alex Hernandez,0.825,0.801,W
+2026-11-09,Thiago Seyboth Wild,Gonzalo Bueno,0.774,0.768,VOID
 2026-11-08,Yosuke Watanuki,Jan Kumstat,0.638,0.627,W
 2026-11-08,Dimitris Sakellaridis,Renta Tokuda,0.529,0.531,L
 2026-11-08,Ryuki Matsuda,Taisei Ichikawa,0.564,0.568,W
