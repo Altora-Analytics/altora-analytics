@@ -434,12 +434,12 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-25,Starligue,Chartres,Cesson Rennes-Metropole,match,Cesson Rennes-Metropole,0.4536,model,0
 2026-09-26,NB I,NEKA,Budai Farkasok,match,NEKA,0.7716,model,1
 2026-09-26,Handbollsligan,Malmo,Helsingborg,match,Malmo,0.7692,model,1
-2026-09-26,1. Division,Sydhavsoerne,Norddjurs,match,Sydhavsoerne,0.6979,model,1
+2026-09-26,Superliga,Piotrkowianin Piotrkow,MMTS Kwidzyn,hcap,MMTS Kwidzyn — draw no bet,0.7607,model,1
 2026-09-26,Liga ASOBAL,Puente Genil,Torrelavega,match,Torrelavega,0.6394,model,1
 2026-09-26,Andebol 1,Povoa,Vitoria SC,match,Povoa,0.6542,model,1
 2026-09-26,HLA,Aon Fivers,Handball Tirol,match,Aon Fivers,0.6414,model,0
 2026-09-26,2. Bundesliga,Coburg 2000,Grosswallstadt,match,Coburg 2000,0.6107,model,0
-2026-09-26,Superliga,Piotrkowianin Piotrkow,MMTS Kwidzyn,hcap,MMTS Kwidzyn — draw no bet,0.7607,model,1
+2026-09-26,Superliga,Piotrkowianin Piotrkow,MMTS Kwidzyn,match,MMTS Kwidzyn,0.6974,model,1
 2026-09-26,Superliga,Chrobry Glogow,Wybrzeze Gdansk,hcap,Wybrzeze Gdansk — draw no bet,0.5131,model,0
 2026-09-26,2. Bundesliga,Dessauer,Potsdam,hcap,Potsdam +0.5,0.737,model,1
 2026-09-26,HLA,Krems,Alpla Hard,hcap,Krems — draw no bet,0.5728,model,0
@@ -465,13 +465,13 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-26,Handbollsligan,Amo HK,Alingsas,total,Over 60.5,0.6217,model,0
 2026-09-26,Handbollsligan,Malmo,Helsingborg,total,Under 65.75,0.6234,model,1
 2026-09-26,2. Bundesliga,Huttenberg,Minden,total,Under 61.5,0.6399,model,0
-2026-09-26,Superliga,Piotrkowianin Piotrkow,MMTS Kwidzyn,match,MMTS Kwidzyn,0.6974,model,1
+2026-09-26,1. Division,Sydhavsoerne,Norddjurs,match,Sydhavsoerne,0.6979,model,1
 2026-09-26,Liga ASOBAL,Nava,La Rioja,total,Over 59.5,0.6403,model,1
-2026-09-26,Liga ASOBAL,Villa de Aranda,CD Bidasoa Irun,match,CD Bidasoa Irun,0.5964,model,1
+2026-09-26,Andebol 1,Avanca,Belenenses,total,Over 55.5,0.6402,model,1
 2026-09-26,2. Bundesliga,Dessauer,Potsdam,match,Potsdam,0.591,model,1
 2026-09-26,NB I,Csurgoi,Gyongyosi,match,Csurgoi,0.5784,model,1
 2026-09-26,Bundesliga,Kiel,Flensburg-H.,match,Kiel,0.5696,model,0
-2026-09-26,Andebol 1,Avanca,Belenenses,total,Over 55.5,0.6402,model,1
+2026-09-26,Liga ASOBAL,Villa de Aranda,CD Bidasoa Irun,match,CD Bidasoa Irun,0.5964,model,1
 2026-09-26,Andebol 1,ABC Braga,Benfica,total,Under 65.5,0.6799,model,0
 2026-09-26,1. Division,Sydhavsoerne,Norddjurs,total,Under 63.25,0.6683,model,1
 2026-09-26,NB I,Dabas,PLER,total,Under 59,0.6635,model,0
@@ -517,21 +517,21 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-09-29,EHF European League,Savehof,Sesvete,match,Savehof,0.6367,model,1
 2026-09-29,Superleague Women,Togliatti W,Chernomorochka W,hcap,Togliatti W +1.25,0.6017,model,1
 2026-09-30,Liga Nationala Women,Ramnicu Valcea W,SCM Craiova W,total,Over 54.5,0.6524,model,0
-2026-09-30,Bambusa Kvindeligaen Women,Odense W,Esbjerg W,hcap,Esbjerg W -1.5,0.5065,model,1
-2026-09-30,Elkjop-ligaen Women,Gjerpen W,Fredrikstad W,match,Gjerpen W,0.4882,model,0
+2026-09-30,EHF European League,Kadetten Schaffhausen,CSM Bucuresti,total,Over 61.5,0.6554,model,1
 2026-09-30,EHF European League,Eurofarm Pelister,La Rioja,total,Over 59.5,0.5941,model,0
+2026-09-30,Bundesliga,SC Magdeburg,Kiel,match,SC Magdeburg,0.8693,model,1
 2026-09-30,EHF European League,Tatabanya,Slovan,match,Tatabanya,0.5754,model,0
 2026-09-30,EHF European League,Eurofarm Pelister,La Rioja,match,Eurofarm Pelister,0.6451,model,0
 2026-09-30,Elkjop-ligaen Women,Tertnes W,Byasen W,match,Tertnes W,0.6935,model,1
 2026-09-30,Bambusa Kvindeligaen Women,Odense W,Esbjerg W,match,Esbjerg W,0.533,model,1
 2026-09-30,Bambusa Kvindeligaen Women,Odense W,Esbjerg W,total,Under 60.5,0.5801,model,1
-2026-09-30,Bundesliga,SC Magdeburg,Kiel,match,SC Magdeburg,0.8693,model,1
+2026-09-30,Bambusa Kvindeligaen Women,Odense W,Esbjerg W,hcap,Esbjerg W -1.5,0.5065,model,1
 2026-09-30,Superleague,Dynamo Sungul,CSKA Moscow,total,Under 57.5,0.5621,model,1
 2026-09-30,EHF European League,Limoges,Maritimo,total,Over 63.5,0.576,model,0
 2026-09-30,EHF European League,Tatabanya,Slovan,total,Over 61.5,0.5065,model,1
 2026-09-30,EHF European League,CD Bidasoa Irun,FH Hafnarfjordur,total,Under 63.5,0.5213,model,0
 2026-09-30,EHF European League,Presov,Bergischer,total,Over 61.5,0.5325,model,0
-2026-09-30,EHF European League,Kadetten Schaffhausen,CSM Bucuresti,total,Over 61.5,0.6554,model,1
+2026-09-30,Elkjop-ligaen Women,Gjerpen W,Fredrikstad W,match,Gjerpen W,0.4882,model,0
 2026-09-30,Bambusa Kvindeligaen Women,Ringkobing W,Viborg W,total,Under 60.5,0.5461,model,0
 2026-09-30,Liga Nationala Women,Zalau W,Bistrita W,total,Under 58.5,0.5488,model,0
 2026-09-30,Andebol 1,Porto,ABC Braga,total,Under 67.75,0.5535,model,1
@@ -544,18 +544,18 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-02,Starligue,Caen,St. Raphael,match,St. Raphael,0.6866,model,0
 2026-10-02,2. Bundesliga,Essen,Leipzig,match,Leipzig,0.6962,model,1
 2026-10-02,1. Division,Tonder,Midtjylland,match,Tonder,0.723,model,1
+2026-10-02,Bundesliga,HBW Balingen-Weilstetten,Bergischer,match,HBW Balingen-Weilstetten,0.7246,model,0
 2026-10-02,Division 1,Bnei Herzliya,Rehovot,match,Bnei Herzliya,0.7684,model,1
-2026-10-02,Proligue,Valence,Besancon,match,Valence,0.5662,model,0
-2026-10-02,Division 1,Hapoel Le Zion,Maccabi Le Zion,hcap,Maccabi Le Zion — draw no bet,0.5104,model,1
+2026-10-02,Proligue,Cherbourg,Istres,hcap,Istres — draw no bet,0.5084,model,0
 2026-10-02,Division 1,MK Holon,Hapoel Ashdod,hcap,Hapoel Ashdod — draw no bet,0.5561,model,0
 2026-10-02,1. Division,Odder,Raekker Molle,hcap,Odder +0.5,0.5582,model,0
 2026-10-02,Liga ASOBAL,Caserio Ciudad Real,Ademar,hcap,Caserio Ciudad Real +0.5,0.5987,model,1
 2026-10-02,Handbollsligan,Savehof,Hammarby,hcap,Savehof — draw no bet,0.6516,model,1
 2026-10-02,Division 1,Bnei Herzliya,Rehovot,hcap,Bnei Herzliya — draw no bet,0.6812,model,1
 2026-10-02,Proligue,Dijon,Creteil,hcap,Dijon +1.25,0.7183,model,1
-2026-10-02,Elkjop-ligaen,Elverum,Runar,match,Elverum,0.7639,model,1
+2026-10-02,Proligue,Valence,Besancon,match,Valence,0.5662,model,0
 2026-10-02,Proligue,Cherbourg,Istres,match,Istres,0.5474,model,0
-2026-10-02,Proligue,Cherbourg,Istres,hcap,Istres — draw no bet,0.5084,model,0
+2026-10-02,Division 1,Hapoel Le Zion,Maccabi Le Zion,hcap,Maccabi Le Zion — draw no bet,0.5104,model,1
 2026-10-02,Division 1,Hapoel Le Zion,Maccabi Le Zion,match,Maccabi Le Zion,0.491,model,1
 2026-10-02,2. Bundesliga,N-Lubbecke,Coburg 2000,match,N-Lubbecke,0.5359,model,0
 2026-10-02,1. Division,Odder,Raekker Molle,total,Over 59.25,0.5434,model,1
@@ -566,7 +566,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-02,Handbollsligan,Karlskrona,Amo HK,total,Under 64.5,0.5552,model,1
 2026-10-02,Liga Nationala,Timisoara,Din. Bucuresti,total,Over 58.25,0.5554,model,0
 2026-10-02,Proligue,Valence,Besancon,total,Over 63.5,0.5575,model,1
-2026-10-02,Bundesliga,HBW Balingen-Weilstetten,Bergischer,match,HBW Balingen-Weilstetten,0.7246,model,0
+2026-10-02,Elkjop-ligaen,Elverum,Runar,match,Elverum,0.7639,model,1
 2026-10-02,2. Bundesliga,Essen,Leipzig,total,Under 61.5,0.5878,model,0
 2026-10-02,Herre Handbold Ligaen,Sonderjyske,Ringsted,total,Under 64.25,0.5986,model,0
 2026-10-02,Starligue,Caen,St. Raphael,total,Under 62.5,0.6048,model,0
@@ -576,37 +576,38 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-02,Liga ASOBAL,Morrazo Cangas,Atl. Valladolid,match,Atl. Valladolid,0.4719,model,1
 2026-10-02,Proligue,Cherbourg,Istres,total,Over 61.5,0.5866,model,0
 2026-10-02,1. Division,Odder,Raekker Molle,match,Raekker Molle,0.4811,model,1
-2026-10-03,Handbollsligan,Onnereds,Skovde,match,Skovde,0.5313,blend,0
 2026-10-03,Handbollsligan,Ystads IF,Malmo,match,Ystads IF,0.5384,blend,1
 2026-10-03,Champions League Women,Ferencvaros W (Hun),CSM Bucuresti W (Rou),match,Ferencvaros W (Hun),0.539,blend,1
 2026-10-03,HLA,Fuchse,Aon Fivers,match,Fuchse,0.5532,blend,0
 2026-10-03,Starligue,Cesson Rennes-Metropole,Limoges,match,Limoges,0.5808,blend,1
-2026-10-03,2. Bundesliga,Grosswallstadt,Emsdetten,match,Grosswallstadt,0.6097,blend,1
-2026-10-03,Herre Handbold Ligaen,GOG,Aalborg,match,Aalborg,0.5996,blend,0
-2026-10-03,Liga ASOBAL,Torrelavega,Villa de Aranda,total,Over 59,0.56,blend,0
+2026-10-03,Proligue,Sarrebourg,Massy Essonne,match,Sarrebourg,0.5985,blend,1
 2026-10-03,Division de Honor Plata,Burgos,Benidorm,match,Burgos,0.6116,blend,1
+2026-10-03,2. Bundesliga,Grosswallstadt,Emsdetten,match,Grosswallstadt,0.6097,blend,1
+2026-10-03,Handbollsligan,Onnereds,Skovde,match,Skovde,0.5313,blend,0
 2026-10-03,Division de Honor Plata,Cisne,Contazara Zaragoza,match,Cisne,0.6166,blend,1
 2026-10-03,NLA,Zurich,Pfadi Winterthur,match,Pfadi Winterthur,0.6276,blend,1
-2026-10-03,Proligue,Sarrebourg,Massy Essonne,match,Sarrebourg,0.5985,blend,1
-2026-10-03,Champions League Women,Gyor W (Hun),Bistrita W (Rou),total,Over 58.5,0.5501,blend,1
+2026-10-03,Division de Honor Women,Malaga W,Gran Canaria W,match,Gran Canaria W,0.6308,blend,0
+2026-10-03,Herre Handbold Ligaen,GOG,Aalborg,match,Aalborg,0.5996,blend,0
+2026-10-03,Liga ASOBAL,Torrelavega,Villa de Aranda,total,Over 59,0.56,blend,0
 2026-10-03,Liga Nationala,Cluj,Steaua Bucuresti,total,Over 57,0.5433,blend,0
+2026-10-03,2. Bundesliga,Nordhorn-Lingen,Hagen,total,Over 60.5,0.549,blend,1
 2026-10-03,1. NLB Liga,Jeruzalem Ormoz,Trimo Trebnje,total,Over 61.5,0.5462,blend,1
 2026-10-03,NLA,Bern,Suhr Aarau,total,Under 61.5,0.5448,blend,1
 2026-10-03,Herre Handbold Ligaen,Fredericia,Holstebro,total,Under 62.25,0.5433,blend,1
 2026-10-03,1. NLB Liga,Gorenje,Ivancna Gorica,total,Over 55.5,0.5411,blend,1
 2026-10-03,2. Bundesliga,Grosswallstadt,Emsdetten,total,Under 63.5,0.541,blend,1
 2026-10-03,Proligue,Sarrebourg,Massy Essonne,total,Under 61.5,0.5376,blend,1
-2026-10-03,NLA,Zurich,Pfadi Winterthur,total,Over 61.25,0.5344,blend,0
+2026-10-03,Bambusa Kvindeligaen Women,Skanderborg W,HOJ W,total,Over 56.5,0.534,blend,0
 2026-10-03,1. NLB Liga,Slovan,Skofljica,total,Over 65.5,0.5295,blend,1
 2026-10-03,Starligue,Dunkerque,Nantes,total,Over 62,0.5262,blend,0
 2026-10-03,HLA,Alpla Hard,Barnbach/K.,total,Over 58,0.5258,blend,1
 2026-10-03,Liga ASOBAL,Barcelona,Horneo Alicante,total,Over 68,0.5257,blend,1
-2026-10-03,Division de Honor Women,Malaga W,Gran Canaria W,match,Gran Canaria W,0.6308,blend,0
-2026-10-03,2. Bundesliga,Nordhorn-Lingen,Hagen,total,Over 60.5,0.549,blend,1
-2026-10-03,Bambusa Kvindeligaen Women,Skanderborg W,HOJ W,total,Over 56.5,0.534,blend,0
 2026-10-03,Herre Handbold Ligaen,Kolding,Skjern,match,Skjern,0.6464,blend,1
-2026-10-03,Herre Handbold Ligaen,Mors,Nordsjaelland,match,Mors,0.6615,blend,0
+2026-10-03,Champions League Women,Gyor W (Hun),Bistrita W (Rou),total,Over 58.5,0.5501,blend,1
+2026-10-03,NLA,Zurich,Pfadi Winterthur,total,Over 61.25,0.5344,blend,0
 2026-10-03,HLA,Voslauer,Krems,match,Voslauer,0.652,blend,1
+2026-10-03,Bundesliga,MT Melsungen,Hannover-Burgdorf,match,MT Melsungen,0.6933,blend,1
+2026-10-03,Herre Handbold Ligaen,Mors,Nordsjaelland,match,Mors,0.6615,blend,0
 2026-10-03,Division de Honor Plata,Burgos,Benidorm,hcap,Burgos — draw no bet,0.7131,blend,1
 2026-10-03,Starligue,Cesson Rennes-Metropole,Limoges,hcap,Limoges — draw no bet,0.6408,blend,1
 2026-10-03,Division de Honor Plata,Huesca,Anaitasuna,hcap,Anaitasuna — draw no bet,0.5948,blend,0
@@ -616,7 +617,6 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-03,Liga Nationala,Cluj,Steaua Bucuresti,hcap,Steaua Bucuresti -0.5,0.5419,blend,0
 2026-10-03,1. NLB Liga,Krka,Slovenj Gradec,hcap,Krka -0.5,0.524,blend,1
 2026-10-03,2. Bundesliga,Nordhorn-Lingen,Hagen,hcap,Nordhorn-Lingen +0.5,0.5032,blend,0
-2026-10-03,Bundesliga,MT Melsungen,Hannover-Burgdorf,match,MT Melsungen,0.6933,blend,1
 2026-10-03,HLA,Fuchse,Aon Fivers,hcap,Fuchse +1.25,0.5707,blend,0
 2026-10-04,HLA,HSG Graz,Bregenz,match,HSG Graz,0.5434,blend,1
 2026-10-04,HLA,HSG Graz,Bregenz,hcap,HSG Graz — draw no bet,0.5394,blend,1
@@ -648,11 +648,11 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-06,Superleague,Dinamo Astrakhan,Chekhovskiye Medvedi,total,Over 60,0.5597,blend,1
 2026-10-06,EHF European League,Hammarby,Nexe,match,Nexe,0.5823,blend,0
 2026-10-06,EHF European League,Kadetten Schaffhausen,Izvidac,total,Under 67.5,0.5413,blend,0
-2026-10-06,EHF European League,CSM Bucuresti,Chambery Savoie,total,Over 63.5,0.5019,blend,0
+2026-10-06,EHF European League,Slovan,Valur,total,Under 65.5,0.5056,blend,1
 2026-10-06,EHF European League,Sesvete,Presov,total,Under 61.5,0.5353,blend,0
 2026-10-06,EHF European League,Mors,Tatabanya,total,Under 64.5,0.5357,blend,0
 2026-10-06,EHF European League,Hammarby,Nexe,total,Under 62.5,0.5016,blend,1
-2026-10-06,EHF European League,Slovan,Valur,total,Under 65.5,0.5056,blend,1
+2026-10-06,EHF European League,CSM Bucuresti,Chambery Savoie,total,Over 63.5,0.5019,blend,0
 2026-10-06,EHF European League,Wybrzeze Gdansk,Eurofarm Pelister,total,Over 58.5,0.508,blend,1
 2026-10-06,EHF European League,Maritimo,CD Bidasoa Irun,total,Under 62.5,0.5105,blend,0
 2026-10-06,EHF European League,Holstebro,Benfica,total,Over 62.5,0.5008,blend,1
@@ -889,12 +889,12 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-21,Herre Handbold Ligaen,Mors,Bjerringbro/Silkeborg,match,Bjerringbro/Silkeborg,0.6247,blend,1
 2026-10-21,Handbollsligan,Hammarby,Alingsas,match,Hammarby,0.6239,blend,1
 2026-10-21,NLA,Suhr Aarau,Pfadi Winterthur,match,Pfadi Winterthur,0.6412,blend,1
-2026-10-21,HLA,Barnbach/K.,Ferlach,match,Barnbach/K.,0.5331,blend,0
+2026-10-21,HLA,Voslauer,Aon Fivers,hcap,Voslauer — draw no bet,0.5785,blend,1
 2026-10-21,Allsvenskan,Kungalvs HK,Guif,hcap,Guif — draw no bet,0.585,blend,1
-2026-10-21,Olis Deildin,Selfoss,Vikingur,hcap,Selfoss +1.25,0.5883,blend,0
+2026-10-21,HLA,Barnbach/K.,Ferlach,match,Barnbach/K.,0.5331,blend,0
 2026-10-21,NLA,Zurich,RTV Basel,match,Zurich,0.6171,blend,1
 2026-10-21,Premijer liga,Osijek,Gorica,match,Gorica,0.5306,blend,1
-2026-10-21,HLA,Voslauer,Aon Fivers,hcap,Voslauer — draw no bet,0.5785,blend,1
+2026-10-21,Olis Deildin,Selfoss,Vikingur,hcap,Selfoss +1.25,0.5883,blend,0
 2026-10-21,1. NLB Liga,Slovenj Gradec,Jeruzalem Ormoz,total,Under 63.5,0.5375,blend,1
 2026-10-21,Handbollsligan,Hallby,Savehof,total,Over 59.25,0.5653,blend,1
 2026-10-21,NB I,PLER,Eger,total,Under 59.25,0.509,blend,1
@@ -1050,7 +1050,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-30,Bundesliga,Bietigheim-Metterzimmern,Erlangen,match,Erlangen,0.5598,blend,1
 2026-10-30,Liga ASOBAL,Caserio Ciudad Real,La Rioja,match,La Rioja,0.5824,blend,0
 2026-10-30,Starligue,Chambery Savoie,St. Raphael,match,Chambery Savoie,0.5865,blend,0
-2026-10-30,1. NLB Liga,Krka,Trimo Trebnje,match,Trimo Trebnje,0.6748,blend,1
+2026-10-30,Liga ASOBAL,Atl. Valladolid,Torrelavega,match,Atl. Valladolid,0.5393,blend,0
 2026-10-30,Starligue,Nimes,Selestat,match,Nimes,0.6821,blend,1
 2026-10-30,Liga ASOBAL,Atl. Valladolid,Torrelavega,hcap,Atl. Valladolid — draw no bet,0.5172,blend,0
 2026-10-30,Starligue,Toulouse,Limoges,hcap,Limoges -1.5,0.5254,blend,0
@@ -1059,9 +1059,9 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-30,Starligue,Caen,Chartres,hcap,Caen — draw no bet,0.5795,blend,1
 2026-10-30,Proligue,Valence,Creteil,hcap,Valence +1.25,0.5839,blend,1
 2026-10-30,2. Bundesliga,Essen,Coburg 2000,hcap,Essen — draw no bet,0.5877,blend,1
-2026-10-30,Liga ASOBAL,Atl. Valladolid,Torrelavega,match,Atl. Valladolid,0.5393,blend,0
+2026-10-30,1. NLB Liga,Krka,Trimo Trebnje,match,Trimo Trebnje,0.6748,blend,1
 2026-10-30,Starligue,Caen,Chartres,match,Caen,0.523,blend,1
-2026-10-30,Bundesliga,Bietigheim-Metterzimmern,Erlangen,total,Over 59,0.5327,blend,1
+2026-10-30,Proligue,Istres,Sarrebourg,total,Over 56.5,0.5332,blend,0
 2026-10-30,Proligue,Valence,Creteil,match,Valence,0.4793,blend,1
 2026-10-30,Bundesliga,Hamburg,Rhein-Neckar,match,Rhein-Neckar,0.4907,blend,0
 2026-10-30,Liga ASOBAL,Atl. Valladolid,Torrelavega,total,Over 60,0.5151,blend,0
@@ -1071,7 +1071,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-10-30,2. Bundesliga,Elbflorenz,Emsdetten,total,Over 63.75,0.5272,blend,0
 2026-10-30,Superliga Women,MKS Lublin W,Kobierzyce W,total,Over 55.25,0.5284,blend,0
 2026-10-30,Proligue,Valence,Creteil,total,Under 63.5,0.5184,blend,1
-2026-10-30,Proligue,Istres,Sarrebourg,total,Over 56.5,0.5332,blend,0
+2026-10-30,Bundesliga,Bietigheim-Metterzimmern,Erlangen,total,Over 59,0.5327,blend,1
 2026-10-30,HLA,Alpla Hard,Atzgersdorf,total,Under 63.75,0.535,blend,0
 2026-10-30,Starligue,Caen,Chartres,total,Under 61,0.5351,blend,1
 2026-10-30,2. Bundesliga,Essen,Coburg 2000,total,Under 61.25,0.5372,blend,0
@@ -1143,7 +1143,7 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-11-01,Extraliga,Frydek-Mistek,Zubri,hcap,Zubri — draw no bet,0.7532,blend,1
 2026-11-01,Elkjop-ligaen Women,Fana W,Oppsal W,match,Fana W,0.6983,blend,1
 2026-11-01,Liga ASOBAL,Morrazo Cangas,Horneo Alicante,match,Morrazo Cangas,0.5474,blend,0
-2026-11-01,Handbollsligan,Malmo,Skovde,total,Over 63.5,0.5427,blend,1
+2026-11-01,Extraliga,Frydek-Mistek,Zubri,total,Under 60.5,0.544,blend,0
 2026-11-01,Elkjop-ligaen Women,Follo W,Fjellhammer W,match,Fjellhammer W,0.5123,blend,1
 2026-11-01,Olis Deildin,IBV Vestmannaeyjar,Stjarnan,total,Under 62.5,0.5164,blend,1
 2026-11-01,Herre Handbold Ligaen,Fredericia,Mors,total,Under 62.25,0.5179,blend,1
@@ -1152,44 +1152,44 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-11-01,Elkjop-ligaen,Bergsoy,Follo,total,Under 59.5,0.5256,blend,1
 2026-11-01,Starligue,PSG,Montpellier,total,Over 62.5,0.5324,blend,0
 2026-11-01,Bambusa Kvindeligaen Women,Esbjerg W,Silkeborg-Voel W,total,Over 60.5,0.5338,blend,1
-2026-11-01,2. Bundesliga,Nordhorn-Lingen,Dessauer,total,Under 63.5,0.5155,blend,0
-2026-11-01,Elkjop-ligaen,Runar,Fjellhammer,total,Over 57,0.5415,blend,0
 2026-11-01,Liga ASOBAL,Morrazo Cangas,Horneo Alicante,total,Over 61.5,0.5389,blend,0
-2026-11-01,Superleague Women,Krasnodar W,Chernomorochka W,match,Chernomorochka W,0.5072,blend,1
-2026-11-01,Olis Deildin,Thor Akureyri,FH Hafnarfjordur,total,Over 64.5,0.5717,blend,1
-2026-11-01,Liga Nationala Women,Zalau W,Targu Jiu W,match,Targu Jiu W,0.5219,blend,0
-2026-11-01,Bundesliga,HSG Wetzlar,MT Melsungen,total,Over 60.5,0.5485,blend,0
+2026-11-01,Elkjop-ligaen,Runar,Fjellhammer,total,Over 57,0.5415,blend,0
+2026-11-01,Handbollsligan,Malmo,Skovde,total,Over 63.5,0.5427,blend,1
 2026-11-01,Handbollsligan,Skanela,Kristianstad,total,Over 60.75,0.5454,blend,1
-2026-11-01,Extraliga,Frydek-Mistek,Zubri,total,Under 60.5,0.544,blend,0
+2026-11-01,Bundesliga,HSG Wetzlar,MT Melsungen,total,Over 60.5,0.5485,blend,0
 2026-11-01,Liga Nationala Women,Zalau W,Targu Jiu W,total,Over 53.5,0.5494,blend,0
+2026-11-01,Olis Deildin,Thor Akureyri,FH Hafnarfjordur,total,Over 64.5,0.5717,blend,1
+2026-11-01,Superleague Women,Krasnodar W,Chernomorochka W,match,Chernomorochka W,0.5072,blend,1
+2026-11-01,2. Bundesliga,Nordhorn-Lingen,Dessauer,total,Under 63.5,0.5155,blend,0
+2026-11-01,Liga Nationala Women,Zalau W,Targu Jiu W,match,Targu Jiu W,0.5219,blend,0
 2026-11-03,NB I Women,Ferencvaros W,Esztergomi W,total,Over 62.5,0.5193,blend,1
+2026-11-04,Division 1 Women,Besancon W,Dijon W,total,Under 56.5,0.5095,blend,0
+2026-11-04,Division 1 Women,Besancon W,Dijon W,hcap,Besancon W +1,0.5263,blend,1
 2026-11-04,SHE Women,Boden W,Skovde W,match,Boden W,0.649,blend,1
 2026-11-04,Elkjop-ligaen Women,Sola W,Larvik W,match,Sola W,0.6147,blend,1
 2026-11-04,Liga Nationala Women,Dunarea Braila W,Ramnicu Valcea W,match,Ramnicu Valcea W,0.5014,blend,1
-2026-11-04,Division 1 Women,Besancon W,Dijon W,match,Dijon W,0.476,blend,0
+2026-11-04,Elkjop-ligaen Women,Sola W,Larvik W,total,Under 57.75,0.5056,blend,0
 2026-11-04,Bambusa Kvindeligaen Women,Odense W,Sonderjyske W,total,Over 58.75,0.5402,blend,1
-2026-11-04,Elkjop-ligaen Women,Molde W,Tertnes W,total,Under 59,0.5379,blend,1
+2026-11-04,Division 1 Women,Besancon W,Dijon W,match,Dijon W,0.476,blend,0
+2026-11-04,SHE Women,Skara W,Kristianstad W,total,Over 54.75,0.5334,blend,0
 2026-11-04,Division 1 Women,Plan de Cuques W,Paris 92 W,total,Under 56.25,0.532,blend,0
 2026-11-04,Elkjop-ligaen Women,Flint Tonsberg W,Storhamar W,total,Over 55.75,0.5314,blend,1
 2026-11-04,Liga Nationala Women,Dunarea Braila W,Ramnicu Valcea W,total,Over 55.5,0.5147,blend,0
-2026-11-04,Division 1 Women,Besancon W,Dijon W,total,Under 56.5,0.5095,blend,0
-2026-11-04,Elkjop-ligaen Women,Sola W,Larvik W,total,Under 57.75,0.5056,blend,0
-2026-11-04,Division 1 Women,Besancon W,Dijon W,hcap,Besancon W +1,0.5263,blend,1
-2026-11-04,SHE Women,Skara W,Kristianstad W,total,Over 54.75,0.5334,blend,0
 2026-11-04,Division 1 Women,Metz W,Chambray Touraine W,total,Over 58.25,0.5137,blend,0
+2026-11-04,Elkjop-ligaen Women,Molde W,Tertnes W,total,Under 59,0.5379,blend,1
 2026-11-05,Bambusa Kvindeligaen Women,Viborg W,Esbjerg W,total,Under 60.25,0.5007,blend,0
+2026-11-06,NB I Women,Mosonmagyarovar W,Vaci W,hcap,Mosonmagyarovar W +1.25,0.5017,blend,1
+2026-11-06,NB I Women,Mosonmagyarovar W,Vaci W,match,Vaci W,0.4873,blend,1
+2026-11-06,NB I Women,Kisvardai KC W,Vasas W,total,Under 55.25,0.5124,blend,1
 2026-11-06,Superleague Women,Luch W,Dinamo-Sinara W,total,Under 61.5,0.5479,blend,1
 2026-11-06,NB I Women,Mosonmagyarovar W,Vaci W,total,Over 59.25,0.5607,blend,1
-2026-11-06,NB I Women,Mosonmagyarovar W,Vaci W,match,Vaci W,0.4873,blend,1
-2026-11-06,NB I Women,Mosonmagyarovar W,Vaci W,hcap,Mosonmagyarovar W +1.25,0.5017,blend,1
-2026-11-06,NB I Women,Kisvardai KC W,Vasas W,total,Under 55.25,0.5124,blend,1
-2026-11-07,EHF European League Women,Molde W (Nor),Dunarea Braila W (Rou),hcap,Dunarea Braila W (Rou) — draw no bet,0.5985,blend,0
 2026-11-07,Champions League Women,Krim W (Slo),Sola W (Nor),hcap,Sola W (Nor) — draw no bet,0.5901,blend,1
+2026-11-07,Champions League Women,NFH W (Den),Storhamar W (Nor),hcap,NFH W (Den) — draw no bet,0.5286,blend,0
 2026-11-07,Bambusa Kvindeligaen Women,Ringkobing W,EH Aalborg W,match,Ringkobing W,0.72,blend,1
 2026-11-07,1. Division Women,Rodovre W,Bjerringbro W,match,Rodovre W,0.6442,blend,1
 2026-11-07,Champions League Women,Krim W (Slo),Sola W (Nor),match,Sola W (Nor),0.531,blend,1
 2026-11-07,EHF European League Women,Molde W (Nor),Dunarea Braila W (Rou),match,Dunarea Braila W (Rou),0.4953,blend,0
-2026-11-07,Champions League Women,NFH W (Den),Storhamar W (Nor),hcap,NFH W (Den) — draw no bet,0.5286,blend,0
+2026-11-07,EHF European League Women,Molde W (Nor),Dunarea Braila W (Rou),hcap,Dunarea Braila W (Rou) — draw no bet,0.5985,blend,0
 2026-11-07,Superleague Women,Chernomorochka W,Izhevsk W,total,Over 59.5,0.5607,blend,1
 2026-11-07,Bambusa Kvindeligaen Women,Ringkobing W,EH Aalborg W,total,Under 61.75,0.5475,blend,1
 2026-11-07,Champions League Women,Krim W (Slo),Sola W (Nor),total,Over 55,0.53,blend,0
@@ -1197,15 +1197,17 @@ sent_date,league,home,away,market,selection,model_prob,basis,won
 2026-11-07,Champions League Women,NFH W (Den),Storhamar W (Nor),total,Under 55,0.5211,blend,0
 2026-11-07,Champions League Women,Blomberg-Lippe W (Ger),Gyor W (Hun),total,Over 58.5,0.5102,blend,0
 2026-11-07,Champions League Women,NFH W (Den),Storhamar W (Nor),match,NFH W (Den),0.4919,blend,0
+2026-11-08,Elkjop-ligaen Women,Oppsal W,Follo W,hcap,Oppsal W — draw no bet,0.5876,blend,0
 2026-11-08,Bambusa Kvindeligaen Women,Skanderborg W,Horsens W,match,Horsens W,0.678,blend,1
 2026-11-08,Elkjop-ligaen Women,Gjerpen W,Fana W,match,Fana W,0.591,blend,0
 2026-11-08,Champions League Women,Esbjerg W (Den),Ferencvaros W (Hun),match,Esbjerg W (Den),0.5833,blend,1
 2026-11-08,EHF European League Women,Zaglebie W (Pol),Tertnes W (Nor),match,Zaglebie W (Pol),0.5191,blend,0
-2026-11-08,Elkjop-ligaen Women,Oppsal W,Follo W,match,Oppsal W,0.4522,blend,0
-2026-11-08,Bambusa Kvindeligaen Women,Skanderborg W,Horsens W,total,Over 53.5,0.5234,blend,0
 2026-11-08,Champions League Women,Esbjerg W (Den),Ferencvaros W (Hun),total,Under 59.5,0.5339,blend,1
+2026-11-08,Elkjop-ligaen Women,Oppsal W,Follo W,total,Under 59.5,0.5422,blend,0
+2026-11-08,Bambusa Kvindeligaen Women,Skanderborg W,Horsens W,total,Over 53.5,0.5234,blend,0
 2026-11-08,Elkjop-ligaen Women,Fjellhammer W,Utleira W,total,Over 54.75,0.5196,blend,1
 2026-11-08,Champions League Women,Metz W (Fra),Odense W (Den),total,Over 59,0.5118,blend,1
 2026-11-08,Elkjop-ligaen Women,Gjerpen W,Fana W,total,Over 56.25,0.502,blend,0
-2026-11-08,Elkjop-ligaen Women,Oppsal W,Follo W,total,Under 59.5,0.5422,blend,0
-2026-11-08,Elkjop-ligaen Women,Oppsal W,Follo W,hcap,Oppsal W — draw no bet,0.5876,blend,0
+2026-11-08,Elkjop-ligaen Women,Oppsal W,Follo W,match,Oppsal W,0.4522,blend,0
+2026-11-10,Liga Nationala Women,Zalau W,Dunarea Braila W,total,Over 55.5,0.5043,blend,0
+2026-11-10,Liga Nationala Women,Zalau W,Dunarea Braila W,hcap,Dunarea Braila W — draw no bet,0.7363,blend,1
