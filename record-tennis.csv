@@ -4,6 +4,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-10,Suresh Dhakshineswar,Omar Jasika,0.506,0.503,L
 2026-11-10,Juncheng Shang,Jake Delaney,0.861,0.829,W
 2026-11-10,August Holmgren,Philip Sekulic,0.647,0.633,W
+2026-11-10,Tristan Schoolkate,Cruz Hewitt,0.769,0.748,L
 2026-11-10,Matthew Dellavedova,Thomas Fancutt,0.839,0.805,W
 2026-11-10,Sebastian Gorzny,Isaac Becroft,0.748,0.714,W
 2026-11-10,Dane Sweeny,Anton Shepp,0.716,0.689,W
@@ -12,6 +13,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-10,Fajing Sun,Shintaro Imai,0.699,0.676,W
 2026-11-10,Niels Mcdonald,Koki Matsuda,0.524,0.529,W
 2026-11-10,Max Schoenhaus,Ryuki Matsuda,0.838,0.821,W
+2026-11-10,Robin Bertrand,Lorenzo Angelini,0.725,0.708,W
 2026-11-09,Jay Friend,Yusuke Kusuhara,0.928,0.907,W
 2026-11-09,Rio Noguchi,Daniel Michalski,0.509,0.503,W
 2026-11-09,David Jorda Sanchis,Shunsuke Nakagawa,0.796,0.762,L
@@ -21,6 +23,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-09,Tomas Martin Etcheverry,Max Dahlin,0.827,0.769,W
 2026-11-09,Ugo Humbert,Adolfo Daniel Vallejo,0.717,0.684,W
 2026-11-09,Billy Harris,Liam Broady,0.540,0.552,W
+2026-11-09,Michael Geerts,Juan Cruz Martin Manzan,0.630,0.616,W
 2026-11-09,Massimo Giunta,Francesco Forti,0.590,0.580,W
 2026-11-09,Henry Searle,Ryan Peniston,0.664,0.661,W
 2026-11-09,Edward Winter,Alafia Ayeni,0.662,0.657,L
