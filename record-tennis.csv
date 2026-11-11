@@ -1,9 +1,14 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-11,Jay Friend,Naoya Honda,0.794,0.777,W
+2026-11-11,Sebastian Gorzny,Matthew Dellavedova,0.555,0.562,W
+2026-11-11,Yu Hsiou Hsu,Niels Mcdonald,0.741,0.714,W
 2026-11-10,Akira Santillan,Enzo Aguiard,0.603,0.589,W
 2026-11-10,Carl Emil Overbeck,Florian Broska,0.598,0.586,W
 2026-11-10,Suresh Dhakshineswar,Omar Jasika,0.506,0.503,L
 2026-11-10,Juncheng Shang,Jake Delaney,0.861,0.829,W
 2026-11-10,August Holmgren,Philip Sekulic,0.647,0.633,W
+2026-11-10,Coco Gauff,Linda Noskova,0.600,0.597,L
+2026-11-10,Jessica Pegula,Marta Kostyuk,0.602,0.611,W
 2026-11-10,Tristan Schoolkate,Cruz Hewitt,0.769,0.748,L
 2026-11-10,Quentin Halys,Lorenzo Sonego,0.528,0.545,L
 2026-11-10,Matthew Dellavedova,Thomas Fancutt,0.839,0.805,W
@@ -19,19 +24,29 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-10,Adrian Andreev,Benjamin Pietri,0.696,0.690,W
 2026-11-10,Alex Michelsen,Manuel Cerundolo,0.754,0.746,W
 2026-11-10,Leyre Romero Gormaz,Carole Monnet,0.604,0.619,L
+2026-11-10,Laura Samson,Carolina Alves,0.726,0.719,W
 2026-11-10,Alice Tubello,Julia Riera,0.519,0.523,W
+2026-11-10,Bianca Andreescu,Rebeka Masarova,0.704,0.685,W
 2026-11-10,Robin Bertrand,Lorenzo Angelini,0.725,0.708,W
 2026-11-10,Raul Brancaccio,Oskari Paldanius,0.539,0.538,W
 2026-11-10,Remy Bertola,Lorenzo Carboni,0.733,0.713,L
 2026-11-10,Pedro Vives Marcos,Manas Dhamne,0.615,0.620,W
 2026-11-10,Jay Clarke,Maxime Janvier,0.703,0.683,W
 2026-11-10,Marvin Moeller,Nikolai Barsukov,0.771,0.750,W
+2026-11-10,Gabriel Debru,Mae Malige,0.760,0.750,L
+2026-11-10,Lorenzo Giustino,Nicolas Tepmahc,0.732,0.718,W
 2026-11-10,Mattia Bellucci,Cosme Rolland De Ravel,0.791,0.773,W
 2026-11-10,Daniel Altmaier,Adrien Gobat,0.816,0.795,W
 2026-11-10,Zsombor Piros,Luca Nardi,0.511,0.517,W
+2026-11-10,Shintaro Mochizuki,Calvin Hemery,0.570,0.565,L
+2026-11-10,Murphy Cassone,Daniel Milavsky,0.554,0.553,L
+2026-11-10,Timo Legout,Pyotr Nesterov,0.706,0.690,L
 2026-11-10,Anja Stankovic,Sapfo Sakellaridi,0.668,0.667,L
 2026-11-10,Matilde Paoletti,Cristina Diaz Adrover,0.870,0.851,W
 2026-11-10,Elena Korokozidi,Natalija Senic,0.508,0.508,L
+2026-11-10,Lorenzo Musetti,Toby Samuel,0.754,0.731,W
+2026-11-10,Gonzalo Bueno,Carlos Sanchez Jover,0.616,0.612,W
+2026-11-10,Jan Kumstat,James McCabe,0.652,0.649,VOID
 2026-11-10,Leolia Jeanjean,Jazmin Ortenzi,0.678,0.654,VOID
 2026-11-10,Buvaysar Gadamauri,Dusan Lajovic,0.511,0.496,VOID
 2026-11-10,Tomas Martin Etcheverry,Thiago Agustin Tirante,0.551,0.556,VOID
@@ -56,9 +71,14 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-09,Edward Winter,Alafia Ayeni,0.662,0.657,L
 2026-11-09,Bernard Tomic,Blake Ellis,0.629,0.632,W
 2026-11-09,Clement Tabur,Lukas Neumayer,0.667,0.644,W
+2026-11-09,Nishesh Basavareddy,Pierre-Hugues Herbert,0.660,0.650,W
 2026-11-09,Dino Prizmic,Otto Virtanen,0.520,0.537,L
 2026-11-09,Moez Echargui,Duje Ajdukovic,0.515,0.532,W
+2026-11-09,Gianluca Cadenasso,Mika Petkovic,0.554,0.560,L
+2026-11-09,Marko Topo,Dali Blanch,0.552,0.560,L
 2026-11-09,Moise Kouame,Robert Strombachs,0.855,0.823,W
+2026-11-09,Francisco Comesana,Marco Cecchinato,0.653,0.644,W
+2026-11-09,Marcelo Tomas Barrios V,Juan Pablo Varillas,0.679,0.655,L
 2026-11-09,Masamichi Imamura,Ryuki Matsuda,0.703,0.680,L
 2026-11-09,Hikaru Shiraishi,Kosuke Ogura,0.770,0.732,W
 2026-11-09,Luca Staeheli,Takuya Kumasaka,0.505,0.534,L
@@ -81,6 +101,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-09,Aziz Dougaz,Bernardo Munk Mesa,0.869,0.856,W
 2026-11-09,Luka Mikrut,Sandro Kopp,0.734,0.720,W
 2026-11-09,Eliakim Coulibaly,Mert Alkaya,0.681,0.657,W
+2026-11-09,Joao Lucas Reis Da Silv,Zdenek Kolar,0.667,0.665,W
 2026-11-09,Oleksii Krutykh,Oskari Paldanius,0.512,0.538,L
 2026-11-09,Branko Djuric,Nicolas Tepmahc,0.677,0.646,L
 2026-11-09,Pedro Vives Marcos,Yannik Kelm,0.670,0.662,W
@@ -93,7 +114,9 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-09,Lorenzo Carboni,Alexandre Reco,0.683,0.661,W
 2026-11-09,Hugo Grenier,Martin Krumich,0.520,0.518,W
 2026-11-09,Clement Chidekh,Marcel Latak,0.952,0.936,W
+2026-11-09,Stefan Kozlov,Alexis Galarneau,0.564,0.571,W
 2026-11-09,Franco Roncadelli,Juan Sebastian Gomez,0.878,0.824,W
+2026-11-09,Aidan Mayo,Michael Mmoh,0.539,0.554,L
 2026-11-09,Carlos Sanchez Jover,Santiago De La Fuente,0.741,0.713,L
 2026-11-09,Timo Legout,Emile Hudd,0.845,0.835,W
 2026-11-09,Johan Nikles,Ryo Tabata,0.613,0.623,L
