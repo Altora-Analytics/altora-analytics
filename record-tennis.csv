@@ -1,14 +1,31 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-12,Yi Zhou,Rio Noguchi,0.650,0.651,L
 2026-11-12,Taro Daniel,Max Schoenhaus,0.631,0.643,W
+2026-11-12,Raul Brancaccio,Adrian Andreev,0.588,0.557,L
 2026-11-12,Carlo Alberto Caniato,Michele Ribecai,0.551,0.555,L
+2026-11-12,Marvin Moeller,Aziz Ouakaa,0.759,0.750,W
 2026-11-12,Cruz Hewitt,Akira Santillan,0.502,0.527,L
+2026-11-12,Lorenzo Giustino,Dali Blanch,0.567,0.576,W
 2026-11-12,Vivian Wolff,Victoria Rodriguez,0.747,0.729,W
+2026-11-12,Alex Michelsen,Alejandro Tabilo,0.787,0.764,L
 2026-11-12,Alisa Oktiabreva,Natalija Senic,0.949,0.936,W
 2026-11-12,Ioannis Xilas,Lorenzo Carboni,0.548,0.554,L
 2026-11-12,Philip Henning,Cezar Cretu,0.638,0.643,W
+2026-11-12,Moez Echargui,Mika Petkovic,0.694,0.671,L
+2026-11-12,Stefan Kozlov,Braden Shick,0.692,0.676,W
+2026-11-12,Michael Zheng,Ozan Baris,0.728,0.714,W
+2026-11-12,Kilian Feldbausch,Mae Malige,0.841,0.780,W
 2026-11-12,Elena Bertea,Sapfo Sakellaridi,0.778,0.760,L
 2026-11-12,Anastasija Cvetkovic,Marianna Argyrokastriti,0.623,0.633,W
+2026-11-12,Ane Mintegi Del Olmo,Eliska Tichackova,0.834,0.789,W
+2026-11-12,Lucie Nguyen Tan,Tina Smith,0.721,0.697,L
+2026-11-12,Matteo Martineau,Pedro Martinez,0.591,0.601,L
+2026-11-12,Aleksandr Shevchenko,Thiago Agustin Tirante,0.528,0.531,L
+2026-11-12,Laura Samson,Irene Burillo,0.751,0.726,W
+2026-11-12,Salma Djoubri,Dasha Plekhanova,0.546,0.555,W
+2026-11-12,Julia Adams,Michaela Laki,0.590,0.583,L
+2026-11-12,Dasha Ivanova,Ava Catanzarite,0.578,0.570,W
+2026-11-12,Taylor Fritz,Holger Rune,0.666,0.653,VOID
 2026-11-11,Ugo Humbert,Borna Gojo,0.692,0.667,W
 2026-11-11,Taylor Fritz,Cameron Norrie,0.746,0.742,W
 2026-11-11,Jay Friend,Naoya Honda,0.794,0.777,W
@@ -22,6 +39,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-11,Felix Gill,Massimo Giunta,0.522,0.517,L
 2026-11-11,Sumit Nagal,Michael Geerts,0.696,0.689,W
 2026-11-11,Francesco Maestrelli,Johannus Monday,0.613,0.593,W
+2026-11-11,Otto Virtanen,Dalibor Svrcina,0.577,0.574,W
 2026-11-11,Lorenzo Sonego,Alejandro Tabilo,0.597,0.594,L
 2026-11-11,Casper Ruud,Aleksandr Shevchenko,0.776,0.765,L
 2026-11-11,Tatjana Maria,Alice Tubello,0.506,0.501,L
