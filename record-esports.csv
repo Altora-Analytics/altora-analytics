@@ -1,4 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-12,vitality,furia,0.636,0.680,L
+2026-11-12,mouz,fut esports,0.671,0.822,W
+2026-11-12,spirit,g2,0.760,0.723,W
 2026-11-11,furia,legacy,0.646,0.697,W
 2026-11-11,spirit,fut esports,0.682,0.781,W
 2026-11-11,mouz,g2,0.780,0.781,L
