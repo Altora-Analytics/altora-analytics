@@ -11234,43 +11234,42 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-23,2026-10-23 17:30:00+00:00,DC,Double Chance,SCR Altach,Austria Vienna,12,1.28,,EV,1,2,1,10.0,2.8000000000000007,0.0,False
 2026-10-23,2026-10-23 18:45:00+00:00,DC,Double Chance,Torino,Monza,12,1.33,,EV,1,3,2,10.0,3.3000000000000007,0.0230769230769229,False
 2026-10-23,2026-10-23 17:00:00+00:00,DC,Double Chance,IF Elfsborg,Malmo FF,12,1.28,,EV,0,0,0,10.0,-10.0,0.024,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,SC Braga,Gent,YES,2.0,,PROB,0,2,0,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Monaco,SC Freiburg,YES,1.62,,PROB,0,3,0,10.0,-10.0,0.0318471337579617,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Bournemouth,AC Milan,YES,1.62,,PROB,0,3,0,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 13:40:00+00:00,CS,Correct Score,Al-Hazm,Al-Fayha,1-0,8.0,market,TOP3,0,2,2,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Celtic,Celta Vigo,YES,1.62,,PROB,1,1,2,10.0,6.200000000000003,0.0318471337579617,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Monaco,SC Freiburg,YES,1.62,,PROB,0,3,0,10.0,-10.0,0.0318471337579617,False
+2026-10-22,2026-10-22 13:40:00+00:00,CS,Correct Score,Al-Hazm,Al-Fayha,2-1,9.5,market,TOP2,0,2,2,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,SC Braga,Gent,YES,2.0,,PROB,0,2,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Monaco,SC Freiburg,NO,2.38,,EV,1,3,0,10.0,13.799999999999995,0.0577777777777777,False
 2026-10-22,2026-10-22 13:40:00+00:00,CS,Correct Score,Al-Hazm,Al-Fayha,1-1,6.5,market,TOP1,0,2,2,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 13:40:00+00:00,CS,Correct Score,Al-Hazm,Al-Fayha,2-1,9.5,market,TOP2,0,2,2,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 14:45:00+00:00,CS,Correct Score,Al-Fateh,Al Shabab,1-1,7.5,market,TOP1,0,1,3,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Celtic,Celta Vigo,YES,1.62,,PROB,1,1,2,10.0,6.200000000000003,0.0318471337579617,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,1899 Hoffenheim,Lyon,YES,1.44,,PROB,0,3,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 13:40:00+00:00,CS,Correct Score,Al-Hazm,Al-Fayha,1-0,8.0,market,TOP3,0,2,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Beşiktaş,Crystal Palace,YES,1.44,,PROB,1,2,2,10.0,4.399999999999999,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Ajax,Atalanta,YES,1.5,,PROB,0,2,0,10.0,-10.0,0.0714285714285714,False
 2026-10-22,2026-10-22 14:45:00+00:00,BTTS,BTTS,Al-Fateh,Al Shabab,YES,1.5,,PROB,1,1,3,10.0,5.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Sturm Graz,Marseille,YES,1.57,,PROB,0,1,0,10.0,-10.0,-0.0308641975308642,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,FC Midtjylland,St. Truiden,YES,1.57,,PROB,0,0,1,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Ajax,Atalanta,YES,1.5,,PROB,0,2,0,10.0,-10.0,0.0714285714285714,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,1899 Hoffenheim,Lyon,YES,1.44,,PROB,0,3,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Getafe,FC Lugano,YES,1.91,,PROB,1,2,5,10.0,9.099999999999998,-0.045,True
 2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Juventus,Rennes,YES,1.75,,PROB,1,2,2,10.0,7.5,-0.0277777777777777,True
 2026-10-22,2026-10-22 13:40:00+00:00,BTTS,BTTS,Al-Hazm,Al-Fayha,YES,1.73,,PROB,1,2,2,10.0,7.300000000000001,0.0,True
-2026-10-22,2026-10-22 14:45:00+00:00,CS,Correct Score,Al-Fateh,Al Shabab,0-1,11.0,market,TOP3,0,1,3,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Trabzonspor,Heart Of Midlothian,YES,1.73,,PROB,0,2,0,10.0,-10.0,-0.0388888888888889,True
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Lillestrom,Real Sociedad,YES,1.75,,PROB,0,0,6,10.0,-10.0,0.0294117647058824,True
 2026-10-22,2026-10-22 14:45:00+00:00,CS,Correct Score,Al-Fateh,Al Shabab,1-2,9.0,market,TOP2,0,1,3,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Getafe,FC Lugano,0-1,11.0,market,TOP3,0,2,5,10.0,-10.0,0.1,True
-2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Juventus,Rennes,2-0,8.0,market,TOP1,0,2,2,10.0,-10.0,0.0666666666666666,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,SC Braga,Gent,1-0,6.0,market,TOP2,0,2,0,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Monaco,SC Freiburg,1-1,7.0,market,TOP1,0,3,0,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Sturm Graz,Marseille,YES,1.57,,EV,0,1,0,10.0,-10.0,-0.0308641975308642,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Lillestrom,Real Sociedad,YES,1.75,,PROB,0,0,6,10.0,-10.0,0.0294117647058824,True
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Bournemouth,AC Milan,YES,1.62,,EV,0,3,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 14:45:00+00:00,CS,Correct Score,Al-Fateh,Al Shabab,1-1,7.5,market,TOP1,0,1,3,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Getafe,FC Lugano,1-0,6.5,market,TOP2,0,2,5,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 14:45:00+00:00,CS,Correct Score,Al-Fateh,Al Shabab,0-1,11.0,market,TOP3,0,1,3,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,SC Braga,Gent,1-1,7.0,market,TOP1,0,2,0,10.0,-10.0,0.0769230769230768,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,FC Midtjylland,St. Truiden,1-1,8.0,market,TOP3,0,0,1,10.0,-10.0,0.0666666666666666,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,FC Midtjylland,St. Truiden,YES,1.57,,EV,0,0,1,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,FC Midtjylland,St. Truiden,2-0,9.5,market,TOP2,0,0,1,10.0,-10.0,0.0555555555555555,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,FC Midtjylland,St. Truiden,2-1,8.5,market,TOP1,0,0,1,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Ajax,Atalanta,2-0,13.0,market,TOP3,1,2,0,10.0,120.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Ajax,Atalanta,1-1,7.5,market,TOP2,0,2,0,10.0,-10.0,-0.0625,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Ajax,Atalanta,2-1,9.0,market,TOP1,0,2,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,SC Braga,Gent,2-1,9.0,market,TOP3,0,2,0,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,SC Braga,Gent,1-1,7.0,market,TOP1,0,2,0,10.0,-10.0,0.0769230769230768,False
-2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Juventus,Rennes,2-1,8.5,market,TOP2,0,2,2,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Getafe,FC Lugano,1-0,6.5,market,TOP2,0,2,5,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,SC Braga,Gent,1-0,6.0,market,TOP2,0,2,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Getafe,FC Lugano,0-1,11.0,market,TOP3,0,2,5,10.0,-10.0,0.1,True
+2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Juventus,Rennes,2-0,8.0,market,TOP1,0,2,2,10.0,-10.0,0.0666666666666666,False
 2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Getafe,FC Lugano,1-1,6.5,market,TOP1,0,2,5,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Trabzonspor,Heart Of Midlothian,2-1,9.0,market,TOP3,0,2,0,10.0,-10.0,-0.0526315789473684,False
 2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Trabzonspor,Heart Of Midlothian,3-0,9.0,market,TOP2,0,2,0,10.0,-10.0,0.0,False
@@ -11279,9 +11278,10 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Sturm Graz,Marseille,1-2,9.0,market,TOP2,0,1,0,10.0,-10.0,0.0588235294117647,False
 2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Sturm Graz,Marseille,1-1,7.0,market,TOP1,0,1,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Juventus,Rennes,3-0,11.0,market,TOP3,0,2,2,10.0,-10.0,0.1,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Bournemouth,AC Milan,YES,1.62,,EV,0,3,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 16:45:00+00:00,CS,Correct Score,Juventus,Rennes,2-1,8.5,market,TOP2,0,2,2,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Sturm Graz,Marseille,YES,1.57,,EV,0,1,0,10.0,-10.0,-0.0308641975308642,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Lillestrom,Real Sociedad,AWAY,1.5,,PROB,1,0,6,10.0,5.0,0.0344827586206897,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,FC Midtjylland,St. Truiden,YES,1.57,,EV,0,0,1,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Ajax,Atalanta,NO,2.5,,EV,1,2,0,10.0,15.0,-0.0909090909090909,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Bournemouth,AC Milan,HOME,2.0,,EV,1,3,0,10.0,10.0,0.0256410256410257,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Bournemouth,AC Milan,HOME,2.0,,PROB,1,3,0,10.0,10.0,0.0256410256410257,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Beşiktaş,Crystal Palace,HOME,2.2,,PROB,0,2,2,10.0,-10.0,-0.0222222222222221,False
@@ -11302,12 +11302,11 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,1X2,1X2,Getafe,FC Lugano,AWAY,4.2,,EV,1,2,5,10.0,32.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Celtic,Celta Vigo,HOME,2.75,,EV,0,1,2,10.0,-10.0,0.0185185185185183,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Lillestrom,Real Sociedad,HOME,6.0,,EV,0,0,6,10.0,-10.0,0.0434782608695651,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Monaco,SC Freiburg,1-0,9.5,market,TOP3,0,3,0,10.0,-10.0,-0.05,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Monaco,SC Freiburg,2-1,9.0,market,TOP2,0,3,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,Celtic,Celta Vigo,HOME,2.75,,PROB,0,1,2,10.0,-10.0,0.0185185185185183,False
 2026-10-22,2026-10-22 16:45:00+00:00,1X2,1X2,Sturm Graz,Marseille,AWAY,1.95,,PROB,0,1,0,10.0,-10.0,0.0540540540540539,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Ajax,Atalanta,NO,2.5,,EV,1,2,0,10.0,15.0,-0.0909090909090909,False
-2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Getafe,FC Lugano,YES,1.91,,EV,1,2,5,10.0,9.099999999999998,-0.045,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Monaco,SC Freiburg,YES,1.62,,EV,0,3,0,10.0,-10.0,0.0318471337579617,False
+2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,SC Braga,Gent,YES,2.0,,EV,0,2,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Celtic,Celta Vigo,YES,1.62,,EV,1,1,2,10.0,6.200000000000003,0.0318471337579617,False
 2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Juventus,Rennes,YES,1.75,,EV,1,2,2,10.0,7.5,-0.0277777777777777,False
 2026-10-22,2026-10-22 14:45:00+00:00,BTTS,BTTS,Al-Fateh,Al Shabab,NO,2.5,,EV,0,1,3,10.0,-10.0,0.0,False
@@ -11316,7 +11315,8 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Trabzonspor,Heart Of Midlothian,YES,1.73,,EV,0,2,0,10.0,-10.0,-0.0388888888888889,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Beşiktaş,Crystal Palace,NO,2.62,,EV,0,2,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,Lillestrom,Real Sociedad,YES,1.75,,EV,0,0,6,10.0,-10.0,0.0294117647058824,False
-2026-10-22,2026-10-22 19:00:00+00:00,BTTS,BTTS,SC Braga,Gent,YES,2.0,,EV,0,2,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 16:45:00+00:00,BTTS,BTTS,Getafe,FC Lugano,YES,1.91,,EV,1,2,5,10.0,9.099999999999998,-0.045,False
+2026-10-22,,ACCA,RESULT+BTTS,,,,1.0,,,0,,,5.0,0.0,,True
 2026-10-22,2026-10-22 14:45:00+00:00,1X2,1X2,Al-Fateh,Al Shabab,AWAY,2.05,,PROB,1,1,3,10.0,10.5,0.0,False
 2026-10-22,,ACCA,MR2,,,,2.4786,,,0,,,10.0,-10.0,,True
 2026-10-22,,ACCA,MEDIUM,,,,2.4888,,,0,,,5.0,-5.0,,True
@@ -11327,9 +11327,9 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,1X2,1X2,Getafe,FC Lugano,HOME,1.85,,PROB,0,2,5,10.0,-10.0,-0.026315789473684,False
 2026-10-22,2026-10-22 13:40:00+00:00,1X2,1X2,Al-Hazm,Al-Fayha,HOME,2.2,,PROB,0,2,2,10.0,-10.0,0.0232558139534884,False
 2026-10-22,2026-10-22 19:00:00+00:00,1X2,1X2,SC Braga,Gent,HOME,1.83,,PROB,1,2,0,10.0,8.3,-0.0368421052631577,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Monaco,SC Freiburg,2-1,9.0,market,TOP2,0,3,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Monaco,SC Freiburg,1-1,7.0,market,TOP1,0,3,0,10.0,-10.0,0.0,False
 2026-10-22,,ACCA,RESULT+BTTS,,,,7.3357199999999985,,,0,,,5.0,-5.0,,True
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Beşiktaş,Crystal Palace,2-1,9.5,market,TOP1,0,2,2,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Monaco,SC Freiburg,1-0,9.5,market,TOP3,0,3,0,10.0,-10.0,-0.05,False
 2026-10-22,2026-10-22 16:45:00+00:00,OU15,OU 1.5,Getafe,FC Lugano,OVER 1.5,1.33,,EV,1,2,5,10.0,3.3000000000000007,-0.0220588235294117,True
 2026-10-22,2026-10-22 19:00:00+00:00,OU15,OU 1.5,Bournemouth,AC Milan,OVER 1.5,1.22,,EV,1,3,0,10.0,2.2,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU15,OU 1.5,Lillestrom,Real Sociedad,OVER 1.5,1.17,,EV,1,0,6,10.0,1.6999999999999993,0.0,False
@@ -11355,7 +11355,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,OU15,OU 1.5,Trabzonspor,Heart Of Midlothian,UNDER 1.5,6.0,,EV,0,2,0,10.0,-10.0,-0.0769230769230768,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Celtic,Celta Vigo,OVER 2.5,1.73,,PROB,1,1,2,10.0,7.300000000000001,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,OU35,OU 3.5,Juventus,Rennes,OVER 3.5,2.62,,EV,1,2,2,10.0,16.200000000000003,0.048,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Beşiktaş,Crystal Palace,1-1,7.5,market,TOP2,0,2,2,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Beşiktaş,Crystal Palace,2-1,9.5,market,TOP1,0,2,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-23 18:00:00+00:00,OU35,OU 3.5,Al-Ahli Jeddah,Al Khaleej Saihat,UNDER 3.5,1.67,,EV,0,4,1,10.0,-10.0,0.0308641975308641,False
 2026-10-22,2026-10-22 16:45:00+00:00,OU35,OU 3.5,Juventus,Rennes,UNDER 3.5,1.53,,EV,0,2,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU35,OU 3.5,Lillestrom,Real Sociedad,UNDER 3.5,1.57,,EV,0,0,6,10.0,-10.0,0.0,False
@@ -11364,7 +11364,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,OU35,OU 3.5,Trabzonspor,Heart Of Midlothian,UNDER 3.5,1.73,,EV,1,2,0,10.0,7.300000000000001,-0.0388888888888889,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU35,OU 3.5,Lillestrom,Real Sociedad,OVER 3.5,2.5,,EV,1,0,6,10.0,15.0,0.0504201680672269,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU35,OU 3.5,Bournemouth,AC Milan,UNDER 3.5,1.44,,EV,1,3,0,10.0,4.399999999999999,0.0,False
-2026-10-22,2026-10-22 19:00:00+00:00,OU35,OU 3.5,FC Midtjylland,St. Truiden,OVER 3.5,2.38,,EV,0,0,1,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 16:45:00+00:00,OU35,OU 3.5,Sturm Graz,Marseille,OVER 3.5,2.62,,EV,0,1,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU15,OU 1.5,Beşiktaş,Crystal Palace,OVER 1.5,1.14,,EV,1,2,2,10.0,1.3999999999999986,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU35,OU 3.5,Beşiktaş,Crystal Palace,UNDER 3.5,1.67,,EV,0,2,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 14:45:00+00:00,OU35,OU 3.5,Al-Fateh,Al Shabab,UNDER 3.5,1.53,,EV,0,1,3,10.0,-10.0,0.0,True
@@ -11376,9 +11376,9 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 16:45:00+00:00,OU35,OU 3.5,Getafe,FC Lugano,OVER 3.5,3.75,,EV,1,2,5,10.0,27.5,-0.0625,False
 2026-10-22,2026-10-23 18:00:00+00:00,OU15,OU 1.5,Al-Ahli Jeddah,Al Khaleej Saihat,OVER 1.5,1.12,,EV,1,4,1,10.0,1.200000000000001,-0.0175438596491226,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Lillestrom,Real Sociedad,OVER 2.5,1.57,,PROB,1,0,6,10.0,5.700000000000001,0.0261437908496733,False
-2026-10-22,2026-10-22 16:45:00+00:00,OU35,OU 3.5,Sturm Graz,Marseille,OVER 3.5,2.62,,EV,0,1,0,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,OU35,OU 3.5,FC Midtjylland,St. Truiden,OVER 3.5,2.38,,EV,0,0,1,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,OU,OU2.5,Juventus,Rennes,OVER 2.5,1.67,,PROB,1,2,2,10.0,6.699999999999999,0.0308641975308641,False
-2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Lillestrom,Real Sociedad,1-1,8.5,market,TOP1,0,0,6,10.0,-10.0,-0.1052631578947368,False
+2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Lillestrom,Real Sociedad,12,1.18,,EV,1,0,6,10.0,1.799999999999999,0.0085470085470085,False
 2026-10-22,2026-10-22 16:45:00+00:00,DC,Double Chance,Sturm Graz,Marseille,12,1.28,,EV,1,1,0,10.0,2.8000000000000007,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Ajax,Atalanta,1X,1.36,,EV,1,2,0,10.0,3.6000000000000014,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,FC Midtjylland,St. Truiden,1X,1.17,,EV,0,0,1,10.0,-10.0,-0.0084745762711864,False
@@ -11388,8 +11388,8 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,FC Midtjylland,St. Truiden,1-1,7.5,market,TOP2,0,0,1,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Lillestrom,Real Sociedad,0-1,8.5,market,TOP3,0,0,6,10.0,-10.0,-0.1052631578947368,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Lillestrom,Real Sociedad,1-2,8.5,market,TOP2,0,0,6,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Lillestrom,Real Sociedad,1-1,8.5,market,TOP1,0,0,6,10.0,-10.0,-0.1052631578947368,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,1899 Hoffenheim,Lyon,1-0,12.0,market,TOP3,0,3,0,10.0,-10.0,-0.0769230769230768,False
-2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Lillestrom,Real Sociedad,12,1.18,,EV,1,0,6,10.0,1.799999999999999,0.0085470085470085,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,1899 Hoffenheim,Lyon,2-1,9.0,market,TOP2,0,3,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,1899 Hoffenheim,Lyon,1-1,8.0,market,TOP1,0,3,0,10.0,-10.0,-0.0588235294117647,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Celtic,Celta Vigo,1-0,10.0,market,TOP3,0,1,2,10.0,-10.0,-0.0909090909090909,False
@@ -11397,12 +11397,13 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Bournemouth,AC Milan,1-0,9.0,market,TOP3,0,3,0,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Bournemouth,AC Milan,2-1,8.5,market,TOP2,0,3,0,10.0,-10.0,-0.0555555555555555,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Bournemouth,AC Milan,1-1,7.0,market,TOP1,0,3,0,10.0,-10.0,0.0,False
-2026-10-22,2026-10-22 16:45:00+00:00,OU,OU2.5,Trabzonspor,Heart Of Midlothian,OVER 2.5,1.44,,PROB,0,2,0,10.0,-10.0,0.0285714285714286,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Beşiktaş,Crystal Palace,2-0,15.0,market,TOP3,0,2,2,10.0,-10.0,0.0,True
+2026-10-22,2026-10-22 16:45:00+00:00,OU,OU2.5,Trabzonspor,Heart Of Midlothian,OVER 2.5,1.44,,PROB,0,2,0,10.0,-10.0,0.0285714285714286,False
+2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Beşiktaş,Crystal Palace,1-1,7.5,market,TOP2,0,2,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,1899 Hoffenheim,Lyon,12,1.22,,EV,1,3,0,10.0,2.2,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,CS,Correct Score,Celtic,Celta Vigo,2-1,10.0,market,TOP2,0,1,2,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Bournemouth,AC Milan,12,1.25,,EV,1,3,0,10.0,2.5,0.0,False
-2026-10-22,2026-10-22 16:45:00+00:00,OU,OU2.5,Sturm Graz,Marseille,OVER 2.5,1.73,,EV,0,1,0,10.0,-10.0,0.0359281437125749,False
+2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Ajax,Atalanta,OVER 2.5,1.57,,EV,0,2,0,10.0,-10.0,0.0902777777777779,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,FC Midtjylland,St. Truiden,OVER 2.5,1.57,,PROB,0,0,1,10.0,-10.0,0.0,True
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Beşiktaş,Crystal Palace,OVER 2.5,1.5,,PROB,1,2,2,10.0,5.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Beşiktaş,Crystal Palace,12,1.28,,EV,0,2,2,10.0,-10.0,0.0,False
@@ -11412,15 +11413,15 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,1899 Hoffenheim,Lyon,UNDER 2.5,2.62,,EV,0,3,0,10.0,-10.0,-0.0472727272727272,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,FC Midtjylland,St. Truiden,OVER 2.5,1.57,,EV,0,0,1,10.0,-10.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,OU,OU2.5,Juventus,Rennes,OVER 2.5,1.67,,EV,1,2,2,10.0,6.699999999999999,0.0308641975308641,False
+2026-10-22,2026-10-22 16:45:00+00:00,OU,OU2.5,Sturm Graz,Marseille,OVER 2.5,1.73,,EV,0,1,0,10.0,-10.0,0.0359281437125749,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Lillestrom,Real Sociedad,OVER 2.5,1.57,,EV,1,0,6,10.0,5.700000000000001,0.0261437908496733,False
-2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Ajax,Atalanta,OVER 2.5,1.57,,EV,0,2,0,10.0,-10.0,0.0902777777777779,False
 2026-10-22,2026-10-22 19:00:00+00:00,OU,OU2.5,Celtic,Celta Vigo,OVER 2.5,1.73,,EV,1,1,2,10.0,7.300000000000001,0.0,False
 2026-10-22,2026-10-23 18:00:00+00:00,DC,Double Chance,Al-Ahli Jeddah,Al Khaleej Saihat,1X,1.08,,EV,1,4,1,10.0,0.8000000000000007,-0.0357142857142857,False
-2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Celtic,Celta Vigo,12,1.3,,EV,1,1,2,10.0,3.0,0.0,False
 2026-10-22,2026-10-22 16:45:00+00:00,DC,Double Chance,Getafe,FC Lugano,12,1.28,,EV,1,2,5,10.0,2.8000000000000007,-0.0153846153846154,False
-2026-10-22,2026-10-22 14:45:00+00:00,DC,Double Chance,Al-Fateh,Al Shabab,12,1.25,,EV,1,1,3,10.0,2.5,0.0,False
+2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Celtic,Celta Vigo,12,1.3,,EV,1,1,2,10.0,3.0,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,SC Braga,Gent,12,1.28,,EV,1,2,0,10.0,2.8000000000000007,0.0,False
 2026-10-22,2026-10-22 13:40:00+00:00,DC,Double Chance,Al-Hazm,Al-Fayha,12,1.3,,EV,0,2,2,10.0,-10.0,0.0,False
+2026-10-22,2026-10-22 14:45:00+00:00,DC,Double Chance,Al-Fateh,Al Shabab,12,1.25,,EV,1,1,3,10.0,2.5,0.0,False
 2026-10-22,2026-10-22 19:00:00+00:00,DC,Double Chance,Monaco,SC Freiburg,12,1.28,,EV,1,3,0,10.0,2.8000000000000007,0.0,False
 2026-10-21,2026-10-21 19:00:00+00:00,BTTS,BTTS,Club Brugge KV,Lens,YES,1.4,,PROB,0,3,0,10.0,-10.0,0.0294117647058822,False
 2026-10-21,2026-10-21 15:30:00+00:00,CS,Correct Score,PK-35,FF Jaro,1-1,5.5,market,TOP1,1,1,1,10.0,45.0,0.0,False
@@ -11459,7 +11460,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-21,2026-10-21 19:00:00+00:00,CS,Correct Score,Real Betis,Feyenoord,2-1,9.0,market,TOP1,0,1,0,10.0,-10.0,0.0,False
 2026-10-21,2026-10-21 18:00:00+00:00,CS,Correct Score,Levante,Athletic Club,1-2,9.0,market,TOP3,0,3,1,10.0,-10.0,0.0,False
 2026-10-21,2026-10-21 19:00:00+00:00,BTTS,BTTS,Real Betis,Feyenoord,YES,1.44,,PROB,0,1,0,10.0,-10.0,0.0285714285714286,False
-2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Reading,Leyton Orient,HOME,1.53,,PROB,1,1,0,10.0,5.300000000000001,0.0,False
+2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Real Betis,Feyenoord,HOME,1.53,,PROB,1,1,0,10.0,5.300000000000001,-0.0727272727272726,False
 2026-10-21,2026-10-21 16:45:00+00:00,BTTS,BTTS,Como,Manchester United,NO,2.5,,EV,0,4,1,10.0,-10.0,-0.0458015267175573,False
 2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Club Brugge KV,Lens,HOME,1.91,,PROB,1,3,0,10.0,9.099999999999998,0.0324324324324323,False
 2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Sporting CP,Lask Linz,HOME,1.2,,PROB,0,2,3,10.0,-10.0,-0.0551181102362204,False
@@ -11477,7 +11478,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Aston Villa,Viking,AWAY,12.0,,EV,0,3,1,10.0,-10.0,0.0909090909090908,False
 2026-10-21,2026-10-21 19:00:00+00:00,CS,Correct Score,Aston Villa,Viking,3-1,10.0,market,TOP2,1,3,1,10.0,90.0,0.0,False
 2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Sporting CP,Lask Linz,AWAY,15.0,,EV,1,2,3,10.0,140.0,0.3636363636363635,False
-2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Real Betis,Feyenoord,HOME,1.53,,PROB,1,1,0,10.0,5.300000000000001,-0.0727272727272726,False
+2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Reading,Leyton Orient,HOME,1.53,,PROB,1,1,0,10.0,5.300000000000001,0.0,False
 2026-10-21,2026-10-21 23:00:00+00:00,1X2,1X2,FC Cincinnati,DC United,HOME,1.67,,PROB,1,2,1,10.0,6.699999999999999,0.0636942675159235,False
 2026-10-21,2026-10-21 19:00:00+00:00,BTTS,BTTS,Real Betis,Feyenoord,YES,1.44,,EV,0,1,0,10.0,-10.0,0.0285714285714286,False
 2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Bayern München,Arsenal,HOME,2.05,,PROB,0,2,2,10.0,-10.0,-0.088888888888889,False
@@ -11494,10 +11495,10 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-21,,ACCA,LONGSHOT,,,,2.94,,,0,,,3.0,-3.0,,True
 2026-10-21,2026-10-21 15:30:00+00:00,1X2,1X2,PK-35,FF Jaro,AWAY,2.3,,PROB,0,1,1,10.0,-10.0,-0.0336134453781512,False
 2026-10-21,2026-10-21 19:00:00+00:00,1X2,1X2,Real Madrid,RB Leipzig,AWAY,11.0,,EV,0,4,1,10.0,-10.0,0.1,False
-2026-10-21,2026-10-21 15:30:00+00:00,1X2,1X2,PK-35,FF Jaro,HOME,2.9,,PROB,0,1,1,10.0,-10.0,-0.0645161290322581,False
+2026-10-21,2026-10-21 16:45:00+00:00,1X2,1X2,Lille,Galatasaray,HOME,2.2,,PROB,0,2,4,10.0,-10.0,0.0,False
 2026-10-21,2026-10-21 16:45:00+00:00,1X2,1X2,Como,Manchester United,HOME,2.15,,PROB,1,4,1,10.0,11.5,-0.0652173913043477,False
 2026-10-21,2026-10-21 19:00:00+00:00,CS,Correct Score,Aston Villa,Viking,3-0,9.5,market,TOP1,0,3,1,10.0,-10.0,0.0,False
-2026-10-21,2026-10-21 16:45:00+00:00,1X2,1X2,Lille,Galatasaray,HOME,2.2,,PROB,0,2,4,10.0,-10.0,0.0,False
+2026-10-21,2026-10-21 15:30:00+00:00,1X2,1X2,PK-35,FF Jaro,HOME,2.9,,PROB,0,1,1,10.0,-10.0,-0.0645161290322581,False
 2026-10-21,2026-10-21 19:00:00+00:00,CS,Correct Score,Aston Villa,Viking,2-0,9.5,market,TOP3,0,3,1,10.0,-10.0,0.0555555555555555,False
 2026-10-21,2026-10-21 16:45:00+00:00,OU15,OU 1.5,Lille,Galatasaray,OVER 1.5,1.17,,EV,1,2,4,10.0,1.6999999999999993,-0.025,False
 2026-10-21,2026-10-21 19:00:00+00:00,OU15,OU 1.5,Real Betis,Feyenoord,OVER 1.5,1.11,,EV,0,1,0,10.0,-10.0,0.009090909090909,False
@@ -11655,7 +11656,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Barnet,Swindon Town,2-1,8.5,market,TOP1,0,1,3,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Barnet,Swindon Town,2-0,9.0,market,TOP2,0,1,3,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Barnet,Swindon Town,1-1,8.5,market,TOP3,0,1,3,10.0,-10.0,0.0,False
-2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Stevenage,Plymouth,0-1,9.0,market,TOP2,0,3,0,10.0,-10.0,-0.0526315789473684,False
+2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Stevenage,Plymouth,1-1,6.5,market,TOP1,0,3,0,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Stevenage,Plymouth,1-0,9.0,market,TOP3,0,3,0,10.0,-10.0,-0.0526315789473684,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Oxford United,Wigan,1-1,7.0,market,TOP1,0,2,1,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Oxford United,Wigan,1-0,8.0,market,TOP2,0,2,1,10.0,-10.0,0.0,False
@@ -11775,7 +11776,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-20,,ACCA,MR2,,,,2.2644,,,0,,,10.0,-10.0,,True
 2026-10-20,,ACCA,RESULT+BTTS,,,,7.183691999999999,,,0,,,5.0,-5.0,,True
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Northampton,Tranmere,0-1,10.0,market,TOP3,1,0,1,10.0,90.0,0.0,False
-2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Stevenage,Plymouth,1-1,6.5,market,TOP1,0,3,0,10.0,-10.0,0.0,False
+2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Stevenage,Plymouth,0-1,9.0,market,TOP2,0,3,0,10.0,-10.0,-0.0526315789473684,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Rochdale,Grimsby,1-2,9.0,market,TOP2,0,2,2,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 18:45:00+00:00,OU15,OU 1.5,Notts County,Sheffield Wednesday,UNDER 1.5,4.0,,EV,0,2,0,10.0,-10.0,0.0666666666666666,False
 2026-10-20,2026-10-20 18:45:00+00:00,OU15,OU 1.5,Huddersfield,Peterborough,UNDER 1.5,6.0,,EV,0,4,1,10.0,-10.0,0.0,False
@@ -11896,8 +11897,8 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-20,2026-10-20 15:00:00+00:00,CS,Correct Score,Al Diriyah,Al Riyadh,1-0,8.0,market,TOP2,1,1,0,10.0,70.0,0.0,False
 2026-10-20,2026-10-20 19:00:00+00:00,CS,Correct Score,Napoli,Bodo/Glimt,1-1,7.5,market,TOP1,0,4,3,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 19:00:00+00:00,CS,Correct Score,Napoli,Bodo/Glimt,2-1,8.5,market,TOP2,0,4,3,10.0,-10.0,0.0,False
-2026-10-20,2026-10-20 19:00:00+00:00,CS,Correct Score,Napoli,Bodo/Glimt,1-0,10.0,market,TOP3,0,4,3,10.0,-10.0,0.0526315789473683,False
 2026-10-20,2026-10-20 18:45:00+00:00,CS,Correct Score,Rochdale,Grimsby,0-1,9.5,market,TOP3,0,2,2,10.0,-10.0,0.0,False
+2026-10-20,2026-10-20 19:00:00+00:00,CS,Correct Score,Napoli,Bodo/Glimt,1-0,10.0,market,TOP3,0,4,3,10.0,-10.0,0.0526315789473683,False
 2026-10-20,2026-10-20 19:00:00+00:00,CS,Correct Score,VfB Stuttgart,Atletico Madrid,0-2,13.0,market,TOP3,0,1,1,10.0,-10.0,0.0,False
 2026-10-20,2026-10-20 18:00:00+00:00,DC,Double Chance,Al-Nassr,NEOM,1X,1.12,,EV,1,1,0,10.0,1.200000000000001,0.0090090090090089,False
 2026-10-20,2026-10-20 18:45:00+00:00,DC,Double Chance,Barnet,Swindon Town,1X,1.12,,EV,0,1,3,10.0,-10.0,-0.0175438596491226,False
@@ -13889,7 +13890,7 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-17,2026-10-17 16:00:00+00:00,BTTS,BTTS,Fenerbahçe,Alanyaspor,YES,1.91,,EV,0,3,0,10.0,-10.0,0.0,True
 2026-10-17,2026-10-17 23:30:00+00:00,BTTS,BTTS,Atlanta United FC,Inter Miami,NO,3.25,,EV,0,1,3,10.0,-10.0,0.0,False
 2026-10-17,2026-10-17 14:00:00+00:00,CS,Correct Score,Grimsby,Northampton,1-0,7.5,market,TOP1,0,0,2,10.0,-10.0,0.0,False
-2026-10-17,2026-10-17 19:00:00+00:00,DC,Double Chance,Dundee,Rangers,X2,1.1,,EV,1,2,2,10.0,1.0,0.0,False
+2026-10-17,2026-10-17 15:00:00+00:00,DC,Double Chance,Austria Lustenau,Lask Linz,X2,1.1,,EV,1,0,4,10.0,1.0,0.0,False
 2026-10-17,2026-10-17 14:00:00+00:00,CS,Correct Score,Grimsby,Northampton,1-1,7.0,market,TOP3,0,0,2,10.0,-10.0,0.0,False
 2026-10-17,2026-10-17 14:15:00+00:00,OU15,OU 1.5,Villarreal,Elche,UNDER 1.5,5.5,,EV,1,0,0,10.0,45.0,0.0,False
 2026-10-17,2026-10-17 14:00:00+00:00,OU15,OU 1.5,Kilmarnock,Motherwell,UNDER 1.5,4.5,,EV,0,3,2,10.0,-10.0,0.0,False
@@ -14362,8 +14363,8 @@ date,kickoff_utc,market_group,market,home_team,away_team,selection,odds,odds_sou
 2026-10-17,2026-10-17 13:00:00+00:00,DC,Double Chance,Gençlerbirliği S.K.,Galatasaray,X2,1.1,,EV,1,0,1,10.0,1.0,0.0,False
 2026-10-17,2026-10-17 14:00:00+00:00,DC,Double Chance,Inverness CT,Arbroath,1X,1.1,,EV,1,2,0,10.0,1.0,0.0,False
 2026-10-17,2026-10-17 14:00:00+00:00,DC,Double Chance,Clyde,Annan Athletic,1X,1.14,,EV,1,4,1,10.0,1.3999999999999986,0.0178571428571425,False
+2026-10-17,2026-10-17 19:00:00+00:00,DC,Double Chance,Dundee,Rangers,X2,1.1,,EV,1,2,2,10.0,1.0,0.0,False
 2026-10-17,2026-10-17 14:00:00+00:00,CS,Correct Score,Crewe,Rochdale,1-0,7.5,market,TOP2,0,3,2,10.0,-10.0,-0.0625,False
-2026-10-17,2026-10-17 15:00:00+00:00,DC,Double Chance,Austria Lustenau,Lask Linz,X2,1.1,,EV,1,0,4,10.0,1.0,0.0,False
 2026-10-17,2026-10-17 15:15:00+00:00,DC,Double Chance,Strasbourg,Paris Saint Germain,X2,1.12,,EV,1,1,3,10.0,1.200000000000001,0.0,False
 2026-10-17,2026-10-17 16:00:00+00:00,DC,Double Chance,Bologna,Inter,X2,1.12,,EV,1,1,3,10.0,1.200000000000001,0.0,False
 2026-10-17,2026-10-17 13:30:00+00:00,DC,Double Chance,Union Berlin,Borussia Dortmund,X2,1.14,,EV,1,0,0,10.0,1.3999999999999986,0.0,False
