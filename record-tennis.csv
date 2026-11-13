@@ -3,13 +3,26 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-13,August Holmgren,Bernard Tomic,0.606,0.586,W
 2026-11-13,Sebastian Gorzny,Alex Bolt,0.502,0.496,W
 2026-11-13,Jay Friend,Yu Hsiou Hsu,0.562,0.576,L
+2026-11-13,Luka Mikrut,Jonas Forejtek,0.559,0.569,L
+2026-11-13,Daniel Altmaier,Zsombor Piros,0.576,0.569,W
 2026-11-13,Vivian Wolff,Miriana Tona,0.674,0.681,W
 2026-11-13,Rei Sakamoto,Ognjen Milic,0.800,0.782,W
+2026-11-13,Philip Henning,Lorenzo Carboni,0.715,0.695,W
 2026-11-13,Juncheng Shang,Dane Sweeny,0.606,0.617,W
 2026-11-13,Akira Santillan,Christian Langmo,0.555,0.560,L
 2026-11-13,Michele Ribecai,Adrian Andreev,0.621,0.604,W
+2026-11-13,Alejandro Tabilo,Thiago Agustin Tirante,0.612,0.597,L
+2026-11-13,Lorenzo Giustino,Marvin Moeller,0.573,0.564,L
+2026-11-13,Laura Samson,Elizabeth Mandlik,0.665,0.654,L
+2026-11-13,Kilian Feldbausch,Mika Petkovic,0.716,0.713,W
+2026-11-13,Pedro Martinez,Calvin Hemery,0.552,0.561,W
+2026-11-13,Bianca Andreescu,Polona Hercog,0.766,0.759,W
 2026-11-13,Aurora Zantedeschi,Lucia Cortez Llorca,0.627,0.609,L
 2026-11-13,Alisa Oktiabreva,Anastasija Cvetkovic,0.939,0.911,W
+2026-11-13,Ane Mintegi Del Olmo,Tina Smith,0.970,0.918,W
+2026-11-13,Nishesh Basavareddy,Tom Gentzsch,0.737,0.722,W
+2026-11-13,Taylor Fritz,Lorenzo Musetti,0.611,0.590,W
+2026-11-13,Franco Roncadelli,Alan Magadan,0.752,0.738,W
 2026-11-13,Mektic/Roger-Vasselin,Pavlasek/Rikl,0.513,0.508,VOID
 2026-11-12,Yi Zhou,Rio Noguchi,0.650,0.651,L
 2026-11-12,Taro Daniel,Max Schoenhaus,0.631,0.643,W
@@ -33,6 +46,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-12,Michael Zheng,Ozan Baris,0.728,0.714,W
 2026-11-12,Marcos Giron,Abdullah Shelbayh,0.765,0.727,L
 2026-11-12,Kilian Feldbausch,Mae Malige,0.841,0.780,W
+2026-11-12,Alejandro Moro Canas,Pedro Vives Marcos,0.577,0.573,L
 2026-11-12,Lorenzo Musetti,Ugo Humbert,0.664,0.648,W
 2026-11-12,Elena Bertea,Sapfo Sakellaridi,0.778,0.760,L
 2026-11-12,Anastasija Cvetkovic,Marianna Argyrokastriti,0.623,0.633,W
@@ -46,6 +60,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-12,Julia Adams,Michaela Laki,0.590,0.583,L
 2026-11-12,Dasha Ivanova,Ava Catanzarite,0.578,0.570,W
 2026-11-12,Ipek Oz,Kayla Cross,0.605,0.618,L
+2026-11-12,Hidalgo/Molteni,Rincon/Roca Batalla,0.547,0.558,L
 2026-11-12,Malaika Rapolu,Jessica Hinojosa Gomez,0.958,0.919,L
 2026-11-12,Taylor Fritz,Holger Rune,0.666,0.653,VOID
 2026-11-11,Ugo Humbert,Borna Gojo,0.692,0.667,W
