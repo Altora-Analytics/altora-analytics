@@ -1,4 +1,6 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-14,Yu Hsiou Hsu,Rio Noguchi,0.500,0.509,W
+2026-11-14,Rei Sakamoto,Billy Harris,0.745,0.743,L
 2026-11-13,Billy Harris,Kaichi Uchida,0.796,0.783,W
 2026-11-13,August Holmgren,Bernard Tomic,0.606,0.586,W
 2026-11-13,Sebastian Gorzny,Alex Bolt,0.502,0.496,W
@@ -11,7 +13,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-13,Juncheng Shang,Dane Sweeny,0.606,0.617,W
 2026-11-13,Akira Santillan,Christian Langmo,0.555,0.560,L
 2026-11-13,Michele Ribecai,Adrian Andreev,0.621,0.604,W
+2026-11-13,Otto Virtanen,Sascha Gueymard Wayenbu,0.613,0.605,W
 2026-11-13,Alejandro Tabilo,Thiago Agustin Tirante,0.612,0.597,L
+2026-11-13,Clement Chidekh,Liam Draxl,0.649,0.650,W
+2026-11-13,Max Hans Rehberg,Daniel Milavsky,0.544,0.542,L
 2026-11-13,Lorenzo Giustino,Marvin Moeller,0.573,0.564,L
 2026-11-13,Laura Samson,Elizabeth Mandlik,0.665,0.654,L
 2026-11-13,Kilian Feldbausch,Mika Petkovic,0.716,0.713,W
@@ -23,6 +28,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-13,Nishesh Basavareddy,Tom Gentzsch,0.737,0.722,W
 2026-11-13,Taylor Fritz,Lorenzo Musetti,0.611,0.590,W
 2026-11-13,Franco Roncadelli,Alan Magadan,0.752,0.738,W
+2026-11-13,Aran Teixido Garcia,Salma Djoubri,0.624,0.608,W
+2026-11-13,Abdullah Shelbayh,Alastair Gray,0.523,0.532,W
+2026-11-13,Kayla Cross,Jessica Hinojosa Gomez,0.854,0.820,W
+2026-11-13,Vivian Wolff,Miriam Bulgaru,0.542,0.551,L
+2026-11-13,Joao Lucas Reis Da Silv,Genaro Alberto Olivieri,0.639,0.640,W
+2026-11-13,Mirra Andreeva,Diana Shnaider,0.704,0.701,W
 2026-11-13,Mektic/Roger-Vasselin,Pavlasek/Rikl,0.513,0.508,VOID
 2026-11-12,Yi Zhou,Rio Noguchi,0.650,0.651,L
 2026-11-12,Taro Daniel,Max Schoenhaus,0.631,0.643,W
