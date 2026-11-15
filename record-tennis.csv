@@ -1,9 +1,25 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-15,Heliovaara/Patten,Luz/Matos,0.786,0.753,W
+2026-11-15,Alexander Zverev,Rafael Jodar,0.693,0.685,W
 2026-11-15,Billy Harris,Yu Hsiou Hsu,0.557,0.558,W
 2026-11-15,Koki Matsuda,Shintaro Imai,0.520,0.519,W
 2026-11-15,Takuya Kumasaka,Maxim Zhukov,0.589,0.599,W
 2026-11-15,Maximus Jones,Yuki Mochizuki,0.714,0.684,W
+2026-11-15,Kilian Feldbausch,Marvin Moeller,0.618,0.632,W
+2026-11-15,Arevalo/Pavic,Arribage/Olivetti,0.553,0.545,W
+2026-11-15,Philip Henning,Michele Ribecai,0.577,0.569,L
 2026-11-15,Alisa Oktiabreva,Ane Mintegi Del Olmo,0.532,0.558,W
+2026-11-15,Oskari Paldanius,Svyatoslav Gulin,0.517,0.518,L
+2026-11-15,Jay Clarke,Arvid Nordquist,0.804,0.789,L
+2026-11-15,Michael Vrbensky,Vadym Ursu,0.595,0.592,W
+2026-11-15,Moez Echargui,John Sperle,0.798,0.793,W
+2026-11-15,Sumit Nagal,Sebastian Gima,0.830,0.812,W
+2026-11-15,Buvaysar Gadamauri,Adrien Gobat,0.657,0.641,L
+2026-11-15,Hugo Grenier,Florent Bax,0.814,0.774,W
+2026-11-15,Carlos Taberner,Filip Cristian Jianu,0.618,0.623,W
+2026-11-15,Nishesh Basavareddy,Otto Virtanen,0.506,0.529,L
+2026-11-15,Paul/Vocel,Liutarevich/Pieczonka,0.547,0.544,W
+2026-11-15,Clement Chidekh,Abdullah Shelbayh,0.727,0.724,W
 2026-11-15,Yun Seong Chung,Renta Tokuda,0.559,0.574,VOID
 2026-11-15,Alibek Kachmazov,Cyril Vandermeersch,0.694,0.681,VOID
 2026-11-15,Marat Sharipov,Antoine Ghibaudo,0.689,0.671,VOID
