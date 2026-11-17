@@ -1,6 +1,7 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-17,Ognjen Milic,Maximus Jones,0.529,0.536,L
 2026-11-17,Blake Ellis,Isaac Becroft,0.577,0.569,L
+2026-11-17,Sebastian Gorzny,Kokoro Isomura,0.866,0.847,W
 2026-11-16,Kasidit Samrej,Yuta Tomida,0.776,0.759,W
 2026-11-16,Carlos Alcaraz,Frances Tiafoe,0.905,0.885,W
 2026-11-16,Nicolai Budkov Kjaer,Mika Brunold,0.576,0.572,W
@@ -40,6 +41,7 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-16,Rebeka Masarova,Diletta Cherubini,0.854,0.837,W
 2026-11-16,Lui Maxted,David Bakonyi,0.973,0.928,W
 2026-11-16,Giles Hussey,Keshav Chopra,0.867,0.826,W
+2026-11-16,Tristan Schoolkate,Carl Emil Overbeck,0.694,0.684,W
 2026-11-16,James McCabe,Li Tu,0.506,0.515,L
 2026-11-16,Florian Broska,Casey Hoole,0.525,0.510,W
 2026-11-16,Jason Kubler,Matthew Dellavedova,0.664,0.661,W
