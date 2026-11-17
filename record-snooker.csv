@@ -1,4 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-16,Gong Chenzhi,Andrew Higginson,0.506,0.525,L
+2026-11-16,Louis Heathcote,Hammad Miah,0.755,0.747,L
+2026-11-16,Liam Davies,Alfie Burden,0.785,0.784,L
+2026-11-16,Iulian Boiko,Jimmy White,0.685,0.697,L
+2026-11-16,Ashley Carty,Oliver Brown,0.751,0.752,L
+2026-11-16,Stuart Carrington,Leone Crowley,0.615,0.635,L
+2026-11-16,Ian Burns,Paul Norris,0.970,0.980,W
 2026-11-15,Kyren Wilson,Chris Wakelin,0.726,0.722,W
 2026-11-14,Kyren Wilson,Shaun Murphy,0.521,0.538,W
 2026-11-13,Neil Robertson,Chris Wakelin,0.601,0.621,L
