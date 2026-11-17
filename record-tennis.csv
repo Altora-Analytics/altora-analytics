@@ -1,8 +1,13 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-17,Ognjen Milic,Maximus Jones,0.529,0.536,L
+2026-11-17,Blake Ellis,Isaac Becroft,0.577,0.569,L
+2026-11-16,Kasidit Samrej,Yuta Tomida,0.776,0.759,W
 2026-11-16,Carlos Alcaraz,Frances Tiafoe,0.905,0.885,W
 2026-11-16,Nicolai Budkov Kjaer,Mika Brunold,0.576,0.572,W
+2026-11-16,Andrea Guerrieri,Elias Ymer,0.516,0.555,W
 2026-11-16,Clement Tabur,Matej Dodig,0.504,0.485,W
 2026-11-16,Inaki Montes-De La Torr,Marat Sharipov,0.504,0.497,W
+2026-11-16,Matheus Pucinelli De Al,Nicolas Jarry,0.509,0.528,W
 2026-11-16,Takuya Kumasaka,Constantin Bittoun Kouz,0.600,0.615,W
 2026-11-16,Koki Matsuda,Kanta Watanabe,0.851,0.796,W
 2026-11-16,Masamichi Imamura,Yusuke Takahashi,0.619,0.615,W
@@ -10,8 +15,15 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-16,Ben Hassan,Yun Seong Chung,0.520,0.512,W
 2026-11-16,Granollers/Zeballos,Bolelli/Vavassori,0.524,0.517,W
 2026-11-16,Harrison/Skupski,Krawietz/Putz,0.599,0.596,L
+2026-11-16,Daniil Medvedev,Flavio Cobolli,0.772,0.758,W
 2026-11-16,Shintaro Mochizuki,Lorenzo Giustino,0.707,0.679,L
 2026-11-16,Toby Samuel,Ilya Ivashka,0.721,0.699,W
+2026-11-16,Nikoloz Basilashvili,Max Houkes,0.869,0.847,W
+2026-11-16,Dino Prizmic,Diego Dedura,0.859,0.842,W
+2026-11-16,Michael Mmoh,Duncan Chan,0.749,0.731,L
+2026-11-16,Oliver Tarvet,Karl Poling,0.916,0.896,W
+2026-11-16,Leyre Romero Gormaz,Ipek Oz,0.769,0.752,W
+2026-11-16,Carole Monnet,Victoria Jimenez Kasintseva,0.667,0.673,W
 2026-11-16,Calvin Hemery,Matthew William Donald,0.621,0.601,W
 2026-11-16,Svyatoslav Gulin,Arvid Nordquist,0.746,0.730,W
 2026-11-16,Luca Nardi,Stefan Latinovic,0.975,0.953,W
@@ -27,6 +39,10 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-16,Carlos Taberner,Filippo Moroni,0.742,0.714,L
 2026-11-16,Rebeka Masarova,Diletta Cherubini,0.854,0.837,W
 2026-11-16,Lui Maxted,David Bakonyi,0.973,0.928,W
+2026-11-16,Giles Hussey,Keshav Chopra,0.867,0.826,W
+2026-11-16,James McCabe,Li Tu,0.506,0.515,L
+2026-11-16,Florian Broska,Casey Hoole,0.525,0.510,W
+2026-11-16,Jason Kubler,Matthew Dellavedova,0.664,0.661,W
 2026-11-16,Akira Santillan,Jake Delaney,0.552,0.558,VOID
 2026-11-15,Heliovaara/Patten,Luz/Matos,0.786,0.753,W
 2026-11-15,Alexander Zverev,Rafael Jodar,0.693,0.685,W
