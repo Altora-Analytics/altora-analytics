@@ -372,6 +372,7 @@ kickoff_uk,competition,home,away,model_home,model_draw,model_away,market_home,ma
 2026-11-14 21:30,CONCACAF Nations League,Haiti,USA,0.1541,0.2123,0.6336,0.0994,0.175,0.7256,away,0-6,away,0.4563,0.3208
 2026-11-15 01:00,CONCACAF Nations League,Jamaica,Mexico,0.19,0.2252,0.5849,0.2,0.2338,0.5661,away,3-2,home,1.6607,1.6094
 2026-11-15 03:00,Friendlies,New Zealand,India,0.7772,0.1697,0.0531,0.7048,0.1972,0.098,home,3-0,home,0.2521,0.3498
+2026-11-15 12:00,Friendlies,Kyrgyzstan,Vietnam,0.2969,0.3054,0.3977,0.1939,0.2438,0.5623,away,2-1,home,1.2144,1.6404
 2026-11-15 14:00,Nations League,Cyprus,Montenegro,0.2284,0.2347,0.537,0.303,0.2918,0.4053,away,1-4,away,0.6218,0.9031
 2026-11-15 14:00,Nations League,Latvia,Armenia,0.355,0.2478,0.3972,0.315,0.2807,0.4044,away,0-0,draw,1.3951,1.2705
 2026-11-15 17:00,Nations League,Belarus,Albania,0.3435,0.2483,0.4082,0.2421,0.2849,0.4731,away,0-2,away,0.896,0.7484
@@ -404,3 +405,52 @@ kickoff_uk,competition,home,away,model_home,model_draw,model_away,market_home,ma
 2026-11-17 00:00,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,0.7569,0.1585,0.0845,0.822,0.1161,0.0619,home,1-1,draw,1.842,2.1533
 2026-11-17 00:00,CONCACAF Nations League,Martinique,Aruba,0.6445,0.2008,0.1547,0.7888,0.1408,0.0704,home,1-1,draw,1.6054,1.9604
 2026-11-17 01:00,CONCACAF Nations League,Canada,Guatemala,0.753,0.1603,0.0867,0.8134,0.1281,0.0585,home,4-1,home,0.2837,0.2065
+2026-11-17 06:00,Friendlies,Yemen,Malaysia,0.2371,0.2966,0.4662,0.2369,0.2497,0.5133,away,1-2,away,0.7631,0.6669
+2026-11-17 10:00,Friendlies,Singapore,Brazil,0.0173,0.1166,0.8661,0.0186,0.0413,0.9401,away,0-7,away,0.1438,0.0618
+2026-11-17 12:00,Friendlies,China,Bahrain,0.475,0.29,0.235,0.4984,0.2809,0.2207,home,2-2,draw,1.2379,1.2698
+2026-11-17 13:00,AFCON Q,Burundi,Zambia,0.3483,0.2779,0.3737,0.347,0.3233,0.3297,away,1-1,draw,1.2805,1.1292
+2026-11-17 13:00,AFCON Q,Ethiopia,Mozambique,0.3963,0.2762,0.3276,0.3224,0.3185,0.3591,home,0-1,away,1.116,1.0242
+2026-11-17 13:00,AFCON Q,Lesotho,Gabon,0.151,0.2397,0.6093,0.125,0.2363,0.6387,away,2-1,home,1.8905,2.0794
+2026-11-17 13:00,AFCON Q,Malawi,Egypt,0.0464,0.1563,0.7972,0.0608,0.1512,0.788,away,0-0,draw,1.856,1.8892
+2026-11-17 13:00,AFCON Q,South Sudan,Angola,0.0984,0.2086,0.693,0.0917,0.1973,0.711,away,0-1,away,0.3667,0.3411
+2026-11-17 13:00,AFCON Q,Tanzania,Nigeria,0.1091,0.2161,0.6748,0.1052,0.2139,0.6809,away,0-0,draw,1.532,1.5422
+2026-11-17 13:10,Friendlies,Japan,Paraguay,0.7256,0.1981,0.0763,0.5326,0.2626,0.2048,home,1-2,away,2.5731,1.5857
+2026-11-17 14:00,Friendlies,Qatar,South Korea,0.1505,0.2676,0.582,0.1419,0.2306,0.6275,away,0-1,away,0.5413,0.466
+2026-11-17 14:10,Friendlies,United Arab Emirates,Syria,0.6715,0.2244,0.1042,0.6807,0.208,0.1112,home,4-2,home,0.3982,0.3846
+2026-11-17 15:30,Friendlies,Saudi Arabia,Uzbekistan,0.421,0.2995,0.2795,0.352,0.296,0.352,home,1-2,away,1.2748,1.0441
+2026-11-17 16:00,AFCON Q,Togo,Algeria,0.0924,0.2039,0.7037,0.1365,0.2465,0.617,away,3-0,home,2.3816,1.9914
+2026-11-17 16:00,AFCON Q,Libya,Tunisia,0.3702,0.2775,0.3522,0.2016,0.2862,0.5123,home,1-1,draw,1.2819,1.2511
+2026-11-17 16:00,AFCON Q,Sierra Leone,Congo DR,0.1089,0.216,0.6751,0.0995,0.2102,0.6903,away,1-1,draw,1.5325,1.5597
+2026-11-17 16:00,AFCON Q,Kenya,South Africa,0.1967,0.2571,0.5462,0.1977,0.2871,0.5153,away,1-2,away,0.6048,0.663
+2026-11-17 16:00,AFCON Q,Gambia,Ivory Coast,0.1434,0.2361,0.6205,0.1489,0.2398,0.6113,away,2-2,draw,1.4435,1.428
+2026-11-17 16:00,Friendlies,Jordan,Australia,0.2386,0.2969,0.4644,0.2462,0.2716,0.4822,away,2-0,home,1.433,1.4016
+2026-11-17 16:00,Friendlies,Russia,Venezuela,0.7026,0.2097,0.0877,0.5955,0.2364,0.168,home,2-0,home,0.353,0.5184
+2026-11-17 16:00,AFCON Q,Guinea-Bissau,Madagascar,0.4471,0.2708,0.2821,0.5504,0.2704,0.1792,home,2-0,home,0.805,0.5971
+2026-11-17 16:15,Friendlies,Iraq,Iran,0.1771,0.2793,0.5436,0.1906,0.2799,0.5295,away,1-1,draw,1.2755,1.2733
+2026-11-17 16:30,Friendlies,Kuwait,Honduras,0.2728,0.3023,0.4249,0.2196,0.2681,0.5123,away,0-2,away,0.8559,0.6688
+2026-11-17 19:00,AFCON Q,Botswana,Uganda,0.2532,0.2706,0.4761,0.3518,0.3144,0.3338,away,1-1,draw,1.3071,1.1571
+2026-11-17 19:00,CONCACAF Nations League,St. Lucia,Barbados,0.6247,0.2063,0.169,0.446,0.2496,0.3044,home,2-0,home,0.4705,0.8074
+2026-11-17 19:00,CONCACAF Nations League,Dominica,Cayman Islands,0.5806,0.2181,0.2013,0.5854,0.2379,0.1768,home,5-0,home,0.5437,0.5355
+2026-11-17 19:00,AFCON Q,Mauritania,Burkina Faso,0.2455,0.2693,0.4852,0.3069,0.3142,0.3789,away,1-3,away,0.7232,0.9705
+2026-11-17 19:00,AFCON Q,Rwanda,Mali,0.1599,0.2439,0.5962,0.1918,0.2847,0.5235,away,0-2,away,0.5172,0.6472
+2026-11-17 19:00,AFCON Q,Congo,Comoros,0.2306,0.2662,0.5032,0.4474,0.3007,0.2519,away,0-1,away,0.6868,1.3787
+2026-11-17 19:00,AFCON Q,Liberia,Cape Verde Islands,0.1114,0.218,0.6706,0.2125,0.2866,0.5009,away,2-0,home,2.1946,1.5488
+2026-11-17 19:00,CONCACAF Nations League,Belize,Sint Maarten,0.4605,0.2409,0.2986,0.4919,0.2621,0.246,home,1-2,away,1.2087,1.4024
+2026-11-17 19:00,CONCACAF Nations League,St. Kitts and Nevis,Bonaire,0.6309,0.2052,0.1638,0.6091,0.1923,0.1986,home,3-2,home,0.4606,0.4958
+2026-11-17 19:45,Nations League,Poland,Sweden,0.3741,0.2484,0.3775,0.4016,0.2448,0.3535,away,1-1,draw,1.3927,1.4073
+2026-11-17 19:45,Nations League,Denmark,Norway,0.4006,0.2475,0.3519,0.3832,0.2336,0.3832,home,2-3,away,1.0444,0.9592
+2026-11-17 19:45,Nations League,Wales,Portugal,0.0693,0.1604,0.7703,0.1133,0.1652,0.7215,away,2-3,away,0.261,0.3264
+2026-11-17 19:45,Nations League,Hungary,Northern Ireland,0.558,0.2254,0.2166,0.5034,0.2725,0.2241,home,1-1,draw,1.4899,1.3001
+2026-11-17 19:45,Nations League,Ukraine,Georgia,0.5051,0.2358,0.259,0.383,0.2623,0.3548,home,1-0,home,0.683,0.9597
+2026-11-17 19:45,Nations League,Rep. Of Ireland,Kosovo,0.4707,0.241,0.2883,0.4929,0.2719,0.2352,home,3-0,home,0.7535,0.7074
+2026-11-17 19:45,Nations League,Bosnia & Herzegovina,Romania,0.5014,0.2365,0.2622,0.5358,0.2484,0.2158,home,2-1,home,0.6904,0.624
+2026-11-17 19:45,Nations League,Israel,Austria,0.1103,0.1906,0.6991,0.2165,0.2244,0.559,away,1-1,draw,1.6576,1.4943
+2026-11-17 20:00,AFCON Q,Niger,Morocco,0.0303,0.1309,0.8388,0.0361,0.094,0.8699,away,0-1,away,0.1758,0.1394
+2026-11-17 23:00,Friendlies,Argentina,Costa Rica,0.8686,0.1104,0.021,0.849,0.1099,0.0411,home,7-0,home,0.1409,0.1637
+2026-11-17 23:00,Friendlies,Chile,Colombia,0.1382,0.2611,0.6007,0.2475,0.2939,0.4587,away,0-0,draw,1.3429,1.2245
+2026-11-17 23:30,Friendlies,Ecuador,Bolivia,0.7995,0.1563,0.0442,0.796,0.1415,0.0624,home,2-0,home,0.2238,0.2282
+2026-11-17 23:30,Friendlies,Uruguay,Dominican Republic,0.7833,0.1661,0.0506,0.8592,0.0967,0.0442,home,5-0,home,0.2442,0.1518
+2026-11-18 00:00,CONCACAF Nations League,USA,Haiti,0.7704,0.1521,0.0775,0.8737,0.082,0.0443,home,2-0,home,0.2608,0.135
+2026-11-18 00:00,CONCACAF Nations League,French Guyana,St. Vincent / Grenadines,0.4116,0.2453,0.3431,0.3063,0.2703,0.4234,home,1-0,home,0.8877,1.1832
+2026-11-18 01:00,CONCACAF Nations League,El Salvador,Saint Martin,0.6052,0.2126,0.1822,0.7419,0.1793,0.0788,home,3-1,home,0.5022,0.2985
+2026-11-18 02:30,CONCACAF Nations League,Mexico,Jamaica,0.658,0.196,0.146,0.7874,0.1417,0.0709,home,1-0,home,0.4186,0.239
