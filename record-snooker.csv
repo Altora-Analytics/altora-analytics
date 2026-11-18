@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-17,David Gilbert,Artemijs Zizins,0.699,0.719,W
+2026-11-17,Zak Surety,Michael Larkov,0.723,,W
+2026-11-17,Robbie Williams,Reanne Evans,0.871,0.890,W
+2026-11-17,Tom Ford,Liu Wenwei,0.757,0.746,W
+2026-11-17,Ben Mertens,Chatchapong Nasa,0.732,0.741,L
+2026-11-17,Oliver Lines,Jamie Rhys Clarke,0.589,0.573,L
+2026-11-17,Gao Yang,Long Zehuang,0.556,0.563,L
+2026-11-17,Lyu Haotian,Michael Holt,0.516,0.485,W
 2026-11-16,Gong Chenzhi,Andrew Higginson,0.506,0.525,L
 2026-11-16,Louis Heathcote,Hammad Miah,0.755,0.747,L
 2026-11-16,Liam Davies,Alfie Burden,0.785,0.784,L
