@@ -1,13 +1,23 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-18,Billy Harris,Koki Matsuda,0.766,0.739,W
+2026-11-18,Yu Hsiou Hsu,David Jorda Sanchis,0.675,0.670,W
+2026-11-18,Yosuke Watanuki,Fajing Sun,0.906,0.885,W
+2026-11-18,Geoffrey Blancaneaux,Zachary Viiala,0.686,0.659,W
 2026-11-17,Dalibor Svrcina,Leo Borg,0.928,0.903,W
 2026-11-17,Benjamin Bonzi,Sascha Gueymard Wayenbu,0.708,0.684,L
 2026-11-17,Dusan Lajovic,Arthur Nagel,0.640,0.643,L
+2026-11-17,Juan Carlos Prado Angel,Lautaro Midon,0.555,0.562,W
+2026-11-17,Daniel Rincon,Guido Ivan Justo,0.526,0.525,L
 2026-11-17,Soonwoo Kwon,Vitaliy Sachko,0.556,0.564,W
 2026-11-17,Aidan Mayo,Braden Shick,0.702,0.689,W
+2026-11-17,Nicolas Mejia,Louis Wessels,0.776,0.757,L
+2026-11-17,Aidan Mchugh,Jeremy Zhang,0.739,0.729,W
+2026-11-17,Raphael Perot,Amit Vales,0.718,0.688,W
 2026-11-17,Polona Hercog,Miriam Bulgaru,0.807,0.791,W
 2026-11-17,Nadia Podoroska,Varvara Lepchenko,0.648,0.638,W
 2026-11-17,Irene Burillo,Darja Semenistaja,0.537,0.546,W
 2026-11-17,Heliovaara/Patten,Arevalo/Pavic,0.561,0.572,L
+2026-11-17,Alexander Zverev,Ben Shelton,0.667,0.647,W
 2026-11-17,Arthur Fils,Rafael Jodar,0.509,0.497,W
 2026-11-17,Ognjen Milic,Maximus Jones,0.529,0.536,L
 2026-11-17,Ben Hassan,Kaichi Uchida,0.563,0.571,W
@@ -18,11 +28,27 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-17,Luka Mikrut,Stefano Travaglia,0.540,0.550,L
 2026-11-17,Alexander Ritschard,Lukas Neumayer,0.592,0.598,W
 2026-11-17,Otto Virtanen,Moez Echargui,0.865,0.847,W
+2026-11-17,Borna Gojo,Kimmer Coppejans,0.734,0.714,W
 2026-11-17,Francesco Passaro,Calvin Hemery,0.568,0.575,W
 2026-11-17,Harold Mayot,Hugo Grenier,0.678,0.670,W
 2026-11-17,Antoine Ghibaudo,Filippo Moroni,0.717,0.684,L
 2026-11-17,Pierre-Hugues Herbert,Jonas Forejtek,0.597,0.584,W
 2026-11-17,Oceane Dodin,Darya Khamutsianskaya,0.593,0.599,L
+2026-11-17,Max Wiskandt,Vignesh Gogineni,0.585,0.589,L
+2026-11-17,Daniel Milavsky,Vladislav Melnic,0.843,0.831,W
+2026-11-17,Marcelo Tomas Barrios V,Franco Roncadelli,0.686,0.661,L
+2026-11-17,Zdenek Kolar,Valerio Aboian,0.525,0.529,W
+2026-11-17,Francisco Comesana,Juan Manuel La Serna,0.650,0.637,L
+2026-11-17,Alexis Galarneau,Hynek Barton,0.557,0.561,L
+2026-11-17,Laura Samson,Despina Papamichail,0.819,0.801,W
+2026-11-17,Thiago Seyboth Wild,Nicolas Kicker,0.868,0.845,W
+2026-11-17,Max Hans Rehberg,Shunsuke Mitsui,0.753,0.735,L
+2026-11-17,Max Alcalà Gurri,Oriol Roca Batalla,0.573,0.574,L
+2026-11-17,Joaquin Aguilar Cardozo,Carlos Sanchez Jover,0.737,0.730,L
+2026-11-17,Jordan Lee,Hunter Heck,0.569,0.557,W
+2026-11-17,Omar Jasika,Pavle Marinkov,0.820,0.803,W
+2026-11-17,Jason Kubler,Philip Sekulic,0.687,0.679,L
+2026-11-17,Edward Winter,Enzo Aguiard,0.630,0.612,L
 2026-11-16,Kasidit Samrej,Yuta Tomida,0.776,0.759,W
 2026-11-16,Carlos Alcaraz,Frances Tiafoe,0.905,0.885,W
 2026-11-16,Jay Friend,Mili Poljicak,0.724,0.707,W
