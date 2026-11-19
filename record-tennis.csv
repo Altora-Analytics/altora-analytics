@@ -1,9 +1,18 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-19,Kasidit Samrej,Luca Staeheli,0.611,0.621,W
+2026-11-19,Jay Friend,Rio Noguchi,0.684,0.664,W
+2026-11-19,Keegan Smith,Ben Hassan,0.644,0.635,L
+2026-11-19,Sebastian Gorzny,Moerani Bouzige,0.812,0.794,W
+2026-11-19,Tristan Schoolkate,Alafia Ayeni,0.812,0.793,W
+2026-11-19,Darwin Blanch,Samir Banerjee,0.677,0.645,W
+2026-11-19,Sijia Wei,Varvara Panshina,0.594,0.607,W
 2026-11-18,Zsombor Piros,Alexandre Muller,0.587,0.593,W
 2026-11-18,Nishesh Basavareddy,Daniil Glinka,0.776,0.766,W
 2026-11-18,Hugo Gaston,Philip Henning,0.765,0.724,W
 2026-11-18,Liam Draxl,Keegan Rice,0.719,0.697,W
+2026-11-18,Clement Chidekh,Mikael Arseneault,0.937,0.912,W
 2026-11-18,Carlos Alcaraz,Daniil Medvedev,0.799,0.780,W
+2026-11-18,Frances Tiafoe,Flavio Cobolli,0.531,0.543,W
 2026-11-18,Billy Harris,Koki Matsuda,0.766,0.739,W
 2026-11-18,Yu Hsiou Hsu,David Jorda Sanchis,0.675,0.670,W
 2026-11-18,James Duckworth,Eero Vasa,0.901,0.851,L
@@ -18,10 +27,16 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-18,Jacob Fearnley,Laslo Djere,0.685,0.683,L
 2026-11-18,Granollers/Zeballos,Krawietz/Putz,0.526,0.533,L
 2026-11-18,Harrison/Skupski,Bolelli/Vavassori,0.534,0.553,W
+2026-11-18,Aguilar Cardoz/La Serna,Boscardin Dia/Fernandez,0.588,0.586,L
+2026-11-18,Chopra/Martin,Hopper/Mitsui,0.554,0.553,W
 2026-11-18,Clement Tabur,Inaki Montes-De La Torr,0.670,0.645,L
 2026-11-18,Toby Samuel,Andrea Guerrieri,0.670,0.673,W
+2026-11-18,Oliver Tarvet,Ozan Baris,0.744,0.740,W
+2026-11-18,Florian Broska,Christian Langmo,0.545,0.543,L
 2026-11-18,Dino Prizmic,Filippo Moroni,0.905,0.873,W
+2026-11-18,Lui Maxted,Jack Kennedy,0.631,0.636,W
 2026-11-18,Spencer Johnson,Raphael Perot,0.509,0.535,W
+2026-11-18,Elmer Moller,Gonzalo Bueno,0.629,0.618,W
 2026-11-18,Loes Ebeling Koning,Sarina Schnyder,0.919,0.902,L
 2026-11-18,Selena Janicijevic,Lia Karatancheva,0.588,0.586,L
 2026-11-18,Aurora Zantedeschi,Felitsata Dorofeeva-rybas,0.520,0.514,L
@@ -42,7 +57,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-18,Lola Radivojevic,Mariam Bolkvadze,0.518,0.504,L
 2026-11-18,Nellie Taraba Wallberg,Carlotta Moccia,0.800,0.794,W
 2026-11-18,Suzan Lamens,Lidia Encheva,0.836,0.789,W
+2026-11-18,Shunsuke Mitsui,Aidan Mchugh,0.591,0.601,W
+2026-11-18,Li Tu,Isaac Becroft,0.674,0.651,W
+2026-11-18,Maks Kasnikowski,Duncan Chan,0.701,0.705,L
+2026-11-18,Tristan Boyer,Genaro Alberto Olivieri,0.693,0.671,W
 2026-11-18,Pedro Martinez,Matthew William Donald,0.711,0.675,VOID
+2026-11-18,Nikoloz Basilashvili,Francesco Passaro,0.704,0.663,VOID
 2026-11-18,Jule Niemeier,Giorgia Pedone,0.506,0.512,VOID
 2026-11-17,Dalibor Svrcina,Leo Borg,0.928,0.903,W
 2026-11-17,Benjamin Bonzi,Sascha Gueymard Wayenbu,0.708,0.684,L
