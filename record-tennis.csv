@@ -1,7 +1,11 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-20,Carlos Alcaraz,Flavio Cobolli,0.807,0.803,W
 2026-11-20,Rachel Gailis,Arina Bulatova,0.788,0.765,W
 2026-11-20,Philip Sekulic,Enzo Aguiard,0.711,0.689,W
 2026-11-20,Omar Jasika,Hiroki Moriya,0.722,0.702,W
+2026-11-20,Harrison/Skupski,Granollers/Zeballos,0.563,0.571,W
+2026-11-20,Toby Samuel,Svyatoslav Gulin,0.852,0.821,W
+2026-11-20,Nicolai Budkov Kjaer,Laslo Djere,0.554,0.554,L
 2026-11-20,Carson Tanguilig,Yael Saffar,0.835,0.821,W
 2026-11-20,Liam Broady,Kasidit Samrej,0.715,0.676,W
 2026-11-20,Yi Zhou,Jay Friend,0.517,0.514,L
@@ -10,7 +14,22 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-20,Sebastian Gorzny,Christian Langmo,0.646,0.651,W
 2026-11-20,Tristan Schoolkate,Li Tu,0.700,0.704,L
 2026-11-20,Loof/Uesugi,Hsieh/Smith,0.710,0.709,W
+2026-11-20,Dino Prizmic,Soonwoo Kwon,0.599,0.580,L
+2026-11-20,Nishesh Basavareddy,Edas Butvilas,0.788,0.776,W
+2026-11-20,Otto Virtanen,Dalibor Svrcina,0.586,0.587,W
+2026-11-20,Oliver Tarvet,Spencer Johnson,0.758,0.751,W
+2026-11-20,Elmer Moller,Tristan Boyer,0.544,0.556,W
+2026-11-20,Luca Nardi,Sascha Gueymard Wayenbu,0.601,0.592,L
+2026-11-20,Paul/Vocel,Johnson/Venus,0.600,0.595,L
+2026-11-20,Elizara Yaneva,Mariam Bolkvadze,0.616,0.626,W
+2026-11-20,Greet Minnen,Suzan Lamens,0.610,0.604,W
+2026-11-20,Lucia Bronzetti,Valeriya Strakhova,0.840,0.793,W
+2026-11-20,Harold Mayot,Inaki Montes-De La Torr,0.554,0.561,W
 2026-11-20,Angela Fita Boluda,Giorgia Pedone,0.601,0.617,L
+2026-11-20,Raluca Serban,Giulia Popa,0.642,0.640,L
+2026-11-20,Matilde Jorge,Ada Kumru,0.794,0.787,W
+2026-11-20,Charo Esquiva Banuls,Arantxa Rus,0.519,0.508,L
+2026-11-20,Lea Boskovic,Nellie Taraba Wallberg,0.535,0.563,W
 2026-11-20,Kylie Collins,Dasha Plekhanova,0.733,0.717,VOID
 2026-11-19,Ben Shelton,Rafael Jodar,0.611,0.615,W
 2026-11-19,Ilinca Amariei,Capucine Jauffret,0.754,0.735,L
