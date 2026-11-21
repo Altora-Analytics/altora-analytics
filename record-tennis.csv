@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-21,Aidan Mayo,James Kent Trotter,0.682,0.679,L
+2026-11-21,Jay Friend,Liam Broady,0.510,0.525,L
+2026-11-21,Hanna Chang,Salma Djoubri,0.758,0.738,L
+2026-11-21,Ella McDonald,Victoria Hu,0.791,0.776,L
+2026-11-21,Yosuke Watanuki,Ben Hassan,0.872,0.855,W
 2026-11-20,Carlos Alcaraz,Flavio Cobolli,0.807,0.803,W
 2026-11-20,Rachel Gailis,Arina Bulatova,0.788,0.765,W
 2026-11-20,Philip Sekulic,Enzo Aguiard,0.711,0.689,W
@@ -17,19 +22,31 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-20,Dino Prizmic,Soonwoo Kwon,0.599,0.580,L
 2026-11-20,Nishesh Basavareddy,Edas Butvilas,0.788,0.776,W
 2026-11-20,Otto Virtanen,Dalibor Svrcina,0.586,0.587,W
+2026-11-20,Daniil Medvedev,Frances Tiafoe,0.698,0.691,W
 2026-11-20,Oliver Tarvet,Spencer Johnson,0.758,0.751,W
+2026-11-20,Lui Maxted,Shunsuke Mitsui,0.549,0.564,L
+2026-11-20,Matheus Pucinelli De Al,Felipe Meligeni Alves,0.596,0.605,W
 2026-11-20,Elmer Moller,Tristan Boyer,0.544,0.556,W
+2026-11-20,Rebeka Masarova,Laura Samson,0.503,0.513,W
 2026-11-20,Luca Nardi,Sascha Gueymard Wayenbu,0.601,0.592,L
 2026-11-20,Paul/Vocel,Johnson/Venus,0.600,0.595,L
 2026-11-20,Elizara Yaneva,Mariam Bolkvadze,0.616,0.626,W
 2026-11-20,Greet Minnen,Suzan Lamens,0.610,0.604,W
+2026-11-20,Clement Chidekh,Stefan Kozlov,0.737,0.716,W
+2026-11-20,Bor Artnak,Gavin Young,0.508,0.531,W
 2026-11-20,Lucia Bronzetti,Valeriya Strakhova,0.840,0.793,W
 2026-11-20,Harold Mayot,Inaki Montes-De La Torr,0.554,0.561,W
+2026-11-20,Thiago Seyboth Wild,Oriol Roca Batalla,0.820,0.804,W
 2026-11-20,Angela Fita Boluda,Giorgia Pedone,0.601,0.617,L
 2026-11-20,Raluca Serban,Giulia Popa,0.642,0.640,L
 2026-11-20,Matilde Jorge,Ada Kumru,0.794,0.787,W
 2026-11-20,Charo Esquiva Banuls,Arantxa Rus,0.519,0.508,L
 2026-11-20,Lea Boskovic,Nellie Taraba Wallberg,0.535,0.563,W
+2026-11-20,Harry Wendelken,Jordan Lee,0.584,0.577,L
+2026-11-20,Pierre-Hugues Herbert,Francesco Passaro,0.611,0.602,L
+2026-11-20,Dylan Dietrich,Duncan Chan,0.843,0.807,W
+2026-11-20,Liam Draxl,Darwin Blanch,0.531,0.545,W
+2026-11-20,Guido Ivan Justo,Franco Roncadelli,0.620,0.606,W
 2026-11-20,Kylie Collins,Dasha Plekhanova,0.733,0.717,VOID
 2026-11-19,Ben Shelton,Rafael Jodar,0.611,0.615,W
 2026-11-19,Ilinca Amariei,Capucine Jauffret,0.754,0.735,L
