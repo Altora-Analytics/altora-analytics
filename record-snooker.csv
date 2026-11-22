@@ -1,4 +1,24 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-21,Craig Steadman,Connor Benzey,0.749,0.776,W
+2026-11-21,Gong Chenzhi,Paul Norris,0.969,0.971,W
+2026-11-21,Leone Crowley,Sean OSullivan,0.607,0.584,W
+2026-11-21,Huang Jiahao,Panchaya Channoi,0.852,0.858,W
+2026-11-21,Antoni Kowalski,Ryan Davies,0.692,0.705,W
+2026-11-21,Artemijs Zizins,Yang Liu,0.810,0.830,W
+2026-11-21,Andrew Higginson,Farakh Ajaib,0.678,0.611,L
+2026-11-21,Mateusz Baranowski,Stuart Carrington,0.560,0.553,L
+2026-11-21,Alfie Burden,Mahmoud El Hareedy,0.772,0.830,W
+2026-11-21,Ashley Carty,Bai Yulu,0.684,0.729,W
+2026-11-21,Ka Wai Cheung,Michael Larkov,0.672,0.839,W
+2026-11-21,Zhao Hanyang,On Yee Ng,0.735,0.734,W
+2026-11-21,Ashley Hugill,Aaron Busuttil,0.597,0.870,W
+2026-11-21,Dean Young,Chatchapong Nasa,0.515,0.491,L
+2026-11-21,Julien Leclercq,Phil O'Kane,0.753,0.849,W
+2026-11-21,Mitchell Mann,Deng Haohui,0.595,0.602,L
+2026-11-21,Wang Xinbo,Hammad Miah,0.695,0.728,W
+2026-11-21,Thanawat Tirapongpaiboon,Paul Deaville,0.769,0.771,W
+2026-11-21,Alexander Ursenbacher,Vladislav Gradinari,0.733,0.731,W
+2026-11-21,Daniel Boyes,Reanne Evans,0.573,0.565,L
 2026-11-19,Yuan Sijun,Leone Crowley,0.804,0.793,W
 2026-11-19,Stuart Bingham,Julien Leclercq,0.622,0.629,W
 2026-11-19,Pang Junxu,Jimmy White,0.750,0.744,L
