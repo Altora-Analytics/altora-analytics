@@ -1,4 +1,26 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-22,Florian Nuessle,Sanderson Lam,0.528,0.553,L
+2026-11-22,Jimmy White,Brian Ochoiski,0.621,0.685,W
+2026-11-22,Liam Graham,Mark Lloyd,0.607,0.587,W
+2026-11-22,Oliver Brown,Anton Kazakov,0.621,0.629,L
+2026-11-22,Mark Joyce,Sahil Nayyar,0.703,0.817,W
+2026-11-22,Oliver Sykes,Peter Lines,0.588,0.574,W
+2026-11-22,Neal Jones,Xu Yichen,0.595,0.264,L
+2026-11-22,David Grace,Artemijs Zizins,0.503,0.511,L
+2026-11-22,He Guoqiang,Farakh Ajaib,0.749,0.722,W
+2026-11-22,Jamie Jones,Huang Jiahao,0.635,0.719,W
+2026-11-22,Iulian Boiko,Leone Crowley,0.623,0.607,W
+2026-11-22,Lan Yuhao,Joshua Thomond,0.782,0.719,L
+2026-11-22,Long Zehuang,Antoni Kowalski,0.557,0.583,W
+2026-11-22,Martin O'Donnell,Craig Steadman,0.680,0.646,W
+2026-11-22,Marco Fu,Gong Chenzhi,0.715,0.741,L
+2026-11-22,Jiang Jun,Ka Wai Cheung,0.671,0.599,L
+2026-11-22,Liam Davies,Stuart Carrington,0.729,0.730,W
+2026-11-22,Liu Hongyu,Ashley Hugill,0.619,0.584,W
+2026-11-22,Liam Highfield,Chatchapong Nasa,0.786,0.750,W
+2026-11-22,Lyu Haotian,Ashley Carty,0.650,0.645,W
+2026-11-22,Louis Heathcote,Riley Powell,0.668,0.743,L
+2026-11-22,Matthew Stevens,Alfie Burden,0.535,0.575,L
 2026-11-21,Craig Steadman,Connor Benzey,0.749,0.776,W
 2026-11-21,Gong Chenzhi,Paul Norris,0.969,0.971,W
 2026-11-21,Leone Crowley,Sean OSullivan,0.607,0.584,W
