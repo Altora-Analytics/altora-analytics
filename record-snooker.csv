@@ -1,4 +1,26 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-23,Robbie Williams,Alexander Ursenbacher,0.705,0.733,W
+2026-11-23,Wang Xinbo,Ross Muir,0.688,0.704,W
+2026-11-23,Ricky Walden,Fergal Quinn,0.934,0.937,W
+2026-11-23,Sam Craigie,Julien Leclercq,0.615,0.635,L
+2026-11-23,Luo Zetao,David Lilley,0.524,0.500,W
+2026-11-23,Gao Yang,Reanne Evans,0.909,0.919,W
+2026-11-23,Liam Pullen,Deng Haohui,0.727,0.735,W
+2026-11-23,Jordan Brown,Thanawat Tirapongpaiboon,0.549,0.442,W
+2026-11-23,Oliver Lines,Oliver Sykes,0.620,0.694,L
+2026-11-23,Ben Woollaston,Mark Joyce,0.604,0.580,L
+2026-11-23,Ishpreet Singh Chadha,Sanderson Lam,0.597,0.626,W
+2026-11-23,Dylan Emery,Liam Graham,0.733,0.805,W
+2026-11-23,Scott Donaldson,Anton Kazakov,0.864,0.788,W
+2026-11-23,Ian Burns,Xu Yichen,0.691,0.697,W
+2026-11-23,Matthew Selt,He Guoqiang,0.570,0.560,W
+2026-11-23,Michael Holt,Martin O'Donnell,0.521,0.548,W
+2026-11-23,Jimmy Robertson,Long Zehuang,0.559,0.579,L
+2026-11-23,SI Jiahui,Iulian Boiko,0.706,0.597,W
+2026-11-23,Jak Jones,Joshua Thomond,0.933,0.888,W
+2026-11-23,Joe OConnor,Gong Chenzhi,0.695,0.597,W
+2026-11-23,Noppon Saengkham,Jamie Jones,0.657,0.621,L
+2026-11-23,Elliot Slessor,Artemijs Zizins,0.679,0.659,L
 2026-11-22,Florian Nuessle,Sanderson Lam,0.528,0.553,L
 2026-11-22,Jimmy White,Brian Ochoiski,0.621,0.685,W
 2026-11-22,Liam Graham,Mark Lloyd,0.607,0.587,W
