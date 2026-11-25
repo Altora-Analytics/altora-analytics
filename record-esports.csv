@@ -1,4 +1,9 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-25,heroic,m80,0.600,0.599,L
+2026-11-25,100 thieves,eternal fire,0.574,0.579,L
+2026-11-25,parivision,faze clan,0.523,0.524,W
+2026-11-25,flyquest,imperial,0.507,0.492,W
+2026-11-25,team liquid,ninjas in pyjamas,0.515,0.515,L
 2026-11-24,ninjas in pyjamas,m80,0.537,0.559,W
 2026-11-24,flyquest,eternal fire,0.558,0.447,W
 2026-11-24,liquid,bcgame esports,0.703,0.534,W
