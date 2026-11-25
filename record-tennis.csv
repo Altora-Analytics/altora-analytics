@@ -1,8 +1,13 @@
 date,favourite,opponent,model_prob,market_prob,result
 2026-11-25,Niels Mcdonald,Luca Staeheli,0.552,0.548,L
+2026-11-25,Ichikawa/Shimizu,Jecan/Kielan,0.523,0.531,L
+2026-11-25,Ognjen Milic,Kasidit Samrej,0.603,0.592,W
 2026-11-25,Jung/Rai,Jovanovski/Stevens,0.944,0.914,W
 2026-11-25,Anton Shepp,Moerani Bouzige,0.652,0.639,L
 2026-11-25,Tristan Schoolkate,Blake Ellis,0.761,0.749,W
+2026-11-25,Hibah Shaikh,Polina Leykina,0.750,0.737,W
+2026-11-25,Bianca Barbulescu,Simona Ogescu,0.606,0.593,W
+2026-11-25,Denislava Glushkova,Briana Szabo,0.599,0.612,W
 2026-11-25,Akira Santillan,Christian Langmo,0.554,0.548,VOID
 2026-11-24,Jie Cui,Ben Hassan,0.523,0.532,L
 2026-11-24,Rio Noguchi,Maximus Jones,0.712,0.695,W
