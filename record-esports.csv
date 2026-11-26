@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-26,heroic,faze clan,0.520,0.527,W
+2026-11-26,100 thieves,9z,0.515,0.567,W
+2026-11-26,wildcard,chinggis warriors,0.684,0.678,W
+2026-11-26,imperial,liquid,0.541,0.367,L
+2026-11-26,m80,eternal fire,0.549,0.477,L
+2026-11-26,aurora gaming,gamerlegion,0.507,0.622,L
 2026-11-25,heroic,m80,0.600,0.599,L
 2026-11-25,100 thieves,eternal fire,0.574,0.579,L
 2026-11-25,parivision,faze clan,0.523,0.524,W
