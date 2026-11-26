@@ -1,4 +1,12 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-25,SI Jiahui,Michael Holt,0.575,0.673,L
+2026-11-25,Jak Jones,Matthew Selt,0.666,0.708,L
+2026-11-25,Long Zehuang,Artemijs Zizins,0.524,0.487,L
+2026-11-25,Joe OConnor,Jamie Jones,0.648,0.626,W
+2026-11-25,Zhang Anda,Stan Moody,0.642,0.598,W
+2026-11-25,Fan Zhengyi,Stuart Bingham,0.510,0.497,W
+2026-11-25,Lyu Haotian,Liam Highfield,0.531,0.429,L
+2026-11-25,Tom Ford,Riley Powell,0.700,0.711,W
 2026-11-24,Xu Si,Mark Joyce,0.699,0.685,L
 2026-11-24,Thepchaiya Un-Nooh,Steven Hallworth,0.707,0.716,W
 2026-11-24,Zak Surety,Oliver Sykes,0.638,0.654,W
