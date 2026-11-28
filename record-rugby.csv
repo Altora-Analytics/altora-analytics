@@ -1,4 +1,10 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-27,Agen,Beziers,0.893,0.898,W
+2026-11-27,Colomiers,Nevers,0.912,0.914,W
+2026-11-27,Provence Rugby,Montauban,0.941,0.890,W
+2026-11-27,Grenoble FC,Narbonne,0.600,,W
+2026-11-27,US Oyonnax,US Dax,0.516,,W
+2026-11-27,Valence Romans,Aurillac,0.814,,W
 2026-11-26,CA Brive,Biarritz Olympique,0.878,0.893,W
 2026-11-20,Aurillac,Colomiers,0.649,,W
 2026-11-20,Beziers,US Dax,0.728,,L
