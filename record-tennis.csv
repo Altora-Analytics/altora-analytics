@@ -1,4 +1,8 @@
 date,favourite,opponent,model_prob,market_prob,result
+2026-11-28,Dane Sweeny,Christian Langmo,0.719,0.701,W
+2026-11-28,Katie Swan,Olivia Gadecki,0.591,0.597,W
+2026-11-28,Emerson Jones,Ena Koike,0.776,0.763,W
+2026-11-28,Tristan Schoolkate,Omar Jasika,0.636,0.624,W
 2026-11-27,Tristan Schoolkate,Moerani Bouzige,0.844,0.825,W
 2026-11-27,Matthew Dellavedova,Christian Langmo,0.583,0.572,L
 2026-11-27,Ognjen Milic,Kaichi Uchida,0.606,0.620,L
@@ -20,12 +24,17 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-27,Giorgia Pedone,Lydia Panagiotidou,0.824,0.814,W
 2026-11-27,Martha Matoula,Victoria Allen,0.902,0.877,W
 2026-11-27,Giorgio Tabacco,Yannik Kelm,0.533,0.541,W
+2026-11-27,Franco Roncadelli,Eduardo Ribeiro,0.550,0.555,L
 2026-11-27,Guido Ivan Justo,Igor Marcondes,0.563,0.577,L
+2026-11-27,Julia Riera,Alicia Herrero Linana,0.604,0.615,W
+2026-11-27,Luis Guto Miguel,Blaise Bicknell,0.559,0.571,W
 2026-11-27,Tuncay Duran,Vadym Ursu,0.591,0.595,W
 2026-11-27,Felitsata Dorofeeva-rybas,Lucia Cortez Llorca,0.566,0.576,W
 2026-11-27,Ioannis Xilas,Oleksandr Ovcharenko,0.555,0.567,L
 2026-11-27,Ovcharenko/Whitehouse,Fomin/Krutykh,0.565,0.576,L
 2026-11-27,Felipe Meligeni Alves,Nicolas Zanellato,0.952,0.918,W
+2026-11-27,Juan Manuel La Serna,Genaro Alberto Olivieri,0.533,0.553,W
+2026-11-27,Luis Carlos Alvarez Val,Axel Nefve,0.905,0.842,W
 2026-11-27,Greet Minnen,Jessika Ponchet,0.750,0.744,W
 2026-11-27,Aliona Falei,Clervie Ngounoue,0.507,0.514,W
 2026-11-27,Tessa Johanna Brockmann,Weronika Ewald,0.543,0.550,L
@@ -33,6 +42,12 @@ date,favourite,opponent,model_prob,market_prob,result
 2026-11-27,Suzan Lamens,Elena Malygina,0.707,0.710,W
 2026-11-27,Daria Egorova,Victoria Rodriguez,0.814,0.808,W
 2026-11-27,Darja Semenistaja,Valeriya Strakhova,0.730,0.708,L
+2026-11-27,Miriam Bulgaru,Ruth Roura Llaverias,0.574,0.580,L
+2026-11-27,Lucciana Perez Alarcon,Laura Pigossi,0.626,0.611,W
+2026-11-27,Laura Samson,Varvara Lepchenko,0.764,0.756,L
+2026-11-27,Lucas Andrade Da Silva,Luciano Emanuel Ambrogi,0.692,0.665,W
+2026-11-27,Timo Legout,Samuel Heredia,0.926,0.905,W
+2026-11-27,Carole Monnet,Veronika Erjavec,0.504,0.517,VOID
 2026-11-26,Li Tu,Omar Jasika,0.501,0.494,L
 2026-11-26,Jason Kubler,Carl Emil Overbeck,0.539,0.553,L
 2026-11-26,Hayato Matsuoka,Kokoro Isomura,0.773,0.772,W
